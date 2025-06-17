@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jun 2025 00:02 UTC
-# Version: 2025.0617.0002.53
+# Last modified: 17 Jun 2025 12:09 UTC
+# Version: 2025.0617.1209.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4798
+# Number of entries: 4809
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1352,7 +1352,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1399,6 +1398,7 @@ local=/arashi.eu.org/
 local=/armorrush.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/dns.mayx.eu.org/
+local=/arashi.net.eu.org/
 local=/rammerhead.eu.org/
 local=/sukidayo.eu.org/
 local=/eurproxy.com/
@@ -1745,6 +1745,7 @@ local=/google-public-dns-b.google.com/
 local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/
+local=/performance.gosami.xyz/
 local=/vpn.gosami.xyz/
 local=/gostarlight.xyz/
 local=/fisdinstructure.gotroot.pw/
@@ -2626,7 +2627,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2877,6 +2877,7 @@ local=/onlineproxy.us/
 local=/adguard.onlyfriends.info/
 local=/fun.onlytruelegendscanseethe.pics/
 local=/espanolmath.ontariobsd.net/
+local=/onweb.info/
 local=/onyx7.com/
 local=/benmani2341shark.oops.wtf/
 local=/brocanyoustopaskingforlinks.oops.wtf/
@@ -3064,6 +3065,7 @@ local=/pkproxy.info/
 local=/pkrreaperr.me/
 local=/pktriot.net/
 local=/pkw-aufladen.de/
+local=/placenetworks.com/
 local=/plainproxies.com/
 local=/helios.plan9-dns.com/
 local=/kronos.plan9-dns.com/
@@ -3229,6 +3231,7 @@ local=/proxy-2015.info/
 local=/proxy-best.com/
 local=/proxy-bypass.com/
 local=/proxy-german.de/
+local=/proxy-internet.info/
 local=/proxy-n-vpn.com/
 local=/proxy-search.com/
 local=/proxy-seller.com/
@@ -3271,6 +3274,7 @@ local=/proxygizlen.com/
 local=/proxygogo.info/
 local=/proxyhash.net/
 local=/proxyhub.in/
+local=/proxyisp.com/
 local=/proxyist.com/
 local=/proxyium.com/
 local=/proxyium.org/
@@ -3390,6 +3394,7 @@ local=/ra4wvpn.com/
 local=/dns.rabbitdns.org/
 local=/family.rabbitdns.org/
 local=/security.rabbitdns.org/
+local=/rabbithole.site/
 local=/racevpn.com/
 local=/dns.api.rackspacecloud.com/
 local=/boxcat.radio-zvez.info/
@@ -3473,6 +3478,7 @@ local=/dns.roedel.cloud/
 local=/romirely.tech/
 local=/dns.ronc.ru/
 local=/roodel.com/
+local=/roogen.com/
 local=/roonyx.com/
 local=/helpmeget.root.sx/
 local=/jaiguneeds.root.sx/
@@ -3522,6 +3528,7 @@ local=/safetysurf.net/
 local=/safeunblock.com/
 local=/safing.io/
 local=/vpn.sakhwow.ru/
+local=/samj.codes/
 local=/cloud.samutz.com/
 local=/sandmining.us/
 local=/sandparticles.us/
@@ -3722,6 +3729,7 @@ local=/area.level.southtrestle.com/
 local=/spacedns.org/
 local=/scienceandmore.spacetechnology.net/
 local=/spacevpn.io/
+local=/spanish101.college/
 local=/sparklabs.com/
 local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
@@ -3780,6 +3788,7 @@ local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu2-browse.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
@@ -3889,6 +3898,8 @@ local=/swissvpn.net/
 local=/switch.ch/
 local=/switchvpn.com/
 local=/switchvpn.net/
+local=/swordvpn.com/
+local=/swoshsvpn.com/
 local=/dns.sy.st/
 local=/nexsos.syac.ca/
 local=/dns.syaifullah.com/

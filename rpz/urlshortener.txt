@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750113900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750157280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jun 2025 22:45 UTC
-; Version: 2025.0616.2245.12
+; Last modified: 17 Jun 2025 10:48 UTC
+; Version: 2025.0617.1048.26
 ; Syntax: RPZ
-; Number of entries: 11868
+; Number of entries: 11900
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2850,6 +2850,8 @@ rsmonkey.com CNAME .
 *.rsmonkey.com CNAME .
 rtvote.com CNAME .
 *.rtvote.com CNAME .
+goo-gl.ru.com CNAME .
+*.goo-gl.ru.com CNAME .
 rupilinks.com CNAME .
 *.rupilinks.com CNAME .
 ruplink.com CNAME .
@@ -3068,6 +3070,8 @@ swiftation.com CNAME .
 *.swiftation.com CNAME .
 swifttopia.com CNAME .
 *.swifttopia.com CNAME .
+swsupt.com CNAME .
+*.swsupt.com CNAME .
 sydkings.com CNAME .
 *.sydkings.com CNAME .
 t-iny.com CNAME .
@@ -3602,6 +3606,8 @@ zwfmr.com CNAME .
 *.zwfmr.com CNAME .
 zzlinks.com CNAME .
 *.zzlinks.com CNAME .
+ops.consulting CNAME .
+*.ops.consulting CNAME .
 bp.cool CNAME .
 *.bp.cool CNAME .
 i.mtr.cool CNAME .
@@ -3782,6 +3788,8 @@ qrco.de CNAME .
 *.qrco.de CNAME .
 s04.de CNAME .
 *.s04.de CNAME .
+shortma.de CNAME .
+*.shortma.de CNAME .
 shrtco.de CNAME .
 *.shrtco.de CNAME .
 sikk.de CNAME .
@@ -4054,6 +4062,8 @@ linkshort.eu CNAME .
 *.linkshort.eu CNAME .
 shortenurls.eu CNAME .
 *.shortenurls.eu CNAME .
+shtlink.eu CNAME .
+*.shtlink.eu CNAME .
 url4.eu CNAME .
 *.url4.eu CNAME .
 urls-shortener.eu CNAME .
@@ -5156,6 +5166,8 @@ mgwp2024.info CNAME .
 *.mgwp2024.info CNAME .
 miss-m-216.info CNAME .
 *.miss-m-216.info CNAME .
+mojidul24.info CNAME .
+*.mojidul24.info CNAME .
 monidentie.info CNAME .
 *.monidentie.info CNAME .
 morimo.info CNAME .
@@ -5188,6 +5200,8 @@ okachi.info CNAME .
 *.okachi.info CNAME .
 pbzl.info CNAME .
 *.pbzl.info CNAME .
+pferrer15.info CNAME .
+*.pferrer15.info CNAME .
 pldthome.info CNAME .
 *.pldthome.info CNAME .
 pmcccssa.info CNAME .
@@ -5518,6 +5532,8 @@ shareus.io CNAME .
 *.shareus.io CNAME .
 shlink.io CNAME .
 *.shlink.io CNAME .
+shme.io CNAME .
+*.shme.io CNAME .
 shoort.io CNAME .
 *.shoort.io CNAME .
 short.io CNAME .
@@ -5684,6 +5700,8 @@ nnn.is CNAME .
 *.nnn.is CNAME .
 go.nowth.is CNAME .
 *.go.nowth.is CNAME .
+past.is CNAME .
+*.past.is CNAME .
 pros.is CNAME .
 *.pros.is CNAME .
 pse.is CNAME .
@@ -6238,6 +6256,8 @@ disanspam.life CNAME .
 *.disanspam.life CNAME .
 divestiture.life CNAME .
 *.divestiture.life CNAME .
+docusignredirectsharepoint.life CNAME .
+*.docusignredirectsharepoint.life CNAME .
 dominguez-nieves-71.life CNAME .
 *.dominguez-nieves-71.life CNAME .
 dr-lisa.life CNAME .
@@ -6474,6 +6494,8 @@ ogle-wolfe.life CNAME .
 *.ogle-wolfe.life CNAME .
 okachi.life CNAME .
 *.okachi.life CNAME .
+onelovepalmbeaches.life CNAME .
+*.onelovepalmbeaches.life CNAME .
 onlinekassirjessica.life CNAME .
 *.onlinekassirjessica.life CNAME .
 pancitkantonan.life CNAME .
@@ -6482,6 +6504,8 @@ partyspecial.life CNAME .
 *.partyspecial.life CNAME .
 pav-lobe-z-rod-ny-8611.life CNAME .
 *.pav-lobe-z-rod-ny-8611.life CNAME .
+pdp.life CNAME .
+*.pdp.life CNAME .
 phimchualanh.life CNAME .
 *.phimchualanh.life CNAME .
 phimvietsub.life CNAME .
@@ -7218,6 +7242,8 @@ megawatts.live CNAME .
 *.megawatts.live CNAME .
 meinor.live CNAME .
 *.meinor.live CNAME .
+meliodaslonesita.live CNAME .
+*.meliodaslonesita.live CNAME .
 menofleather.live CNAME .
 *.menofleather.live CNAME .
 mikepir84.live CNAME .
@@ -7376,6 +7402,8 @@ soegyi.live CNAME .
 *.soegyi.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
+startupperks.live CNAME .
+*.startupperks.live CNAME .
 sumpahdokteruph52.live CNAME .
 *.sumpahdokteruph52.live CNAME .
 supporticket231.live CNAME .
@@ -10174,10 +10202,14 @@ mst.site CNAME .
 *.mst.site CNAME .
 paids.site CNAME .
 *.paids.site CNAME .
+play-app.site CNAME .
+*.play-app.site CNAME .
 promo-visits.site CNAME .
 *.promo-visits.site CNAME .
 rajamahjong.site CNAME .
 *.rajamahjong.site CNAME .
+reive.site CNAME .
+*.reive.site CNAME .
 sdr168.site CNAME .
 *.sdr168.site CNAME .
 shrturl.site CNAME .
