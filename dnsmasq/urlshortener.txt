@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jun 2025 22:42 UTC
-# Version: 2025.0617.2242.54
+# Last modified: 18 Jun 2025 10:43 UTC
+# Version: 2025.0618.1043.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5968
+# Number of entries: 5972
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2625,8 +2625,10 @@ local=/l-i-nk.me/
 local=/l-ink.me/
 local=/l-k.be/
 local=/l00p.eu/
+local=/l138.co/
 local=/l24.im/
 local=/l2f.ca/
+local=/l338.co/
 local=/l8.nu/
 local=/l8r.it/
 local=/l9.fr/
@@ -2815,6 +2817,7 @@ local=/linkshrink.org/
 local=/linksimples.com/
 local=/linksubmit.net/
 local=/linksy.io/
+local=/linktexas.info/
 local=/linkthis.link/
 local=/linktop.site/
 local=/linktr.ee/
@@ -3522,6 +3525,7 @@ local=/onlineclothes.live/
 local=/onlinekassirjessica.life/
 local=/onlyfansamairanidiaz.live/
 local=/onlyfanscaycoleman.live/
+local=/onlyfansclub.live/
 local=/onon.in/
 local=/onx.la/
 local=/oo0oo.icu/

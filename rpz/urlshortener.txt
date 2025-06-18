@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750200120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750243380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Jun 2025 22:42 UTC
-; Version: 2025.0617.2242.54
+; Last modified: 18 Jun 2025 10:43 UTC
+; Version: 2025.0618.1043.47
 ; Syntax: RPZ
-; Number of entries: 11936
+; Number of entries: 11944
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1220,6 +1220,10 @@ kiacat.co CNAME .
 *.kiacat.co CNAME .
 kirr.co CNAME .
 *.kirr.co CNAME .
+l138.co CNAME .
+*.l138.co CNAME .
+l338.co CNAME .
+*.l338.co CNAME .
 lc-s.co CNAME .
 *.lc-s.co CNAME .
 lincat.co CNAME .
@@ -5164,6 +5168,8 @@ linkedinjobmkt.info CNAME .
 *.linkedinjobmkt.info CNAME .
 linkgacor33.info CNAME .
 *.linkgacor33.info CNAME .
+linktexas.info CNAME .
+*.linktexas.info CNAME .
 lit-bin-ny-65.info CNAME .
 *.lit-bin-ny-65.info CNAME .
 llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
@@ -7326,6 +7332,8 @@ onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
 onlyfanscaycoleman.live CNAME .
 *.onlyfanscaycoleman.live CNAME .
+onlyfansclub.live CNAME .
+*.onlyfansclub.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jun 2025 23:56 UTC
-# Version: 2025.0617.2356.08
+# Last modified: 18 Jun 2025 11:55 UTC
+# Version: 2025.0618.1155.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10166
+# Number of entries: 10167
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4369,6 +4369,7 @@ local=/horriblesubs.info/
 local=/horriblesubs.pro/
 local=/hostapk.com/
 local=/v1046920.hosted-by-vdsina.ru/
+local=/v74853.hosted-by-vdsina.com/
 local=/webstresser-free.hostthegame.com/
 local=/hotaudiobooks.com/
 local=/hotcamsplays.life/
