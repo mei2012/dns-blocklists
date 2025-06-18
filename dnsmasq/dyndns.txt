@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jun 2025 12:07 UTC
-# Version: 2025.0616.1207.52
+# Last modified: 18 Jun 2025 00:00 UTC
+# Version: 2025.0618.0000.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1482
+# Number of entries: 1483
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1476,6 +1476,7 @@ local=/yiff.fi/
 local=/yngling.com/
 local=/youdontcare.com/
 local=/youpc.ro/
+local=/yourspecialtee.com/
 local=/yourtrap.com/
 local=/z0d.eu/
 local=/z86.ru/

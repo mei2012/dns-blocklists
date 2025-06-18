@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750157280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750200120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 17 Jun 2025 10:48 UTC
-; Version: 2025.0617.1048.26
+; Last modified: 17 Jun 2025 22:42 UTC
+; Version: 2025.0617.2242.54
 ; Syntax: RPZ
-; Number of entries: 11900
+; Number of entries: 11936
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -794,6 +794,8 @@ vtu.cc CNAME .
 *.vtu.cc CNAME .
 webz.cc CNAME .
 *.webz.cc CNAME .
+whts.cc CNAME .
+*.whts.cc CNAME .
 xzb.cc CNAME .
 *.xzb.cc CNAME .
 oe.cd CNAME .
@@ -2382,8 +2384,12 @@ linkcutt.com CNAME .
 *.linkcutt.com CNAME .
 linkedin-jobmkt.com CNAME .
 *.linkedin-jobmkt.com CNAME .
+linkedinmkt.com CNAME .
+*.linkedinmkt.com CNAME .
 linkexpander.com CNAME .
 *.linkexpander.com CNAME .
+linkezurl.com CNAME .
+*.linkezurl.com CNAME .
 linkfat.com CNAME .
 *.linkfat.com CNAME .
 linkfuly.com CNAME .
@@ -2396,6 +2402,8 @@ linkiti.com CNAME .
 *.linkiti.com CNAME .
 linkjust.com CNAME .
 *.linkjust.com CNAME .
+linklada.com CNAME .
+*.linklada.com CNAME .
 linklyhq.com CNAME .
 *.linklyhq.com CNAME .
 linkmonet.com CNAME .
@@ -3186,6 +3194,8 @@ traffbe.com CNAME .
 *.traffbe.com CNAME .
 trafget.com CNAME .
 *.trafget.com CNAME .
+trim-url.com CNAME .
+*.trim-url.com CNAME .
 troasters.com CNAME .
 *.troasters.com CNAME .
 trunkateurl.com CNAME .
@@ -3308,6 +3318,8 @@ urlshortenervip.com CNAME .
 *.urlshortenervip.com CNAME .
 urlshortly.com CNAME .
 *.urlshortly.com CNAME .
+urlshortnerpassive.com CNAME .
+*.urlshortnerpassive.com CNAME .
 urlshortx.com CNAME .
 *.urlshortx.com CNAME .
 urlsmall.com CNAME .
@@ -4704,6 +4716,8 @@ tny.im CNAME .
 *.tny.im CNAME .
 tr.im CNAME .
 *.tr.im CNAME .
+valv.im CNAME .
+*.valv.im CNAME .
 vats.im CNAME .
 *.vats.im CNAME .
 yap.im CNAME .
@@ -5146,6 +5160,8 @@ lameutefrance.info CNAME .
 *.lameutefrance.info CNAME .
 lihat.info CNAME .
 *.lihat.info CNAME .
+linkedinjobmkt.info CNAME .
+*.linkedinjobmkt.info CNAME .
 linkgacor33.info CNAME .
 *.linkgacor33.info CNAME .
 lit-bin-ny-65.info CNAME .
@@ -5276,6 +5292,8 @@ worldcinema.info CNAME .
 *.worldcinema.info CNAME .
 xbig.info CNAME .
 *.xbig.info CNAME .
+xwq.info CNAME .
+*.xwq.info CNAME .
 ybhd.info CNAME .
 *.ybhd.info CNAME .
 yourls.info CNAME .
@@ -5670,6 +5688,8 @@ yourl.ir CNAME .
 *.yourl.ir CNAME .
 yun.ir CNAME .
 *.yun.ir CNAME .
+zeek.ir CNAME .
+*.zeek.ir CNAME .
 zurl.ir CNAME .
 *.zurl.ir CNAME .
 0i.is CNAME .
@@ -6404,6 +6424,8 @@ man-virgil-l-4057.life CNAME .
 *.man-virgil-l-4057.life CNAME .
 math-sm-9075.life CNAME .
 *.math-sm-9075.life CNAME .
+matten1.life CNAME .
+*.matten1.life CNAME .
 mattsuuii.life CNAME .
 *.mattsuuii.life CNAME .
 melbetcom.life CNAME .
@@ -7214,6 +7236,12 @@ lilyfreeonlyfans.live CNAME .
 *.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
 *.limiteds.live CNAME .
+linkedinbraniluca.live CNAME .
+*.linkedinbraniluca.live CNAME .
+linkedins.live CNAME .
+*.linkedins.live CNAME .
+linkins.live CNAME .
+*.linkins.live CNAME .
 linkmpomax.live CNAME .
 *.linkmpomax.live CNAME .
 linkotw.live CNAME .
@@ -7274,6 +7302,8 @@ neoyoyo33ofc.live CNAME .
 *.neoyoyo33ofc.live CNAME .
 newrich.live CNAME .
 *.newrich.live CNAME .
+nobitaxx.live CNAME .
+*.nobitaxx.live CNAME .
 noelmagada.live CNAME .
 *.noelmagada.live CNAME .
 nofnec.live CNAME .
@@ -10132,6 +10162,8 @@ djarum88.shop CNAME .
 *.djarum88.shop CNAME .
 indahnyaberbagi.shop CNAME .
 *.indahnyaberbagi.shop CNAME .
+linkgacorr88.shop CNAME .
+*.linkgacorr88.shop CNAME .
 oneany.shop CNAME .
 *.oneany.shop CNAME .
 3x.si CNAME .
@@ -11234,6 +11266,8 @@ man.ac.uk CNAME .
 *.man.ac.uk CNAME .
 jetzt.bekservice.co.uk CNAME .
 *.jetzt.bekservice.co.uk CNAME .
+loves2sex.co.uk CNAME .
+*.loves2sex.co.uk CNAME .
 ourmagazines.co.uk CNAME .
 *.ourmagazines.co.uk CNAME .
 p-it.co.uk CNAME .
@@ -11896,6 +11930,8 @@ tny.xyz CNAME .
 *.tny.xyz CNAME .
 trackpw.xyz CNAME .
 *.trackpw.xyz CNAME .
+trisula88short.xyz CNAME .
+*.trisula88short.xyz CNAME .
 trpd.xyz CNAME .
 *.trpd.xyz CNAME .
 url-s.xyz CNAME .
