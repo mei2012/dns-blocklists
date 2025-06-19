@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750291260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750334520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jun 2025 00:01 UTC
-; Version: 2025.0619.0001.35
+; Last modified: 19 Jun 2025 12:02 UTC
+; Version: 2025.0619.1202.04
 ; Syntax: RPZ
-; Number of entries: 20346
+; Number of entries: 20358
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -767,6 +767,8 @@ futebolaovivogratis.com.br CNAME .
 *.futebolaovivogratis.com.br CNAME .
 hox.com.br CNAME .
 *.hox.com.br CNAME .
+multicanais.com.br CNAME .
+*.multicanais.com.br CNAME .
 www.nartlof.com.br CNAME .
 *.www.nartlof.com.br CNAME .
 smartflixhd.com.br CNAME .
@@ -8987,8 +8989,14 @@ altadefinizione01.icu CNAME .
 *.altadefinizione01.icu CNAME .
 willow.arlen.icu CNAME .
 *.willow.arlen.icu CNAME .
+tr-rh-zhuqiy.dgj055.icu CNAME .
+*.tr-rh-zhuqiy.dgj055.icu CNAME .
+tr-zhuqiy-1.dgj055.icu CNAME .
+*.tr-zhuqiy-1.dgj055.icu CNAME .
 tracker-zhuqiy.dgj055.icu CNAME .
 *.tracker-zhuqiy.dgj055.icu CNAME .
+trl-zhuqiy.dgj055.icu CNAME .
+*.trl-zhuqiy.dgj055.icu CNAME .
 tracker.zhuqiy.dgj055.icu CNAME .
 *.tracker.zhuqiy.dgj055.icu CNAME .
 ilgeniodellostreaming.icu CNAME .
@@ -12029,6 +12037,8 @@ cm.dfnbd.net CNAME .
 *.cm.dfnbd.net CNAME .
 em.dfnbd.net CNAME .
 *.em.dfnbd.net CNAME .
+srl.dfnbd.net CNAME .
+*.srl.dfnbd.net CNAME .
 tube.dfnbd.net CNAME .
 *.tube.dfnbd.net CNAME .
 tv.dfnbd.net CNAME .
@@ -14397,6 +14407,8 @@ thinking.duckdns.org CNAME .
 *.thinking.duckdns.org CNAME .
 tr4ck3r.duckdns.org CNAME .
 *.tr4ck3r.duckdns.org CNAME .
+dummipedia.org CNAME .
+*.dummipedia.org CNAME .
 dutchrevenge.org CNAME .
 *.dutchrevenge.org CNAME .
 dvdseed.org CNAME .

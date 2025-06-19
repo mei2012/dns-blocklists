@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2025 00:01 UTC
-# Version: 2025.0619.0001.35
+# Last modified: 19 Jun 2025 12:02 UTC
+# Version: 2025.0619.1202.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10173
+# Number of entries: 10179
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2048,6 +2048,7 @@ local=/kissanime.com.ru/
 local=/kloud.com.bd/
 local=/moddroid.com.co/
 local=/movies-watch.com.pk/
+local=/multicanais.com.br/
 local=/nagordola.com.bd/
 local=/www.nartlof.com.br/
 local=/netpoint.com.bd/
@@ -2476,11 +2477,15 @@ local=/bm.dfnbd.net/
 local=/bn.dfnbd.net/
 local=/cm.dfnbd.net/
 local=/em.dfnbd.net/
+local=/srl.dfnbd.net/
 local=/tube.dfnbd.net/
 local=/tv.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
+local=/tr-rh-zhuqiy.dgj055.icu/
+local=/tr-zhuqiy-1.dgj055.icu/
 local=/tracker-zhuqiy.dgj055.icu/
+local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakaftp.com/
 local=/dhakaiptv.com/
@@ -2725,6 +2730,7 @@ local=/tr4ck3r.duckdns.org/
 local=/tracker.ducks.party/
 local=/duckwad.net/
 local=/dudestream.com/
+local=/dummipedia.org/
 local=/tracker.dump.cl/
 local=/dunia21.app/
 local=/dunia21.bid/
