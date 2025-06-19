@@ -129,9 +129,6 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/stalkerware/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
 https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/huawei.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/lg.txt
-https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/unsafe.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt

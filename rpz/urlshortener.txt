@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750243380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750286820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Jun 2025 10:43 UTC
-; Version: 2025.0618.1043.47
+; Last modified: 18 Jun 2025 22:47 UTC
+; Version: 2025.0618.2247.33
 ; Syntax: RPZ
-; Number of entries: 11944
+; Number of entries: 11948
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -394,6 +394,8 @@ bee4.biz CNAME .
 *.bee4.biz CNAME .
 benqurl.biz CNAME .
 *.benqurl.biz CNAME .
+boshoki.biz CNAME .
+*.boshoki.biz CNAME .
 credicard.biz CNAME .
 *.credicard.biz CNAME .
 gacora.biz CNAME .
@@ -1688,6 +1690,8 @@ baixeapk.com CNAME .
 *.baixeapk.com CNAME .
 bamaccoin.com CNAME .
 *.bamaccoin.com CNAME .
+banaccroblox.com CNAME .
+*.banaccroblox.com CNAME .
 barsoocm.com CNAME .
 *.barsoocm.com CNAME .
 bayarcuan.com CNAME .
@@ -7228,6 +7232,8 @@ jp2455jp99999.live CNAME .
 *.jp2455jp99999.live CNAME .
 jxxl.live CNAME .
 *.jxxl.live CNAME .
+kajtech.live CNAME .
+*.kajtech.live CNAME .
 kapitalbank.live CNAME .
 *.kapitalbank.live CNAME .
 karaoke4kids.live CNAME .
@@ -8194,8 +8200,6 @@ suoc.me CNAME .
 *.suoc.me CNAME .
 surl.me CNAME .
 *.surl.me CNAME .
-t.me CNAME .
-*.t.me CNAME .
 teleko.me CNAME .
 *.teleko.me CNAME .
 tharp.me CNAME .

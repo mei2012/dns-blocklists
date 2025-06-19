@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jun 2025 10:43 UTC
-# Version: 2025.0618.1043.47
+# Last modified: 18 Jun 2025 22:47 UTC
+# Version: 2025.0618.2247.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5972
+# Number of entries: 5974
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -636,6 +636,7 @@ local=/baid.us/
 local=/baixeapk.com/
 local=/balls.no/
 local=/bamaccoin.com/
+local=/banaccroblox.com/
 local=/baratun.de/
 local=/barbenady.live/
 local=/barbieclothingcloset.live/
@@ -829,6 +830,7 @@ local=/boqzl.com/
 local=/bordonet.info/
 local=/bos.ngo/
 local=/bose.life/
+local=/boshoki.biz/
 local=/boston25.com/
 local=/bot.fi/
 local=/botemoda.com/
@@ -2482,6 +2484,7 @@ local=/kabuzzle.com/
 local=/kaggi-karr.life/
 local=/kagk.top/
 local=/kaitect.com/
+local=/kajtech.live/
 local=/kaleysupport.life/
 local=/kand18.com/
 local=/kaos.link/
@@ -4715,7 +4718,6 @@ local=/t.cn/
 local=/t.co/
 local=/t.im/
 local=/t.ly/
-local=/t.me/
 local=/t.mr/
 local=/t.tl/
 local=/t-bi.link/
