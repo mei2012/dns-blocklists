@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750334520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750361940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jun 2025 12:02 UTC
-; Version: 2025.0619.1202.04
+; Last modified: 19 Jun 2025 19:39 UTC
+; Version: 2025.0619.1939.03
 ; Syntax: RPZ
 ; Number of entries: 20358
 ;
@@ -1605,6 +1605,8 @@ futbolonlinetv.club CNAME .
 *.futbolonlinetv.club CNAME .
 guardaserie.club CNAME .
 *.guardaserie.club CNAME .
+tracker.halfchub.club CNAME .
+*.tracker.halfchub.club CNAME .
 tracker.hdarea.club CNAME .
 *.tracker.hdarea.club CNAME .
 tracker.hdatmos.club CNAME .
@@ -3899,6 +3901,8 @@ ffh4xapks.com CNAME .
 *.ffh4xapks.com CNAME .
 fiberstresser.com CNAME .
 *.fiberstresser.com CNAME .
+fidigger.com CNAME .
+*.fidigger.com CNAME .
 file4safe.com CNAME .
 *.file4safe.com CNAME .
 filecatch.com CNAME .
@@ -6343,8 +6347,6 @@ simplestorrent.com CNAME .
 *.simplestorrent.com CNAME .
 simpsonitos.com CNAME .
 *.simpsonitos.com CNAME .
-sindresorhus.com CNAME .
-*.sindresorhus.com CNAME .
 sisbdisp.com CNAME .
 *.sisbdisp.com CNAME .
 wawacity2.site-de-streaming.com CNAME .
@@ -8005,8 +8007,6 @@ stiftung-imai.de CNAME .
 *.stiftung-imai.de CNAME .
 streamingcommunity.de CNAME .
 *.streamingcommunity.de CNAME .
-studyflix.de CNAME .
-*.studyflix.de CNAME .
 throughput.de CNAME .
 *.throughput.de CNAME .
 torrent-hitz.de CNAME .

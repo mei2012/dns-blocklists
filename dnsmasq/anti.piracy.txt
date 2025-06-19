@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2025 12:02 UTC
-# Version: 2025.0619.1202.04
+# Last modified: 19 Jun 2025 19:39 UTC
+# Version: 2025.0619.1939.03
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10179
 #
@@ -3193,6 +3193,7 @@ local=/ffmovies.ws/
 local=/fiberlink.eu/
 local=/fiberstresser.com/
 local=/fiberx.me/
+local=/fidigger.com/
 local=/file.al/
 local=/file.lu/
 local=/file.lv/
@@ -4169,6 +4170,7 @@ local=/haikyuu.top/
 local=/haitou.org/
 local=/hakuneko.download/
 local=/hakwara.com/
+local=/tracker.halfchub.club/
 local=/halum.net/
 local=/torrent-tracker.hama3.net/
 local=/tracker.hama3.net/
@@ -7650,7 +7652,6 @@ local=/simplywatch.tv/
 local=/simpsonai.tv/
 local=/simpsonitos.com/
 local=/simpsonsua.tv/
-local=/sindresorhus.com/
 local=/sinister.ly/
 local=/sisbdisp.com/
 local=/wawacity2.site-de-streaming.com/
@@ -8153,7 +8154,6 @@ local=/strimsy.top/
 local=/strumyk.tv/
 local=/stuckgamer.com/
 local=/studentsharez.com/
-local=/studyflix.de/
 local=/su-data.com/
 local=/warez.sub-france.com/
 local=/subsplease.org/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jun 2025 23:02 UTC
-# Version: 2025.0613.2302.38
+# Last modified: 19 Jun 2025 14:23 UTC
+# Version: 2025.0619.1423.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 782
+# Number of entries: 786
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -350,6 +350,7 @@ nirvana.bingads.microsoft.com
 preview-services.bingads.microsoft.com
 reportingapi.bingads.microsoft.com
 sandbox.bingads.microsoft.com
+adinsight.api.sandbox.bingads.microsoft.com
 bulk.api.sandbox.bingads.microsoft.com
 campaign.api.sandbox.bingads.microsoft.com
 clientcenter.api.sandbox.bingads.microsoft.com
@@ -444,8 +445,6 @@ api.edgeoffer.microsoft.com
 adsdisplay.glbdns2.microsoft.com
 aisefs.adsdisplay.glbdns2.microsoft.com
 bingads.glbdns2.microsoft.com
-beta.bingads.glbdns2.microsoft.com
-internal.beta.bingads.glbdns2.microsoft.com
 si.bingads.glbdns2.microsoft.com
 ieonline.microsoft.com
 location.microsoft.com
@@ -614,6 +613,11 @@ logging.diagnostics.office.com
 msa.diagnostics.office.com
 api.msa.diagnostics.office.com
 supportexperience.diagnostics.office.com
+diagnostics-eudb.office.com
+api.diagnostics-eudb.office.com
+entitlement.diagnostics-eudb.office.com
+incidents.diagnostics-eudb.office.com
+logging.diagnostics-eudb.office.com
 measure.office.com
 measure.office.net
 fp.measure.office.com
