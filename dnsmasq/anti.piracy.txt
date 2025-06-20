@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2025 19:39 UTC
-# Version: 2025.0619.1939.03
+# Last modified: 20 Jun 2025 12:02 UTC
+# Version: 2025.0620.1202.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10179
+# Number of entries: 10184
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2484,6 +2484,7 @@ local=/dfox.it/
 local=/mixes.dfx.at/
 local=/tr-rh-zhuqiy.dgj055.icu/
 local=/tr-zhuqiy-1.dgj055.icu/
+local=/tr-zhuqiy-2.dgj055.icu/
 local=/tracker-zhuqiy.dgj055.icu/
 local=/trl-zhuqiy.dgj055.icu/
 local=/tracker.zhuqiy.dgj055.icu/
@@ -4341,7 +4342,6 @@ local=/hikarinoakariost.info/
 local=/torrents.hikarinokiseki.com/
 local=/hikaritv.xyz/
 local=/himovies.sx/
-local=/himovies.to/
 local=/himovies.tv/
 local=/hindilinks4u.io/
 local=/hindilinks4u.to/
@@ -5726,6 +5726,7 @@ local=/moviepoka.com/
 local=/movieroom.is/
 local=/movierot.com/
 local=/movierr.online/
+local=/movierr.site/
 local=/movierulzhd.gold/
 local=/movies.cab/
 local=/movies-d.com/
@@ -5873,6 +5874,7 @@ local=/mtbsl.com/
 local=/muchshare.net/
 local=/muhammadniaz.net/
 local=/multi-torrent.ru/
+local=/multiapkclub.com/
 local=/multicanais.cl/
 local=/multicanais.com/
 local=/multicanais.fans/
@@ -6021,6 +6023,7 @@ local=/neoboard.org/
 local=/kpgtorrent.neocities.org/
 local=/nepu.to/
 local=/nerealus.lt/
+local=/download.nerocloud.me/
 local=/fcpic.nesbbs.com/
 local=/nesfiles.com/
 local=/cnc.net.bd/
@@ -6144,6 +6147,7 @@ local=/nhlstreams.to/
 local=/h4.trakx.nibba.trade/
 local=/nicemoviezion.pro/
 local=/nicoblog.org/
+local=/nightmarestresser.com/
 local=/niktu.com/
 local=/nima4k.org/
 local=/nineoneone.nl/
@@ -6292,6 +6296,7 @@ local=/nyaa.si/
 local=/tracker.nyaa.uk/
 local=/nyaatorrents.info/
 local=/nyaatorrents.org/
+local=/t.nyaatracker.com/
 local=/tr.nyacat.pw/
 local=/nyafilmer.lol/
 local=/nyafilmer.vip/
@@ -6465,6 +6470,7 @@ local=/cah4e3.shedevr.org.ru/
 local=/sport-video.org.ua/
 local=/tracker.swateam.org.uk/
 local=/torrent.org.cn/
+local=/tvunderground.org.ru/
 local=/vega.org.uk/
 local=/orion.si/
 local=/orionoid.com/
@@ -8470,7 +8476,6 @@ local=/thepiratebay1.top/
 local=/thepiratebay10.org/
 local=/thepiratebay11.org/
 local=/thepiratebay2.to/
-local=/thepiratebay3.org/
 local=/thepiratebay3.to/
 local=/thepiratebay9.info/
 local=/thepiratebay9.net/

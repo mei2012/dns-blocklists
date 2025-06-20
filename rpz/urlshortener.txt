@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750357320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750416300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jun 2025 18:22 UTC
-; Version: 2025.0619.1822.33
+; Last modified: 20 Jun 2025 10:45 UTC
+; Version: 2025.0620.1045.46
 ; Syntax: RPZ
-; Number of entries: 11958
+; Number of entries: 11982
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6468,6 +6468,20 @@ mom-one-z-1991.life CNAME .
 *.mom-one-z-1991.life CNAME .
 momonez1991site.life CNAME .
 *.momonez1991site.life CNAME .
+monghaiba.life CNAME .
+*.monghaiba.life CNAME .
+monghaihai.life CNAME .
+*.monghaihai.life CNAME .
+monghainam.life CNAME .
+*.monghainam.life CNAME .
+mongmuoiba.life CNAME .
+*.mongmuoiba.life CNAME .
+mongmuoichin.life CNAME .
+*.mongmuoichin.life CNAME .
+mongmuoinam.life CNAME .
+*.mongmuoinam.life CNAME .
+mongmuoisau.life CNAME .
+*.mongmuoisau.life CNAME .
 mono-gog-o.life CNAME .
 *.mono-gog-o.life CNAME .
 monteiro-run-ckxmmvr-9829.life CNAME .
@@ -7306,6 +7320,16 @@ moklotz.live CNAME .
 *.moklotz.live CNAME .
 momonez1991.live CNAME .
 *.momonez1991.live CNAME .
+monghaibon.live CNAME .
+*.monghaibon.live CNAME .
+monghaimuoi.live CNAME .
+*.monghaimuoi.live CNAME .
+mongmuoibay.live CNAME .
+*.mongmuoibay.live CNAME .
+mongmuoibon.live CNAME .
+*.mongmuoibon.live CNAME .
+mongmuoitam.live CNAME .
+*.mongmuoitam.live CNAME .
 motphimz.live CNAME .
 *.motphimz.live CNAME .
 my-club.live CNAME .

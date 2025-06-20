@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2025 18:22 UTC
-# Version: 2025.0619.1822.33
+# Last modified: 20 Jun 2025 10:45 UTC
+# Version: 2025.0620.1045.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5979
+# Number of entries: 5991
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -3184,6 +3184,18 @@ local=/momo.dm/
 local=/momonez1991.live/
 local=/momonez1991site.life/
 local=/mondoagram.com/
+local=/monghaiba.life/
+local=/monghaibon.live/
+local=/monghaihai.life/
+local=/monghaimuoi.live/
+local=/monghainam.life/
+local=/mongmuoiba.life/
+local=/mongmuoibay.live/
+local=/mongmuoibon.live/
+local=/mongmuoichin.life/
+local=/mongmuoinam.life/
+local=/mongmuoisau.life/
+local=/mongmuoitam.live/
 local=/monidentie.info/
 local=/mono-gog-o.life/
 local=/monopolycollectdice.xyz/

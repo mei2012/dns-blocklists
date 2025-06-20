@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750361940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750420920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 19 Jun 2025 19:39 UTC
-; Version: 2025.0619.1939.03
+; Last modified: 20 Jun 2025 12:02 UTC
+; Version: 2025.0620.1202.30
 ; Syntax: RPZ
-; Number of entries: 20358
+; Number of entries: 20368
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5297,6 +5297,8 @@ mt-fun.com CNAME .
 *.mt-fun.com CNAME .
 mtbsl.com CNAME .
 *.mtbsl.com CNAME .
+multiapkclub.com CNAME .
+*.multiapkclub.com CNAME .
 multicanais.com CNAME .
 *.multicanais.com CNAME .
 murmurs.com CNAME .
@@ -5473,6 +5475,8 @@ ngprovider.com CNAME .
 *.ngprovider.com CNAME .
 nhlbite.com CNAME .
 *.nhlbite.com CNAME .
+nightmarestresser.com CNAME .
+*.nightmarestresser.com CNAME .
 niktu.com CNAME .
 *.niktu.com CNAME .
 nitroflare.com CNAME .
@@ -5557,6 +5561,8 @@ nutorrent.com CNAME .
 *.nutorrent.com CNAME .
 nxbrew.com CNAME .
 *.nxbrew.com CNAME .
+t.nyaatracker.com CNAME .
+*.t.nyaatracker.com CNAME .
 montreal.nyap2p.com CNAME .
 *.montreal.nyap2p.com CNAME .
 nzb-chat.com CNAME .
@@ -8993,6 +8999,8 @@ tr-rh-zhuqiy.dgj055.icu CNAME .
 *.tr-rh-zhuqiy.dgj055.icu CNAME .
 tr-zhuqiy-1.dgj055.icu CNAME .
 *.tr-zhuqiy-1.dgj055.icu CNAME .
+tr-zhuqiy-2.dgj055.icu CNAME .
+*.tr-zhuqiy-2.dgj055.icu CNAME .
 tracker-zhuqiy.dgj055.icu CNAME .
 *.tracker-zhuqiy.dgj055.icu CNAME .
 trl-zhuqiy.dgj055.icu CNAME .
@@ -11033,6 +11041,8 @@ moviesnipipay.me CNAME .
 *.moviesnipipay.me CNAME .
 nelion.me CNAME .
 *.nelion.me CNAME .
+download.nerocloud.me CNAME .
+*.download.nerocloud.me CNAME .
 netcine.me CNAME .
 *.netcine.me CNAME .
 nflixvod.me CNAME .
@@ -15387,8 +15397,6 @@ thepiratebay10.org CNAME .
 *.thepiratebay10.org CNAME .
 thepiratebay11.org CNAME .
 *.thepiratebay11.org CNAME .
-thepiratebay3.org CNAME .
-*.thepiratebay3.org CNAME .
 thepiratebayorg.org CNAME .
 *.thepiratebayorg.org CNAME .
 thepirates-bay.org CNAME .
@@ -16791,6 +16799,8 @@ vps02.net.orel.ru CNAME .
 *.vps02.net.orel.ru CNAME .
 cah4e3.shedevr.org.ru CNAME .
 *.cah4e3.shedevr.org.ru CNAME .
+tvunderground.org.ru CNAME .
+*.tvunderground.org.ru CNAME .
 otxatabanet.ru CNAME .
 *.otxatabanet.ru CNAME .
 p-games.ru CNAME .
@@ -17261,6 +17271,8 @@ mokmobi.site CNAME .
 *.mokmobi.site CNAME .
 moviego.site CNAME .
 *.moviego.site CNAME .
+movierr.site CNAME .
+*.movierr.site CNAME .
 mp3flac.site CNAME .
 *.mp3flac.site CNAME .
 mp3juicemusic.site CNAME .
@@ -17971,8 +17983,6 @@ hianime.to CNAME .
 *.hianime.to CNAME .
 hicartoon.to CNAME .
 *.hicartoon.to CNAME .
-himovies.to CNAME .
-*.himovies.to CNAME .
 hindilinks4u.to CNAME .
 *.hindilinks4u.to CNAME .
 holaanime.to CNAME .

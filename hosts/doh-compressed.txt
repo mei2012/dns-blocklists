@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jun 2025 00:06 UTC
-# Version: 2025.0620.0006.05
+# Last modified: 20 Jun 2025 12:06 UTC
+# Version: 2025.0620.1206.55
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 179
 #
@@ -77,13 +77,13 @@
 0.0.0.0 kr-sel.doh.sb nl-ams.doh.sb nl-ams2.doh.sb ru-mow.doh.sb sg-sin.doh.sb sm2.doh.pub uk-lon.doh.sb doh.domreg.lt takhtakh.domyah.net
 0.0.0.0 dns.dooks.uk dot.pub dns.dotnet.win dns.dremaxx.de droyd.top doh.dscloud.me agh.dshubham.xyz home27.duckdns.org jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org osefcorp.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de dns.dyn1.de ueni.dyndns.org resolver1.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net dns.dynx.pro dnscache.e-utp.net adguard.easez.net easyhandshake.com dns.eddi.net doh.eddi.net dns.edgeburnmedia.com dns.edgy.network
-0.0.0.0 edgy-dns.com dns.editechstudio.com dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club dns.efficientdocuments.com hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr
-0.0.0.0 adguard.ender.fr home.enjoymylife.net dns.enzonix.com bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de
-0.0.0.0 arashi.eu.org armorrush.eu.org dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun
-0.0.0.0 jp1.f7b6h9.tk dns.f97.xyz pdns.faelix.net rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click
-0.0.0.0 dns.farshidhakimy.de ns0.fdn.fr ns1.fdn.fr dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net dot.ffmuc.net
-0.0.0.0 dns.ffnw.de fidelius.top dns.filipccz.eu dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net ns2.flodns.net resolv.flokinet.net
+0.0.0.0 dns.dynx.pro dnscache.e-utp.net adguard.easez.net easyhandshake.com dns.eddi.net doh.eddi.net dns.edgeburnmedia.com dns.edgy.network edgy-dns.com
+0.0.0.0 dns.editechstudio.com dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club dns.efficientdocuments.com hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr
+0.0.0.0 home.enjoymylife.net dns.enzonix.com bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org
+0.0.0.0 armorrush.eu.org dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk
+0.0.0.0 dns.f97.xyz pdns.faelix.net rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click dns.farshidhakimy.de
+0.0.0.0 ns0.fdn.fr ns1.fdn.fr dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net dot.ffmuc.net dns.ffnw.de
+0.0.0.0 fidelius.top dns.filipccz.eu dns.fizz.studio dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net ns2.flodns.net resolv.flokinet.net
 0.0.0.0 dns.floriantinney.de agh.fltn.us dns.flwagners.com dns.flymc.cc biying.flymlc.com gateway.fomichev.cloud dns.freopc.fr dns.freyja.pw dns.froth.zone
 0.0.0.0 doh.funil.de doh.funtopia.tv dns.furrydns.de doh.futa.app doh.futa.gg cluster-0.gac.edu cluster-1.gac.edu dns.gamban.com adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net adg.geili.me geshido.vpn.geshido.ru getdnsapi.net gibblets.top adguard.maison.gifino.fr dns.ginovs.nl dns.girino.org h.gjrick.tw
