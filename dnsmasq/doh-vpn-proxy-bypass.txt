@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2025 19:44 UTC
-# Version: 2025.0619.1944.08
+# Last modified: 20 Jun 2025 00:06 UTC
+# Version: 2025.0620.0006.27
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 4840
 #
@@ -1362,6 +1362,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2643,6 +2644,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3127,7 +3129,6 @@ local=/potatovpn.io/
 local=/ixl.potomacriversafetycommittee.org/
 local=/doh.powerdns.org/
 local=/poxy.pl/
-local=/dns.aeiou.pp.ua/
 local=/dns.ha-dvin.pp.ua/
 local=/dns.korzhyk.pp.ua/
 local=/lindung.pp.ua/
@@ -4606,7 +4607,6 @@ local=/waitfree.us/
 local=/walln.com/
 local=/dns.wang.art/
 local=/level.lab.wanganxin.org/
-local=/books.school.warezromania.net/
 local=/dns.wargan.io/
 local=/email.warhawkenterprises.com/
 local=/secure.warhawkenterprises.com/
