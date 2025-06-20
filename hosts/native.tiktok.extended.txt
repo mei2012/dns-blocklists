@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:57 UTC
-# Version: 2025.0612.1257.36
+# Last modified: 20 Jun 2025 16:06 UTC
+# Version: 2025.0620.1606.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 423
+# Number of entries: 427
 #
+0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-va.byteoversea.com
@@ -49,6 +50,7 @@
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va-useast2a.byteoversea.com
+0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 analytics.snssdk.com
 0.0.0.0 applog.snssdk.com
@@ -131,6 +133,7 @@
 0.0.0.0 mcs.us.tiktok.com
 0.0.0.0 mcs-ttp2.us.tiktok.com
 0.0.0.0 mssdk.us.tiktok.com
+0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 ad.tiktokv.com
 0.0.0.0 ad.tiktokv.us
@@ -204,6 +207,7 @@
 0.0.0.0 log19-applog-useast2a.tiktokv.com
 0.0.0.0 log19-normal.tiktokv.com
 0.0.0.0 log19-normal-alisg.tiktokv.com
+0.0.0.0 log19-normal-no1a.tiktokv.eu
 0.0.0.0 log19-normal-useast1a.tiktokv.com
 0.0.0.0 log19-normal-useast2a.tiktokv.com
 0.0.0.0 log22-applog-useast1a.tiktokv.com

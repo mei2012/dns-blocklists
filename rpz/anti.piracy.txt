@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750420920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750448280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Jun 2025 12:02 UTC
-; Version: 2025.0620.1202.30
+; Last modified: 20 Jun 2025 19:38 UTC
+; Version: 2025.0620.1938.58
 ; Syntax: RPZ
-; Number of entries: 20368
+; Number of entries: 20374
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -10035,6 +10035,8 @@ raulken.it CNAME .
 *.raulken.it CNAME .
 rojadirecta.it CNAME .
 *.rojadirecta.it CNAME .
+sitosenzanome.it CNAME .
+*.sitosenzanome.it CNAME .
 snahp.it CNAME .
 *.snahp.it CNAME .
 streamingcommunity.it CNAME .
@@ -11273,6 +11275,8 @@ tantifilm.media CNAME .
 *.tantifilm.media CNAME .
 unimay.media CNAME .
 *.unimay.media CNAME .
+ssrmovies.meme CNAME .
+*.ssrmovies.meme CNAME .
 gomovies.men CNAME .
 *.gomovies.men CNAME .
 guardaserie.men CNAME .
@@ -19907,6 +19911,8 @@ t.quic.ws CNAME .
 *.t.quic.ws CNAME .
 raidrush.ws CNAME .
 *.raidrush.ws CNAME .
+rf.ws CNAME .
+*.rf.ws CNAME .
 samlab.ws CNAME .
 *.samlab.ws CNAME .
 sanet.ws CNAME .

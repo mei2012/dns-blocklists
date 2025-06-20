@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:57 UTC
-# Version: 2025.0612.1257.36
+# Last modified: 20 Jun 2025 16:06 UTC
+# Version: 2025.0620.1606.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 418
+# Number of entries: 422
 #
+local=/p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net/
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
 local=/gplog-va.byteoversea.com/
@@ -49,6 +50,7 @@ local=/xlog.byteoversea.com/
 local=/xlog-o.byteoversea.com/
 local=/xlog-va.byteoversea.com/
 local=/xlog-va-useast2a.byteoversea.com/
+local=/p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net/
 local=/abtest-ch.snssdk.com/
 local=/analytics.snssdk.com/
 local=/applog.snssdk.com/
@@ -126,6 +128,7 @@ local=/location.us.tiktok.com/
 local=/mcs.us.tiktok.com/
 local=/mcs-ttp2.us.tiktok.com/
 local=/mssdk.us.tiktok.com/
+local=/p16-tiktok-ads-sg.tiktokcdn.com/
 local=/sf16-telemetry-proxy-oci.tiktokcdn-us.com/
 local=/ad.tiktokv.com/
 local=/ad.tiktokv.us/
@@ -199,6 +202,7 @@ local=/log19-applog-useast1a.tiktokv.com/
 local=/log19-applog-useast2a.tiktokv.com/
 local=/log19-normal.tiktokv.com/
 local=/log19-normal-alisg.tiktokv.com/
+local=/log19-normal-no1a.tiktokv.eu/
 local=/log19-normal-useast1a.tiktokv.com/
 local=/log19-normal-useast2a.tiktokv.com/
 local=/log22-applog-useast1a.tiktokv.com/
