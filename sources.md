@@ -111,7 +111,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/hos
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/filters/adservers.txt
 https://raw.githubusercontent.com/bigdargon/hostsvn/master/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN
-https://raw.githubusercontent.com/bitamind/filter/master/280blocker_domain_mirror.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-regional.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt

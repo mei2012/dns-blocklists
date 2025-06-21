@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jun 2025 19:38 UTC
-# Version: 2025.0620.1938.58
+# Last modified: 20 Jun 2025 23:03 UTC
+# Version: 2025.0620.2303.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10187
+# Number of entries: 10188
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -8851,6 +8851,7 @@ local=/torrentspain.com/
 local=/torrentspy.com/
 local=/torrentsrus.com/
 local=/alpha.torrenttracker.nl/
+local=/torrentturk.com/
 local=/torrenttyphoon.com/
 local=/torrentube.net/
 local=/torrenturkey.com/
