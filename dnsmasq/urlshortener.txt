@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jun 2025 18:22 UTC
-# Version: 2025.0620.1822.18
+# Last modified: 21 Jun 2025 06:43 UTC
+# Version: 2025.0621.0643.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5992
+# Number of entries: 5993
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -5642,6 +5642,7 @@ local=/wishct.live/
 local=/wit.to/
 local=/witchny.live/
 local=/wiuqz.com/
+local=/wjcf.co/
 local=/wjib.top/
 local=/wjsxb.com/
 local=/wkf.ms/
