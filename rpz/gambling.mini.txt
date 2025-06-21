@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750492740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750507200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Jun 2025 07:59 UTC
-; Version: 2025.0621.0759.36
+; Last modified: 21 Jun 2025 12:00 UTC
+; Version: 2025.0621.1200.25
 ; Syntax: RPZ
-; Number of entries: 138312
+; Number of entries: 138286
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -14167,8 +14167,6 @@ progressiveslots.cfd CNAME .
 *.progressiveslots.cfd CNAME .
 psslots.cfd CNAME .
 *.psslots.cfd CNAME .
-puisitoto.cfd CNAME .
-*.puisitoto.cfd CNAME .
 rating-casino1.cfd CNAME .
 *.rating-casino1.cfd CNAME .
 reallivecasino.cfd CNAME .
@@ -26879,8 +26877,6 @@ bestcasinoai.com CNAME .
 *.bestcasinoai.com CNAME .
 bestcasinoais.com CNAME .
 *.bestcasinoais.com CNAME .
-bestcasinodk.com CNAME .
-*.bestcasinodk.com CNAME .
 bestcasinoer.com CNAME .
 *.bestcasinoer.com CNAME .
 bestcasinoeventat.com CNAME .
@@ -27457,8 +27453,6 @@ betbit.com CNAME .
 *.betbit.com CNAME .
 betblazers.com CNAME .
 *.betblazers.com CNAME .
-betbolt.com CNAME .
-*.betbolt.com CNAME .
 betboo.com CNAME .
 *.betboo.com CNAME .
 betboom.com CNAME .
@@ -31037,8 +31031,6 @@ calmcasinosflow.com CNAME .
 *.calmcasinosflow.com CNAME .
 calottery.com CNAME .
 *.calottery.com CNAME .
-calvertnews.com CNAME .
-*.calvertnews.com CNAME .
 camasino.com CNAME .
 *.camasino.com CNAME .
 cambodiablackjack.com CNAME .
@@ -39913,8 +39905,6 @@ eldoradocasinohotel.com CNAME .
 *.eldoradocasinohotel.com CNAME .
 eldoradopalace.com CNAME .
 *.eldoradopalace.com CNAME .
-electricconstructioninc.com CNAME .
-*.electricconstructioninc.com CNAME .
 elefantebets.com CNAME .
 *.elefantebets.com CNAME .
 eletiacasino.com CNAME .
@@ -44373,8 +44363,6 @@ hoky188.com CNAME .
 *.hoky188.com CNAME .
 hola-arkansas.com CNAME .
 *.hola-arkansas.com CNAME .
-holasaru.com CNAME .
-*.holasaru.com CNAME .
 holdempokeronlineplay.com CNAME .
 *.holdempokeronlineplay.com CNAME .
 holeymoleydoughnuts.com CNAME .
@@ -52255,8 +52243,6 @@ mostbetcasino686.com CNAME .
 *.mostbetcasino686.com CNAME .
 mostbetcasinonepal.com CNAME .
 *.mostbetcasinonepal.com CNAME .
-mostbetcasinoonline.com CNAME .
-*.mostbetcasinoonline.com CNAME .
 mostbetcasinos.com CNAME .
 *.mostbetcasinos.com CNAME .
 mostbetcasinoz.com CNAME .
@@ -62989,8 +62975,6 @@ supabetsonline.com CNAME .
 *.supabetsonline.com CNAME .
 supacasi.com CNAME .
 *.supacasi.com CNAME .
-supacasi-casino.com CNAME .
-*.supacasi-casino.com CNAME .
 supacasicasino.com CNAME .
 *.supacasicasino.com CNAME .
 supeacecasino.com CNAME .
@@ -69877,6 +69861,8 @@ vulkan-casino24.cyou CNAME .
 *.vulkan-casino24.cyou CNAME .
 vulkan-first-casinos.cyou CNAME .
 *.vulkan-first-casinos.cyou CNAME .
+vulkan-maximum-casino.cyou CNAME .
+*.vulkan-maximum-casino.cyou CNAME .
 winkartupokerzona.cyou CNAME .
 *.winkartupokerzona.cyou CNAME .
 wulkan-casino.cyou CNAME .
@@ -80919,8 +80905,6 @@ abobora777.net CNAME .
 *.abobora777.net CNAME .
 abscasino.net CNAME .
 *.abscasino.net CNAME .
-aceblackjack.net CNAME .
-*.aceblackjack.net CNAME .
 acehfortune.net CNAME .
 *.acehfortune.net CNAME .
 acepokies.net CNAME .
@@ -81693,12 +81677,8 @@ casinogewinner.net CNAME .
 *.casinogewinner.net CNAME .
 casinogiris.net CNAME .
 *.casinogiris.net CNAME .
-casinoh.net CNAME .
-*.casinoh.net CNAME .
 casinoheyroller.net CNAME .
 *.casinoheyroller.net CNAME .
-casinoi.net CNAME .
-*.casinoi.net CNAME .
 casinoinfinite.net CNAME .
 *.casinoinfinite.net CNAME .
 casinokim.net CNAME .
@@ -81743,8 +81723,6 @@ casinopurple.net CNAME .
 *.casinopurple.net CNAME .
 casinoqr.net CNAME .
 *.casinoqr.net CNAME .
-casinor.net CNAME .
-*.casinor.net CNAME .
 casinorecension.net CNAME .
 *.casinorecension.net CNAME .
 casinoreg.net CNAME .
@@ -100885,8 +100863,6 @@ nordiskacasinoutanlicens.se CNAME .
 *.nordiskacasinoutanlicens.se CNAME .
 nycasino.se CNAME .
 *.nycasino.se CNAME .
-nyttcasino.se CNAME .
-*.nyttcasino.se CNAME .
 oersverige.se CNAME .
 *.oersverige.se CNAME .
 online-casinot.se CNAME .
@@ -103019,8 +102995,6 @@ megabets.site CNAME .
 *.megabets.site CNAME .
 megajackpot.site CNAME .
 *.megajackpot.site CNAME .
-megalodon88.site CNAME .
-*.megalodon88.site CNAME .
 megamaisbets.site CNAME .
 *.megamaisbets.site CNAME .
 megaslotshub.site CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jun 2025 08:05 UTC
-# Version: 2025.0621.0805.02
+# Last modified: 21 Jun 2025 12:05 UTC
+# Version: 2025.0621.1205.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4840
+# Number of entries: 4839
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -2224,7 +2224,6 @@ local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
 local=/dns.keke125.com/
-local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
 local=/dns.kerekes.xyz/
