@@ -6,8 +6,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Jun 2025 08:01 UTC
-! Version: 2025.0622.0801.05
+! Last modified: 22 Jun 2025 15:41 UTC
+! Version: 2025.0622.1541.22
 ! Syntax: AdBlock
 ! Number of entries: 1446
 !
@@ -518,7 +518,6 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
-||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -905,6 +904,7 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
