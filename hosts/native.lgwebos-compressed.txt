@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:58 UTC
-# Version: 2025.0612.1258.15
+# Last modified: 21 Jun 2025 16:09 UTC
+# Version: 2025.0621.1609.26
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 131
 #
@@ -137,6 +137,6 @@
 0.0.0.0 ie.ad.lgsmartad.com il.ad.lgsmartad.com in.ad.lgsmartad.com iq.ad.lgsmartad.com kz.ad.lgsmartad.com lt.ad.lgsmartad.com mx.ad.lgsmartad.com my.ad.lgsmartad.com ng.ad.lgsmartad.com
 0.0.0.0 nl.ad.lgsmartad.com pa.ad.lgsmartad.com ph.ad.lgsmartad.com pl.ad.lgsmartad.com pt.ad.lgsmartad.com ro.ad.lgsmartad.com rs.ad.lgsmartad.com ru.ad.lgsmartad.com se.ad.lgsmartad.com
 0.0.0.0 sg.ad.lgsmartad.com sk.ad.lgsmartad.com sv.ad.lgsmartad.com th.ad.lgsmartad.com tr.ad.lgsmartad.com ua.ad.lgsmartad.com us.ad.lgsmartad.com ve.ad.lgsmartad.com vn.ad.lgsmartad.com
-0.0.0.0 za.ad.lgsmartad.com us.lgsmartad.com cdpbeacon.lgtvcommon.com aic.cdpbeacon.lgtvcommon.com eic.cdpbeacon.lgtvcommon.com homeprv.lgtvcommon.com aic.homeprv.lgtvcommon.com eic.homeprv.lgtvcommon.com kic.homeprv.lgtvcommon.com
-0.0.0.0 ruc.homeprv.lgtvcommon.com nudge.lgtvcommon.com aic.nudge.lgtvcommon.com eic.nudge.lgtvcommon.com kic.nudge.lgtvcommon.com ruc.nudge.lgtvcommon.com rdl.lgtvcommon.com aic.rdl.lgtvcommon.com eic.rdl.lgtvcommon.com
-0.0.0.0 kic.rdl.lgtvcommon.com wiseconfig.lgtvcommon.com aic.wiseconfig.lgtvcommon.com h4g3z1-native.lgwebos.web.app 
+0.0.0.0 za.ad.lgsmartad.com us.lgsmartad.com aic.ads.lgtvcommon.com eic.ads.lgtvcommon.com cdpbeacon.lgtvcommon.com aic.cdpbeacon.lgtvcommon.com eic.cdpbeacon.lgtvcommon.com homeprv.lgtvcommon.com aic.homeprv.lgtvcommon.com
+0.0.0.0 eic.homeprv.lgtvcommon.com kic.homeprv.lgtvcommon.com ruc.homeprv.lgtvcommon.com nudge.lgtvcommon.com aic.nudge.lgtvcommon.com eic.nudge.lgtvcommon.com kic.nudge.lgtvcommon.com ruc.nudge.lgtvcommon.com rdl.lgtvcommon.com
+0.0.0.0 aic.rdl.lgtvcommon.com eic.rdl.lgtvcommon.com kic.rdl.lgtvcommon.com wiseconfig.lgtvcommon.com aic.wiseconfig.lgtvcommon.com h4g3z1-native.lgwebos.web.app 

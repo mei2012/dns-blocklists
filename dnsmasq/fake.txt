@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jun 2025 10:43 UTC
-# Version: 2025.0621.1043.14
+# Last modified: 21 Jun 2025 22:42 UTC
+# Version: 2025.0621.2242.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 15039
+# Number of entries: 15042
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -1793,6 +1793,7 @@ local=/bog-apotheke.com/
 local=/bogensportdeister.shop/
 local=/bognerosterreich.at/
 local=/bogsschuhe.de/
+local=/bohnenfreude.de/
 local=/boho-and-chic.de/
 local=/bohrteam-handel.de/
 local=/boilsofas.com/
@@ -3506,6 +3507,7 @@ local=/dirctychop.com/
 local=/directco-invest.com/
 local=/directepargne.com/
 local=/directkredite.com/
+local=/direktbike.store/
 local=/direkte-verarbeitung.site/
 local=/dirkelektro.com/
 local=/dirkuhren.de/
@@ -10957,6 +10959,7 @@ local=/rasenmotor.com/
 local=/rasenmuller.de/
 local=/rasenpro.com/
 local=/rasenprofis.net/
+local=/rasenroboter-shop.com/
 local=/rasenshop24.com/
 local=/rasentrak.com/
 local=/rastrillo.de/
