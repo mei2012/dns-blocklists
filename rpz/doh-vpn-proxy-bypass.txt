@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750665900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750693500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Jun 2025 08:05 UTC
-; Version: 2025.0623.0805.41
+; Last modified: 23 Jun 2025 15:45 UTC
+; Version: 2025.0623.1545.56
 ; Syntax: RPZ
-; Number of entries: 9674
+; Number of entries: 9682
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1208,6 +1208,8 @@ beetvpn.com CNAME .
 *.beetvpn.com CNAME .
 beevpn.com CNAME .
 *.beevpn.com CNAME .
+bentnailfarm4121.com CNAME .
+*.bentnailfarm4121.com CNAME .
 bestfreevpn.com CNAME .
 *.bestfreevpn.com CNAME .
 bestukvpn.com CNAME .
@@ -1682,6 +1684,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2332,8 +2336,6 @@ study-history.jumpingcrab.com CNAME .
 *.study-history.jumpingcrab.com CNAME .
 ups.jumpingcrab.com CNAME .
 *.ups.jumpingcrab.com CNAME .
-dns.jupitrdns.com CNAME .
-*.dns.jupitrdns.com CNAME .
 juproxy.com CNAME .
 *.juproxy.com CNAME .
 ad.justincounts.com CNAME .
@@ -2634,6 +2636,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -2644,6 +2648,8 @@ napps-2.com CNAME .
 *.napps-2.com CNAME .
 needunblock.com CNAME .
 *.needunblock.com CNAME .
+arain.neighborhoodcloud.com CNAME .
+*.arain.neighborhoodcloud.com CNAME .
 z-brokethescaler.neighborhoodcloud.com CNAME .
 *.z-brokethescaler.neighborhoodcloud.com CNAME .
 smart.quiz.nelsonshack.com CNAME .
@@ -8816,6 +8822,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 12:56 UTC
-# Version: 2025.0612.1256.16
+# Last modified: 23 Jun 2025 14:33 UTC
+# Version: 2025.0623.1433.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 110
+# Number of entries: 121
 #
 local=/browsercfg-drcn.cloud.dbankcloud.cn/
 local=/ubacollect-drcn.cloud.dbankcloud.cn/
@@ -116,6 +116,17 @@ local=/ads-drru.cloud.huawei.ru/
 local=/rnd-aresocean-commercial.huawei.com/
 local=/rnd-cbgpas01.huawei.com/
 local=/uba.huaweicloud.com/
+local=/nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p06-dra.obs.ap-southeast-3.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p07-dra.obs.ap-southeast-3.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p08-dra.obs.ap-southeast-3.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p40-drcn.obs.cn-north-2.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p41-drcn.obs.cn-north-2.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p43-drcn.obs.cn-north-2.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p50-drcn.obs.cn-north-2.myhuaweicloud.com/
+local=/nsp-logservice-weardevice-p42-drcn.obs.cn-north-2.myhuaweicloud.com/
+local=/nsp-logservice-weardevice-p51-drcn.obs.cn-north-2.myhuaweicloud.com/
+local=/nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru/
 local=/logserver.nzxcloud.cn/
 local=/logservice.vmall.com/
 local=/h4g3z1-native.huawei.web.app/
