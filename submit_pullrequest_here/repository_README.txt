@@ -790,7 +790,7 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 #### :department_store: **DNSBunker (Germany) - free** <a name="schonetdns"></a>
 
-[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with the native Tracker lists, TIF blocklist and [@xRuffKez](https://github.com/xRuffKez/NRD) NRD/DGA.
+[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with the native Tracker lists and TIF blocklist.
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
 |:-----------|:---------------|:------------------|:-----------|
