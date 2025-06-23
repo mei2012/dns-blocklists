@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750416300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750702860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Jun 2025 10:45 UTC
-; Version: 2025.0620.1045.24
+; Last modified: 23 Jun 2025 18:21 UTC
+; Version: 2025.0623.1821.52
 ; Syntax: RPZ
-; Number of entries: 4302
+; Number of entries: 4294
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -313,8 +313,6 @@ shop.co CNAME .
 *.shop.co CNAME .
 synergize.co CNAME .
 *.synergize.co CNAME .
-wapka.co CNAME .
-*.wapka.co CNAME .
 webnode.co CNAME .
 *.webnode.co CNAME .
 000space.com CNAME .
@@ -2949,8 +2947,6 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 webnode.kr CNAME .
 *.webnode.kr CNAME .
-c.la CNAME .
-*.c.la CNAME .
 1a.lc CNAME .
 *.1a.lc CNAME .
 24.lc CNAME .
@@ -3893,8 +3889,6 @@ dorabiamarketing.shop CNAME .
 *.dorabiamarketing.shop CNAME .
 doteyoueshop.shop CNAME .
 *.doteyoueshop.shop CNAME .
-downfall.shop CNAME .
-*.downfall.shop CNAME .
 drugpoint.shop CNAME .
 *.drugpoint.shop CNAME .
 duchessandthedude.shop CNAME .
@@ -4179,8 +4173,6 @@ tokyoca.top CNAME .
 *.tokyoca.top CNAME .
 wapka.top CNAME .
 *.wapka.top CNAME .
-waptrad.top CNAME .
-*.waptrad.top CNAME .
 wentiso.top CNAME .
 *.wentiso.top CNAME .
 ygrrvlvvgf.top CNAME .

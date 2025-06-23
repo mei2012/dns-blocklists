@@ -29,5 +29,10 @@ graph.meta.ai
 # If you do not use Facebook or Instagram, block the following CNAMES, 
 # which will prevent almost all META graph tracking used on/in non-META websites or apps,
 # but will make the META apps unusable:
+# star-mini.c10r.facebook.com
+# star-mini.fallback.c10r.facebook.com
 # star.c10r.facebook.com
 # star.fallback.c10r.facebook.com
+# star.fallback.c10r.instagram.com
+# star-mini-nohsts.c10r.facebook.com
+# star-nohsts.c10r.facebook.com

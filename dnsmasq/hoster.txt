@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jun 2025 10:45 UTC
-# Version: 2025.0620.1045.24
+# Last modified: 23 Jun 2025 18:21 UTC
+# Version: 2025.0623.1821.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2151
+# Number of entries: 2147
 #
 local=/000a.de/
 local=/000free.us/
@@ -592,7 +592,6 @@ local=/byethost.com/
 local=/byethost3.com/
 local=/byto.de/
 local=/bz.tc/
-local=/c.la/
 local=/c.pl/
 local=/ca.gp/
 local=/cafeblog.hu/
@@ -811,7 +810,6 @@ local=/doodlekit.com/
 local=/dorabiamarketing.shop/
 local=/dot.tk/
 local=/doteyoueshop.shop/
-local=/downfall.shop/
 local=/download.ac/
 local=/download.sh/
 local=/downloaden24.de/
@@ -1965,14 +1963,12 @@ local=/wallinside.blog/
 local=/wallinside.com/
 local=/wallst.ru/
 local=/wapka.club/
-local=/wapka.co/
 local=/wapka.org/
 local=/wapka.site/
 local=/wapka.store/
 local=/wapka.top/
 local=/wapka.website/
 local=/wapka.xyz/
-local=/waptrad.top/
 local=/warhead.com/
 local=/warp0.com/
 local=/web.gg/

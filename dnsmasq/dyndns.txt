@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 19 Jun 2025 12:06 UTC
-# Version: 2025.0619.1206.07
+# Last modified: 23 Jun 2025 19:42 UTC
+# Version: 2025.0623.1942.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1483
+# Number of entries: 1475
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -105,7 +105,6 @@ local=/authorizeddns.org/
 local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
-local=/awiki.org/
 local=/ax.lt/
 local=/b0ne.com/
 local=/b0tnet.com/
@@ -279,7 +278,6 @@ local=/ddnssec.de/
 local=/de-a.org/
 local=/deaftone.com/
 local=/dearabba.org/
-local=/death-by-monkeys.com/
 local=/dedyn.io/
 local=/demosoftonline.com/
 local=/demoteam.ch/
@@ -465,7 +463,6 @@ local=/eatuo.com/
 local=/echoparklake.com/
 local=/edns.biz/
 local=/effers.com/
-local=/eiresol.com/
 local=/elchemi.com/
 local=/elitter.net/
 local=/embeddedonline.org/
@@ -526,7 +523,6 @@ local=/for-more.biz/
 local=/for-our.info/
 local=/for-some.biz/
 local=/for-the.biz/
-local=/foroemprende.com/
 local=/forss.to/
 local=/forumz.info/
 local=/fr.to/
@@ -1144,7 +1140,6 @@ local=/port25.biz/
 local=/portalindustries.org/
 local=/portfwd.com/
 local=/portmap.host/
-local=/possessed.us/
 local=/prettyweak.com/
 local=/priamaakcia.sk/
 local=/privatedns.com/
@@ -1167,7 +1162,6 @@ local=/qlbv.vn/
 local=/qpoe.com/
 local=/qthome.org/
 local=/quackerscomic.com/
-local=/queerline.de/
 local=/quicksytes.com/
 local=/r-o-o-t.net/
 local=/radiogirl.fm/
@@ -1356,7 +1350,6 @@ local=/thaieasydns.com/
 local=/thatip.com/
 local=/thddns.net/
 local=/the-button.com/
-local=/theblacklist.org/
 local=/thehomeserver.net/
 local=/themcmillans.org/
 local=/thenest.org/
@@ -1385,7 +1378,6 @@ local=/tunnelbroker.net/
 local=/tvlinux.com/
 local=/twilightparadox.com/
 local=/twodns.de/
-local=/twsuser.com/
 local=/tzo.com/
 local=/ucvradio.cl/
 local=/udp64.de/

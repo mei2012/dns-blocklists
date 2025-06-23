@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750488180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750702920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Jun 2025 06:43 UTC
-; Version: 2025.0621.0643.24
+; Last modified: 23 Jun 2025 18:22 UTC
+; Version: 2025.0623.1822.13
 ; Syntax: RPZ
-; Number of entries: 11986
+; Number of entries: 11954
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -786,8 +786,6 @@ urlf.cc CNAME .
 *.urlf.cc CNAME .
 urlme.cc CNAME .
 *.urlme.cc CNAME .
-urlsshares.cc CNAME .
-*.urlsshares.cc CNAME .
 uucc.cc CNAME .
 *.uucc.cc CNAME .
 uuz.cc CNAME .
@@ -1474,8 +1472,6 @@ we.co CNAME .
 *.we.co CNAME .
 wfly.co CNAME .
 *.wfly.co CNAME .
-wjcf.co CNAME .
-*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -1584,10 +1580,6 @@ acconpit.com CNAME .
 *.acconpit.com CNAME .
 s.accupass.com CNAME .
 *.s.accupass.com CNAME .
-acrefo.com CNAME .
-*.acrefo.com CNAME .
-acrestic.com CNAME .
-*.acrestic.com CNAME .
 adflydsp.com CNAME .
 *.adflydsp.com CNAME .
 adflyfly.com CNAME .
@@ -1640,8 +1632,6 @@ alturl.com CNAME .
 *.alturl.com CNAME .
 amzn.com CNAME .
 *.amzn.com CNAME .
-anisepretzel.com CNAME .
-*.anisepretzel.com CNAME .
 aorracer.com CNAME .
 *.aorracer.com CNAME .
 appbitly.com CNAME .
@@ -2328,8 +2318,6 @@ kaitect.com CNAME .
 *.kaitect.com CNAME .
 kand18.com CNAME .
 *.kand18.com CNAME .
-travslyf.katatillo.com CNAME .
-*.travslyf.katatillo.com CNAME .
 katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
 kbalq.com CNAME .
@@ -2446,6 +2434,8 @@ lintlink.com CNAME .
 *.lintlink.com CNAME .
 lisar.lisaraeswan.com CNAME .
 *.lisar.lisaraeswan.com CNAME .
+lit-url.com CNAME .
+*.lit-url.com CNAME .
 littlelnk.com CNAME .
 *.littlelnk.com CNAME .
 ljqlf.com CNAME .
@@ -3516,8 +3506,6 @@ xdsnht.com CNAME .
 *.xdsnht.com CNAME .
 xfiqe.com CNAME .
 *.xfiqe.com CNAME .
-xjroy.com CNAME .
-*.xjroy.com CNAME .
 xkvpf.com CNAME .
 *.xkvpf.com CNAME .
 xmekz.com CNAME .
@@ -3980,8 +3968,6 @@ tiny.ee CNAME .
 *.tiny.ee CNAME .
 tr.ee CNAME .
 *.tr.ee CNAME .
-bitly.email CNAME .
-*.bitly.email CNAME .
 deliverable.email CNAME .
 *.deliverable.email CNAME .
 erath.email CNAME .
@@ -5222,6 +5208,8 @@ nchcnh.info CNAME .
 *.nchcnh.info CNAME .
 nectarios.info CNAME .
 *.nectarios.info CNAME .
+newss.info CNAME .
+*.newss.info CNAME .
 nftchampions.info CNAME .
 *.nftchampions.info CNAME .
 niit-mts.info CNAME .
@@ -5340,6 +5328,8 @@ get-l.ink CNAME .
 *.get-l.ink CNAME .
 gtly.ink CNAME .
 *.gtly.ink CNAME .
+heyyyl.ink CNAME .
+*.heyyyl.ink CNAME .
 hil.ink CNAME .
 *.hil.ink CNAME .
 iql.ink CNAME .
@@ -5670,8 +5660,6 @@ amirhossein.id.ir CNAME .
 *.amirhossein.id.ir CNAME .
 ilk.ir CNAME .
 *.ilk.ir CNAME .
-iwo.ir CNAME .
-*.iwo.ir CNAME .
 khtm.ir CNAME .
 *.khtm.ir CNAME .
 lt5.ir CNAME .
@@ -5704,8 +5692,6 @@ yourl.ir CNAME .
 *.yourl.ir CNAME .
 yun.ir CNAME .
 *.yun.ir CNAME .
-zeek.ir CNAME .
-*.zeek.ir CNAME .
 zurl.ir CNAME .
 *.zurl.ir CNAME .
 0i.is CNAME .
@@ -6158,8 +6144,6 @@ adoj36.life CNAME .
 *.adoj36.life CNAME .
 adrians-guzman-81.life CNAME .
 *.adrians-guzman-81.life CNAME .
-adsclicks.life CNAME .
-*.adsclicks.life CNAME .
 adult-haem-home.life CNAME .
 *.adult-haem-home.life CNAME .
 afb88.life CNAME .
@@ -6590,8 +6574,6 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
-robloxgroup.life CNAME .
-*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6622,8 +6604,6 @@ siakap.life CNAME .
 *.siakap.life CNAME .
 sibutathemba120.life CNAME .
 *.sibutathemba120.life CNAME .
-snapchats.life CNAME .
-*.snapchats.life CNAME .
 soegyi.life CNAME .
 *.soegyi.life CNAME .
 soulful-transformation-studio.life CNAME .
@@ -7116,6 +7096,8 @@ cloudlettings.live CNAME .
 *.cloudlettings.live CNAME .
 clymont.live CNAME .
 *.clymont.live CNAME .
+coinbasesupports.live CNAME .
+*.coinbasesupports.live CNAME .
 compreaquikakspromobaby.live CNAME .
 *.compreaquikakspromobaby.live CNAME .
 conviva.live CNAME .
@@ -7172,8 +7154,6 @@ eventhivek.live CNAME .
 *.eventhivek.live CNAME .
 ezzs.live CNAME .
 *.ezzs.live CNAME .
-face-time-apple.live CNAME .
-*.face-time-apple.live CNAME .
 facebookid.live CNAME .
 *.facebookid.live CNAME .
 facebookvideos.live CNAME .
@@ -7372,8 +7352,6 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
-onlyfanscaycoleman.live CNAME .
-*.onlyfanscaycoleman.live CNAME .
 onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
 oostra.live CNAME .
@@ -7448,8 +7426,6 @@ roush-jims.live CNAME .
 *.roush-jims.live CNAME .
 salesinc.live CNAME .
 *.salesinc.live CNAME .
-schoolstorehms.live CNAME .
-*.schoolstorehms.live CNAME .
 scoreonline.live CNAME .
 *.scoreonline.live CNAME .
 sdafasf.live CNAME .
@@ -7498,8 +7474,6 @@ tdv-adm.live CNAME .
 *.tdv-adm.live CNAME .
 teamline.live CNAME .
 *.teamline.live CNAME .
-teamrrqslot188.live CNAME .
-*.teamrrqslot188.live CNAME .
 teliget.live CNAME .
 *.teliget.live CNAME .
 the-mc-michel-group.live CNAME .
@@ -7532,8 +7506,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7544,8 +7516,6 @@ watchmoviehd.live CNAME .
 *.watchmoviehd.live CNAME .
 webbrian.live CNAME .
 *.webbrian.live CNAME .
-webgoogle.live CNAME .
-*.webgoogle.live CNAME .
 webprografor.live CNAME .
 *.webprografor.live CNAME .
 webprotech.live CNAME .
@@ -8622,6 +8592,8 @@ iscool.net CNAME .
 *.iscool.net CNAME .
 iterasi.net CNAME .
 *.iterasi.net CNAME .
+jjlco.net CNAME .
+*.jjlco.net CNAME .
 jmp2.net CNAME .
 *.jmp2.net CNAME .
 jp22.net CNAME .
@@ -9400,10 +9372,6 @@ surl.pro CNAME .
 *.surl.pro CNAME .
 t111.pro CNAME .
 *.t111.pro CNAME .
-vd0.pro CNAME .
-*.vd0.pro CNAME .
-vd1.pro CNAME .
-*.vd1.pro CNAME .
 vdio.pro CNAME .
 *.vdio.pro CNAME .
 wajinlong.pro CNAME .
@@ -10252,8 +10220,6 @@ as1ansl0t88.site CNAME .
 *.as1ansl0t88.site CNAME .
 bitlee.site CNAME .
 *.bitlee.site CNAME .
-biturl.site CNAME .
-*.biturl.site CNAME .
 bprl.site CNAME .
 *.bprl.site CNAME .
 easyurl.site CNAME .
@@ -11344,6 +11310,8 @@ f4d.uk CNAME .
 *.f4d.uk CNAME .
 masy.uk CNAME .
 *.masy.uk CNAME .
+mbdns.uk CNAME .
+*.mbdns.uk CNAME .
 msatt.uk CNAME .
 *.msatt.uk CNAME .
 myof.uk CNAME .
