@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jun 2025 08:05 UTC
-# Version: 2025.0624.0805.16
+# Last modified: 24 Jun 2025 15:40 UTC
+# Version: 2025.0624.1540.07
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1606
 #
@@ -206,6 +206,7 @@
 0.0.0.0 bluemood.me
 0.0.0.0 dns.bmwhocking.com
 0.0.0.0 dns.bobstrecansky.com
+0.0.0.0 d.bod.lol
 0.0.0.0 dns.bofh.in
 0.0.0.0 adguard.bonis.de
 0.0.0.0 adguard.bonsirven.eu
@@ -612,7 +613,6 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
