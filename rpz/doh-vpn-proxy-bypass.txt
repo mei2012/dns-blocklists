@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750779600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750809600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jun 2025 15:40 UTC
-; Version: 2025.0624.1540.28
+; Last modified: 25 Jun 2025 00:00 UTC
+; Version: 2025.0625.0000.31
 ; Syntax: RPZ
-; Number of entries: 9646
+; Number of entries: 9652
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2436,6 +2436,8 @@ liquidvpn.com CNAME .
 *.liquidvpn.com CNAME .
 dns.lobbygod.com CNAME .
 *.dns.lobbygod.com CNAME .
+localtonet.com CNAME .
+*.localtonet.com CNAME .
 locaproxy.com CNAME .
 *.locaproxy.com CNAME .
 pbs.lookids.com CNAME .
@@ -2620,8 +2622,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3424,6 +3424,10 @@ eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
+proxy1.startpage.com CNAME .
+*.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -4214,8 +4218,6 @@ ns3.cx CNAME .
 *.ns3.cx CNAME .
 polaris.cx CNAME .
 *.polaris.cx CNAME .
-atris.cyou CNAME .
-*.atris.cyou CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 acrea.cz CNAME .
@@ -5030,10 +5032,14 @@ mabuktogel.immobilien CNAME .
 *.mabuktogel.immobilien CNAME .
 dns.bofh.in CNAME .
 *.dns.bofh.in CNAME .
+btunnel.in CNAME .
+*.btunnel.in CNAME .
 2.dnscrypt-cert.captnemo.in CNAME .
 *.2.dnscrypt-cert.captnemo.in CNAME .
 doh.captnemo.in CNAME .
 *.doh.captnemo.in CNAME .
+btunnel.co.in CNAME .
+*.btunnel.co.in CNAME .
 sbdns.co.in CNAME .
 *.sbdns.co.in CNAME .
 agh.workfordemo.co.in CNAME .
@@ -6670,6 +6676,8 @@ africadns2.liquidtelecom.net CNAME .
 *.africadns2.liquidtelecom.net CNAME .
 litebrowser.net CNAME .
 *.litebrowser.net CNAME .
+localto.net CNAME .
+*.localto.net CNAME .
 the.luxflow.net CNAME .
 *.the.luxflow.net CNAME .
 magiccloak.net CNAME .
@@ -7362,8 +7370,6 @@ unblockit.onl CNAME .
 *.30t.online CNAME .
 71745718.online CNAME .
 *.71745718.online CNAME .
-adguard-vpn.online CNAME .
-*.adguard-vpn.online CNAME .
 alphabr.online CNAME .
 *.alphabr.online CNAME .
 asheranztwitch.online CNAME .

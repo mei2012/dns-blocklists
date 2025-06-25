@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750707480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750809300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Jun 2025 19:38 UTC
-; Version: 2025.0623.1938.06
+; Last modified: 24 Jun 2025 23:55 UTC
+; Version: 2025.0624.2355.47
 ; Syntax: RPZ
-; Number of entries: 20086
+; Number of entries: 20088
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11281,6 +11281,8 @@ wiflix.mx CNAME .
 *.wiflix.mx CNAME .
 yts.mx CNAME .
 *.yts.mx CNAME .
+hdfilme-to.my CNAME .
+*.hdfilme-to.my CNAME .
 streamcloud.my CNAME .
 *.streamcloud.my CNAME .
 y2meta.my CNAME .

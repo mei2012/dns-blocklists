@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750747560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750804980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jun 2025 06:46 UTC
-; Version: 2025.0624.0646.05
+; Last modified: 24 Jun 2025 22:43 UTC
+; Version: 2025.0624.2243.49
 ; Syntax: RPZ
-; Number of entries: 11956
+; Number of entries: 11966
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -930,6 +930,8 @@ cindora.club CNAME .
 *.cindora.club CNAME .
 maoruan.club CNAME .
 *.maoruan.club CNAME .
+oplink.club CNAME .
+*.oplink.club CNAME .
 usalbackpacking.club CNAME .
 *.usalbackpacking.club CNAME .
 blbrd.cm CNAME .
@@ -6568,6 +6570,10 @@ quoraurls.life CNAME .
 *.quoraurls.life CNAME .
 quoraurlsite.life CNAME .
 *.quoraurlsite.life CNAME .
+redditp2pcredit.life CNAME .
+*.redditp2pcredit.life CNAME .
+redditsp2pcredit.life CNAME .
+*.redditsp2pcredit.life CNAME .
 regalacasian8.life CNAME .
 *.regalacasian8.life CNAME .
 review-us.life CNAME .
@@ -7406,6 +7412,8 @@ rcsurvey.live CNAME .
 *.rcsurvey.live CNAME .
 recruiment.live CNAME .
 *.recruiment.live CNAME .
+redditsp2pcredit.live CNAME .
+*.redditsp2pcredit.live CNAME .
 redem.live CNAME .
 *.redem.live CNAME .
 rehtek.live CNAME .
@@ -8052,6 +8060,8 @@ kla.me CNAME .
 *.kla.me CNAME .
 klck.me CNAME .
 *.klck.me CNAME .
+klykn.me CNAME .
+*.klykn.me CNAME .
 knnt.me CNAME .
 *.knnt.me CNAME .
 krpp.me CNAME .

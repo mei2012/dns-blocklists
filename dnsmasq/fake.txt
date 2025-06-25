@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jun 2025 14:20 UTC
-# Version: 2025.0624.1420.38
+# Last modified: 24 Jun 2025 22:42 UTC
+# Version: 2025.0624.2242.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14749
+# Number of entries: 14755
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -557,7 +557,9 @@ local=/anhanger-shop24.com/
 local=/anhanger360.com/
 local=/anhangercenter.com/
 local=/anhangerdienst.com/
+local=/anhangerplus.com/
 local=/anhangershop24.com/
+local=/anhangerworld.com/
 local=/ani--zoo.com/
 local=/anigame.shop/
 local=/anilswami.shop/
@@ -2766,6 +2768,7 @@ local=/consumptione.com/
 local=/container-sodex.com/
 local=/containercompany.shop/
 local=/containergmbh.de/
+local=/containerhandel-hamburg.de/
 local=/containerhaus-anhanger.de/
 local=/containert.com/
 local=/conthaus24.de/
@@ -3819,6 +3822,7 @@ local=/ekomia.shop/
 local=/ekomiade.shop/
 local=/checkout.ekommmedia.com/
 local=/eku-deutschland.de/
+local=/eku-handel.de/
 local=/ela-clo.com/
 local=/elanova.eu/
 local=/elbasforst.com/
@@ -4338,6 +4342,7 @@ local=/fahrradhandel-behrendt.de/
 local=/fahrradhandel-hartmann.de/
 local=/fahrradhandel-kappler.de/
 local=/fahrradhandel-kramer.de/
+local=/fahrradhandel-krause.de/
 local=/fahrradhandel-richter.de/
 local=/fahrradhandel-stanke.de/
 local=/fahrradhelden.com/
@@ -8907,6 +8912,7 @@ local=/motorrader24.de/
 local=/motorraderhelme.de/
 local=/motorraders.de/
 local=/motorsensen-shop.com/
+local=/motoz24h.com/
 local=/mottari-trucks.com/
 local=/motzenerdistribution.com/
 local=/motzkus-sport24.de/
@@ -9520,7 +9526,6 @@ local=/obroker.com/
 local=/obstkistefreiburg.shop/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -10544,7 +10549,6 @@ local=/prousbasketball.com/
 local=/proven-property.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/proximitye.com/
 local=/proximityi.com/
 local=/prozess-profi.de/
@@ -10750,6 +10754,7 @@ local=/rasen-matt.eu/
 local=/rasen-profis.de/
 local=/rasen24.com/
 local=/rasen24h.com/
+local=/rasenmahen24.com/
 local=/rasenmaherwendik.de/
 local=/rasenmotor.com/
 local=/rasenmuller.de/
@@ -12829,6 +12834,7 @@ local=/tesler-inc.trade/
 local=/test-iq-online.com/
 local=/test4.com/
 local=/testative.com/
+local=/testcortiy.com/
 local=/testomedstore.com/
 local=/testorino.de/
 local=/tetherc.com/
