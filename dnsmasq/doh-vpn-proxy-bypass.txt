@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jun 2025 00:00 UTC
-# Version: 2025.0625.0000.31
+# Last modified: 25 Jun 2025 08:05 UTC
+# Version: 2025.0625.0805.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4826
+# Number of entries: 4830
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1315,6 +1315,7 @@ local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1358,7 +1359,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1511,7 +1511,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1917,6 +1916,7 @@ local=/holavpnextension.com/
 local=/holavpnrussia.com/
 local=/holavpnworld.com/
 local=/holax.io/
+local=/hi.hollandweather.net/
 local=/beta.holyunblocker.org/
 local=/kyrgyzstan-travel.home.kg/
 local=/home-server.store/
@@ -2339,6 +2339,7 @@ local=/verynicewebsite.letz.dev/
 local=/dns.levonet.sk/
 local=/lewsha.lol/
 local=/dns2.lezainski.com/
+local=/kagurabachilover.lgmnow.com/
 local=/dns.lgprk.com/
 local=/dns.liberador.net/
 local=/libertyvpn.net/
@@ -2850,6 +2851,7 @@ local=/dns.ofdoom.net/
 local=/sleepykirby.ofmdirect.com/
 local=/okado.online/
 local=/okayfreedom.com/
+local=/tokyo-by-scrsa.okzk.com/
 local=/dns.olpploiopkuyhiopsfrt.info/
 local=/olympicproxy.net/
 local=/omegaproxy.com/
@@ -3435,6 +3437,7 @@ local=/imintheskibofiteverybodyknows.recca.cl/
 local=/interhead.recca.cl/
 local=/rammerstellar.recca.cl/
 local=/dns.reckoningslug.name/
+local=/vladimirloljk.lollipopyum.liveastheman.reconectar.cl/
 local=/ixl.recruitment7.com/
 local=/redhoodie.site/
 local=/redproxy.info/
@@ -3478,6 +3481,7 @@ local=/riseup.net/
 local=/rnblyatclub.online/
 local=/blob.ro0t.hm/
 local=/blobx.ro0t.hm/
+local=/reallysmart.robertofreire.ca/
 local=/skibidirizz.robinhud.com/
 local=/topdown.robtop.xyz/
 local=/topyea.robtop.xyz/

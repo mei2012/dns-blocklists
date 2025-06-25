@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750809600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750838700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Jun 2025 00:00 UTC
-; Version: 2025.0625.0000.31
+; Last modified: 25 Jun 2025 08:05 UTC
+; Version: 2025.0625.0805.29
 ; Syntax: RPZ
-; Number of entries: 9652
+; Number of entries: 9660
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -424,6 +424,8 @@ poiuytrewq.novipro.ca CNAME .
 *.poiuytrewq.novipro.ca CNAME .
 psiphon.ca CNAME .
 *.psiphon.ca CNAME .
+reallysmart.robertofreire.ca CNAME .
+*.reallysmart.robertofreire.ca CNAME .
 ryujinaerospace.shogun.ca CNAME .
 *.ryujinaerospace.shogun.ca CNAME .
 nexsos.syac.ca CNAME .
@@ -690,6 +692,8 @@ interhead.recca.cl CNAME .
 *.interhead.recca.cl CNAME .
 rammerstellar.recca.cl CNAME .
 *.rammerstellar.recca.cl CNAME .
+vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
+*.vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 doge.seel.cl CNAME .
 *.doge.seel.cl CNAME .
 start.succeed.cl CNAME .
@@ -1674,8 +1678,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2416,6 +2418,8 @@ let-vpn.com CNAME .
 *.let-vpn.com CNAME .
 dns2.lezainski.com CNAME .
 *.dns2.lezainski.com CNAME .
+kagurabachilover.lgmnow.com CNAME .
+*.kagurabachilover.lgmnow.com CNAME .
 dns.lgprk.com CNAME .
 *.dns.lgprk.com CNAME .
 likeproxy.com CNAME .
@@ -2744,6 +2748,8 @@ sleepykirby.ofmdirect.com CNAME .
 *.sleepykirby.ofmdirect.com CNAME .
 okayfreedom.com CNAME .
 *.okayfreedom.com CNAME .
+tokyo-by-scrsa.okzk.com CNAME .
+*.tokyo-by-scrsa.okzk.com CNAME .
 omegaproxy.com CNAME .
 *.omegaproxy.com CNAME .
 onlineanonymizer.com CNAME .
@@ -6436,6 +6442,8 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -6586,6 +6594,8 @@ pihole4.hoerli.net CNAME .
 *.pihole4.hoerli.net CNAME .
 holavpn.net CNAME .
 *.holavpn.net CNAME .
+hi.hollandweather.net CNAME .
+*.hi.hollandweather.net CNAME .
 homeproxy.net CNAME .
 *.homeproxy.net CNAME .
 dns.hostux.net CNAME .
@@ -8794,8 +8804,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
