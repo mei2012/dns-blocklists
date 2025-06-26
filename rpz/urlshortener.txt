@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750804980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750920240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jun 2025 22:43 UTC
-; Version: 2025.0624.2243.49
+; Last modified: 26 Jun 2025 06:44 UTC
+; Version: 2025.0626.0644.00
 ; Syntax: RPZ
-; Number of entries: 11966
+; Number of entries: 11976
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1634,6 +1634,8 @@ alturl.com CNAME .
 *.alturl.com CNAME .
 amzn.com CNAME .
 *.amzn.com CNAME .
+anytimefitnessinstagram.com CNAME .
+*.anytimefitnessinstagram.com CNAME .
 aorracer.com CNAME .
 *.aorracer.com CNAME .
 appbitly.com CNAME .
@@ -4104,6 +4106,8 @@ yeca.eu CNAME .
 *.yeca.eu CNAME .
 mbx.events CNAME .
 *.mbx.events CNAME .
+peak.fan CNAME .
+*.peak.fan CNAME .
 fifa.fans CNAME .
 *.fifa.fans CNAME .
 likes.fans CNAME .
@@ -5132,6 +5136,8 @@ infostarenas.info CNAME .
 *.infostarenas.info CNAME .
 iplogger.info CNAME .
 *.iplogger.info CNAME .
+itdad.info CNAME .
+*.itdad.info CNAME .
 jamaica-applicants.info CNAME .
 *.jamaica-applicants.info CNAME .
 jdqf.info CNAME .
@@ -6314,6 +6320,8 @@ esabong.life CNAME .
 *.esabong.life CNAME .
 faiq09824.life CNAME .
 *.faiq09824.life CNAME .
+fenditorosiatoter.life CNAME .
+*.fenditorosiatoter.life CNAME .
 findanupgopuram.life CNAME .
 *.findanupgopuram.life CNAME .
 firstweber.life CNAME .
@@ -6484,6 +6492,8 @@ mr-kern-al7.life CNAME .
 *.mr-kern-al7.life CNAME .
 mteaprideevent.life CNAME .
 *.mteaprideevent.life CNAME .
+mute-fill-mood.life CNAME .
+*.mute-fill-mood.life CNAME .
 my-elizabeth.life CNAME .
 *.my-elizabeth.life CNAME .
 my-gay.life CNAME .

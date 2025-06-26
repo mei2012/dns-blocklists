@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 00:11 UTC
-# Version: 2025.0626.0011.53
+# Last modified: 26 Jun 2025 08:05 UTC
+# Version: 2025.0626.0805.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4842
+# Number of entries: 4837
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -966,7 +966,6 @@ local=/b.cpfrx.info/
 local=/c.cpfrx.info/
 local=/e.cpfrx.info/
 local=/www.i.cpfrx.info/
-local=/teste.g.crabdance.com/
 local=/rammerhead.crackerstreams.org/
 local=/cracksite.info/
 local=/crawlbase.com/
@@ -1362,7 +1361,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1515,7 +1513,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2009,7 +2006,6 @@ local=/curry.idemonch.cl/
 local=/class.recap.idiaga.com/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
-local=/teste.g.ignorelist.com/
 local=/heb1.ignorelist.com/
 local=/subscribe-to-vcsa.ignorelist.com/
 local=/test52139.ignorelist.com/
@@ -3619,7 +3615,6 @@ local=/dns1.serdcebolit.ru/
 local=/serkanarslan.com/
 local=/privatnas.servebeer.com/
 local=/serverhoya.com/
-local=/harrypotter.serverpit.com/
 local=/serverssh.net/
 local=/assets-prod-a230.s3.serverwild.com/
 local=/pod.servicegrup.ro/
