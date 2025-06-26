@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jun 2025 15:42 UTC
-# Version: 2025.0625.1542.14
+# Last modified: 26 Jun 2025 00:11 UTC
+# Version: 2025.0626.0011.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4834
+# Number of entries: 4842
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -211,6 +211,7 @@ local=/shield.afixer.app/
 local=/research.africa.com/
 local=/gov.goal.agilewhitecloud.com/
 local=/agmath.xyz/
+local=/ebooks-edu.agmlabs.com/
 local=/wha.agmlabs.com/
 local=/ahadns.net/
 local=/blitz.ahadns.com/
@@ -874,6 +875,7 @@ local=/dns.ceai.com.tw/
 local=/budget.chodos.com.ar/
 local=/dns.cloud88.com.au/
 local=/about.cmbazan.com.ar/
+local=/state.lab.covi.com.ar/
 local=/croxyproxy.com.in/
 local=/echan.faizinternational.com.np/
 local=/info.faizinternational.com.np/
@@ -964,6 +966,7 @@ local=/b.cpfrx.info/
 local=/c.cpfrx.info/
 local=/e.cpfrx.info/
 local=/www.i.cpfrx.info/
+local=/teste.g.crabdance.com/
 local=/rammerhead.crackerstreams.org/
 local=/cracksite.info/
 local=/crawlbase.com/
@@ -1763,6 +1766,7 @@ local=/fractioncaculator.govt.hu/
 local=/gowork.info/
 local=/gpreport.us/
 local=/gracarno.com/
+local=/basic.idea.gracesiefer.com/
 local=/doge.gracyjohns.cl/
 local=/graef.in/
 local=/grammarhelpers.com/
@@ -2005,6 +2009,7 @@ local=/curry.idemonch.cl/
 local=/class.recap.idiaga.com/
 local=/idolproxy.com/
 local=/adguard.shuting.idv.tw/
+local=/teste.g.ignorelist.com/
 local=/heb1.ignorelist.com/
 local=/subscribe-to-vcsa.ignorelist.com/
 local=/test52139.ignorelist.com/
@@ -2214,6 +2219,7 @@ local=/dns.kastner-online.de/
 local=/katonetwork.com/
 local=/kavkaz.monster/
 local=/dns.kawa.tf/
+local=/base.train.kdits.ca/
 local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
@@ -2640,7 +2646,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3614,6 +3619,7 @@ local=/dns1.serdcebolit.ru/
 local=/serkanarslan.com/
 local=/privatnas.servebeer.com/
 local=/serverhoya.com/
+local=/harrypotter.serverpit.com/
 local=/serverssh.net/
 local=/assets-prod-a230.s3.serverwild.com/
 local=/pod.servicegrup.ro/
@@ -4043,6 +4049,7 @@ local=/jp.tiar.app/
 local=/doh.tiarap.org/
 local=/jp.tiarap.org/
 local=/prestonhitgrandmasterinyorkmate.tice-industries.com/
+local=/world.guide.ticinostudio.com/
 local=/tigervpn.com/
 local=/tigrons.ru/
 local=/tikvpn.com/
@@ -4678,6 +4685,7 @@ local=/wikimedia-dns.org/
 local=/wiksa.com/
 local=/dns-1.wil.cloud/
 local=/dns-2.wil.cloud/
+local=/tests.excel.wild1.net/
 local=/wildproxy.info/
 local=/education.wildsurf.net/
 local=/pirate.wildsurf.net/

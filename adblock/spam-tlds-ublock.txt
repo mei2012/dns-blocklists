@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 25 Jun 2025 15:42 UTC
-! Version: 2025.0625.1542.48
+! Last modified: 26 Jun 2025 00:12 UTC
+! Version: 2025.0626.0012.32
 ! Syntax: uBlock
 ! Number of latin TLDs: 270 - non-latin TLDs: 151
 !
@@ -65,7 +65,7 @@
 ||claims^$doc
 ||click^$doc,domain=~buybox.click|~popcat.click|~popdog.click|~qr-code.click|~ravelin.click|~wmg.click
 ||clothing^$doc
-||club^$doc,domain=~baby-beamup.club|~chinaq.club|~digipres.club|~hack.club|~hd-olimpo.club|~mbcherohub.club|~skin.club|~thelemmy.club
+||club^$doc,domain=~baby-beamup.club|~chinaq.club|~digipres.club|~hack.club|~hd-olimpo.club|~mbcherohub.club|~rwinfo.club|~skin.club|~thelemmy.club
 ||college^$doc
 ||computer^$doc,domain=~libre.computer|~neat.computer|~silly.computer
 ||consulting^$doc
@@ -228,7 +228,7 @@
 ||science^$doc,domain=~canonn.science|~hal.science|~wander.science
 ||sew^$doc
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
-||shop^$doc,domain=~11ts.shop|~4id.shop|~chessvibes.shop|~durst.shop|~eventix.shop|~freshtorge.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~kalypso.shop|~majblomman.shop|~munu.shop|~nordland.shop|~owl-dampfer.shop|~schweden.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~xn--dnemark-5wa.shop
+||shop^$doc,domain=~11ts.shop|~4id.shop|~chessvibes.shop|~durst.shop|~eventix.shop|~freshtorge.shop|~frontiers.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~kalypso.shop|~majblomman.shop|~munu.shop|~music-merchant.shop|~nordland.shop|~owl-dampfer.shop|~schweden.shop|~scorpions.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~xn--dnemark-5wa.shop
 ||shopping^$doc
 ||show^$doc,domain=~camz.show|~j.show
 ||site^$doc,domain=~7mb.site|~additive-apps.site|~aftermath.site|~bio.site|~claude.site|~fbsmarthome.site|~gov-img.site|~i5i.site|~kaylees.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~wishonly.site|~wolow.site|~wpdns.site
@@ -255,7 +255,7 @@
 ||tk^$doc,domain=~bstweaker.tk|~budterence.tk|~c-r-t.tk|~google.tk|~goshujin.tk|~kabi.tk|~sironi.tk|~tokelau-info.tk|~xn--qubec-csa.tk|~zete.tk
 ||today^$doc,domain=~archive.today|~futurology.today|~lemmy.today|~oldweb.today|~type.today
 ||tokyo^$doc
-||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~edgeless.top|~imxyz.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~qwertycxz.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
+||top^$doc,domain=~ambr.top|~caitlin.top|~chillx.top|~corriente.top|~edgeless.top|~imxyz.top|~mastodon.top|~mianbeian.top|~nfmirrorcdn.top|~pegelinux.top|~polar.top|~qwertycxz.top|~reminder.top|~saltwood.top|~shucks.top|~strims.top|~suiten.top|~thedesk.top|~vsdb.top
 ||town^$doc
 ||trade^$doc,domain=~composer.trade|~dx.trade|~kite.trade
 ||trading^$doc

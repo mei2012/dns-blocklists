@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750865760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750896360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Jun 2025 15:36 UTC
-; Version: 2025.0625.1536.57
+; Last modified: 26 Jun 2025 00:06 UTC
+; Version: 2025.0626.0006.30
 ; Syntax: RPZ
-; Number of entries: 129776
+; Number of entries: 129752
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -18505,6 +18505,8 @@ images.3138722.com CNAME .
 *.322112.com CNAME .
 322betsapp.com CNAME .
 *.322betsapp.com CNAME .
+3237.com CNAME .
+*.3237.com CNAME .
 32betsapp.com CNAME .
 *.32betsapp.com CNAME .
 32betslot.com CNAME .
@@ -20317,14 +20319,8 @@ images.6440949940.com CNAME .
 *.68ucasino.com CNAME .
 68win26.com CNAME .
 *.68win26.com CNAME .
-asstook.68winapi.com CNAME .
-*.asstook.68winapi.com CNAME .
 asstook.68winbin.com CNAME .
 *.asstook.68winbin.com CNAME .
-andcniw86.68wincdn.com CNAME .
-*.andcniw86.68wincdn.com CNAME .
-assoniw86.68winoss.com CNAME .
-*.assoniw86.68winoss.com CNAME .
 68z-slots.com CNAME .
 *.68z-slots.com CNAME .
 691514.com CNAME .
@@ -21679,8 +21675,6 @@ assoff6.6ffoss.com CNAME .
 *.888win9.com CNAME .
 888wwin-slots.com CNAME .
 *.888wwin-slots.com CNAME .
-cdn.888zfym.com CNAME .
-*.cdn.888zfym.com CNAME .
 pv9g7x12i.888zfym.com CNAME .
 *.pv9g7x12i.888zfym.com CNAME .
 8897-slots.com CNAME .
@@ -27861,8 +27855,6 @@ bj88slots.com CNAME .
 *.bj88slots.com CNAME .
 bjogo.com CNAME .
 *.bjogo.com CNAME .
-001fxh9-tiger-fluid.bjravv03.com CNAME .
-*.001fxh9-tiger-fluid.bjravv03.com CNAME .
 bjtyby.com CNAME .
 *.bjtyby.com CNAME .
 bk-leon-bets.com CNAME .
@@ -55803,8 +55795,6 @@ rocketspin.com CNAME .
 *.rocketspin.com CNAME .
 rockitnapptural.com CNAME .
 *.rockitnapptural.com CNAME .
-rstat.rockmostbet.com CNAME .
-*.rstat.rockmostbet.com CNAME .
 rocknrollacasino.com CNAME .
 *.rocknrollacasino.com CNAME .
 rocnationcasino.com CNAME .
@@ -58415,8 +58405,6 @@ socialslotspin.com CNAME .
 *.socialslotspin.com CNAME .
 socpublic.com CNAME .
 *.socpublic.com CNAME .
-upload.sodo121.com CNAME .
-*.upload.sodo121.com CNAME .
 sodo66casino.com CNAME .
 *.sodo66casino.com CNAME .
 sodocasinoearthgang.com CNAME .
@@ -76979,8 +76967,6 @@ krakenofficaldarkfield.net CNAME .
 *.krakenofficaldarkfield.net CNAME .
 krcasino.net CNAME .
 *.krcasino.net CNAME .
-ku11.net CNAME .
-*.ku11.net CNAME .
 ku558.net CNAME .
 *.ku558.net CNAME .
 ku998.net CNAME .
@@ -84245,10 +84231,6 @@ cncommunication.org CNAME .
 *.cncommunication.org CNAME .
 coklatpoker88.org CNAME .
 *.coklatpoker88.org CNAME .
-ipv4.colgagnez.org CNAME .
-*.ipv4.colgagnez.org CNAME .
-ipv6.colgagnez.org CNAME .
-*.ipv6.colgagnez.org CNAME .
 coloradoparks.org CNAME .
 *.coloradoparks.org CNAME .
 colourlottery.org CNAME .
@@ -110923,12 +110905,6 @@ skycrowncasinonz.top CNAME .
 *.skycrowncasinonz.top CNAME .
 slot-v-casino.top CNAME .
 *.slot-v-casino.top CNAME .
-cdn.slot8888.top CNAME .
-*.cdn.slot8888.top CNAME .
-cdnapiif.slot8888.top CNAME .
-*.cdnapiif.slot8888.top CNAME .
-cdnapiif.slot88888.top CNAME .
-*.cdnapiif.slot88888.top CNAME .
 slotgames-online-casino24.top CNAME .
 *.slotgames-online-casino24.top CNAME .
 slotgamescasino.top CNAME .

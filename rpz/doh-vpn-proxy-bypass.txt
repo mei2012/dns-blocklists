@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750866120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750896660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Jun 2025 15:42 UTC
-; Version: 2025.0625.1542.14
+; Last modified: 26 Jun 2025 00:11 UTC
+; Version: 2025.0626.0011.53
 ; Syntax: RPZ
-; Number of entries: 9668
+; Number of entries: 9684
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -210,6 +210,8 @@ budget.chodos.com.ar CNAME .
 *.budget.chodos.com.ar CNAME .
 about.cmbazan.com.ar CNAME .
 *.about.cmbazan.com.ar CNAME .
+state.lab.covi.com.ar CNAME .
+*.state.lab.covi.com.ar CNAME .
 doge.intinet.com.ar CNAME .
 *.doge.intinet.com.ar CNAME .
 encryption.madereramilano.com.ar CNAME .
@@ -404,6 +406,8 @@ ag.ff0x.ca CNAME .
 *.ag.ff0x.ca CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
+base.train.kdits.ca CNAME .
+*.base.train.kdits.ca CNAME .
 classroom.google.com.l5.ca CNAME .
 *.classroom.google.com.l5.ca CNAME .
 docs.google.l5.ca CNAME .
@@ -1030,6 +1034,8 @@ research.africa.com CNAME .
 *.research.africa.com CNAME .
 gov.goal.agilewhitecloud.com CNAME .
 *.gov.goal.agilewhitecloud.com CNAME .
+ebooks-edu.agmlabs.com CNAME .
+*.ebooks-edu.agmlabs.com CNAME .
 wha.agmlabs.com CNAME .
 *.wha.agmlabs.com CNAME .
 blitz.ahadns.com CNAME .
@@ -1488,6 +1494,8 @@ coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
+teste.g.crabdance.com CNAME .
+*.teste.g.crabdance.com CNAME .
 crawlbase.com CNAME .
 *.crawlbase.com CNAME .
 createssh.com CNAME .
@@ -1976,6 +1984,8 @@ gotrusted.com CNAME .
 *.gotrusted.com CNAME .
 gracarno.com CNAME .
 *.gracarno.com CNAME .
+basic.idea.gracesiefer.com CNAME .
+*.basic.idea.gracesiefer.com CNAME .
 grammarhelpers.com CNAME .
 *.grammarhelpers.com CNAME .
 gratisvpn.com CNAME .
@@ -2160,6 +2170,8 @@ class.recap.idiaga.com CNAME .
 *.class.recap.idiaga.com CNAME .
 idolproxy.com CNAME .
 *.idolproxy.com CNAME .
+teste.g.ignorelist.com CNAME .
+*.teste.g.ignorelist.com CNAME .
 heb1.ignorelist.com CNAME .
 *.heb1.ignorelist.com CNAME .
 subscribe-to-vcsa.ignorelist.com CNAME .
@@ -2628,8 +2640,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3282,6 +3292,8 @@ privatnas.servebeer.com CNAME .
 *.privatnas.servebeer.com CNAME .
 serverhoya.com CNAME .
 *.serverhoya.com CNAME .
+harrypotter.serverpit.com CNAME .
+*.harrypotter.serverpit.com CNAME .
 assets-prod-a230.s3.serverwild.com CNAME .
 *.assets-prod-a230.s3.serverwild.com CNAME .
 setupvpn.com CNAME .
@@ -3624,6 +3636,8 @@ tiafun.com CNAME .
 *.tiafun.com CNAME .
 prestonhitgrandmasterinyorkmate.tice-industries.com CNAME .
 *.prestonhitgrandmasterinyorkmate.tice-industries.com CNAME .
+world.guide.ticinostudio.com CNAME .
+*.world.guide.ticinostudio.com CNAME .
 tigervpn.com CNAME .
 *.tigervpn.com CNAME .
 tikvpn.com CNAME .
@@ -7190,6 +7204,8 @@ whatsonthebox.net CNAME .
 *.whatsonthebox.net CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
+tests.excel.wild1.net CNAME .
+*.tests.excel.wild1.net CNAME .
 education.wildsurf.net CNAME .
 *.education.wildsurf.net CNAME .
 pirate.wildsurf.net CNAME .
