@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 08:05 UTC
-# Version: 2025.0626.0805.19
+# Last modified: 26 Jun 2025 15:44 UTC
+# Version: 2025.0626.1544.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4837
+# Number of entries: 4839
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1077,6 +1077,7 @@ local=/desec.io/
 local=/desertsand.us/
 local=/adguard.lege.despagne.net/
 local=/doh-primary-pool.detoxifypornblocker.com/
+local=/dev-ngrok.com/
 local=/dns.dev-umbrellagov.com/
 local=/learn.devmon.ru/
 local=/study.know.devreler.com/
@@ -3792,6 +3793,7 @@ local=/dns.sstomp.nl/
 local=/stable-vpn.com/
 local=/stackfront.xyz/
 local=/auraaa.staffordesq.com/
+local=/stage-ngrok.com/
 local=/use.star.is/
 local=/tests.data.stardustcommercialservices.com/
 local=/stargate.one/
