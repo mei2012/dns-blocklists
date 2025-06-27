@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751006820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751021040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 06:47 UTC
-; Version: 2025.0627.0647.56
+; Last modified: 27 Jun 2025 10:44 UTC
+; Version: 2025.0627.1044.40
 ; Syntax: RPZ
-; Number of entries: 11958
+; Number of entries: 11924
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -884,8 +884,6 @@ aakem.click CNAME .
 *.aakem.click CNAME .
 alas.click CNAME .
 *.alas.click CNAME .
-alibuy.click CNAME .
-*.alibuy.click CNAME .
 asus.click CNAME .
 *.asus.click CNAME .
 biotap.click CNAME .
@@ -1604,16 +1602,12 @@ adsmoker.com CNAME .
 *.adsmoker.com CNAME .
 agileurbia.com CNAME .
 *.agileurbia.com CNAME .
-agirz.com CNAME .
-*.agirz.com CNAME .
 agphosting.com CNAME .
 *.agphosting.com CNAME .
 ahgzp.com CNAME .
 *.ahgzp.com CNAME .
 aiecj2.com CNAME .
 *.aiecj2.com CNAME .
-aighy.com CNAME .
-*.aighy.com CNAME .
 ajher.com CNAME .
 *.ajher.com CNAME .
 alien-traffic.com CNAME .
@@ -6136,8 +6130,6 @@ ada-shorts.life CNAME .
 *.ada-shorts.life CNAME .
 addict-tt27.life CNAME .
 *.addict-tt27.life CNAME .
-adoj36.life CNAME .
-*.adoj36.life CNAME .
 adrians-guzman-81.life CNAME .
 *.adrians-guzman-81.life CNAME .
 adult-haem-home.life CNAME .
@@ -6146,24 +6138,12 @@ afb88.life CNAME .
 *.afb88.life CNAME .
 ai-beast-online.life CNAME .
 *.ai-beast-online.life CNAME .
-airvin17.life CNAME .
-*.airvin17.life CNAME .
 aisc.life CNAME .
 *.aisc.life CNAME .
 alex-test-1.life CNAME .
 *.alex-test-1.life CNAME .
 alldemetrius.life CNAME .
 *.alldemetrius.life CNAME .
-alys-lacey-05.life CNAME .
-*.alys-lacey-05.life CNAME .
-an-up-gop-u-ram.life CNAME .
-*.an-up-gop-u-ram.life CNAME .
-ana-lid-ia-estevez-ortiz.life CNAME .
-*.ana-lid-ia-estevez-ortiz.life CNAME .
-anacapiaestevezortiz.life CNAME .
-*.anacapiaestevezortiz.life CNAME .
-analidiaestevezortizs.life CNAME .
-*.analidiaestevezortizs.life CNAME .
 anupgopurams.life CNAME .
 *.anupgopurams.life CNAME .
 aozczwj.life CNAME .
@@ -7034,10 +7014,6 @@ account-verification-man-seeking-man-mps.live CNAME .
 *.account-verification-man-seeking-man-mps.live CNAME .
 adeolasagay.live CNAME .
 *.adeolasagay.live CNAME .
-adveduardoalvesinc.live CNAME .
-*.adveduardoalvesinc.live CNAME .
-age-smart-ch.live CNAME .
-*.age-smart-ch.live CNAME .
 agen303.live CNAME .
 *.agen303.live CNAME .
 aisc.live CNAME .
@@ -7048,12 +7024,8 @@ akivulhasan.live CNAME .
 *.akivulhasan.live CNAME .
 alias.live CNAME .
 *.alias.live CNAME .
-alibuy.live CNAME .
-*.alibuy.live CNAME .
 alongno1.live CNAME .
 *.alongno1.live CNAME .
-alpha-air.live CNAME .
-*.alpha-air.live CNAME .
 apply-here.live CNAME .
 *.apply-here.live CNAME .
 appusps.live CNAME .
@@ -10218,8 +10190,6 @@ abbr.site CNAME .
 *.abbr.site CNAME .
 abdn.site CNAME .
 *.abdn.site CNAME .
-ace777hitamasik.site CNAME .
-*.ace777hitamasik.site CNAME .
 alturl.site CNAME .
 *.alturl.site CNAME .
 as1ansl0t88.site CNAME .
@@ -10828,14 +10798,10 @@ videos.pbi.tools CNAME .
 *.videos.pbi.tools CNAME .
 1link.top CNAME .
 *.1link.top CNAME .
-abpl.top CNAME .
-*.abpl.top CNAME .
 aghq.top CNAME .
 *.aghq.top CNAME .
 amspi.top CNAME .
 *.amspi.top CNAME .
-anep.top CNAME .
-*.anep.top CNAME .
 ansaj.top CNAME .
 *.ansaj.top CNAME .
 anvcc.top CNAME .

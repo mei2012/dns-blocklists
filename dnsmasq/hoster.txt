@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Jun 2025 18:21 UTC
-# Version: 2025.0623.1821.52
+# Last modified: 27 Jun 2025 10:44 UTC
+# Version: 2025.0627.1044.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2147
+# Number of entries: 2146
 #
 local=/000a.de/
 local=/000free.us/
@@ -215,7 +215,6 @@ local=/ahlamountada.com/
 local=/aioblogs.com/
 local=/airground.club/
 local=/airself.shop/
-local=/akgoj.cn/
 local=/akuanakmamah.de/
 local=/al6.de/
 local=/alavps.com/
