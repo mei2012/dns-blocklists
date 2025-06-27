@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 15:44 UTC
-# Version: 2025.0626.1544.20
+# Last modified: 27 Jun 2025 00:08 UTC
+# Version: 2025.0627.0008.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4839
+# Number of entries: 4857
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -59,7 +59,6 @@ local=/12vpx.com/
 local=/liverpoolontop.1337.cx/
 local=/canva.login.1337.cx/
 local=/goal.music.1337.cx/
-local=/dns.13evl.com/
 local=/16yd.com/
 local=/cloud.198.games/
 local=/1and1-dns.de/
@@ -1010,7 +1009,6 @@ local=/ab.ctx.cl/
 local=/academy.ctx.cl/
 local=/vynox.ctx.cl/
 local=/cubedns.com/
-local=/qual.cuprum.ru/
 local=/curd.io/
 local=/amir1.cuza16.ro/
 local=/cozy.cuza16.ro/
@@ -1362,6 +1360,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1514,6 +1513,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1983,7 +1983,6 @@ local=/unusual.hypernormal.org/
 local=/h5.wan.360.23xinyou.51.3w2.cc.nc.hzlqun.cn/
 local=/i2p-projekt.de/
 local=/i2pd.xyz/
-local=/vd.i81.ru/
 local=/vpn.i81.ru/
 local=/beepboopbop.iamadeveloper.dev/
 local=/dns.iamanuragh.in/
@@ -2303,7 +2302,6 @@ local=/largero.com/
 local=/thisforcinco.larrondoinstalaciones.cl/
 local=/dns.lars-lehmann.net/
 local=/larva.app/
-local=/dns.lashes-brow.ru/
 local=/lastentarvike.fi/
 local=/chart.words.lasvegasanonymous.org/
 local=/eu1.dns.lavate.ch/
@@ -2398,7 +2396,6 @@ local=/edu.loskks.org/
 local=/bolt.louis-ip.com/
 local=/koolaid.lozan.com/
 local=/worldwaronehistory.lozan.com/
-local=/n5.lsasss.com/
 local=/ltlxvxjjmvhn.me/
 local=/btg.ludopop.cl/
 local=/lukscasino-479-tr.xyz/
@@ -2643,6 +2640,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2860,7 +2858,6 @@ local=/tokyo-by-scrsa.okzk.com/
 local=/dns.olpploiopkuyhiopsfrt.info/
 local=/olympicproxy.net/
 local=/omegaproxy.com/
-local=/adguard.oms-ctr.ru/
 local=/onconnect.info/
 local=/skills.field.cftc-devoteam.one.pl/
 local=/one.one.one.one/
@@ -3806,10 +3803,31 @@ local=/ams1.startpage.com/
 local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
-local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/proxy1.startpage.com/
-local=/proxy2.startpage.com/
+local=/0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com/
+local=/071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com/
+local=/0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com/
+local=/1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com/
+local=/51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com/
+local=/5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com/
+local=/787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com/
+local=/919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com/
+local=/9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com/
+local=/954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com/
+local=/aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com/
+local=/afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com/
+local=/c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com/
+local=/c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com/
+local=/c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com/
+local=/cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com/
+local=/dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com/
+local=/e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com/
+local=/ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com/
+local=/f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com/
+local=/f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com/
+local=/fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com/
+local=/session.proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/

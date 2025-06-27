@@ -11,18 +11,16 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 14:23 UTC
-# Version: 2025.0626.1423.15
+# Last modified: 26 Jun 2025 22:46 UTC
+# Version: 2025.0626.2246.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5989
+# Number of entries: 5984
 #
-local=/0.gp/
 local=/00oo.lol/
 local=/010.at/
 local=/02faq.com/
 local=/03.wf/
 local=/072.sh/
-local=/0805.info/
 local=/08url.com/
 local=/0987.win/
 local=/0a.sk/
@@ -49,7 +47,6 @@ local=/123.ge/
 local=/123l.pro/
 local=/123link.co/
 local=/123lnk.xyz/
-local=/124.video/
 local=/126.am/
 local=/12ne.ws/
 local=/12p.eu/
@@ -99,7 +96,6 @@ local=/1wrd.org/
 local=/1z.lc/
 local=/1zr.in/
 local=/2.gd/
-local=/2.gp/
 local=/2.ht/
 local=/2.ly/
 local=/20.dk/
@@ -5742,7 +5738,6 @@ local=/xgd.in/
 local=/xi.ht/
 local=/xib.me/
 local=/xiqi.us/
-local=/xjroy.com/
 local=/xjyus.sbs/
 local=/xkvpf.com/
 local=/xl8.eu/

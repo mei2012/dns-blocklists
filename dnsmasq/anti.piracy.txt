@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 15:39 UTC
-# Version: 2025.0626.1539.45
+# Last modified: 27 Jun 2025 00:03 UTC
+# Version: 2025.0627.0003.36
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10044
 #
@@ -194,6 +194,7 @@ local=/1watch-free.cc/
 local=/1watch-free.me/
 local=/1xstream.com/
 local=/20links.com/
+local=/t.213891.xyz/
 local=/22-hd.com/
 local=/tracker.23794.top/
 local=/23movies.xyz/
@@ -7267,7 +7268,6 @@ local=/rutracker.wiki/
 local=/ryjer.com/
 local=/ryuanime.com/
 local=/s.to/
-local=/s-telecharger.com/
 local=/s0ft4pc.com/
 local=/s2dfree.cc/
 local=/s2dfree.de/

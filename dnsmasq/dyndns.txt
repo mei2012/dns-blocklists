@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 15:43 UTC
-# Version: 2025.0626.1543.41
+# Last modified: 27 Jun 2025 00:07 UTC
+# Version: 2025.0627.0007.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1477
+# Number of entries: 1474
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -19,7 +19,6 @@ local=/120v.ac/
 local=/1337.cx/
 local=/16-b.it/
 local=/1cooldns.com/
-local=/1dumb.com/
 local=/2288.org/
 local=/24-7.ro/
 local=/25u.com/
@@ -1140,7 +1139,6 @@ local=/port25.biz/
 local=/portalindustries.org/
 local=/portfwd.com/
 local=/portmap.host/
-local=/possessed.us/
 local=/prettyweak.com/
 local=/priamaakcia.sk/
 local=/privatedns.com/
@@ -1451,7 +1449,6 @@ local=/worse-than.tv/
 local=/writesthisblog.com/
 local=/www1.biz/
 local=/wwwhost.biz/
-local=/wwwhost.us/
 local=/x24hr.com/
 local=/x443.pw/
 local=/xddns.de/

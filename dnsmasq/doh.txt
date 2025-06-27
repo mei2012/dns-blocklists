@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jun 2025 08:04 UTC
-# Version: 2025.0626.0804.57
+# Last modified: 27 Jun 2025 00:08 UTC
+# Version: 2025.0627.0008.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1442
+# Number of entries: 1438
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -16,7 +16,6 @@ local=/0ms.dev/
 local=/dns.0ooo.icu/
 local=/dns.0x55.net/
 local=/123000123.xyz/
-local=/dns.13evl.com/
 local=/cloud.198.games/
 local=/1and1-dns.de/
 local=/233py.com/
@@ -291,7 +290,6 @@ local=/dns.csa-rz.de/
 local=/dns.csaonline.de/
 local=/dns.csswg.org/
 local=/cubedns.com/
-local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
 local=/dns.cybertonic.tech/
 local=/cynntex.fun/
@@ -516,6 +514,7 @@ local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -559,6 +558,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
 local=/dns01.flm9.net/
@@ -585,7 +585,6 @@ local=/dns.gamban.com/
 local=/adguard.gambini.org/
 local=/dns.beta.gandi.net/
 local=/adg.geili.me/
-local=/geshido.vpn.geshido.ru/
 local=/getdnsapi.net/
 local=/gibblets.top/
 local=/adguard.maison.gifino.fr/
@@ -657,7 +656,6 @@ local=/dns.huyhoangit.net/
 local=/dns.hypercute.eu/
 local=/opennic.i2pd.xyz/
 local=/opennic2.i2pd.xyz/
-local=/vd.i81.ru/
 local=/dns.iamanuragh.in/
 local=/dns.iamninja.ru/
 local=/mask.icloud.com/
@@ -770,7 +768,6 @@ local=/agh.kyusang.win/
 local=/dns.l337.site/
 local=/doh.lacontrevoie.fr/
 local=/dns.lars-lehmann.net/
-local=/dns.lashes-brow.ru/
 local=/lastentarvike.fi/
 local=/eu1.dns.lavate.ch/
 local=/us1.dns.lavate.ch/
@@ -807,7 +804,6 @@ local=/doh.phdns2.lonet.org/
 local=/doh.phdns3.lonet.org/
 local=/doh.phdns4.lonet.org/
 local=/doh.phdns5.lonet.org/
-local=/n5.lsasss.com/
 local=/lukscasino-479-tr.xyz/
 local=/lukscasino-542-tr.xyz/
 local=/lukscasino-929-tr.xyz/
@@ -902,6 +898,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1012,7 +1009,6 @@ local=/dns.odinpl.com/
 local=/dns.ofdoom.net/
 local=/okado.online/
 local=/dns.olpploiopkuyhiopsfrt.info/
-local=/adguard.oms-ctr.ru/
 local=/one.one.one.one/
 local=/doh.onedns.net/
 local=/doh-pure.onedns.net/

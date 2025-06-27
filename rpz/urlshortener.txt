@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750947780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1750977960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jun 2025 14:23 UTC
-; Version: 2025.0626.1423.15
+; Last modified: 26 Jun 2025 22:46 UTC
+; Version: 2025.0626.2246.19
 ; Syntax: RPZ
-; Number of entries: 11978
+; Number of entries: 11968
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3510,8 +3510,6 @@ xdsnht.com CNAME .
 *.xdsnht.com CNAME .
 xfiqe.com CNAME .
 *.xfiqe.com CNAME .
-xjroy.com CNAME .
-*.xjroy.com CNAME .
 xkvpf.com CNAME .
 *.xkvpf.com CNAME .
 xmekz.com CNAME .
@@ -4458,10 +4456,6 @@ on.nyc.gov CNAME .
 *.on.nyc.gov CNAME .
 go.usa.gov CNAME .
 *.go.usa.gov CNAME .
-0.gp CNAME .
-*.0.gp CNAME .
-2.gp CNAME .
-*.2.gp CNAME .
 4.gp CNAME .
 *.4.gp CNAME .
 5.gp CNAME .
@@ -5012,8 +5006,6 @@ znly.in CNAME .
 *.znly.in CNAME .
 go.zordo.in CNAME .
 *.go.zordo.in CNAME .
-0805.info CNAME .
-*.0805.info CNAME .
 1ink.info CNAME .
 *.1ink.info CNAME .
 2it.info CNAME .
@@ -11608,8 +11600,6 @@ zc.vg CNAME .
 *.zc.vg CNAME .
 oli.vi CNAME .
 *.oli.vi CNAME .
-124.video CNAME .
-*.124.video CNAME .
 bcove.video CNAME .
 *.bcove.video CNAME .
 dronescapes.video CNAME .
