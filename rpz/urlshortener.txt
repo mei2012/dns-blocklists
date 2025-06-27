@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750977960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751006820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jun 2025 22:46 UTC
-; Version: 2025.0626.2246.19
+; Last modified: 27 Jun 2025 06:47 UTC
+; Version: 2025.0627.0647.56
 ; Syntax: RPZ
-; Number of entries: 11968
+; Number of entries: 11958
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4456,12 +4456,6 @@ on.nyc.gov CNAME .
 *.on.nyc.gov CNAME .
 go.usa.gov CNAME .
 *.go.usa.gov CNAME .
-4.gp CNAME .
-*.4.gp CNAME .
-5.gp CNAME .
-*.5.gp CNAME .
-6.gp CNAME .
-*.6.gp CNAME .
 act.gp CNAME .
 *.act.gp CNAME .
 aka.gr CNAME .
@@ -6136,8 +6130,6 @@ zdrive.li CNAME .
 *.zdrive.li CNAME .
 zxc.li CNAME .
 *.zxc.li CNAME .
-777online.life CNAME .
-*.777online.life CNAME .
 a101indirimleriaktuel.life CNAME .
 *.a101indirimleriaktuel.life CNAME .
 ada-shorts.life CNAME .
@@ -8872,8 +8864,6 @@ wn.nr CNAME .
 *.wn.nr CNAME .
 go.lsb.nrw CNAME .
 *.go.lsb.nrw CNAME .
-52.nu CNAME .
-*.52.nu CNAME .
 73.nu CNAME .
 *.73.nu CNAME .
 ddw.nu CNAME .

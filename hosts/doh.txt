@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 00:08 UTC
-# Version: 2025.0627.0008.09
+# Last modified: 27 Jun 2025 08:08 UTC
+# Version: 2025.0627.0808.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1599
+# Number of entries: 1604
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -16,6 +16,7 @@
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 dns.0x55.net
 0.0.0.0 123000123.xyz
+0.0.0.0 dns.13evl.com
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
 0.0.0.0 233py.com
@@ -358,6 +359,7 @@
 0.0.0.0 dns.csaonline.de
 0.0.0.0 dns.csswg.org
 0.0.0.0 cubedns.com
+0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
 0.0.0.0 cynntex.fun
@@ -667,7 +669,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -694,6 +695,7 @@
 0.0.0.0 adguard.gambini.org
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 adg.geili.me
+0.0.0.0 geshido.vpn.geshido.ru
 0.0.0.0 getdnsapi.net
 0.0.0.0 gibblets.top
 0.0.0.0 adguard.maison.gifino.fr
@@ -765,6 +767,7 @@
 0.0.0.0 dns.hypercute.eu
 0.0.0.0 opennic.i2pd.xyz
 0.0.0.0 opennic2.i2pd.xyz
+0.0.0.0 vd.i81.ru
 0.0.0.0 dns.iamanuragh.in
 0.0.0.0 dns.iamninja.ru
 0.0.0.0 mask.icloud.com
@@ -880,6 +883,7 @@
 0.0.0.0 dns.l337.site
 0.0.0.0 doh.lacontrevoie.fr
 0.0.0.0 dns.lars-lehmann.net
+0.0.0.0 dns.lashes-brow.ru
 0.0.0.0 lastentarvike.fi
 0.0.0.0 eu1.dns.lavate.ch
 0.0.0.0 us1.dns.lavate.ch
@@ -916,6 +920,7 @@
 0.0.0.0 doh.phdns3.lonet.org
 0.0.0.0 doh.phdns4.lonet.org
 0.0.0.0 doh.phdns5.lonet.org
+0.0.0.0 n5.lsasss.com
 0.0.0.0 lukscasino-479-tr.xyz
 0.0.0.0 lukscasino-542-tr.xyz
 0.0.0.0 lukscasino-929-tr.xyz
@@ -1147,6 +1152,7 @@
 0.0.0.0 dns.ofdoom.net
 0.0.0.0 okado.online
 0.0.0.0 dns.olpploiopkuyhiopsfrt.info
+0.0.0.0 adguard.oms-ctr.ru
 0.0.0.0 one.one.one.one
 0.0.0.0 doh.onedns.net
 0.0.0.0 doh-pure.onedns.net
@@ -1605,7 +1611,6 @@
 0.0.0.0 zdn.ro
 0.0.0.0 dns.zemows.industries
 0.0.0.0 adguard-kartoffel.zernico.de
-0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org
 0.0.0.0 zougloub.eu
 0.0.0.0 dns.zzuhacker.cn

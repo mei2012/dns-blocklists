@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 00:03 UTC
-# Version: 2025.0627.0003.36
+# Last modified: 27 Jun 2025 08:04 UTC
+# Version: 2025.0627.0804.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10044
+# Number of entries: 10042
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -226,7 +226,6 @@ local=/300kg.ru/
 local=/321n.net/
 local=/337hhh.xyz/
 local=/33filmstreaming.com/
-local=/33french-stream.co/
 local=/33rapfr.com/
 local=/33series-stream.com/
 local=/33seriestreaming.rip/
@@ -354,7 +353,6 @@ local=/7movs.com/
 local=/7tor.org/
 local=/7torrents.cc/
 local=/7track.org/
-local=/7ur.ru/
 local=/7xstream.com/
 local=/7xtream.com/
 local=/87av.com/

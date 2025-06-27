@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1750982580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751011440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 00:03 UTC
-; Version: 2025.0627.0003.36
+; Last modified: 27 Jun 2025 08:04 UTC
+; Version: 2025.0627.0804.09
 ; Syntax: RPZ
-; Number of entries: 20088
+; Number of entries: 20084
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1703,8 +1703,6 @@ torrents-nn.cn CNAME .
 *.123moviehub.co CNAME .
 123moviesto.co CNAME .
 *.123moviesto.co CNAME .
-33french-stream.co CNAME .
-*.33french-stream.co CNAME .
 allmoviesforyou.co CNAME .
 *.allmoviesforyou.co CNAME .
 alltorrents.co CNAME .
@@ -16309,8 +16307,6 @@ warezanet.3dn.ru CNAME .
 *.6ahddutb1ucc3cp.ru CNAME .
 77help.ru CNAME .
 *.77help.ru CNAME .
-7ur.ru CNAME .
-*.7ur.ru CNAME .
 9anime.ru CNAME .
 *.9anime.ru CNAME .
 abv-media.ru CNAME .
