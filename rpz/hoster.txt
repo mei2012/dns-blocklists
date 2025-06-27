@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751021040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751042580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 10:44 UTC
-; Version: 2025.0627.1044.17
+; Last modified: 27 Jun 2025 16:43 UTC
+; Version: 2025.0627.1643.59
 ; Syntax: RPZ
-; Number of entries: 4292
+; Number of entries: 4286
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -817,8 +817,6 @@ bokee.com CNAME .
 *.bokee.com CNAME .
 bookmark.com CNAME .
 *.bookmark.com CNAME .
-boosterblog.com CNAME .
-*.boosterblog.com CNAME .
 boyblogguide.com CNAME .
 *.boyblogguide.com CNAME .
 bravehost.com CNAME .
@@ -3201,8 +3199,6 @@ blogdon.net CNAME .
 *.blogdon.net CNAME .
 blogfree.net CNAME .
 *.blogfree.net CNAME .
-blogger-news.net CNAME .
-*.blogger-news.net CNAME .
 blogmaster.net CNAME .
 *.blogmaster.net CNAME .
 blogspot.net CNAME .
@@ -3819,8 +3815,6 @@ arizonafun.shop CNAME .
 *.arizonafun.shop CNAME .
 asiaal.shop CNAME .
 *.asiaal.shop CNAME .
-asianhotel.shop CNAME .
-*.asianhotel.shop CNAME .
 bellastheboutique.shop CNAME .
 *.bellastheboutique.shop CNAME .
 bethelcreations.shop CNAME .

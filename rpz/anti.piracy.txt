@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751025720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751047380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 12:02 UTC
-; Version: 2025.0627.1202.46
+; Last modified: 27 Jun 2025 18:03 UTC
+; Version: 2025.0627.1803.26
 ; Syntax: RPZ
-; Number of entries: 20116
+; Number of entries: 20100
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -525,8 +525,6 @@ newalbumreleases.unblockit.bet CNAME .
 *.newalbumreleases.unblockit.bet CNAME .
 wiflix.bet CNAME .
 *.wiflix.bet CNAME .
-btkitty.bid CNAME .
-*.btkitty.bid CNAME .
 cineblog01.bid CNAME .
 *.cineblog01.bid CNAME .
 dunia21.bid CNAME .
@@ -2621,8 +2619,6 @@ aurastresser.com CNAME .
 *.aurastresser.com CNAME .
 aurora-raws.com CNAME .
 *.aurora-raws.com CNAME .
-aussietorrents.com CNAME .
-*.aussietorrents.com CNAME .
 autocadbmjes.com CNAME .
 *.autocadbmjes.com CNAME .
 autocadbmsa.com CNAME .
@@ -2953,8 +2949,6 @@ blue-bytez.com CNAME .
 *.blue-bytez.com CNAME .
 blue-whitegt.com CNAME .
 *.blue-whitegt.com CNAME .
-bmitbd.com CNAME .
-*.bmitbd.com CNAME .
 bms-hosxp.com CNAME .
 *.bms-hosxp.com CNAME .
 bmwfilms.com CNAME .
@@ -3785,8 +3779,6 @@ eztvproxy.com CNAME .
 *.eztvproxy.com CNAME .
 eztvstatus.com CNAME .
 *.eztvstatus.com CNAME .
-f1-dash.com CNAME .
-*.f1-dash.com CNAME .
 f1fullraces.com CNAME .
 *.f1fullraces.com CNAME .
 f4freesoftware.com CNAME .
@@ -13947,8 +13939,6 @@ bigtracker.org CNAME .
 *.bigtracker.org CNAME .
 bitcorea.org CNAME .
 *.bitcorea.org CNAME .
-bitenova.org CNAME .
-*.bitenova.org CNAME .
 bitfellas.org CNAME .
 *.bitfellas.org CNAME .
 bitgate.org CNAME .
@@ -16363,8 +16353,6 @@ audiobit.ru CNAME .
 *.audiobit.ru CNAME .
 audionews.ru CNAME .
 *.audionews.ru CNAME .
-aviraland.ru CNAME .
-*.aviraland.ru CNAME .
 retracker.bashtel.ru CNAME .
 *.retracker.bashtel.ru CNAME .
 bit-torrent.ru CNAME .
@@ -17229,8 +17217,6 @@ yts.st CNAME .
 *.yts.st CNAME .
 androeed.store CNAME .
 *.androeed.store CNAME .
-antenacentral.store CNAME .
-*.antenacentral.store CNAME .
 eurostreaming.store CNAME .
 *.eurostreaming.store CNAME .
 lookmovie.store CNAME .
@@ -19215,8 +19201,6 @@ thepiratebay.vin CNAME .
 *.thepiratebay.vin CNAME .
 altadefinizione.vip CNAME .
 *.altadefinizione.vip CNAME .
-apkmody.vip CNAME .
-*.apkmody.vip CNAME .
 app-valley.vip CNAME .
 *.app-valley.vip CNAME .
 babytorrent.vip CNAME .

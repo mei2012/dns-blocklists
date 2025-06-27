@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751026020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751047560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 12:07 UTC
-; Version: 2025.0627.1207.55
+; Last modified: 27 Jun 2025 18:06 UTC
+; Version: 2025.0627.1806.56
 ; Syntax: RPZ
-; Number of entries: 9666
+; Number of entries: 9660
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2638,6 +2638,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -6136,8 +6138,6 @@ avira-vpn.net CNAME .
 *.avira-vpn.net CNAME .
 awhoer.net CNAME .
 *.awhoer.net CNAME .
-anyralnestridentrodinfisxu.ayrnatales.net CNAME .
-*.anyralnestridentrodinfisxu.ayrnatales.net CNAME .
 dns.azsopro.net CNAME .
 *.dns.azsopro.net CNAME .
 401-0506.b-cdn.net CNAME .
@@ -6456,8 +6456,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -9082,8 +9080,6 @@ about.aitic.us CNAME .
 *.about.aitic.us CNAME .
 appshost.us CNAME .
 *.appshost.us CNAME .
-i.am.selling.b33r.us CNAME .
-*.i.am.selling.b33r.us CNAME .
 gannonisgood.baumgardner.us CNAME .
 *.gannonisgood.baumgardner.us CNAME .
 plant-selection.baumgardner.us CNAME .
@@ -9094,8 +9090,6 @@ its-giving.qwyns-up.in-here.yo.baumgardner.us CNAME .
 *.its-giving.qwyns-up.in-here.yo.baumgardner.us CNAME .
 bluegray.us CNAME .
 *.bluegray.us CNAME .
-igottridentrodinfischop.bowmansarrow.us CNAME .
-*.igottridentrodinfischop.bowmansarrow.us CNAME .
 bypasser.us CNAME .
 *.bypasser.us CNAME .
 register.cakk.us CNAME .

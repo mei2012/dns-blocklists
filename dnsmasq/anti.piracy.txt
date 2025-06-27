@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 12:02 UTC
-# Version: 2025.0627.1202.46
+# Last modified: 27 Jun 2025 18:03 UTC
+# Version: 2025.0627.1803.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10058
+# Number of entries: 10050
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -822,7 +822,6 @@ local=/anosbd.com/
 local=/ansktracker.net/
 local=/antbd.com/
 local=/antbd.net/
-local=/antenacentral.store/
 local=/tracker.anthelion.me/
 local=/anthousebd.net/
 local=/antsmarching.org/
@@ -876,7 +875,6 @@ local=/apkmodget.com/
 local=/apkmodgo.com/
 local=/apkmody.com/
 local=/apkmody.mobi/
-local=/apkmody.vip/
 local=/apkmolo.com/
 local=/apkneom.com/
 local=/apkpanda.com/
@@ -1028,7 +1026,6 @@ local=/audionews.ru/
 local=/audiostuff.ro/
 local=/aurastresser.com/
 local=/aurora-raws.com/
-local=/aussietorrents.com/
 local=/autocadbmjes.com/
 local=/autocadbmsa.com/
 local=/autocadbnaqk.com/
@@ -1045,7 +1042,6 @@ local=/vps2.avc.cx/
 local=/avengestresser.com/
 local=/avetorrents.com/
 local=/tracker.avgv.cc/
-local=/aviraland.ru/
 local=/avistaz.com/
 local=/avistaz.me/
 local=/avistaz.to/
@@ -1240,7 +1236,6 @@ local=/bitcountry.com/
 local=/bitcq.com/
 local=/bitdl.ir/
 local=/bitemytorrent.com/
-local=/bitenova.org/
 local=/bitestreams.net/
 local=/bitfellas.org/
 local=/bitflamers.com/
@@ -1404,7 +1399,6 @@ local=/blueseries.net/
 local=/bluewarez.pl/
 local=/blunter.xyz/
 local=/blutopia.xyz/
-local=/bmitbd.com/
 local=/bmovies.nl/
 local=/bmovies.vip/
 local=/bms-hosxp.com/
@@ -1519,7 +1513,6 @@ local=/btdigg.org/
 local=/btdoor.cc/
 local=/bteye.org/
 local=/btjunkie.org/
-local=/btkitty.bid/
 local=/btkitty.red/
 local=/btmon.com/
 local=/btmusic.eu/
@@ -3065,7 +3058,6 @@ local=/eztvproxy.com/
 local=/eztvstatus.com/
 local=/eztvstatus.net/
 local=/eztvx.to/
-local=/f1-dash.com/
 local=/f1box.me/
 local=/f1fullraces.com/
 local=/f1sh.de/

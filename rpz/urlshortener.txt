@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751021040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751042640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 10:44 UTC
-; Version: 2025.0627.1044.40
+; Last modified: 27 Jun 2025 16:44 UTC
+; Version: 2025.0627.1644.22
 ; Syntax: RPZ
-; Number of entries: 11924
+; Number of entries: 11844
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -628,8 +628,6 @@ bitlz.cc CNAME .
 *.bitlz.cc CNAME .
 bmai.cc CNAME .
 *.bmai.cc CNAME .
-btly.cc CNAME .
-*.btly.cc CNAME .
 calcol.cc CNAME .
 *.calcol.cc CNAME .
 cc.cc CNAME .
@@ -1636,18 +1634,10 @@ appbitly.com CNAME .
 *.appbitly.com CNAME .
 apticirl.com CNAME .
 *.apticirl.com CNAME .
-apzjp.com CNAME .
-*.apzjp.com CNAME .
-aqehb.com CNAME .
-*.aqehb.com CNAME .
-aqyne.com CNAME .
-*.aqyne.com CNAME .
 arserike.com CNAME .
 *.arserike.com CNAME .
 aryenmotors.com CNAME .
 *.aryenmotors.com CNAME .
-aszvv.com CNAME .
-*.aszvv.com CNAME .
 atglinks.com CNAME .
 *.atglinks.com CNAME .
 atmilb.com CNAME .
@@ -1658,14 +1648,8 @@ audiof.com CNAME .
 *.audiof.com CNAME .
 aupvhn.com CNAME .
 *.aupvhn.com CNAME .
-auyoa.com CNAME .
-*.auyoa.com CNAME .
-auyyb.com CNAME .
-*.auyyb.com CNAME .
 aveerro.com CNAME .
 *.aveerro.com CNAME .
-avxvz.com CNAME .
-*.avxvz.com CNAME .
 awwurl.com CNAME .
 *.awwurl.com CNAME .
 aypkl.com CNAME .
@@ -1704,8 +1688,6 @@ bestshortlink.com CNAME .
 *.bestshortlink.com CNAME .
 beteshis.com CNAME .
 *.beteshis.com CNAME .
-bfmre.com CNAME .
-*.bfmre.com CNAME .
 bi-tly.com CNAME .
 *.bi-tly.com CNAME .
 biastonu.com CNAME .
@@ -1714,8 +1696,6 @@ biibly.com CNAME .
 *.biibly.com CNAME .
 biltiy.com CNAME .
 *.biltiy.com CNAME .
-binbucks.com CNAME .
-*.binbucks.com CNAME .
 bitigee.com CNAME .
 *.bitigee.com CNAME .
 bitly.com CNAME .
@@ -1750,8 +1730,6 @@ bookdjprime.com CNAME .
 *.bookdjprime.com CNAME .
 cdl.booksy.com CNAME .
 *.cdl.booksy.com CNAME .
-boqzl.com CNAME .
-*.boqzl.com CNAME .
 boston25.com CNAME .
 *.boston25.com CNAME .
 botemoda.com CNAME .
@@ -1760,10 +1738,6 @@ on.bp.com CNAME .
 *.on.bp.com CNAME .
 bpdmv.com CNAME .
 *.bpdmv.com CNAME .
-bqdlp.com CNAME .
-*.bqdlp.com CNAME .
-bqwpf.com CNAME .
-*.bqwpf.com CNAME .
 brisktopia.com CNAME .
 *.brisktopia.com CNAME .
 briurl.com CNAME .
@@ -4374,8 +4348,6 @@ a.gg CNAME .
 *.a.gg CNAME .
 akses.gg CNAME .
 *.akses.gg CNAME .
-bch.gg CNAME .
-*.bch.gg CNAME .
 bst.gg CNAME .
 *.bst.gg CNAME .
 cbt.gg CNAME .
@@ -5024,8 +4996,6 @@ bdjk.info CNAME .
 *.bdjk.info CNAME .
 r.bioinfweb.info CNAME .
 *.r.bioinfweb.info CNAME .
-bordonet.info CNAME .
-*.bordonet.info CNAME .
 byng.info CNAME .
 *.byng.info CNAME .
 calendrierbdp.info CNAME .
@@ -6144,16 +6114,12 @@ alex-test-1.life CNAME .
 *.alex-test-1.life CNAME .
 alldemetrius.life CNAME .
 *.alldemetrius.life CNAME .
-anupgopurams.life CNAME .
-*.anupgopurams.life CNAME .
 aozczwj.life CNAME .
 *.aozczwj.life CNAME .
 ariahscollection.life CNAME .
 *.ariahscollection.life CNAME .
 azov.life CNAME .
 *.azov.life CNAME .
-barisbalci13inc.life CNAME .
-*.barisbalci13inc.life CNAME .
 bbuyyani.life CNAME .
 *.bbuyyani.life CNAME .
 bchf.life CNAME .
@@ -7034,8 +7000,6 @@ ar-technology.live CNAME .
 *.ar-technology.live CNAME .
 arclight.live CNAME .
 *.arclight.live CNAME .
-austineckert.live CNAME .
-*.austineckert.live CNAME .
 autolink.live CNAME .
 *.autolink.live CNAME .
 barbenady.live CNAME .
@@ -7044,16 +7008,10 @@ barbieclothingcloset.live CNAME .
 *.barbieclothingcloset.live CNAME .
 bibomart.live CNAME .
 *.bibomart.live CNAME .
-bigmikebphx.live CNAME .
-*.bigmikebphx.live CNAME .
 bit24.live CNAME .
 *.bit24.live CNAME .
 black-panther.live CNAME .
 *.black-panther.live CNAME .
-blouse.live CNAME .
-*.blouse.live CNAME .
-bowfest.live CNAME .
-*.bowfest.live CNAME .
 carters-the-best-2012.live CNAME .
 *.carters-the-best-2012.live CNAME .
 cartersthebest2012.live CNAME .
@@ -8990,8 +8948,6 @@ anacon.org CNAME .
 *.anacon.org CNAME .
 apertibumn.org CNAME .
 *.apertibumn.org CNAME .
-bloomingtonjuneteenth.org CNAME .
-*.bloomingtonjuneteenth.org CNAME .
 i.coscup.org CNAME .
 *.i.coscup.org CNAME .
 goto.cream.org CNAME .
@@ -9700,26 +9656,8 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-aplnn.sbs CNAME .
-*.aplnn.sbs CNAME .
 apzjp.sbs CNAME .
 *.apzjp.sbs CNAME .
-atgqu.sbs CNAME .
-*.atgqu.sbs CNAME .
-bcair.sbs CNAME .
-*.bcair.sbs CNAME .
-bcpsf.sbs CNAME .
-*.bcpsf.sbs CNAME .
-beica.sbs CNAME .
-*.beica.sbs CNAME .
-bhzae.sbs CNAME .
-*.bhzae.sbs CNAME .
-bjhig.sbs CNAME .
-*.bjhig.sbs CNAME .
-bnetk.sbs CNAME .
-*.bnetk.sbs CNAME .
-bnpam.sbs CNAME .
-*.bnpam.sbs CNAME .
 bpzvx.sbs CNAME .
 *.bpzvx.sbs CNAME .
 buprg.sbs CNAME .
@@ -10802,30 +10740,16 @@ aghq.top CNAME .
 *.aghq.top CNAME .
 amspi.top CNAME .
 *.amspi.top CNAME .
-ansaj.top CNAME .
-*.ansaj.top CNAME .
 anvcc.top CNAME .
 *.anvcc.top CNAME .
-asynp.top CNAME .
-*.asynp.top CNAME .
 aszfg.top CNAME .
 *.aszfg.top CNAME .
-aunut.top CNAME .
-*.aunut.top CNAME .
-bafrv.top CNAME .
-*.bafrv.top CNAME .
-bfio.top CNAME .
-*.bfio.top CNAME .
 bitcoinshortener.top CNAME .
 *.bitcoinshortener.top CNAME .
 biturl.top CNAME .
 *.biturl.top CNAME .
-bjwfd.top CNAME .
-*.bjwfd.top CNAME .
 blyxg.top CNAME .
 *.blyxg.top CNAME .
-bpvkv.top CNAME .
-*.bpvkv.top CNAME .
 caksf.top CNAME .
 *.caksf.top CNAME .
 cjiy.top CNAME .
@@ -11324,8 +11248,6 @@ baid.us CNAME .
 *.baid.us CNAME .
 beeb.us CNAME .
 *.beeb.us CNAME .
-bg9.us CNAME .
-*.bg9.us CNAME .
 bitnew.us CNAME .
 *.bitnew.us CNAME .
 bn8.us CNAME .
@@ -11814,8 +11736,6 @@ atualizefacil.xyz CNAME .
 *.atualizefacil.xyz CNAME .
 atualizeja.xyz CNAME .
 *.atualizeja.xyz CNAME .
-becakrcg.xyz CNAME .
-*.becakrcg.xyz CNAME .
 bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 cropped.xyz CNAME .

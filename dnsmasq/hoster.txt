@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 10:44 UTC
-# Version: 2025.0627.1044.17
+# Last modified: 27 Jun 2025 16:43 UTC
+# Version: 2025.0627.1643.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2146
+# Number of entries: 2143
 #
 local=/000a.de/
 local=/000free.us/
@@ -263,7 +263,6 @@ local=/asablo.jp/
 local=/asia.cm/
 local=/asia.gp/
 local=/asiaal.shop/
-local=/asianhotel.shop/
 local=/at.cr/
 local=/at.st/
 local=/atsnx.com/
@@ -414,7 +413,6 @@ local=/bloggadores.com/
 local=/bloggang.com/
 local=/bloggazza.com/
 local=/bloggazzo.com/
-local=/blogger-news.net/
 local=/bloggerbags.com/
 local=/bloggerchest.com/
 local=/bloggersdelight.dk/
@@ -562,7 +560,6 @@ local=/bookieboutique.shop/
 local=/bookmark.com/
 local=/bookspace.fr/
 local=/booru.org/
-local=/boosterblog.com/
 local=/boundpeter.shop/
 local=/boutiqueond.shop/
 local=/boxmail.biz/
