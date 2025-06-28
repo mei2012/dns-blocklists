@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 18:06 UTC
-# Version: 2025.0627.1806.56
+# Last modified: 27 Jun 2025 23:08 UTC
+# Version: 2025.0627.2308.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4830
+# Number of entries: 4826
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -628,7 +628,6 @@ local=/lab.graph.central64.com/
 local=/dns.cert.ee/
 local=/area.world.cervezamolay.com/
 local=/cfdjb.org/
-local=/suken.cfmr.ro/
 local=/ibuki.cgnat.net/
 local=/dns.chadeyron.fr/
 local=/core.goal.challengepursuit.com/
@@ -797,7 +796,6 @@ local=/dns.cmrg.net/
 local=/10bestvpn.co.uk/
 local=/adguard.aa4.co.uk/
 local=/akashiro.co.id/
-local=/googie.anchorchain.co.za/
 local=/antidnsvpn.co.cc/
 local=/binhexsolutions.co.uk/
 local=/btunnel.co.in/
@@ -824,7 +822,6 @@ local=/dns.oliviertv.co.za/
 local=/onlineproxy.co.uk/
 local=/alvaromarzogarbayo.pimp.co.za/
 local=/pooblet.co.za/
-local=/proxay.co.uk/
 local=/proxify.co.uk/
 local=/proxywebsite.co.uk/
 local=/quickproxy.co.uk/
@@ -889,7 +886,6 @@ local=/12bucklemyshoe.kalbas.com.vn/
 local=/auditing.lepetitprince.com.np/
 local=/logisticsacademy.logistica.com.mx/
 local=/encryption.madereramilano.com.ar/
-local=/manaututors.manausclass.com.br/
 local=/grid.brain.marcenes.com.br/
 local=/packetyo.nanbang.com.tr/
 local=/dns.netraptor.com.au/
@@ -914,7 +910,6 @@ local=/doh.viatech.com.tw/
 local=/webproxy.com.de/
 local=/6922.yugadiluitel.com.np/
 local=/dns.comff.net/
-local=/rammerhead.command.enterprises/
 local=/commonapp.college/
 local=/commons.host/
 local=/easy-vpn.comodo.com/
@@ -1311,6 +1306,7 @@ local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/

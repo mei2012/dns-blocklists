@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751047380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751065800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 18:03 UTC
-; Version: 2025.0627.1803.26
+; Last modified: 27 Jun 2025 23:10 UTC
+; Version: 2025.0627.2310.27
 ; Syntax: RPZ
-; Number of entries: 20100
+; Number of entries: 20088
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3055,8 +3055,6 @@ bwtorrents.com CNAME .
 *.bwtorrents.com CNAME .
 byfiles.com CNAME .
 *.byfiles.com CNAME .
-bygfx.com CNAME .
-*.bygfx.com CNAME .
 bytecollectors.com CNAME .
 *.bytecollectors.com CNAME .
 byxatab.com CNAME .
@@ -3165,8 +3163,6 @@ cmacked.com CNAME .
 *.cmacked.com CNAME .
 cmovieshd.com CNAME .
 *.cmovieshd.com CNAME .
-fh2.cmp-gaming.com CNAME .
-*.fh2.cmp-gaming.com CNAME .
 thepiratebay.co.com CNAME .
 *.thepiratebay.co.com CNAME .
 codeskeys24.com CNAME .
@@ -7625,8 +7621,6 @@ cb01.construction CNAME .
 *.cb01.construction CNAME .
 cb01.contractors CNAME .
 *.cb01.contractors CNAME .
-cineblog01.cool CNAME .
-*.cineblog01.cool CNAME .
 filmpertutti.cool CNAME .
 *.filmpertutti.cool CNAME .
 filmsenzalimiti.cool CNAME .
@@ -9689,8 +9683,6 @@ cb01.is CNAME .
 *.cb01.is CNAME .
 cinecalidad.is CNAME .
 *.cinecalidad.is CNAME .
-cmovies.is CNAME .
-*.cmovies.is CNAME .
 icc.crictime.is CNAME .
 *.icc.crictime.is CNAME .
 tv.crictime.is CNAME .
@@ -10691,8 +10683,6 @@ bibliotik.me CNAME .
 *.bibliotik.me CNAME .
 brokenstones.me CNAME .
 *.brokenstones.me CNAME .
-buffsports.me CNAME .
-*.buffsports.me CNAME .
 casacinema.me CNAME .
 *.casacinema.me CNAME .
 cb01.me CNAME .
@@ -11757,8 +11747,6 @@ cmovieshd.net CNAME .
 *.cmovieshd.net CNAME .
 cnetworkbd.net CNAME .
 *.cnetworkbd.net CNAME .
-comandotorrenthd.net CNAME .
-*.comandotorrenthd.net CNAME .
 comandotorrentshd.net CNAME .
 *.comandotorrentshd.net CNAME .
 mywebpages.comcast.net CNAME .

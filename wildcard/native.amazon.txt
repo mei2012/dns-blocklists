@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jun 2025 23:09 UTC
-# Version: 2025.0620.2309.24
+# Last modified: 27 Jun 2025 23:16 UTC
+# Version: 2025.0627.2316.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 339
+# Number of entries: 338
 #
 *.aan.amazon.co.jp
 *.aan.amazon.co.uk
@@ -319,7 +319,6 @@
 *.vaes-fe.amazon-adsystem.com
 *.vaes-na-preprod.amazon-adsystem.com
 *.vaes-na.amazon-adsystem.com
-*.vaes.amazon-adsystem.com
 *.vfw-ap-gamma.amazon-adsystem.com
 *.vfw-ap.amazon-adsystem.com
 *.vfw-eu-gamma.amazon-adsystem.com

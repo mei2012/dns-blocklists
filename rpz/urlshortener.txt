@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751042640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751065740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 16:44 UTC
-; Version: 2025.0627.1644.22
+; Last modified: 27 Jun 2025 23:09 UTC
+; Version: 2025.0627.2309.59
 ; Syntax: RPZ
-; Number of entries: 11844
+; Number of entries: 11784
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1758,14 +1758,8 @@ burnurl.com CNAME .
 *.burnurl.com CNAME .
 buybitcoinsworldwide.com CNAME .
 *.buybitcoinsworldwide.com CNAME .
-bwpdz.com CNAME .
-*.bwpdz.com CNAME .
 bwrmp.com CNAME .
 *.bwrmp.com CNAME .
-bxjtf.com CNAME .
-*.bxjtf.com CNAME .
-bzgso.com CNAME .
-*.bzgso.com CNAME .
 cactusskyonline.com CNAME .
 *.cactusskyonline.com CNAME .
 candicegilmerauthor.com CNAME .
@@ -1788,8 +1782,6 @@ cbshort.com CNAME .
 *.cbshort.com CNAME .
 cdpoju.com CNAME .
 *.cdpoju.com CNAME .
-cdwus.com CNAME .
-*.cdwus.com CNAME .
 cesinthi.com CNAME .
 *.cesinthi.com CNAME .
 change-erp.com CNAME .
@@ -1820,8 +1812,6 @@ cloudtechlinks.com CNAME .
 *.cloudtechlinks.com CNAME .
 clourls.com CNAME .
 *.clourls.com CNAME .
-cmvsc.com CNAME .
-*.cmvsc.com CNAME .
 s.coccoc.com CNAME .
 *.s.coccoc.com CNAME .
 codimenu.com CNAME .
@@ -4542,8 +4532,6 @@ zsirkacsa.hu CNAME .
 *.zsirkacsa.hu CNAME .
 bitj.icu CNAME .
 *.bitj.icu CNAME .
-cloudfare.icu CNAME .
-*.cloudfare.icu CNAME .
 linkin.icu CNAME .
 *.linkin.icu CNAME .
 oo0oo.icu CNAME .
@@ -4996,12 +4984,8 @@ bdjk.info CNAME .
 *.bdjk.info CNAME .
 r.bioinfweb.info CNAME .
 *.r.bioinfweb.info CNAME .
-byng.info CNAME .
-*.byng.info CNAME .
 calendrierbdp.info CNAME .
 *.calendrierbdp.info CNAME .
-cgyw.info CNAME .
-*.cgyw.info CNAME .
 chudaitrieuview.info CNAME .
 *.chudaitrieuview.info CNAME .
 cinecom.info CNAME .
@@ -6150,38 +6134,24 @@ burma77.life CNAME .
 *.burma77.life CNAME .
 c-dot-da-plug.life CNAME .
 *.c-dot-da-plug.life CNAME .
-c-fields-d.life CNAME .
-*.c-fields-d.life CNAME .
 c-hud-aixxx.life CNAME .
 *.c-hud-aixxx.life CNAME .
 camillalaprincessagroup.life CNAME .
 *.camillalaprincessagroup.life CNAME .
-carlos-valle-sara-cho32.life CNAME .
-*.carlos-valle-sara-cho32.life CNAME .
 cartersthegolden2012.life CNAME .
 *.cartersthegolden2012.life CNAME .
 cdotdaplug.life CNAME .
 *.cdotdaplug.life CNAME .
 ceci-ana-jada-271928.life CNAME .
 *.ceci-ana-jada-271928.life CNAME .
-celiasorrentino.life CNAME .
-*.celiasorrentino.life CNAME .
-cgreend.life CNAME .
-*.cgreend.life CNAME .
-chadkoesterincs.life CNAME .
-*.chadkoesterincs.life CNAME .
 charleseski.life CNAME .
 *.charleseski.life CNAME .
 chekc.life CNAME .
 *.chekc.life CNAME .
 chudaixxx.life CNAME .
 *.chudaixxx.life CNAME .
-chuyenvienming.life CNAME .
-*.chuyenvienming.life CNAME .
 cib-tea.life CNAME .
 *.cib-tea.life CNAME .
-civicagambassi.life CNAME .
-*.civicagambassi.life CNAME .
 coach-robin.life CNAME .
 *.coach-robin.life CNAME .
 cor236kofc.life CNAME .
@@ -7018,24 +6988,14 @@ cartersthebest2012.live CNAME .
 *.cartersthebest2012.live CNAME .
 chantucker53.live CNAME .
 *.chantucker53.live CNAME .
-chase-side-maintenance.live CNAME .
-*.chase-side-maintenance.live CNAME .
-cizv00000.live CNAME .
-*.cizv00000.live CNAME .
 clicktosee.live CNAME .
 *.clicktosee.live CNAME .
 clotplaynews.live CNAME .
 *.clotplaynews.live CNAME .
 cloudlettings.live CNAME .
 *.cloudlettings.live CNAME .
-clymont.live CNAME .
-*.clymont.live CNAME .
 coinbasesupports.live CNAME .
 *.coinbasesupports.live CNAME .
-compreaquikakspromobaby.live CNAME .
-*.compreaquikakspromobaby.live CNAME .
-conviva.live CNAME .
-*.conviva.live CNAME .
 cooldaddy4yatwo.live CNAME .
 *.cooldaddy4yatwo.live CNAME .
 creditacademy.live CNAME .
@@ -8754,8 +8714,6 @@ nn.nf CNAME .
 *.nn.nf CNAME .
 booki.ng CNAME .
 *.booki.ng CNAME .
-simpl.com.ng CNAME .
-*.simpl.com.ng CNAME .
 coupa.ng CNAME .
 *.coupa.ng CNAME .
 dcc.ng CNAME .
@@ -9660,26 +9618,10 @@ apzjp.sbs CNAME .
 *.apzjp.sbs CNAME .
 bpzvx.sbs CNAME .
 *.bpzvx.sbs CNAME .
-buprg.sbs CNAME .
-*.buprg.sbs CNAME .
 bvsok.sbs CNAME .
 *.bvsok.sbs CNAME .
-bvtfb.sbs CNAME .
-*.bvtfb.sbs CNAME .
-bymac.sbs CNAME .
-*.bymac.sbs CNAME .
 bzfhq.sbs CNAME .
 *.bzfhq.sbs CNAME .
-casvi.sbs CNAME .
-*.casvi.sbs CNAME .
-cfcpz.sbs CNAME .
-*.cfcpz.sbs CNAME .
-cibel.sbs CNAME .
-*.cibel.sbs CNAME .
-cjwze.sbs CNAME .
-*.cjwze.sbs CNAME .
-cluml.sbs CNAME .
-*.cluml.sbs CNAME .
 crzgu.sbs CNAME .
 *.crzgu.sbs CNAME .
 dcchb.sbs CNAME .
@@ -10750,8 +10692,6 @@ biturl.top CNAME .
 *.biturl.top CNAME .
 blyxg.top CNAME .
 *.blyxg.top CNAME .
-caksf.top CNAME .
-*.caksf.top CNAME .
 cjiy.top CNAME .
 *.cjiy.top CNAME .
 cplay.top CNAME .

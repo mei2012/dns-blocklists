@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 18:03 UTC
-# Version: 2025.0627.1803.26
+# Last modified: 27 Jun 2025 23:10 UTC
+# Version: 2025.0627.2310.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10050
+# Number of entries: 10044
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1531,7 +1531,6 @@ local=/btsow.online/
 local=/bttrove.org/
 local=/tracker.btzero.net/
 local=/btzone.org/
-local=/buffsports.me/
 local=/buffstream.io/
 local=/buffstreams.app/
 local=/buffstreams.sx/
@@ -1559,7 +1558,6 @@ local=/bwtorrents.com/
 local=/tracker.bwtorrents.tv/
 local=/bxks.space/
 local=/byfiles.com/
-local=/bygfx.com/
 local=/bypassed.life/
 local=/watchepisodeseries.bypassed.wtf/
 local=/byte.to/
@@ -1802,7 +1800,6 @@ local=/cineblog01.cloud/
 local=/cineblog01.club/
 local=/cineblog01.co/
 local=/cineblog01.com/
-local=/cineblog01.cool/
 local=/cineblog01.cx/
 local=/cineblog01.cyou/
 local=/cineblog01.download/
@@ -1923,7 +1920,6 @@ local=/cmacked.com/
 local=/cmovies.ac/
 local=/cmovies.co/
 local=/cmovies.fm/
-local=/cmovies.is/
 local=/cmovies.mobi/
 local=/cmovies.one/
 local=/cmovies.so/
@@ -1935,7 +1931,6 @@ local=/cmovieshd.bz/
 local=/cmovieshd.com/
 local=/cmovieshd.net/
 local=/cmovieshd.vip/
-local=/fh2.cmp-gaming.com/
 local=/cnetworkbd.net/
 local=/321movies.co.uk/
 local=/althub.co.za/
@@ -2041,7 +2036,6 @@ local=/www.midea123.z-media.com.cn/
 local=/zenkimex.com.mx/
 local=/comandofilmetorrent.com/
 local=/comandohdtorrents.com/
-local=/comandotorrenthd.net/
 local=/comandotorrents.com/
 local=/comandotorrents.org/
 local=/comandotorrentshd.net/

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jun 2025 23:09 UTC
-# Version: 2025.0620.2309.24
+# Last modified: 27 Jun 2025 23:16 UTC
+# Version: 2025.0627.2316.45
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 617
 #
@@ -52,11 +52,13 @@
 0.0.0.0 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
+0.0.0.0 aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-fe-rtb.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-fe-sin-rtb.amazon-adsystem.com
@@ -290,7 +292,6 @@
 0.0.0.0 event-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 event.mshopbugsnag.irm.amazon.dev
 0.0.0.0 events.app-performance.music.amazon.dev
-0.0.0.0 events.bugsnag.shopbop.amazon.dev
 0.0.0.0 events.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 fe.ono.axp.amazon-adsystem.com
 0.0.0.0 federatedanalytics.amazon.com
@@ -481,7 +482,6 @@
 0.0.0.0 session-server.prod-clustered.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 session.mshopbugsnag.irm.amazon.dev
 0.0.0.0 sessions.bugsnag.appstore.a2z.com
-0.0.0.0 sessions.bugsnag.shopbop.amazon.dev
 0.0.0.0 sessions.prod.bugs.firebat.prime-video.amazon.dev
 0.0.0.0 spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 spp.bid-na.ads-gamma.aps.amazon-adsystem.com
@@ -566,6 +566,7 @@
 0.0.0.0 us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 us-west.aps.axp.amazon-adsystem.com
 0.0.0.0 us-west.live-events.ono.axp.amazon-adsystem.com
+0.0.0.0 us-west.ono.axp.amazon-adsystem.com
 0.0.0.0 us.prod.service.minerva.devices.a2z.com
 0.0.0.0 useast.rtb.axp.amazon-adsystem.com
 0.0.0.0 vaes-eu-preprod.amazon-adsystem.com
@@ -574,7 +575,6 @@
 0.0.0.0 vaes-fe.amazon-adsystem.com
 0.0.0.0 vaes-na-preprod.amazon-adsystem.com
 0.0.0.0 vaes-na.amazon-adsystem.com
-0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vfw-ap-gamma.amazon-adsystem.com
 0.0.0.0 vfw-ap.amazon-adsystem.com
 0.0.0.0 vfw-eu-gamma.amazon-adsystem.com

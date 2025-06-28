@@ -798,13 +798,6 @@
       }
     },
     {
-      "PK": "chillx.top",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "chinaq.club",
       "action": {
         "do": 1,
@@ -1011,6 +1004,13 @@
       "PK": "*.coupons",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cpolar.top",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
