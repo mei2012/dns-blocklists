@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 12:09 UTC
-# Version: 2025.0628.1209.44
+# Last modified: 28 Jun 2025 18:07 UTC
+# Version: 2025.0628.1807.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4817
+# Number of entries: 4809
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -986,7 +986,6 @@ local=/cryptostorm.is/
 local=/cryptovpn.com/
 local=/dotdns.cryptroute.com/
 local=/dns.crystalyx.net/
-local=/dns.csa-rz.de/
 local=/dns.csaonline.de/
 local=/qg4qp4-8080.csb.app/
 local=/r8gjg2-8000.csb.app/
@@ -1757,7 +1756,6 @@ local=/greenproxy.net/
 local=/greenssh.com/
 local=/dnsblock.grisumedia.de/
 local=/dns.grqu.de/
-local=/wow.grupompr.com/
 local=/minionsandgru.grupopilar.cl/
 local=/vps.grussenmeyer.com/
 local=/gamgasyoppakuteri-zenttodabi.gslb.info/
@@ -1814,10 +1812,6 @@ local=/fair.hashable.org/
 local=/dylanigotchu.hbmc.net/
 local=/query.hdns.io/
 local=/ordns.he.net/
-local=/chimpanzinibananini.hec.to/
-local=/dogebyvcsa.hec.to/
-local=/hooda.math.hec.to/
-local=/nodamirai.hec.to/
 local=/us-ny-alula.heliumcloud.cc/
 local=/sdfergrdewdwdawdwdszdsadsadas.helixarcade.space/
 local=/sage.skills.hellasinside.com/
@@ -1940,7 +1934,6 @@ local=/hoxx.net/
 local=/hoyofun.xyz/
 local=/ajmal.hpc.tw/
 local=/greenbeandean.hs.vc/
-local=/be.hse.tw/
 local=/code.edu.hse.tw/
 local=/hshh.org/
 local=/hsselite.com/
@@ -1995,7 +1988,6 @@ local=/worldbookonline.ignorelist.com/
 local=/youreagoodmanarthurmorgan.ignorelist.com/
 local=/dns.ihaveacloud.com/
 local=/hellotaka.iiiii.info/
-local=/yozora.iiiii.info/
 local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
@@ -2091,7 +2083,6 @@ local=/smellyal.isreally.pro/
 local=/smellypay.isreally.pro/
 local=/stuffyschicken.isreallycool.lol/
 local=/itopvpn.com/
-local=/itsayx.online/
 local=/pdns.itxe.net/
 local=/ivacy.com/
 local=/ivacyvpn.com/
@@ -2624,6 +2615,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

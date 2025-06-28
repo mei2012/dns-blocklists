@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751107500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751129040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 10:45 UTC
-; Version: 2025.0628.1045.34
+; Last modified: 28 Jun 2025 16:44 UTC
+; Version: 2025.0628.1644.34
 ; Syntax: RPZ
-; Number of entries: 11610
+; Number of entries: 11510
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2076,22 +2076,14 @@ goshrink.com CNAME .
 *.goshrink.com CNAME .
 gosniply.com CNAME .
 *.gosniply.com CNAME .
-gppyi.com CNAME .
-*.gppyi.com CNAME .
 urlx.graphicwallet.com CNAME .
 *.urlx.graphicwallet.com CNAME .
 grawolph.com CNAME .
 *.grawolph.com CNAME .
-gubdw.com CNAME .
-*.gubdw.com CNAME .
-gzrql.com CNAME .
-*.gzrql.com CNAME .
 h2apz.com CNAME .
 *.h2apz.com CNAME .
 hadsucma.com CNAME .
 *.hadsucma.com CNAME .
-happytobackspace.com CNAME .
-*.happytobackspace.com CNAME .
 hcibh.com CNAME .
 *.hcibh.com CNAME .
 hdd6.com CNAME .
@@ -2108,8 +2100,6 @@ shorrtener.herokuapp.com CNAME .
 *.shorrtener.herokuapp.com CNAME .
 herramientasecommerce.com CNAME .
 *.herramientasecommerce.com CNAME .
-hgowh.com CNAME .
-*.hgowh.com CNAME .
 hicider.com CNAME .
 *.hicider.com CNAME .
 hideuri.com CNAME .
@@ -2128,8 +2118,6 @@ hover.com CNAME .
 *.hover.com CNAME .
 hpxjl.com CNAME .
 *.hpxjl.com CNAME .
-hrjqn.com CNAME .
-*.hrjqn.com CNAME .
 httpslink.com CNAME .
 *.httpslink.com CNAME .
 hugeurl.com CNAME .
@@ -2138,14 +2126,10 @@ hulk3.com CNAME .
 *.hulk3.com CNAME .
 iapdw.com CNAME .
 *.iapdw.com CNAME .
-iblgcr.com CNAME .
-*.iblgcr.com CNAME .
 icanhaz.com CNAME .
 *.icanhaz.com CNAME .
 icutlink.com CNAME .
 *.icutlink.com CNAME .
-idwln.com CNAME .
-*.idwln.com CNAME .
 iembelleze.com CNAME .
 *.iembelleze.com CNAME .
 ievccd.com CNAME .
@@ -2154,12 +2138,8 @@ ifwni.com CNAME .
 *.ifwni.com CNAME .
 ihnpo.com CNAME .
 *.ihnpo.com CNAME .
-imperiolink.com CNAME .
-*.imperiolink.com CNAME .
 inclusivetravelwithnikki.com CNAME .
 *.inclusivetravelwithnikki.com CNAME .
-indovipx1000.com CNAME .
-*.indovipx1000.com CNAME .
 indvix.com CNAME .
 *.indvix.com CNAME .
 infy.com CNAME .
@@ -2174,8 +2154,6 @@ go.intigriti.com CNAME .
 *.go.intigriti.com CNAME .
 invpy.com CNAME .
 *.invpy.com CNAME .
-inyuy.com CNAME .
-*.inyuy.com CNAME .
 iplogger.com CNAME .
 *.iplogger.com CNAME .
 isc-vn.com CNAME .
@@ -3856,8 +3834,6 @@ found.ee CNAME .
 *.found.ee CNAME .
 gumtr.ee CNAME .
 *.gumtr.ee CNAME .
-indtr.ee CNAME .
-*.indtr.ee CNAME .
 lil.ee CNAME .
 *.lil.ee CNAME .
 lin.ee CNAME .
@@ -4988,8 +4964,6 @@ gallerylink.info CNAME .
 *.gallerylink.info CNAME .
 ghalida.info CNAME .
 *.ghalida.info CNAME .
-halfacamel.info CNAME .
-*.halfacamel.info CNAME .
 hamza-prince-001.info CNAME .
 *.hamza-prince-001.info CNAME .
 harachi.info CNAME .
@@ -5008,8 +4982,6 @@ ild.info CNAME .
 *.ild.info CNAME .
 ilinky.info CNAME .
 *.ilinky.info CNAME .
-infostarenas.info CNAME .
-*.infostarenas.info CNAME .
 iplogger.info CNAME .
 *.iplogger.info CNAME .
 itdad.info CNAME .
@@ -5816,8 +5788,6 @@ flic.kr CNAME .
 *.flic.kr CNAME .
 gaw.kr CNAME .
 *.gaw.kr CNAME .
-hoy.kr CNAME .
-*.hoy.kr CNAME .
 kro.kr CNAME .
 *.kro.kr CNAME .
 me2.kr CNAME .
@@ -6186,30 +6156,20 @@ guzman-zulma1.life CNAME .
 *.guzman-zulma1.life CNAME .
 gyork1651blog.life CNAME .
 *.gyork1651blog.life CNAME .
-hangthietyeu.life CNAME .
-*.hangthietyeu.life CNAME .
 hans-me-hike.life CNAME .
 *.hans-me-hike.life CNAME .
 hansmehikes.life CNAME .
 *.hansmehikes.life CNAME .
 hansmetrip.life CNAME .
 *.hansmetrip.life CNAME .
-hellosliponi.life CNAME .
-*.hellosliponi.life CNAME .
-hellowork.life CNAME .
-*.hellowork.life CNAME .
 heoiberico.life CNAME .
 *.heoiberico.life CNAME .
 heotoc.life CNAME .
 *.heotoc.life CNAME .
 hoakhanh.life CNAME .
 *.hoakhanh.life CNAME .
-ice-bath-studio.life CNAME .
-*.ice-bath-studio.life CNAME .
 insdr.life CNAME .
 *.insdr.life CNAME .
-iriacassu.life CNAME .
-*.iriacassu.life CNAME .
 istiqomahisti7.life CNAME .
 *.istiqomahisti7.life CNAME .
 iyc.life CNAME .
@@ -6998,14 +6958,10 @@ harleyned.live CNAME .
 *.harleyned.live CNAME .
 henesyphotos.live CNAME .
 *.henesyphotos.live CNAME .
-hfwrental.live CNAME .
-*.hfwrental.live CNAME .
 hoaminh.live CNAME .
 *.hoaminh.live CNAME .
 hobbyajans.live CNAME .
 *.hobbyajans.live CNAME .
-humanityforgaza.live CNAME .
-*.humanityforgaza.live CNAME .
 i-am-here.live CNAME .
 *.i-am-here.live CNAME .
 ichafunddrives.live CNAME .
@@ -8378,14 +8334,10 @@ go777.net CNAME .
 *.go777.net CNAME .
 gocps.net CNAME .
 *.gocps.net CNAME .
-goshareit.net CNAME .
-*.goshareit.net CNAME .
 httpreferer.net CNAME .
 *.httpreferer.net CNAME .
 hurirk.net CNAME .
 *.hurirk.net CNAME .
-idek.net CNAME .
-*.idek.net CNAME .
 interpride.net CNAME .
 *.interpride.net CNAME .
 iscool.net CNAME .
@@ -9532,32 +9484,10 @@ fpfro.sbs CNAME .
 *.fpfro.sbs CNAME .
 gpyew.sbs CNAME .
 *.gpyew.sbs CNAME .
-hbdzx.sbs CNAME .
-*.hbdzx.sbs CNAME .
-heuxn.sbs CNAME .
-*.heuxn.sbs CNAME .
-hfddh.sbs CNAME .
-*.hfddh.sbs CNAME .
-hgtyu.sbs CNAME .
-*.hgtyu.sbs CNAME .
-hoheo.sbs CNAME .
-*.hoheo.sbs CNAME .
-hqsee.sbs CNAME .
-*.hqsee.sbs CNAME .
-hrxyb.sbs CNAME .
-*.hrxyb.sbs CNAME .
-hszci.sbs CNAME .
-*.hszci.sbs CNAME .
-huepl.sbs CNAME .
-*.huepl.sbs CNAME .
-icwdk.sbs CNAME .
-*.icwdk.sbs CNAME .
 idjzj.sbs CNAME .
 *.idjzj.sbs CNAME .
 ilofi.sbs CNAME .
 *.ilofi.sbs CNAME .
-itumb.sbs CNAME .
-*.itumb.sbs CNAME .
 jdgak.sbs CNAME .
 *.jdgak.sbs CNAME .
 jieee.sbs CNAME .
@@ -10578,32 +10508,8 @@ fwzi.top CNAME .
 *.fwzi.top CNAME .
 gpqkc.top CNAME .
 *.gpqkc.top CNAME .
-gqqri.top CNAME .
-*.gqqri.top CNAME .
-hcizp.top CNAME .
-*.hcizp.top CNAME .
 hjseq.top CNAME .
 *.hjseq.top CNAME .
-hkwvi.top CNAME .
-*.hkwvi.top CNAME .
-hmorc.top CNAME .
-*.hmorc.top CNAME .
-hnpa.top CNAME .
-*.hnpa.top CNAME .
-hrdcx.top CNAME .
-*.hrdcx.top CNAME .
-hstpe.top CNAME .
-*.hstpe.top CNAME .
-idksg.top CNAME .
-*.idksg.top CNAME .
-iikzi.top CNAME .
-*.iikzi.top CNAME .
-iiwap.top CNAME .
-*.iiwap.top CNAME .
-irkc.top CNAME .
-*.irkc.top CNAME .
-irop.top CNAME .
-*.irop.top CNAME .
 itdmusic.top CNAME .
 *.itdmusic.top CNAME .
 jajy.top CNAME .
@@ -11518,8 +11424,6 @@ gacor99-vip.xyz CNAME .
 *.gacor99-vip.xyz CNAME .
 gacorwak.xyz CNAME .
 *.gacorwak.xyz CNAME .
-haibmwku.xyz CNAME .
-*.haibmwku.xyz CNAME .
 hgs.xyz CNAME .
 *.hgs.xyz CNAME .
 hoholah.xyz CNAME .
@@ -11528,10 +11432,6 @@ icux.xyz CNAME .
 *.icux.xyz CNAME .
 induknaga.xyz CNAME .
 *.induknaga.xyz CNAME .
-itsmariapage.xyz CNAME .
-*.itsmariapage.xyz CNAME .
-itsmariaspage.xyz CNAME .
-*.itsmariaspage.xyz CNAME .
 jaygo.xyz CNAME .
 *.jaygo.xyz CNAME .
 kingurl.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751112240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751133720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 12:04 UTC
-; Version: 2025.0628.1204.33
+; Last modified: 28 Jun 2025 18:02 UTC
+; Version: 2025.0628.1802.05
 ; Syntax: RPZ
-; Number of entries: 20052
+; Number of entries: 20040
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4281,8 +4281,6 @@ hanjutv2020.com CNAME .
 *.hanjutv2020.com CNAME .
 happy-mod.com CNAME .
 *.happy-mod.com CNAME .
-happymod.com CNAME .
-*.happymod.com CNAME .
 happyroms.com CNAME .
 *.happyroms.com CNAME .
 hardstresser.com CNAME .
@@ -4335,8 +4333,6 @@ ip-stresser-xbox.hdxba.com CNAME .
 *.ip-stresser-xbox.hdxba.com CNAME .
 hehestreams.com CNAME .
 *.hehestreams.com CNAME .
-helloitbd.com CNAME .
-*.helloitbd.com CNAME .
 helltorrents.com CNAME .
 *.helltorrents.com CNAME .
 henbt.com CNAME .
@@ -12159,8 +12155,6 @@ hellenicwave.net CNAME .
 *.hellenicwave.net CNAME .
 hitfile.net CNAME .
 *.hitfile.net CNAME .
-hitsfilms.net CNAME .
-*.hitsfilms.net CNAME .
 hitzwarez.net CNAME .
 *.hitzwarez.net CNAME .
 bbs.homefei.net CNAME .
@@ -12193,8 +12187,6 @@ internetwarriors.net CNAME .
 *.internetwarriors.net CNAME .
 iplayplus.net CNAME .
 *.iplayplus.net CNAME .
-iqcrew.net CNAME .
-*.iqcrew.net CNAME .
 islamictorrents.net CNAME .
 *.islamictorrents.net CNAME .
 isohunt2.net CNAME .
@@ -16417,8 +16409,6 @@ hdfilme.ru CNAME .
 *.hdfilme.ru CNAME .
 hdtracker.ru CNAME .
 *.hdtracker.ru CNAME .
-bt.home-ix.ru CNAME .
-*.bt.home-ix.ru CNAME .
 v1046920.hosted-by-vdsina.ru CNAME .
 *.v1046920.hosted-by-vdsina.ru CNAME .
 retracker.hotplug.ru CNAME .
@@ -19669,8 +19659,6 @@ watchepisodeseries.bypassed.wtf CNAME .
 *.watchepisodeseries.bypassed.wtf CNAME .
 fmovies.wtf CNAME .
 *.fmovies.wtf CNAME .
-guardaserie.wtf CNAME .
-*.guardaserie.wtf CNAME .
 ipstresser.wtf CNAME .
 *.ipstresser.wtf CNAME .
 kinox.wtf CNAME .

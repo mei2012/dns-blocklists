@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751112540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751134020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 12:09 UTC
-; Version: 2025.0628.1209.44
+; Last modified: 28 Jun 2025 18:07 UTC
+; Version: 2025.0628.1807.18
 ; Syntax: RPZ
-; Number of entries: 9634
+; Number of entries: 9618
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1986,8 +1986,6 @@ greatestfreeproxy.com CNAME .
 *.greatestfreeproxy.com CNAME .
 greenssh.com CNAME .
 *.greenssh.com CNAME .
-wow.grupompr.com CNAME .
-*.wow.grupompr.com CNAME .
 vps.grussenmeyer.com CNAME .
 *.vps.grussenmeyer.com CNAME .
 guardian-vpn.com CNAME .
@@ -2630,6 +2628,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4296,8 +4296,6 @@ unblock-proxy.com.de CNAME .
 *.unblock-proxy.com.de CNAME .
 webproxy.com.de CNAME .
 *.webproxy.com.de CNAME .
-dns.csa-rz.de CNAME .
-*.dns.csa-rz.de CNAME .
 dns.csaonline.de CNAME .
 *.dns.csaonline.de CNAME .
 dns.datenquark.de CNAME .
@@ -5202,8 +5200,6 @@ iblocker.info CNAME .
 *.iblocker.info CNAME .
 hellotaka.iiiii.info CNAME .
 *.hellotaka.iiiii.info CNAME .
-yozora.iiiii.info CNAME .
-*.yozora.iiiii.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
@@ -7410,8 +7406,6 @@ unblocked-games-at.geometry-games.online CNAME .
 *.unblocked-games-at.geometry-games.online CNAME .
 inpssh.online CNAME .
 *.inpssh.online CNAME .
-itsayx.online CNAME .
-*.itsayx.online CNAME .
 externalmobiel.lekdijk.online CNAME .
 *.externalmobiel.lekdijk.online CNAME .
 letscomply.online CNAME .
@@ -8852,14 +8846,6 @@ dns.vinokurov.tk CNAME .
 *.dns.vinokurov.tk CNAME .
 darknet.to CNAME .
 *.darknet.to CNAME .
-chimpanzinibananini.hec.to CNAME .
-*.chimpanzinibananini.hec.to CNAME .
-dogebyvcsa.hec.to CNAME .
-*.dogebyvcsa.hec.to CNAME .
-hooda.math.hec.to CNAME .
-*.hooda.math.hec.to CNAME .
-nodamirai.hec.to CNAME .
-*.nodamirai.hec.to CNAME .
 www-yy.in6.to CNAME .
 *.www-yy.in6.to CNAME .
 nvpn.to CNAME .
@@ -8958,8 +8944,6 @@ h.gjrick.tw CNAME .
 *.h.gjrick.tw CNAME .
 ajmal.hpc.tw CNAME .
 *.ajmal.hpc.tw CNAME .
-be.hse.tw CNAME .
-*.be.hse.tw CNAME .
 code.edu.hse.tw CNAME .
 *.code.edu.hse.tw CNAME .
 adguard.shuting.idv.tw CNAME .
