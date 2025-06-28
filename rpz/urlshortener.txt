@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751065740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751085900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 23:09 UTC
-; Version: 2025.0627.2309.59
+; Last modified: 28 Jun 2025 04:45 UTC
+; Version: 2025.0628.0445.09
 ; Syntax: RPZ
-; Number of entries: 11784
+; Number of entries: 11698
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -180,8 +180,6 @@ beurl.app CNAME .
 *.beurl.app CNAME .
 bitl.app CNAME .
 *.bitl.app CNAME .
-dbmarketing.app CNAME .
-*.dbmarketing.app CNAME .
 linkfly.app CNAME .
 *.linkfly.app CNAME .
 mycts.app CNAME .
@@ -1826,12 +1824,8 @@ coopurl.com CNAME .
 *.coopurl.com CNAME .
 url.coronassh.com CNAME .
 *.url.coronassh.com CNAME .
-cpwuc.com CNAME .
-*.cpwuc.com CNAME .
 cqhjbt.com CNAME .
 *.cqhjbt.com CNAME .
-crvbd.com CNAME .
-*.crvbd.com CNAME .
 crypsante.com CNAME .
 *.crypsante.com CNAME .
 csnode.com CNAME .
@@ -1840,8 +1834,6 @@ ctse-registry.com CNAME .
 *.ctse-registry.com CNAME .
 cukbaray.com CNAME .
 *.cukbaray.com CNAME .
-customurlshortener.com CNAME .
-*.customurlshortener.com CNAME .
 cutlinker.com CNAME .
 *.cutlinker.com CNAME .
 cutlly.com CNAME .
@@ -1852,16 +1844,12 @@ cutth.com CNAME .
 *.cutth.com CNAME .
 cuturl.com CNAME .
 *.cuturl.com CNAME .
-cviqs.com CNAME .
-*.cviqs.com CNAME .
 go.cwtv.com CNAME .
 *.go.cwtv.com CNAME .
 cyizs.com CNAME .
 *.cyizs.com CNAME .
 cyngfs.com CNAME .
 *.cyngfs.com CNAME .
-cyunz.com CNAME .
-*.cyunz.com CNAME .
 datalotrk.com CNAME .
 *.datalotrk.com CNAME .
 dataurbia.com CNAME .
@@ -1872,12 +1860,8 @@ davidlloydjr.com CNAME .
 *.davidlloydjr.com CNAME .
 track3.davydovlaw.com CNAME .
 *.track3.davydovlaw.com CNAME .
-dbanm.com CNAME .
-*.dbanm.com CNAME .
 go.dbs.com CNAME .
 *.go.dbs.com CNAME .
-ddbfx.com CNAME .
-*.ddbfx.com CNAME .
 ddlsu.com CNAME .
 *.ddlsu.com CNAME .
 decenturl.com CNAME .
@@ -1896,22 +1880,16 @@ dfkr77.com CNAME .
 *.dfkr77.com CNAME .
 dfthethao.com CNAME .
 *.dfthethao.com CNAME .
-dgmmx.com CNAME .
-*.dgmmx.com CNAME .
 digbig.com CNAME .
 *.digbig.com CNAME .
 digg.com CNAME .
 *.digg.com CNAME .
-disjt.com CNAME .
-*.disjt.com CNAME .
 divsly.com CNAME .
 *.divsly.com CNAME .
 djljjk.com CNAME .
 *.djljjk.com CNAME .
 djurl.com CNAME .
 *.djurl.com CNAME .
-dmkkc.com CNAME .
-*.dmkkc.com CNAME .
 dmprd.com CNAME .
 *.dmprd.com CNAME .
 dmvrenew.com CNAME .
@@ -1952,8 +1930,6 @@ dwzhila.com CNAME .
 *.dwzhila.com CNAME .
 dxirl.com CNAME .
 *.dxirl.com CNAME .
-earnshorter.com CNAME .
-*.earnshorter.com CNAME .
 easyuri.com CNAME .
 *.easyuri.com CNAME .
 ecomstacking.com CNAME .
@@ -1964,8 +1940,6 @@ url.eefocus.com CNAME .
 *.url.eefocus.com CNAME .
 eepurl.com CNAME .
 *.eepurl.com CNAME .
-eflsb.com CNAME .
-*.eflsb.com CNAME .
 eg-hr.com CNAME .
 *.eg-hr.com CNAME .
 eg-sale.com CNAME .
@@ -4998,28 +4972,20 @@ csgy.info CNAME .
 *.csgy.info CNAME .
 cupoms.info CNAME .
 *.cupoms.info CNAME .
-cuto.info CNAME .
-*.cuto.info CNAME .
 d-its-hekis-osama-kwi.info CNAME .
 *.d-its-hekis-osama-kwi.info CNAME .
 dafjk.info CNAME .
 *.dafjk.info CNAME .
-ddwxl.info CNAME .
-*.ddwxl.info CNAME .
 detoxgold.info CNAME .
 *.detoxgold.info CNAME .
 dl-protect.info CNAME .
 *.dl-protect.info CNAME .
 dntbs.info CNAME .
 *.dntbs.info CNAME .
-dntx.info CNAME .
-*.dntx.info CNAME .
 earthtoday.info CNAME .
 *.earthtoday.info CNAME .
 ebooktruyen.info CNAME .
 *.ebooktruyen.info CNAME .
-edda-noun-i-145.info CNAME .
-*.edda-noun-i-145.info CNAME .
 edmno1.info CNAME .
 *.edmno1.info CNAME .
 elizabethblog.info CNAME .
@@ -6158,14 +6124,8 @@ cor236kofc.life CNAME .
 *.cor236kofc.life CNAME .
 cry-pto.life CNAME .
 *.cry-pto.life CNAME .
-cstudyd.life CNAME .
-*.cstudyd.life CNAME .
-ctrackd.life CNAME .
-*.ctrackd.life CNAME .
 cuoinamdiedm.life CNAME .
 *.cuoinamdiedm.life CNAME .
-cuto.life CNAME .
-*.cuto.life CNAME .
 daduslot88.life CNAME .
 *.daduslot88.life CNAME .
 dave-cutter.life CNAME .
@@ -6176,8 +6136,6 @@ debbiewestdicksons.life CNAME .
 *.debbiewestdicksons.life CNAME .
 dewaa4982.life CNAME .
 *.dewaa4982.life CNAME .
-diemburden.life CNAME .
-*.diemburden.life CNAME .
 digital-it-park.life CNAME .
 *.digital-it-park.life CNAME .
 digitalitpark.life CNAME .
@@ -6998,8 +6956,6 @@ coinbasesupports.live CNAME .
 *.coinbasesupports.live CNAME .
 cooldaddy4yatwo.live CNAME .
 *.cooldaddy4yatwo.live CNAME .
-creditacademy.live CNAME .
-*.creditacademy.live CNAME .
 culture1.live CNAME .
 *.culture1.live CNAME .
 curious-cat.live CNAME .
@@ -7014,30 +6970,18 @@ dandbsolutions.live CNAME .
 *.dandbsolutions.live CNAME .
 delanomckinney.live CNAME .
 *.delanomckinney.live CNAME .
-delta.live CNAME .
-*.delta.live CNAME .
-diakoniefeier.live CNAME .
-*.diakoniefeier.live CNAME .
 dinguscustoms.live CNAME .
 *.dinguscustoms.live CNAME .
-distinct-rp.live CNAME .
-*.distinct-rp.live CNAME .
-distinctrp.live CNAME .
-*.distinctrp.live CNAME .
 djloventx.live CNAME .
 *.djloventx.live CNAME .
 dreamachievers.live CNAME .
 *.dreamachievers.live CNAME .
 ecl-for-2026.live CNAME .
 *.ecl-for-2026.live CNAME .
-eezy99.live CNAME .
-*.eezy99.live CNAME .
 egypsianrubie.live CNAME .
 *.egypsianrubie.live CNAME .
 ellastern.live CNAME .
 *.ellastern.live CNAME .
-eltiongjetaj91.live CNAME .
-*.eltiongjetaj91.live CNAME .
 epochalchange.live CNAME .
 *.epochalchange.live CNAME .
 euapoio.live CNAME .
@@ -7556,8 +7500,6 @@ vla.lu CNAME .
 *.0o.lv CNAME .
 cr8.lv CNAME .
 *.cr8.lv CNAME .
-cur.lv CNAME .
-*.cur.lv CNAME .
 inx.lv CNAME .
 *.inx.lv CNAME .
 jkf.lv CNAME .
@@ -8916,10 +8858,6 @@ daviesscountyrepublicans.org CNAME .
 *.daviesscountyrepublicans.org CNAME .
 dcbspage.org CNAME .
 *.dcbspage.org CNAME .
-desertofny.org CNAME .
-*.desertofny.org CNAME .
-door2door2.org CNAME .
-*.door2door2.org CNAME .
 efraising.org CNAME .
 *.efraising.org CNAME .
 elsextosol.org CNAME .
@@ -9622,22 +9560,10 @@ bvsok.sbs CNAME .
 *.bvsok.sbs CNAME .
 bzfhq.sbs CNAME .
 *.bzfhq.sbs CNAME .
-crzgu.sbs CNAME .
-*.crzgu.sbs CNAME .
-dcchb.sbs CNAME .
-*.dcchb.sbs CNAME .
-djteg.sbs CNAME .
-*.djteg.sbs CNAME .
-dpkqq.sbs CNAME .
-*.dpkqq.sbs CNAME .
 dswiw.sbs CNAME .
 *.dswiw.sbs CNAME .
 dyjmk.sbs CNAME .
 *.dyjmk.sbs CNAME .
-effde.sbs CNAME .
-*.effde.sbs CNAME .
-eijxq.sbs CNAME .
-*.eijxq.sbs CNAME .
 eszen.sbs CNAME .
 *.eszen.sbs CNAME .
 fdkmx.sbs CNAME .
@@ -10696,24 +10622,12 @@ cjiy.top CNAME .
 *.cjiy.top CNAME .
 cplay.top CNAME .
 *.cplay.top CNAME .
-crfe.top CNAME .
-*.crfe.top CNAME .
-cyhrb.top CNAME .
-*.cyhrb.top CNAME .
 dbccx.top CNAME .
 *.dbccx.top CNAME .
-ditn.top CNAME .
-*.ditn.top CNAME .
 dlkv.top CNAME .
 *.dlkv.top CNAME .
 dnmqv.top CNAME .
 *.dnmqv.top CNAME .
-dvseb.top CNAME .
-*.dvseb.top CNAME .
-dzmem.top CNAME .
-*.dzmem.top CNAME .
-ecbk.top CNAME .
-*.ecbk.top CNAME .
 eeztk.top CNAME .
 *.eeztk.top CNAME .
 eqddh.top CNAME .

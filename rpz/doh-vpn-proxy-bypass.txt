@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751065680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751090760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 23:08 UTC
-; Version: 2025.0627.2308.46
+; Last modified: 28 Jun 2025 06:06 UTC
+; Version: 2025.0628.0606.32
 ; Syntax: RPZ
-; Number of entries: 9652
+; Number of entries: 9644
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1572,8 +1572,6 @@ study.know.devreler.com CNAME .
 *.study.know.devreler.com CNAME .
 dialertoserver.com CNAME .
 *.dialertoserver.com CNAME .
-utopia.tests.dianmarisa.com CNAME .
-*.utopia.tests.dianmarisa.com CNAME .
 digibitdesign.com CNAME .
 *.digibitdesign.com CNAME .
 dirtyworkproxy.com CNAME .
@@ -6416,8 +6414,6 @@ croxyproxy.net CNAME .
 *.croxyproxy.net CNAME .
 dns.crystalyx.net CNAME .
 *.dns.crystalyx.net CNAME .
-vocab.real.cyberbeatnation.net CNAME .
-*.vocab.real.cyberbeatnation.net CNAME .
 dns.cynthialabs.net CNAME .
 *.dns.cynthialabs.net CNAME .
 canvaixlwork.dasboard.net CNAME .
@@ -6438,8 +6434,6 @@ dewassh.net CNAME .
 *.dewassh.net CNAME .
 dns.digitalsize.net CNAME .
 *.dns.digitalsize.net CNAME .
-hihohornsluttlekidspop.dmdistribution.net CNAME .
-*.hihohornsluttlekidspop.dmdistribution.net CNAME .
 dns4me.net CNAME .
 *.dns4me.net CNAME .
 dns.dnsoverhttps.net CNAME .
@@ -6452,8 +6446,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -8492,8 +8484,6 @@ ramberhead.clocking.ro CNAME .
 *.ramberhead.clocking.ro CNAME .
 core.mind.corega.ro CNAME .
 *.core.mind.corega.ro CNAME .
-amir1.cuza16.ro CNAME .
-*.amir1.cuza16.ro CNAME .
 cozy.cuza16.ro CNAME .
 *.cozy.cuza16.ro CNAME .
 doge.dinprima.ro CNAME .
@@ -8810,6 +8800,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

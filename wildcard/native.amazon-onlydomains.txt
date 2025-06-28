@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 23:16 UTC
-# Version: 2025.0627.2316.45
+# Last modified: 28 Jun 2025 03:55 UTC
+# Version: 2025.0628.0355.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 338
+# Number of entries: 350
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -22,14 +22,19 @@ aax-apse-dtb-mobile.amazon-adsystem.com
 aax-apse-dtb-web.amazon-adsystem.com
 aax-audio.amazon-adsystem.com
 aax-cpm.amazon-adsystem.com
+aax-dtb-cf.amazon-adsystem.amazon.com
 aax-dtb-cf.amazon-adsystem.com
+aax-dtb-legacy.amazon-adsystem.amazon.com
 aax-dtb-legacy.amazon-adsystem.com
 aax-dtb-mobile-bids-geo.amazon-adsystem.com
+aax-dtb-mobile-cf.amazon-adsystem.amazon.com
 aax-dtb-mobile-events.amazon-adsystem.com
+aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 aax-dtb-mobile-geo.amazon-adsystem.com
 aax-dtb-mobile.amazon-adsystem.com
 aax-dtb-web-bids-geo.amazon-adsystem.com
 aax-dtb-web-geo.amazon-adsystem.com
+aax-dtb-web.amazon-adsystem.amazon.com
 aax-dtb-web.amazon-adsystem.com
 aax-eu-dtb-mobile-events.amazon-adsystem.com
 aax-eu-dtb-mobile.amazon-adsystem.com
@@ -45,8 +50,11 @@ aax-fe-sin-rtb.amazon-adsystem.com
 aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
+aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
+aax-us-cpm.amazon-adsystem.amazon.com
 aax-us-east-dtb-mobile.amazon-adsystem.com
 aax-us-east-dtb.amazon-adsystem.com
 aax-us-east-ott.amazon-adsystem.com
@@ -60,6 +68,7 @@ aax-us-east-test4.amazon-adsystem.com
 aax-us-east-test5.amazon-adsystem.com
 aax-us-east-test6.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-ott.amazon-adsystem.amazon.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
@@ -68,6 +77,7 @@ aax-us-west-dtb-mobile.amazon-adsystem.com
 aax-us-west-ott-events.amazon-adsystem.com
 aax-us-west-ott.amazon-adsystem.com
 aax-us-west-rtb.amazon-adsystem.com
+aax-us.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.com
 aax-vx-api-us-east-1.amazon-adsystem.com
 aax-vx-api-us-west-2.amazon-adsystem.com
@@ -75,6 +85,7 @@ aax-vx-eu-eu-west-1.amazon-adsystem.com
 aax-vx-fe-us-west-2.amazon-adsystem.com
 aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
+aax.amazon-adsystem.amazon.com
 aax.amazon-adsystem.com
 ads-setu-proxy-eu.amazon.com
 advertising-api-eu.amazon.com
@@ -177,6 +188,7 @@ forester.a2z.com
 h4g3z1-native.amazon.web.app
 identity.browserapps.amazon.de
 imdb.amazon-adsystem.com
+insights.video.a2z.com
 ir-br.amazon-adsystem.com
 ir-ca.amazon-adsystem.com
 ir-cn.amazon-adsystem.com
@@ -243,7 +255,6 @@ monitoring.us-gov-west-1.amazonaws.com
 monitoring.us-west-1.amazonaws.com
 monitoring.us-west-2.amazonaws.com
 mshopbugsnag.irm.amazon.dev
-new-telemetry.insights.video.a2z.com
 origin-sq-tungsten-ts.amazon-adsystem.com
 paa-reporting-advertising.amazon
 pri1-3ps.amazon-adsystem.com
@@ -280,7 +291,6 @@ sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
 sq-tungsten-ts.amazon-adsystem.com
 st.amazon-adsystem.com
-telemetry.insights.video.a2z.com
 tk-beta.amazon-adsystem.com
 tk-eu.amazon-adsystem.com
 tk-gamma.amazon-adsystem.com
@@ -319,6 +329,8 @@ vaes-fe-preprod.amazon-adsystem.com
 vaes-fe.amazon-adsystem.com
 vaes-na-preprod.amazon-adsystem.com
 vaes-na.amazon-adsystem.com
+vaes.amazon-adsystem.amazon.com
+vaes.amazon-adsystem.com
 vfw-ap-gamma.amazon-adsystem.com
 vfw-ap.amazon-adsystem.com
 vfw-eu-gamma.amazon-adsystem.com

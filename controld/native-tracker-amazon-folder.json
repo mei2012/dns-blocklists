@@ -64,6 +64,13 @@
       }
     },
     {
+      "PK": "aax.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -106,7 +113,21 @@
       }
     },
     {
+      "PK": "aax-dtb-cf.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-dtb-cf.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-dtb-legacy.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -134,6 +155,13 @@
       }
     },
     {
+      "PK": "aax-dtb-mobile-cf.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-dtb-mobile-events.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -141,7 +169,21 @@
       }
     },
     {
+      "PK": "aax-dtb-mobile-geo.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-dtb-mobile-geo.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-dtb-web.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -260,6 +302,13 @@
       }
     },
     {
+      "PK": "aax-ott.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-ott.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -274,6 +323,13 @@
       }
     },
     {
+      "PK": "aax-ott-sdk.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-ott-sdk.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -281,7 +337,21 @@
       }
     },
     {
+      "PK": "aax-us.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "aax-us.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-us-cpm.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -373,6 +443,13 @@
     },
     {
       "PK": "aax-us-east-test.amazon-adsystem.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-us-ott.amazon-adsystem.amazon.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1184,6 +1261,13 @@
       }
     },
     {
+      "PK": "insights.video.a2z.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ir-br.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -1646,13 +1730,6 @@
       }
     },
     {
-      "PK": "new-telemetry.insights.video.a2z.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "origin-sq-tungsten-ts.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -1905,13 +1982,6 @@
       }
     },
     {
-      "PK": "telemetry.insights.video.a2z.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "tk.amazon-adsystem.com",
       "action": {
         "do": 0,
@@ -2130,6 +2200,20 @@
     },
     {
       "PK": "unagi-na.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vaes.amazon-adsystem.amazon.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "vaes.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

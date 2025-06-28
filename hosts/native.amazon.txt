@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 23:16 UTC
-# Version: 2025.0627.2316.45
+# Last modified: 28 Jun 2025 03:55 UTC
+# Version: 2025.0628.0355.14
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 617
+# Number of entries: 631
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -28,14 +28,19 @@
 0.0.0.0 aax-audio.amazon-adsystem.com
 0.0.0.0 aax-beta-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-cpm.amazon-adsystem.com
+0.0.0.0 aax-dtb-cf.amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-cf.amazon-adsystem.com
+0.0.0.0 aax-dtb-legacy.amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-legacy.amazon-adsystem.com
 0.0.0.0 aax-dtb-mobile-bids-geo.amazon-adsystem.com
+0.0.0.0 aax-dtb-mobile-cf.amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-mobile-events.amazon-adsystem.com
+0.0.0.0 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-mobile-geo.amazon-adsystem.com
 0.0.0.0 aax-dtb-mobile.amazon-adsystem.com
 0.0.0.0 aax-dtb-web-bids-geo.amazon-adsystem.com
 0.0.0.0 aax-dtb-web-geo.amazon-adsystem.com
+0.0.0.0 aax-dtb-web.amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-web.amazon-adsystem.com
 0.0.0.0 aax-eu-dtb-mobile-events.amazon-adsystem.com
 0.0.0.0 aax-eu-dtb-mobile.amazon-adsystem.com
@@ -66,8 +71,11 @@
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
+0.0.0.0 aax-ott-sdk.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott-sdk.amazon-adsystem.com
+0.0.0.0 aax-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.com
+0.0.0.0 aax-us-cpm.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-east-dtb-mobile.amazon-adsystem.com
 0.0.0.0 aax-us-east-dtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-ott.amazon-adsystem.com
@@ -81,6 +89,7 @@
 0.0.0.0 aax-us-east-test5.amazon-adsystem.com
 0.0.0.0 aax-us-east-test6.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-us-pdx-rtb-adx.amazon-adsystem.com
 0.0.0.0 aax-us-pdx-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
@@ -89,6 +98,7 @@
 0.0.0.0 aax-us-west-ott-events.amazon-adsystem.com
 0.0.0.0 aax-us-west-ott.amazon-adsystem.com
 0.0.0.0 aax-us-west-rtb.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.amazon.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-vx-api-us-east-1.amazon-adsystem.com
 0.0.0.0 aax-vx-api-us-west-2.amazon-adsystem.com
@@ -96,6 +106,7 @@
 0.0.0.0 aax-vx-fe-us-west-2.amazon-adsystem.com
 0.0.0.0 aax-vx-us-us-east-1.amazon-adsystem.com
 0.0.0.0 aax-vx-us-us-west-2.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax.us-east.3px.axp.amazon-adsystem.com
@@ -339,6 +350,7 @@
 0.0.0.0 h4g3z1-native.amazon.web.app
 0.0.0.0 identity.browserapps.amazon.de
 0.0.0.0 imdb.amazon-adsystem.com
+0.0.0.0 insights.video.a2z.com
 0.0.0.0 ipv6.unagi-na.amazon.com
 0.0.0.0 ir-br.amazon-adsystem.com
 0.0.0.0 ir-ca.amazon-adsystem.com
@@ -575,6 +587,8 @@
 0.0.0.0 vaes-fe.amazon-adsystem.com
 0.0.0.0 vaes-na-preprod.amazon-adsystem.com
 0.0.0.0 vaes-na.amazon-adsystem.com
+0.0.0.0 vaes.amazon-adsystem.amazon.com
+0.0.0.0 vaes.amazon-adsystem.com
 0.0.0.0 vfw-ap-gamma.amazon-adsystem.com
 0.0.0.0 vfw-ap.amazon-adsystem.com
 0.0.0.0 vfw-eu-gamma.amazon-adsystem.com

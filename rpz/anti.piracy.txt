@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751065800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751090460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jun 2025 23:10 UTC
-; Version: 2025.0627.2310.27
+; Last modified: 28 Jun 2025 06:01 UTC
+; Version: 2025.0628.0601.41
 ; Syntax: RPZ
-; Number of entries: 20088
+; Number of entries: 20076
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1743,8 +1743,6 @@ streamm4u.com.co CNAME .
 *.streamm4u.com.co CNAME .
 yt1s.com.co CNAME .
 *.yt1s.com.co CNAME .
-darkino.co CNAME .
-*.darkino.co CNAME .
 databasegdriveplayer.co CNAME .
 *.databasegdriveplayer.co CNAME .
 downloads-anymovies.co CNAME .
@@ -3239,8 +3237,6 @@ crackedversion.com CNAME .
 *.crackedversion.com CNAME .
 crackfind.com CNAME .
 *.crackfind.com CNAME .
-crackhell.com CNAME .
-*.crackhell.com CNAME .
 crackingpatching.com CNAME .
 *.crackingpatching.com CNAME .
 crackingpremium.com CNAME .
@@ -8797,8 +8793,6 @@ bitcity.hu CNAME .
 *.bitcity.hu CNAME .
 cinemastore.hu CNAME .
 *.cinemastore.hu CNAME .
-capital.cyberserver.hu CNAME .
-*.capital.cyberserver.hu CNAME .
 diablotorrent.hu CNAME .
 *.diablotorrent.hu CNAME .
 impulsive.hu CNAME .
@@ -9459,8 +9453,6 @@ comick.io CNAME .
 *.comick.io CNAME .
 cpasbien.io CNAME .
 *.cpasbien.io CNAME .
-cracked.io CNAME .
-*.cracked.io CNAME .
 crackstreams.io CNAME .
 *.crackstreams.io CNAME .
 cuevana2.io CNAME .
@@ -14085,8 +14077,6 @@ tracker.cryptichaven.org CNAME .
 *.tracker.cryptichaven.org CNAME .
 csrin.org CNAME .
 *.csrin.org CNAME .
-cyberphoenix.org CNAME .
-*.cyberphoenix.org CNAME .
 danishbits.org CNAME .
 *.danishbits.org CNAME .
 datahorde.org CNAME .
@@ -17605,8 +17595,6 @@ couchtv.to CNAME .
 *.couchtv.to CNAME .
 cpasbien.to CNAME .
 *.cpasbien.to CNAME .
-cracked.to CNAME .
-*.cracked.to CNAME .
 cricfree.to CNAME .
 *.cricfree.to CNAME .
 d123movies.to CNAME .

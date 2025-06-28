@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 23:10 UTC
-# Version: 2025.0627.2310.27
+# Last modified: 28 Jun 2025 06:01 UTC
+# Version: 2025.0628.0601.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10044
+# Number of entries: 10038
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2117,8 +2117,6 @@ local=/crackaio.com/
 local=/crackcrew.com/
 local=/crackdb.com/
 local=/crackdb.org/
-local=/cracked.io/
-local=/cracked.to/
 local=/cracked-games.org/
 local=/crackedfully.com/
 local=/crackedme.com/
@@ -2129,7 +2127,6 @@ local=/crackedstream.tv/
 local=/crackedversion.com/
 local=/crackfind.com/
 local=/crackhash.org/
-local=/crackhell.com/
 local=/crackhub.site/
 local=/crackingpatching.com/
 local=/crackingpremium.com/
@@ -2259,8 +2256,6 @@ local=/tracker.cyberia.is/
 local=/cybermania.ws/
 local=/cybernetbd.com/
 local=/cybernetcommunications.net/
-local=/cyberphoenix.org/
-local=/capital.cyberserver.hu/
 local=/cybervm.io/
 local=/cyberwares.ru/
 local=/cyberwarez.info/
@@ -2297,7 +2292,6 @@ local=/darkarea.pl/
 local=/darkbooter.com/
 local=/darkbox.to/
 local=/darkdata.net/
-local=/darkino.co/
 local=/darklight.to/
 local=/darkmachine.pl/
 local=/darkmahou.com/
