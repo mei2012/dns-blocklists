@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751090760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751112540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 06:06 UTC
-; Version: 2025.0628.0606.32
+; Last modified: 28 Jun 2025 12:09 UTC
+; Version: 2025.0628.1209.44
 ; Syntax: RPZ
-; Number of entries: 9644
+; Number of entries: 9634
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1710,8 +1710,6 @@ eonvpn.com CNAME .
 *.eonvpn.com CNAME .
 epicbrowser.com CNAME .
 *.epicbrowser.com CNAME .
-ela.edu.estudiomenoyo.com CNAME .
-*.ela.edu.estudiomenoyo.com CNAME .
 ettego.com CNAME .
 *.ettego.com CNAME .
 eurproxy.com CNAME .
@@ -1724,8 +1722,6 @@ expressvpn.com CNAME .
 *.expressvpn.com CNAME .
 extremevpn.com CNAME .
 *.extremevpn.com CNAME .
-ezwebsites.ezwebsites.com CNAME .
-*.ezwebsites.ezwebsites.com CNAME .
 f4fp.com CNAME .
 *.f4fp.com CNAME .
 idea.lab.fabriquilla25.com CNAME .
@@ -2634,8 +2630,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -6526,8 +6520,6 @@ bokkinauuu.fpr.net CNAME .
 *.bokkinauuu.fpr.net CNAME .
 cosmogamy.fpr.net CNAME .
 *.cosmogamy.fpr.net CNAME .
-zi000.fpr.net CNAME .
-*.zi000.fpr.net CNAME .
 fproxy.net CNAME .
 *.fproxy.net CNAME .
 free-proxy-list.net CNAME .
@@ -8800,8 +8792,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

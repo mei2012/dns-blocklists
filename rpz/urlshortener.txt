@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751085900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751107500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 04:45 UTC
-; Version: 2025.0628.0445.09
+; Last modified: 28 Jun 2025 10:45 UTC
+; Version: 2025.0628.1045.34
 ; Syntax: RPZ
-; Number of entries: 11698
+; Number of entries: 11610
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1954,8 +1954,6 @@ eru789.com CNAME .
 *.eru789.com CNAME .
 esyurl.com CNAME .
 *.esyurl.com CNAME .
-etkpa.com CNAME .
-*.etkpa.com CNAME .
 eubok.com CNAME .
 *.eubok.com CNAME .
 euqni.com CNAME .
@@ -1974,30 +1972,20 @@ f5yo.com CNAME .
 *.f5yo.com CNAME .
 fadurl.com CNAME .
 *.fadurl.com CNAME .
-famousurl.com CNAME .
-*.famousurl.com CNAME .
 fasttory.com CNAME .
 *.fasttory.com CNAME .
 faturl.com CNAME .
 *.faturl.com CNAME .
 fbuef.com CNAME .
 *.fbuef.com CNAME .
-fdmlm.com CNAME .
-*.fdmlm.com CNAME .
-fdzsf.com CNAME .
-*.fdzsf.com CNAME .
 female-and-male-in-tech.com CNAME .
 *.female-and-male-in-tech.com CNAME .
-ffiwk.com CNAME .
-*.ffiwk.com CNAME .
 fgsrwy.com CNAME .
 *.fgsrwy.com CNAME .
 fhmzz.com CNAME .
 *.fhmzz.com CNAME .
 fhurl.com CNAME .
 *.fhurl.com CNAME .
-fhxor.com CNAME .
-*.fhxor.com CNAME .
 fklit.com CNAME .
 *.fklit.com CNAME .
 fl-y.com CNAME .
@@ -2020,8 +2008,6 @@ forr.com CNAME .
 *.forr.com CNAME .
 fqbgk.com CNAME .
 *.fqbgk.com CNAME .
-fslvi.com CNAME .
-*.fslvi.com CNAME .
 on.ft.com CNAME .
 *.on.ft.com CNAME .
 fumacrom.com CNAME .
@@ -2030,8 +2016,6 @@ funurl.com CNAME .
 *.funurl.com CNAME .
 fwkar.com CNAME .
 *.fwkar.com CNAME .
-fwwdc.com CNAME .
-*.fwwdc.com CNAME .
 fxqwe.com CNAME .
 *.fxqwe.com CNAME .
 download.fxsound.com CNAME .
@@ -2068,8 +2052,6 @@ getsmallurl.com CNAME .
 *.getsmallurl.com CNAME .
 getthot.com CNAME .
 *.getthot.com CNAME .
-ggqvz.com CNAME .
-*.ggqvz.com CNAME .
 ghntinyurl.com CNAME .
 *.ghntinyurl.com CNAME .
 ghxgw.com CNAME .
@@ -4994,24 +4976,16 @@ epuu.info CNAME .
 *.epuu.info CNAME .
 estimatedangles.info CNAME .
 *.estimatedangles.info CNAME .
-eulh.info CNAME .
-*.eulh.info CNAME .
 feyh.info CNAME .
 *.feyh.info CNAME .
 ffcq.info CNAME .
 *.ffcq.info CNAME .
 fooji.info CNAME .
 *.fooji.info CNAME .
-fri-masms7.info CNAME .
-*.fri-masms7.info CNAME .
 fwdme.info CNAME .
 *.fwdme.info CNAME .
-fyndr.info CNAME .
-*.fyndr.info CNAME .
 gallerylink.info CNAME .
 *.gallerylink.info CNAME .
-gbxb.info CNAME .
-*.gbxb.info CNAME .
 ghalida.info CNAME .
 *.ghalida.info CNAME .
 halfacamel.info CNAME .
@@ -5556,6 +5530,8 @@ zshort.io CNAME .
 *.900r.ir CNAME .
 adr3.ir CNAME .
 *.adr3.ir CNAME .
+agbr.ir CNAME .
+*.agbr.ir CNAME .
 b2n.ir CNAME .
 *.b2n.ir CNAME .
 cut2.ir CNAME .
@@ -6176,22 +6152,14 @@ epicwin138.life CNAME .
 *.epicwin138.life CNAME .
 eqcodecracks.life CNAME .
 *.eqcodecracks.life CNAME .
-esabong.life CNAME .
-*.esabong.life CNAME .
 faiq09824.life CNAME .
 *.faiq09824.life CNAME .
 fenditorosiatoter.life CNAME .
 *.fenditorosiatoter.life CNAME .
-findanupgopuram.life CNAME .
-*.findanupgopuram.life CNAME .
 firstweber.life CNAME .
 *.firstweber.life CNAME .
-flamingoclub.life CNAME .
-*.flamingoclub.life CNAME .
 flash-point-studios.life CNAME .
 *.flash-point-studios.life CNAME .
-freefc24code.life CNAME .
-*.freefc24code.life CNAME .
 freesexes.life CNAME .
 *.freesexes.life CNAME .
 galvanithina8.life CNAME .
@@ -6988,8 +6956,6 @@ euapoio.live CNAME .
 *.euapoio.live CNAME .
 eurl.live CNAME .
 *.eurl.live CNAME .
-eventhivek.live CNAME .
-*.eventhivek.live CNAME .
 ezzs.live CNAME .
 *.ezzs.live CNAME .
 facebookid.live CNAME .
@@ -7010,10 +6976,6 @@ gaysi.live CNAME .
 *.gaysi.live CNAME .
 gcrs.live CNAME .
 *.gcrs.live CNAME .
-gems-hunters-verified-url.live CNAME .
-*.gems-hunters-verified-url.live CNAME .
-get-rude-boutique.live CNAME .
-*.get-rude-boutique.live CNAME .
 gloshukadamiava2.live CNAME .
 *.gloshukadamiava2.live CNAME .
 go-duo-join-live-video-chat-invite.live CNAME .
@@ -8392,8 +8354,6 @@ emojied.net CNAME .
 *.emojied.net CNAME .
 encurtador.net CNAME .
 *.encurtador.net CNAME .
-eplt.net CNAME .
-*.eplt.net CNAME .
 fgurl.net CNAME .
 *.fgurl.net CNAME .
 firsturl.net CNAME .
@@ -8862,8 +8822,6 @@ efraising.org CNAME .
 *.efraising.org CNAME .
 elsextosol.org CNAME .
 *.elsextosol.org CNAME .
-etsgrescore.org CNAME .
-*.etsgrescore.org CNAME .
 f5i.org CNAME .
 *.f5i.org CNAME .
 gacortexas.org CNAME .
@@ -9568,26 +9526,10 @@ eszen.sbs CNAME .
 *.eszen.sbs CNAME .
 fdkmx.sbs CNAME .
 *.fdkmx.sbs CNAME .
-fdmlm.sbs CNAME .
-*.fdmlm.sbs CNAME .
-ffrpa.sbs CNAME .
-*.ffrpa.sbs CNAME .
-fiqto.sbs CNAME .
-*.fiqto.sbs CNAME .
 fovre.sbs CNAME .
 *.fovre.sbs CNAME .
 fpfro.sbs CNAME .
 *.fpfro.sbs CNAME .
-fsjvp.sbs CNAME .
-*.fsjvp.sbs CNAME .
-ftsqk.sbs CNAME .
-*.ftsqk.sbs CNAME .
-fznby.sbs CNAME .
-*.fznby.sbs CNAME .
-fzwgn.sbs CNAME .
-*.fzwgn.sbs CNAME .
-gbblp.sbs CNAME .
-*.gbblp.sbs CNAME .
 gpyew.sbs CNAME .
 *.gpyew.sbs CNAME .
 hbdzx.sbs CNAME .
@@ -10630,38 +10572,10 @@ dnmqv.top CNAME .
 *.dnmqv.top CNAME .
 eeztk.top CNAME .
 *.eeztk.top CNAME .
-eqddh.top CNAME .
-*.eqddh.top CNAME .
-eqpgt.top CNAME .
-*.eqpgt.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
-evbvq.top CNAME .
-*.evbvq.top CNAME .
-eyud.top CNAME .
-*.eyud.top CNAME .
-fagn.top CNAME .
-*.fagn.top CNAME .
-fmhgf.top CNAME .
-*.fmhgf.top CNAME .
-foee.top CNAME .
-*.foee.top CNAME .
 fwzi.top CNAME .
 *.fwzi.top CNAME .
-fxrie.top CNAME .
-*.fxrie.top CNAME .
-gbdra.top CNAME .
-*.gbdra.top CNAME .
-gbnbm.top CNAME .
-*.gbnbm.top CNAME .
-gbrqg.top CNAME .
-*.gbrqg.top CNAME .
-gfwtz.top CNAME .
-*.gfwtz.top CNAME .
-gfxa.top CNAME .
-*.gfxa.top CNAME .
-gnkxh.top CNAME .
-*.gnkxh.top CNAME .
 gpqkc.top CNAME .
 *.gpqkc.top CNAME .
 gqqri.top CNAME .
@@ -11600,8 +11514,6 @@ docremedio.xyz CNAME .
 *.docremedio.xyz CNAME .
 editricity.xyz CNAME .
 *.editricity.xyz CNAME .
-fortunium.xyz CNAME .
-*.fortunium.xyz CNAME .
 gacor99-vip.xyz CNAME .
 *.gacor99-vip.xyz CNAME .
 gacorwak.xyz CNAME .

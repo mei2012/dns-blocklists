@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 06:06 UTC
-# Version: 2025.0628.0606.32
+# Last modified: 28 Jun 2025 12:09 UTC
+# Version: 2025.0628.1209.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4822
+# Number of entries: 4817
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1383,7 +1383,6 @@ local=/shield1.eranext.net/
 local=/doh.ersei.net/
 local=/dns.esnube.es/
 local=/mylo.estic.org/
-local=/ela.edu.estudiomenoyo.com/
 local=/eth.link/
 local=/opennic1.eth-services.de/
 local=/proxy.eti.pw/
@@ -1410,7 +1409,6 @@ local=/expressvpn.net/
 local=/dns.extrawdw.net/
 local=/extremevpn.com/
 local=/fra1.eyecay.xyz/
-local=/ezwebsites.ezwebsites.com/
 local=/f0lga.tech/
 local=/use.f4.is/
 local=/dns.f4a.fun/
@@ -1498,7 +1496,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1542,7 +1539,6 @@ local=/stop-it-now-stop-it-now.foxgateway.com/
 local=/we-need-more.foxgateway.com/
 local=/bokkinauuu.fpr.net/
 local=/cosmogamy.fpr.net/
-local=/zi000.fpr.net/
 local=/fproxy.net/
 local=/frandcomfort.us/
 local=/know.orbit.frawst.com/
@@ -2628,7 +2624,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751090460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751112240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 06:01 UTC
-; Version: 2025.0628.0601.41
+; Last modified: 28 Jun 2025 12:04 UTC
+; Version: 2025.0628.1204.33
 ; Syntax: RPZ
-; Number of entries: 20076
+; Number of entries: 20052
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -155,8 +155,6 @@ dramaqu.app CNAME .
 *.dramaqu.app CNAME .
 dunia21.app CNAME .
 *.dunia21.app CNAME .
-eurostreaming.app CNAME .
-*.eurostreaming.app CNAME .
 fdownload.app CNAME .
 *.fdownload.app CNAME .
 frenchstream.app CNAME .
@@ -351,8 +349,6 @@ smtp-relay.odysseylabel.com.au CNAME .
 *.smtp-relay.odysseylabel.com.au CNAME .
 lidarr.audio CNAME .
 *.lidarr.audio CNAME .
-eurostreaming.autos CNAME .
-*.eurostreaming.autos CNAME .
 guardaserie.autos CNAME .
 *.guardaserie.autos CNAME .
 olamovies.autos CNAME .
@@ -545,8 +541,6 @@ guardaserie.bike CNAME .
 *.123movies.bio CNAME .
 altadefinizione.bio CNAME .
 *.altadefinizione.bio CNAME .
-eurostreaming.bio CNAME .
-*.eurostreaming.bio CNAME .
 filmoflix.bio CNAME .
 *.filmoflix.bio CNAME .
 filmpertutti.bio CNAME .
@@ -2011,8 +2005,6 @@ eurostreaming.coffee CNAME .
 *.eurostreaming.coffee CNAME .
 guardaserie.coffee CNAME .
 *.guardaserie.coffee CNAME .
-eurostreaming.college CNAME .
-*.eurostreaming.college CNAME .
 0123456789nonexistent.com CNAME .
 *.0123456789nonexistent.com CNAME .
 0123movies.com CNAME .
@@ -3775,8 +3767,6 @@ f1fullraces.com CNAME .
 *.f1fullraces.com CNAME .
 f4freesoftware.com CNAME .
 *.f4freesoftware.com CNAME .
-download.f60s.com CNAME .
-*.download.f60s.com CNAME .
 muds.fandom.com CNAME .
 *.muds.fandom.com CNAME .
 vsrecommendedgames.fandom.com CNAME .
@@ -3927,8 +3917,6 @@ flashnetbd.com CNAME .
 *.flashnetbd.com CNAME .
 flextorrents.com CNAME .
 *.flextorrents.com CNAME .
-flicksoccer.com CNAME .
-*.flicksoccer.com CNAME .
 flickystream.com CNAME .
 *.flickystream.com CNAME .
 flixdump.com CNAME .
@@ -4173,8 +4161,6 @@ get-apk.com CNAME .
 *.get-apk.com CNAME .
 get-filezzz.com CNAME .
 *.get-filezzz.com CNAME .
-getfbvid.com CNAME .
-*.getfbvid.com CNAME .
 getintopc.com CNAME .
 *.getintopc.com CNAME .
 getjar.com CNAME .
@@ -15409,8 +15395,6 @@ rapidgrab.ovh CNAME .
 *.rapidgrab.ovh CNAME .
 stresser.ovh CNAME .
 *.stresser.ovh CNAME .
-filmsenzalimiti.page CNAME .
-*.filmsenzalimiti.page CNAME .
 filmstreaming.page CNAME .
 *.filmstreaming.page CNAME .
 gomoviesfree.page CNAME .
@@ -15529,8 +15513,6 @@ movies-watch.com.pk CNAME .
 *.movies-watch.com.pk CNAME .
 www.opnsports.com.pk CNAME .
 *.www.opnsports.com.pk CNAME .
-gbapp.pk CNAME .
-*.gbapp.pk CNAME .
 movies123.pk CNAME .
 *.movies123.pk CNAME .
 playit.pk CNAME .
@@ -18079,8 +18061,6 @@ filmpertutti.top CNAME .
 *.filmpertutti.top CNAME .
 filmstreaming.top CNAME .
 *.filmstreaming.top CNAME .
-flashfilms-hd.top CNAME .
-*.flashfilms-hd.top CNAME .
 fmovies.top CNAME .
 *.fmovies.top CNAME .
 tracker.gcrenwp.top CNAME .
@@ -19293,8 +19273,6 @@ cineblog01.watch CNAME .
 *.cineblog01.watch CNAME .
 filmstreaming.watch CNAME .
 *.filmstreaming.watch CNAME .
-go123movies.watch CNAME .
-*.go123movies.watch CNAME .
 guardaserie.watch CNAME .
 *.guardaserie.watch CNAME .
 hesgoal.watch CNAME .
@@ -19791,8 +19769,6 @@ tracker.enitin.xyz CNAME .
 *.tracker.enitin.xyz CNAME .
 eurostreaming.xyz CNAME .
 *.eurostreaming.xyz CNAME .
-evil-stress.xyz CNAME .
-*.evil-stress.xyz CNAME .
 exsite24.xyz CNAME .
 *.exsite24.xyz CNAME .
 filmsrip.xyz CNAME .

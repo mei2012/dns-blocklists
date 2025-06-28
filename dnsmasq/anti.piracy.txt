@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 06:01 UTC
-# Version: 2025.0628.0601.41
+# Last modified: 28 Jun 2025 12:04 UTC
+# Version: 2025.0628.1204.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10038
+# Number of entries: 10026
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2875,9 +2875,7 @@ local=/europixhd.pro/
 local=/europixhd.site/
 local=/europixhd.top/
 local=/eurostreaming.actor/
-local=/eurostreaming.app/
 local=/eurostreaming.archi/
-local=/eurostreaming.autos/
 local=/eurostreaming.bar/
 local=/eurostreaming.be/
 local=/eurostreaming.beauty/
@@ -2885,7 +2883,6 @@ local=/eurostreaming.best/
 local=/eurostreaming.bet/
 local=/eurostreaming.bid/
 local=/eurostreaming.bike/
-local=/eurostreaming.bio/
 local=/eurostreaming.biz/
 local=/eurostreaming.boo/
 local=/eurostreaming.capital/
@@ -2896,7 +2893,6 @@ local=/eurostreaming.click/
 local=/eurostreaming.club/
 local=/eurostreaming.co/
 local=/eurostreaming.coffee/
-local=/eurostreaming.college/
 local=/eurostreaming.com/
 local=/eurostreaming.credit/
 local=/eurostreaming.cyou/
@@ -2980,7 +2976,6 @@ local=/evan.im/
 local=/everydayjones.com/
 local=/everythingmoe.com/
 local=/everythingmoe.org/
-local=/evil-stress.xyz/
 local=/evilinc.info/
 local=/evillagectg.com/
 local=/evillinks.de/
@@ -3054,7 +3049,6 @@ local=/f2movies.to/
 local=/f4freesoftware.com/
 local=/f5movies.co/
 local=/f5q.ru/
-local=/download.f60s.com/
 local=/fairytales.org/
 local=/tv.fanclub.rocks/
 local=/muds.fandom.com/
@@ -3296,7 +3290,6 @@ local=/filmsenzalimiti.love/
 local=/filmsenzalimiti.me/
 local=/filmsenzalimiti.name/
 local=/filmsenzalimiti.net/
-local=/filmsenzalimiti.page/
 local=/filmsenzalimiti.uno/
 local=/filmsenzalimiti.vg/
 local=/filmsenzalimiti.ws/
@@ -3408,12 +3401,10 @@ local=/flash-games.ws/
 local=/flashbit.cc/
 local=/flashfilmes.org/
 local=/flashfilms-hd.com/
-local=/flashfilms-hd.top/
 local=/flashnetbd.com/
 local=/flashtorrents.org/
 local=/flenix.net/
 local=/flextorrents.com/
-local=/flicksoccer.com/
 local=/flickystream.com/
 local=/flixanity.xyz/
 local=/flixdump.com/
@@ -3767,7 +3758,6 @@ local=/gay-torrents.net/
 local=/gaytorrent.ru/
 local=/gazellegames.net/
 local=/gazipurns.com/
-local=/gbapp.pk/
 local=/gbapps.net/
 local=/gbatemp.net/
 local=/hh.gbdev.io/
@@ -3800,7 +3790,6 @@ local=/getapk.app/
 local=/getcomics.info/
 local=/getcomics.org/
 local=/ip.getcrazy.me/
-local=/getfbvid.com/
 local=/getfreegames.net/
 local=/getgamez.net/
 local=/getintopc.com/
@@ -3877,7 +3866,6 @@ local=/gnula.su/
 local=/gnutellaforums.com/
 local=/go123.stream/
 local=/go123movies.one/
-local=/go123movies.watch/
 local=/go2load.com/
 local=/goatd.me/
 local=/god-games.com/
