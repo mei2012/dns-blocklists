@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751155440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751176920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jun 2025 00:04 UTC
-; Version: 2025.0629.0004.01
+; Last modified: 29 Jun 2025 06:02 UTC
+; Version: 2025.0629.0602.40
 ; Syntax: RPZ
-; Number of entries: 20028
+; Number of entries: 20010
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -351,8 +351,6 @@ lidarr.audio CNAME .
 *.lidarr.audio CNAME .
 guardaserie.autos CNAME .
 *.guardaserie.autos CNAME .
-olamovies.autos CNAME .
-*.olamovies.autos CNAME .
 yts.autos CNAME .
 *.yts.autos CNAME .
 tracker.qu.ax CNAME .
@@ -5187,8 +5185,6 @@ musicneeds.com CNAME .
 *.musicneeds.com CNAME .
 musicsaz.com CNAME .
 *.musicsaz.com CNAME .
-mutstreams.com CNAME .
-*.mutstreams.com CNAME .
 muxiv.com CNAME .
 *.muxiv.com CNAME .
 mxroom.com CNAME .
@@ -5337,8 +5333,6 @@ nfohump.com CNAME .
 *.nfohump.com CNAME .
 nfonews.com CNAME .
 *.nfonews.com CNAME .
-nfoogle.com CNAME .
-*.nfoogle.com CNAME .
 bt.nfshost.com CNAME .
 *.bt.nfshost.com CNAME .
 ng4you.com CNAME .
@@ -9671,8 +9665,6 @@ gostream.is CNAME .
 *.gostream.is CNAME .
 libgen.is CNAME .
 *.libgen.is CNAME .
-movie4k.is CNAME .
-*.movie4k.is CNAME .
 movieroom.is CNAME .
 *.movieroom.is CNAME .
 moviesjoy.is CNAME .
@@ -14633,8 +14625,6 @@ moviesyify.org CNAME .
 *.moviesyify.org CNAME .
 movieszone.org CNAME .
 *.movieszone.org CNAME .
-movietown.org CNAME .
-*.movietown.org CNAME .
 mp3-juice.org CNAME .
 *.mp3-juice.org CNAME .
 mp4hdmovies.org CNAME .
@@ -16493,8 +16483,6 @@ bt.okmp3.ru CNAME .
 *.bt.okmp3.ru CNAME .
 old-games.ru CNAME .
 *.old-games.ru CNAME .
-retracker.omsk.ru CNAME .
-*.retracker.omsk.ru CNAME .
 online-life.ru CNAME .
 *.online-life.ru CNAME .
 vps02.net.orel.ru CNAME .
@@ -17801,8 +17789,6 @@ nox.to CNAME .
 *.nox.to CNAME .
 noxx.to CNAME .
 *.noxx.to CNAME .
-nulled.to CNAME .
-*.nulled.to CNAME .
 nzb.to CNAME .
 *.nzb.to CNAME .
 ololo.to CNAME .
@@ -19831,14 +19817,10 @@ megacam.xyz CNAME .
 *.megacam.xyz CNAME .
 moflix-stream.xyz CNAME .
 *.moflix-stream.xyz CNAME .
-moviefreak.xyz CNAME .
-*.moviefreak.xyz CNAME .
 movies1234.xyz CNAME .
 *.movies1234.xyz CNAME .
 movieswatch.xyz CNAME .
 *.movieswatch.xyz CNAME .
-torrentdownloads.mrunblock.xyz CNAME .
-*.torrentdownloads.mrunblock.xyz CNAME .
 mythicalstress.xyz CNAME .
 *.mythicalstress.xyz CNAME .
 nbastreams.xyz CNAME .

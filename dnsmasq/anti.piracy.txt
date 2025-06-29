@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jun 2025 00:04 UTC
-# Version: 2025.0629.0004.01
+# Last modified: 29 Jun 2025 06:02 UTC
+# Version: 2025.0629.0602.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10014
+# Number of entries: 10005
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -5553,7 +5553,6 @@ local=/movie-web.me/
 local=/movie2k.to/
 local=/movie2kproxy.com/
 local=/movie4k.ag/
-local=/movie4k.is/
 local=/movie4k.org/
 local=/movie4k.sx/
 local=/movie4k.to/
@@ -5573,7 +5572,6 @@ local=/moviedream.ws/
 local=/moviee.tv/
 local=/moviefiles.org/
 local=/movieforfree.co/
-local=/moviefreak.xyz/
 local=/moviegaga.to/
 local=/moviegamesmore.net/
 local=/movieglide.com/
@@ -5664,7 +5662,6 @@ local=/moviesyify.org/
 local=/movieszone.org/
 local=/movietly.com/
 local=/movietorrent.co/
-local=/movietown.org/
 local=/movieuniverse.li/
 local=/movieuniverse.se/
 local=/movieunlimited.net/
@@ -5732,7 +5729,6 @@ local=/mrtwig.net/
 local=/mrunblock.pro/
 local=/ettv.mrunblock.bar/
 local=/losmovies.mrunblock.casa/
-local=/torrentdownloads.mrunblock.xyz/
 local=/mrunlock.space/
 local=/mscracks.com/
 local=/mserver.link/
@@ -5767,7 +5763,6 @@ local=/musicpleer.cloud/
 local=/musicsaz.com/
 local=/musicstream.cc/
 local=/mutaz.pro/
-local=/mutstreams.com/
 local=/muxiv.com/
 local=/mvgroup.org/
 local=/mxroom.com/
@@ -6001,7 +5996,6 @@ local=/nfodb.ru/
 local=/nfohump.com/
 local=/nfomation.net/
 local=/nfonews.com/
-local=/nfoogle.com/
 local=/bt.nfshost.com/
 local=/ng4you.com/
 local=/ngb.to/
@@ -6135,7 +6129,6 @@ local=/web1.nugs.net/
 local=/nullclash.org/
 local=/nulleb.com/
 local=/nulled.cx/
-local=/nulled.to/
 local=/nulled-scripts.cc/
 local=/nulledbuilds.com/
 local=/nulledfree.pw/
@@ -6226,7 +6219,6 @@ local=/antivirkeys.okis.ru/
 local=/oklivetv.com/
 local=/bt.okmp3.ru/
 local=/ol-am.top/
-local=/olamovies.autos/
 local=/olamovies.download/
 local=/olamovies.hair/
 local=/olamovies.shop/
@@ -6248,7 +6240,6 @@ local=/omgtorrent.com/
 local=/omgtorrent.cz/
 local=/omgtorrent.me/
 local=/omgwtfnzbs.me/
-local=/retracker.omsk.ru/
 local=/ddn.oncast.me/
 local=/onceddl.net/
 local=/onebigtorrent.org/

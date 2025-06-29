@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751155740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751177220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jun 2025 00:09 UTC
-; Version: 2025.0629.0009.06
+; Last modified: 29 Jun 2025 06:07 UTC
+; Version: 2025.0629.0607.42
 ; Syntax: RPZ
-; Number of entries: 9598
+; Number of entries: 9586
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -666,8 +666,6 @@ btg.ludopop.cl CNAME .
 *.btg.ludopop.cl CNAME .
 luh.masgas.cl CNAME .
 *.luh.masgas.cl CNAME .
-web0213.medscience.cl CNAME .
-*.web0213.medscience.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
 dynamitefor.miningsteel.cl CNAME .
@@ -1682,6 +1680,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2572,8 +2572,6 @@ ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 muchproxy.com CNAME .
 *.muchproxy.com CNAME .
-use.muna.com CNAME .
-*.use.muna.com CNAME .
 sci.brain.musictherapyinscotland.com CNAME .
 *.sci.brain.musictherapyinscotland.com CNAME .
 ssl-proxy.my-addr.com CNAME .
@@ -2638,14 +2636,8 @@ smart.quiz.nelsonshack.com CNAME .
 *.smart.quiz.nelsonshack.com CNAME .
 netaltr.com CNAME .
 *.netaltr.com CNAME .
-mapper.netinfotechnology.com CNAME .
-*.mapper.netinfotechnology.com CNAME .
 netsneak.com CNAME .
 *.netsneak.com CNAME .
-free.vbucks.generator.networkindia.com CNAME .
-*.free.vbucks.generator.networkindia.com CNAME .
-free.robux.networkindia.com CNAME .
-*.free.robux.networkindia.com CNAME .
 kywantsmyautographonfood.networkoutpost.com CNAME .
 *.kywantsmyautographonfood.networkoutpost.com CNAME .
 newipnow.com CNAME .
@@ -6694,8 +6686,6 @@ zrh1-ns01.monzoon.net CNAME .
 *.zrh1-ns01.monzoon.net CNAME .
 mullvad.net CNAME .
 *.mullvad.net CNAME .
-igottridentrodinfischtrust.myjamesonline.net CNAME .
-*.igottridentrodinfischtrust.myjamesonline.net CNAME .
 portmapper.myonlineportal.net CNAME .
 *.portmapper.myonlineportal.net CNAME .
 myprivateproxy.net CNAME .
@@ -7766,8 +7756,6 @@ mitmproxy.org CNAME .
 *.mitmproxy.org CNAME .
 edu.moldeo.org CNAME .
 *.edu.moldeo.org CNAME .
-history-of-earth.moldeo.org CNAME .
-*.history-of-earth.moldeo.org CNAME .
 only-shooting-stars-breakthe.moldeo.org CNAME .
 *.only-shooting-stars-breakthe.moldeo.org CNAME .
 later.monkxy.org CNAME .
