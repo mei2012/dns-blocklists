@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 18:07 UTC
-# Version: 2025.0628.1807.18
+# Last modified: 29 Jun 2025 00:09 UTC
+# Version: 2025.0629.0009.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4809
+# Number of entries: 4799
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -986,6 +986,7 @@ local=/cryptostorm.is/
 local=/cryptovpn.com/
 local=/dotdns.cryptroute.com/
 local=/dns.crystalyx.net/
+local=/dns.csa-rz.de/
 local=/dns.csaonline.de/
 local=/qg4qp4-8080.csb.app/
 local=/r8gjg2-8000.csb.app/
@@ -1344,7 +1345,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2108,12 +2108,9 @@ local=/sm6.jake.eu/
 local=/tesutorender.jake.eu/
 local=/jamesisbald.xyz/
 local=/tj.jamesxue.xyz/
-local=/janathanmahes-mysharepoint.com/
 local=/dns.janl.eu/
 local=/transit.javierblog.com/
 local=/state.gov.jaycloudlab.com/
-local=/jayshaun.com/
-local=/starving-kids.jaytex.org/
 local=/woodshop.jbworks.com/
 local=/jcdns.fun/
 local=/lowlow.jellyfl1x.es/
@@ -2193,7 +2190,6 @@ local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
-local=/dns.keke125.com/
 local=/doh.kekew.info/
 local=/doh.kel.pe/
 local=/kepard.com/
@@ -2214,7 +2210,6 @@ local=/doh.killtw.im/
 local=/blog.kimiblock.top/
 local=/kingsurfproxy.com/
 local=/howto.piano.kiptrak.com/
-local=/good.kje.us/
 local=/dns1.klcd.eu/
 local=/dns2.klcd.eu/
 local=/klcknerrip.com/
@@ -2328,7 +2323,6 @@ local=/likeproxy.com/
 local=/limevpn.com/
 local=/limitlessproxy.com/
 local=/silly.lindhesidan.se/
-local=/yozora.lindhesidan.se/
 local=/theman.lingxi-ai.net/
 local=/www-pa.linkall.uk/
 local=/linkideo.com/
@@ -2355,7 +2349,6 @@ local=/localto.net/
 local=/localtonet.com/
 local=/locaproxy.com/
 local=/lochridge.org/
-local=/browser.lolo.pro/
 local=/adguard.londonwebnerd.cloud/
 local=/doh.dns1.lonet.org/
 local=/doh.phdns1.lonet.org/
@@ -2381,7 +2374,6 @@ local=/lumes.jp/
 local=/luminati.io/
 local=/luminatinet.com/
 local=/lurk.info/
-local=/the.luxflow.net/
 local=/orau.lz0724.com/
 local=/addns1.m-it.ro/
 local=/mabuktogel.builders/
@@ -2407,7 +2399,6 @@ local=/mainprox.com/
 local=/mainssh.com/
 local=/maintainbrain.us/
 local=/dns.maitrekuc.fr/
-local=/we.make-it.ro/
 local=/course.quiz.makovecz.com/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
@@ -2615,7 +2606,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

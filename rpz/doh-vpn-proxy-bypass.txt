@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751134020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751155740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jun 2025 18:07 UTC
-; Version: 2025.0628.1807.18
+; Last modified: 29 Jun 2025 00:09 UTC
+; Version: 2025.0629.0009.06
 ; Syntax: RPZ
-; Number of entries: 9618
+; Number of entries: 9598
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1682,8 +1682,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2286,14 +2284,10 @@ cells.school.jaaax.com CNAME .
 *.cells.school.jaaax.com CNAME .
 jagoanssh.com CNAME .
 *.jagoanssh.com CNAME .
-janathanmahes-mysharepoint.com CNAME .
-*.janathanmahes-mysharepoint.com CNAME .
 transit.javierblog.com CNAME .
 *.transit.javierblog.com CNAME .
 state.gov.jaycloudlab.com CNAME .
 *.state.gov.jaycloudlab.com CNAME .
-jayshaun.com CNAME .
-*.jayshaun.com CNAME .
 woodshop.jbworks.com CNAME .
 *.woodshop.jbworks.com CNAME .
 jellyvpn.com CNAME .
@@ -2348,8 +2342,6 @@ keenow.com CNAME .
 *.keenow.com CNAME .
 keepanonymous.com CNAME .
 *.keepanonymous.com CNAME .
-dns.keke125.com CNAME .
-*.dns.keke125.com CNAME .
 kepard.com CNAME .
 *.kepard.com CNAME .
 dns.keviland.com CNAME .
@@ -2628,8 +2620,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4296,6 +4286,8 @@ unblock-proxy.com.de CNAME .
 *.unblock-proxy.com.de CNAME .
 webproxy.com.de CNAME .
 *.webproxy.com.de CNAME .
+dns.csa-rz.de CNAME .
+*.dns.csa-rz.de CNAME .
 dns.csaonline.de CNAME .
 *.dns.csaonline.de CNAME .
 dns.datenquark.de CNAME .
@@ -6678,8 +6670,6 @@ litebrowser.net CNAME .
 *.litebrowser.net CNAME .
 localto.net CNAME .
 *.localto.net CNAME .
-the.luxflow.net CNAME .
-*.the.luxflow.net CNAME .
 magiccloak.net CNAME .
 *.magiccloak.net CNAME .
 dns.marbledfennec.net CNAME .
@@ -7730,8 +7720,6 @@ use.edu.iownyour.org CNAME .
 *.use.edu.iownyour.org CNAME .
 bruh.j82.org CNAME .
 *.bruh.j82.org CNAME .
-starving-kids.jaytex.org CNAME .
-*.starving-kids.jaytex.org CNAME .
 dns.jundev.org CNAME .
 *.dns.jundev.org CNAME .
 kevinai.org CNAME .
@@ -8160,8 +8148,6 @@ smellyal.isreally.pro CNAME .
 *.smellyal.isreally.pro CNAME .
 smellypay.isreally.pro CNAME .
 *.smellypay.isreally.pro CNAME .
-browser.lolo.pro CNAME .
-*.browser.lolo.pro CNAME .
 pluhbruh.mctwisted.pro CNAME .
 *.pluhbruh.mctwisted.pro CNAME .
 ngrok.pro CNAME .
@@ -8480,8 +8466,6 @@ addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 use.madefalva.ro CNAME .
 *.use.madefalva.ro CNAME .
-we.make-it.ro CNAME .
-*.we.make-it.ro CNAME .
 gg.nordparrot.ro CNAME .
 *.gg.nordparrot.ro CNAME .
 edu.osobi.ro CNAME .
@@ -8616,8 +8600,6 @@ ipredator.se CNAME .
 *.ipredator.se CNAME .
 silly.lindhesidan.se CNAME .
 *.silly.lindhesidan.se CNAME .
-yozora.lindhesidan.se CNAME .
-*.yozora.lindhesidan.se CNAME .
 notes.books.nexum.se CNAME .
 *.notes.books.nexum.se CNAME .
 nunc.se CNAME .
@@ -9126,8 +9108,6 @@ dns.jhangy.us CNAME .
 *.dns.jhangy.us CNAME .
 adg.jnorton.us CNAME .
 *.adg.jnorton.us CNAME .
-good.kje.us CNAME .
-*.good.kje.us CNAME .
 legaladvisor.us CNAME .
 *.legaladvisor.us CNAME .
 maintainbrain.us CNAME .

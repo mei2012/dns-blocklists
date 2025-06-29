@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 18:06 UTC
-# Version: 2025.0628.1806.55
+# Last modified: 29 Jun 2025 00:08 UTC
+# Version: 2025.0629.0008.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1602
+# Number of entries: 1600
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -355,6 +355,7 @@
 0.0.0.0 dns.cryptomize.com
 0.0.0.0 dotdns.cryptroute.com
 0.0.0.0 dns.crystalyx.net
+0.0.0.0 dns.csa-rz.de
 0.0.0.0 dns.csaonline.de
 0.0.0.0 dns.csswg.org
 0.0.0.0 cubedns.com
@@ -623,7 +624,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -846,7 +846,6 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
-0.0.0.0 dns.keke125.com
 0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
@@ -1024,7 +1023,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io

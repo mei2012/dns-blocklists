@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 18:02 UTC
-# Version: 2025.0628.1802.05
+# Last modified: 29 Jun 2025 00:04 UTC
+# Version: 2025.0629.0004.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10020
+# Number of entries: 10014
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4617,7 +4617,6 @@ local=/jetload.net/
 local=/jhakkas.live/
 local=/jhalmuri.com/
 local=/jhalmuri.xyz/
-local=/tracker.jiesen.life/
 local=/jimmyr.com/
 local=/torrent.jiwang.cc/
 local=/jkanime.net/
@@ -4626,7 +4625,6 @@ local=/jkanime.video/
 local=/jmbsoft.com/
 local=/join4films.com/
 local=/jojoy.io/
-local=/jokerguide.com/
 local=/jokerlivestream.com/
 local=/jokerlivestream.me/
 local=/jokerlivestream.net/
@@ -4811,7 +4809,6 @@ local=/kinomob.com/
 local=/kinonadzor.net/
 local=/kinorun.com/
 local=/kinos.to/
-local=/kinotochka.org/
 local=/kinotracker.org/
 local=/kinotron.top/
 local=/kinoua.pro/
@@ -4825,7 +4822,6 @@ local=/kinox.club/
 local=/kinox.digital/
 local=/kinox.direct/
 local=/kinox.express/
-local=/kinox.fun/
 local=/kinox.fyi/
 local=/kinox.gratis/
 local=/kinox.io/
@@ -4905,7 +4901,6 @@ local=/kubanmedia.org/
 local=/kubhd.com/
 local=/kuiken.co/
 local=/kukaj.io/
-local=/kukaj.si/
 local=/kukaj.sk/
 local=/kukaj-to.cz/
 local=/kukajto.io/
@@ -5139,7 +5134,6 @@ local=/tracker01.loveapp.com/
 local=/lovemovie.org/
 local=/lovesyour.tv/
 local=/lovethescene.net/
-local=/warez.loxblog.com/
 local=/lrepacks.net/
 local=/lshunters.tv/
 local=/lucida.su/
