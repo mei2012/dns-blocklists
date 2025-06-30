@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jun 2025 12:07 UTC
-# Version: 2025.0630.1207.37
+# Last modified: 30 Jun 2025 18:04 UTC
+# Version: 2025.0630.1804.13
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 178
 #
@@ -78,9 +78,9 @@
 0.0.0.0 dns.dooks.uk dot.pub dns.dotnet.win dns.dremaxx.de droyd.top doh.dscloud.me agh.dshubham.xyz home27.duckdns.org jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org osefcorp.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de dns.dyn1.de ueni.dyndns.org dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net adguard.easez.net easyhandshake.com dns.eddi.net doh.eddi.net dns.edgeburnmedia.com dns.edgy.network edgy-dns.com dns.editechstudio.com
-0.0.0.0 dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr home.enjoymylife.net dns.enzonix.com
-0.0.0.0 bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org dns.fullaccesstointernet.jp.eu.org
-0.0.0.0 dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk dns.f97.xyz pdns.faelix.net
+0.0.0.0 dns.tuna.tsinghua.edu.cn adguard.ef67daisuki.club dns.efficientdocuments.com hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr home.enjoymylife.net
+0.0.0.0 dns.enzonix.com bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org
+0.0.0.0 dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk pdns.faelix.net
 0.0.0.0 rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click dns.farshidhakimy.de ns0.fdn.fr ns1.fdn.fr
 0.0.0.0 dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net dot.ffmuc.net dns.ffnw.de fidelius.top dns.filipccz.eu
 0.0.0.0 dns.fizz.studio dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net ns2.flodns.net resolv.flokinet.net dns.floriantinney.de agh.fltn.us
@@ -182,9 +182,9 @@
 0.0.0.0 tor.vasi.li dns.vault81.de securedns.vendorvista.xyz dns.vinnyp.xyz dns.vinokurov.tk dns.vishalk.com dns.vod11.xyz vorlif.org vtcuong.site
 0.0.0.0 dns.w3ctag.org dns.wahr.top aqua.is.my.waifu.cz darkness.is.my.waifu.cz megumin.is.my.waifu.cz yunyun.is.my.waifu.cz dns.wang.art dns.wargan.io abel.waringer-atg.de
 0.0.0.0 dns.warma.me dns.warpnine.de dns.engineer.web.id h4g3z1-doh.web.app doh.this.web.id doh.webnmail.de dns.wechat.com doh.wewitro.net dns.wibenson.cloud
-0.0.0.0 wikimedia-dns.org dns-1.wil.cloud dns-2.wil.cloud adguard.wirimij.nl clearweb.woodbridge.club home.wriedts.de ns2.wuyouss.com ns3.wuyouss.com wyx.cloud
-0.0.0.0 adb-home.xaoimoon.fr doh.xcom.pro xenergy.cc doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top agh.xinfeng16m.top dns.xlion.tw
-0.0.0.0 xn--durhre-yxa.de dns.xuming.studio dns.xusqui.com dns.xwdmw.xyz v2.xx3210766.live dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru common.dot.dns.yandex.net
-0.0.0.0 family.dot.dns.yandex.net safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru dns.yatima.tv lion.yazilimatolye.com
-0.0.0.0 ychen.cf ychen.gq sg.yepdns.com net01.youcef.io your-dns.run yovbak.com dns.yuu-g.net adg.yybyy.wiki dns.daemon.za.net
-0.0.0.0 adguard.zachitect.com zakaria.website zburger.top zdn.ro dns.zemows.industries adguard-kartoffel.zernico.de doh.zknt.org zougloub.eu dns.zzuhacker.cn
+0.0.0.0 wikimedia-dns.org dns-1.wil.cloud dns-2.wil.cloud adguard.wirimij.nl home.wriedts.de ns2.wuyouss.com ns3.wuyouss.com wyx.cloud adb-home.xaoimoon.fr
+0.0.0.0 doh.xcom.pro xenergy.cc doh.xfinity.com dot.xfinity.com doh2.gslb2.xfinity.com xholgm.top agh.xinfeng16m.top dns.xlion.tw xn--durhre-yxa.de
+0.0.0.0 dns.xuming.studio dns.xusqui.com dns.xwdmw.xyz v2.xx3210766.live dns.yameenassotally.com 2.dnscrypt-cert.browser.yandex.net dns.yandex.ru common.dot.dns.yandex.net family.dot.dns.yandex.net
+0.0.0.0 safe.dot.dns.yandex.net family.dns.yandex.ru secondary.family.dns.yandex.ru safe.dns.yandex.ru secondary.safe.dns.yandex.ru secondary.dns.yandex.ru dns.yatima.tv lion.yazilimatolye.com ychen.cf
+0.0.0.0 ychen.gq sg.yepdns.com net01.youcef.io your-dns.run yovbak.com dns.yuu-g.net adg.yybyy.wiki dns.daemon.za.net adguard.zachitect.com
+0.0.0.0 zakaria.website zburger.top zdn.ro dns.zemows.industries adguard-kartoffel.zernico.de doh.zknt.org zougloub.eu dns.zzuhacker.cn 

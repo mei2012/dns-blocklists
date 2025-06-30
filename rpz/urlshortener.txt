@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751280540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751301900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jun 2025 10:49 UTC
-; Version: 2025.0630.1049.36
+; Last modified: 30 Jun 2025 16:45 UTC
+; Version: 2025.0630.1645.40
 ; Syntax: RPZ
-; Number of entries: 10552
+; Number of entries: 10556
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1672,6 +1672,8 @@ bddugi.com CNAME .
 *.bddugi.com CNAME .
 bdtvzl.com CNAME .
 *.bdtvzl.com CNAME .
+beautyfitnesshealth.com CNAME .
+*.beautyfitnesshealth.com CNAME .
 bee1s.com CNAME .
 *.bee1s.com CNAME .
 beingtek.com CNAME .
@@ -2310,6 +2312,8 @@ on.louisvuitton.com CNAME .
 *.on.louisvuitton.com CNAME .
 lr53r.com CNAME .
 *.lr53r.com CNAME .
+lvfst.com CNAME .
+*.lvfst.com CNAME .
 lvvk.com CNAME .
 *.lvvk.com CNAME .
 lxddck.com CNAME .
@@ -5930,8 +5934,6 @@ myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -9072,6 +9074,8 @@ mikgr.si CNAME .
 *.mikgr.si CNAME .
 pros.si CNAME .
 *.pros.si CNAME .
+qain.si CNAME .
+*.qain.si CNAME .
 shy.si CNAME .
 *.shy.si CNAME .
 sky.si CNAME .

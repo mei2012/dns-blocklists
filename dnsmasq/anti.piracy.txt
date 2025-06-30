@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jun 2025 12:02 UTC
-# Version: 2025.0630.1202.57
+# Last modified: 30 Jun 2025 17:59 UTC
+# Version: 2025.0630.1759.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9979
+# Number of entries: 9978
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -7055,7 +7055,6 @@ local=/redditnflstreams.net/
 local=/redditnhlstreams.com/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
-local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
