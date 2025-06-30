@@ -84,6 +84,13 @@
       }
     },
     {
+      "PK": "addtocart.today",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "adguard-vpn.cc",
       "action": {
         "do": 1,
@@ -269,6 +276,13 @@
       "PK": "*.auction",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "autoads.asia",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

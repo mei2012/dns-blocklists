@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jun 2025 00:01 UTC
-# Version: 2025.0630.0001.28
+# Last modified: 30 Jun 2025 12:02 UTC
+# Version: 2025.0630.1202.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9976
+# Number of entries: 9979
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2042,6 +2042,7 @@ local=/comandotorrentshd.net/
 local=/mywebpages.comcast.net/
 local=/comcentral.com/
 local=/comebackdownload.com/
+local=/comicaso.space/
 local=/comicat.org/
 local=/comicextra.com/
 local=/comick.io/
@@ -2080,6 +2081,8 @@ local=/pre.corrupt-net.org/
 local=/trace.corrupt-net.org/
 local=/corsaro.red/
 local=/corsflix.net/
+local=/cosmic332.com/
+local=/cosmicscans.asia/
 local=/cosmobox.org/
 local=/cosmoneo.com/
 local=/cotapers.org/
@@ -4717,6 +4720,7 @@ local=/kaztorka.org/
 local=/kbnonlinebd.net/
 local=/kcnawatch.org/
 local=/0d.kebhana.mx/
+local=/kedimanga.com/
 local=/tracker.keepfrds.com/
 local=/keepvid.online/
 local=/keke.re/
@@ -4885,6 +4889,8 @@ local=/kodiapps.com/
 local=/kokodayo.site/
 local=/koli.services/
 local=/kolompc.com/
+local=/komiksin.net/
+local=/komikstation.org/
 local=/komodoisland.net/
 local=/koora-live.io/
 local=/kooralivs.com/
@@ -5235,6 +5241,7 @@ local=/mangafire.to/
 local=/mangakakalot.tv/
 local=/mangamura.org/
 local=/manganelo.tv/
+local=/mangaokusana.com/
 local=/mangapark.net/
 local=/mangapoisk.io/
 local=/mangareader.tv/
@@ -7048,6 +7055,7 @@ local=/redditnflstreams.net/
 local=/redditnhlstreams.com/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
+local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
@@ -7507,6 +7515,7 @@ local=/siteunblocked.info/
 local=/sitosenzanome.it/
 local=/sitostreaming.com/
 local=/sittingonclouds.net/
+local=/siyahmelek.pro/
 local=/sjcrack.com/
 local=/skidrow-games.com/
 local=/skidrowcodex.net/
@@ -9250,7 +9259,6 @@ local=/admin.videoenpoche.info/
 local=/videoneat.com/
 local=/videospider.in/
 local=/videothek.cx/
-local=/videotiktok.tv/
 local=/vider.info/
 local=/vider.love/
 local=/vidhog.com/
@@ -9922,7 +9930,6 @@ local=/zerion.cc/
 local=/tracker.zerobytes.xyz/
 local=/zerodollarmovies.com/
 local=/media.zerointernet.net/
-local=/proxy.zeronet.dev/
 local=/zeropaid.com/
 local=/zerotracker.com/
 local=/zetorrents.biz/
@@ -9965,10 +9972,6 @@ local=/zone-warez.com/
 local=/zonesega.com/
 local=/zonestreaming.info/
 local=/zonestreaming.rip/
-local=/forever-tracker.zooki.xyz/
-local=/free-tracker.zooki.xyz/
-local=/public-tracker.zooki.xyz/
-local=/tracker-v6.zooki.xyz/
 local=/zoomonlinebd.net/
 local=/zooqle.com/
 local=/zoozle.org/

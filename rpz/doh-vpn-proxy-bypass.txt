@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751241960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751285220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jun 2025 00:06 UTC
-; Version: 2025.0630.0006.29
+; Last modified: 30 Jun 2025 12:07 UTC
+; Version: 2025.0630.1207.57
 ; Syntax: RPZ
-; Number of entries: 9600
+; Number of entries: 9598
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -596,8 +596,6 @@ study.toptrends.ch CNAME .
 *.study.toptrends.ch CNAME .
 tools.vonar.ch CNAME .
 *.tools.vonar.ch CNAME .
-hudzonlzzzzzhj.zavoj.ch CNAME .
-*.hudzonlzzzzzhj.zavoj.ch CNAME .
 tststststststststststststststststststststs.zavoj.ch CNAME .
 *.tststststststststststststststststststststs.zavoj.ch CNAME .
 adguard.ruby.ci CNAME .
@@ -1678,8 +1676,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -5614,6 +5610,8 @@ unblock.it CNAME .
 *.unblock.it CNAME .
 lebronisthegoat.undo.it CNAME .
 *.lebronisthegoat.undo.it CNAME .
+galileo.math.unipd.it CNAME .
+*.galileo.math.unipd.it CNAME .
 rateavon.je CNAME .
 *.rateavon.je CNAME .
 googolclasroom.dob.jp CNAME .

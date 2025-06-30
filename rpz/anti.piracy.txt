@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751241660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751284920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jun 2025 00:01 UTC
-; Version: 2025.0630.0001.28
+; Last modified: 30 Jun 2025 12:02 UTC
+; Version: 2025.0630.1202.57
 ; Syntax: RPZ
-; Number of entries: 19952
+; Number of entries: 19958
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -311,6 +311,8 @@ bdupload.asia CNAME .
 *.bdupload.asia CNAME .
 cb01.asia CNAME .
 *.cb01.asia CNAME .
+cosmicscans.asia CNAME .
+*.cosmicscans.asia CNAME .
 filmpertutti.asia CNAME .
 *.filmpertutti.asia CNAME .
 juraganfilm.asia CNAME .
@@ -1171,6 +1173,8 @@ radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
 rarbg.cc CNAME .
 *.rarbg.cc CNAME .
+redditsport.cc CNAME .
+*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -3187,6 +3191,8 @@ coolwarez.com CNAME .
 *.coolwarez.com CNAME .
 copycase.com CNAME .
 *.copycase.com CNAME .
+cosmic332.com CNAME .
+*.cosmic332.com CNAME .
 cosmoneo.com CNAME .
 *.cosmoneo.com CNAME .
 couchtuner0.com CNAME .
@@ -4629,6 +4635,8 @@ kawaiifu.com CNAME .
 *.kawaiifu.com CNAME .
 kayoanime.com CNAME .
 *.kayoanime.com CNAME .
+kedimanga.com CNAME .
+*.kedimanga.com CNAME .
 tracker.keepfrds.com CNAME .
 *.tracker.keepfrds.com CNAME .
 data.kenecolor.com CNAME .
@@ -4887,6 +4895,8 @@ malacka.com CNAME .
 *.malacka.com CNAME .
 malavida.com CNAME .
 *.malavida.com CNAME .
+mangaokusana.com CNAME .
+*.mangaokusana.com CNAME .
 mangasee123.com CNAME .
 *.mangasee123.com CNAME .
 mangogamers.com CNAME .
@@ -7911,8 +7921,6 @@ tracker.webtorrent.dev CNAME .
 *.tracker.webtorrent.dev CNAME .
 drive.massgravel.workers.dev CNAME .
 *.drive.massgravel.workers.dev CNAME .
-proxy.zeronet.dev CNAME .
-*.proxy.zeronet.dev CNAME .
 dramaqu.digital CNAME .
 *.dramaqu.digital CNAME .
 filmpertutti.digital CNAME .
@@ -12203,6 +12211,8 @@ kinonadzor.net CNAME .
 *.kinonadzor.net CNAME .
 kmnbd.net CNAME .
 *.kmnbd.net CNAME .
+komiksin.net CNAME .
+*.komiksin.net CNAME .
 komodoisland.net CNAME .
 *.komodoisland.net CNAME .
 kora4live.net CNAME .
@@ -14439,6 +14449,8 @@ kisssub.org CNAME .
 *.kisssub.org CNAME .
 knaben.org CNAME .
 *.knaben.org CNAME .
+komikstation.org CNAME .
+*.komikstation.org CNAME .
 kubanmedia.org CNAME .
 *.kubanmedia.org CNAME .
 l33t-raws.org CNAME .
@@ -15757,6 +15769,8 @@ serien.pro CNAME .
 *.serien.pro CNAME .
 series9mx.pro CNAME .
 *.series9mx.pro CNAME .
+siyahmelek.pro CNAME .
+*.siyahmelek.pro CNAME .
 sportlemon.pro CNAME .
 *.sportlemon.pro CNAME .
 streamkiste.pro CNAME .
@@ -17035,6 +17049,8 @@ cineblog01.space CNAME .
 *.cineblog01.space CNAME .
 cmovies.space CNAME .
 *.cmovies.space CNAME .
+comicaso.space CNAME .
+*.comicaso.space CNAME .
 couchtuner.space CNAME .
 *.couchtuner.space CNAME .
 dramaqu.space CNAME .
@@ -18655,8 +18671,6 @@ viafnatt.tv CNAME .
 *.viafnatt.tv CNAME .
 viark.tv CNAME .
 *.viark.tv CNAME .
-videotiktok.tv CNAME .
-*.videotiktok.tv CNAME .
 vidnow.tv CNAME .
 *.vidnow.tv CNAME .
 vidplay.tv CNAME .
@@ -19909,14 +19923,6 @@ zecircle.xyz CNAME .
 *.zecircle.xyz CNAME .
 tracker.zerobytes.xyz CNAME .
 *.tracker.zerobytes.xyz CNAME .
-forever-tracker.zooki.xyz CNAME .
-*.forever-tracker.zooki.xyz CNAME .
-free-tracker.zooki.xyz CNAME .
-*.free-tracker.zooki.xyz CNAME .
-public-tracker.zooki.xyz CNAME .
-*.public-tracker.zooki.xyz CNAME .
-tracker-v6.zooki.xyz CNAME .
-*.tracker-v6.zooki.xyz CNAME .
 123movies.yt CNAME .
 *.123movies.yt CNAME .
 eztv.yt CNAME .
