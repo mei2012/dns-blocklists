@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751172240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751237100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jun 2025 04:44 UTC
-; Version: 2025.0629.0444.34
+; Last modified: 29 Jun 2025 22:45 UTC
+; Version: 2025.0629.2245.10
 ; Syntax: RPZ
-; Number of entries: 4282
+; Number of entries: 4274
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -1517,8 +1517,6 @@ onzeblog.com CNAME .
 *.onzeblog.com CNAME .
 oooninja.com CNAME .
 *.oooninja.com CNAME .
-opensea-claimnft.com CNAME .
-*.opensea-claimnft.com CNAME .
 opisial.com CNAME .
 *.opisial.com CNAME .
 orgsites.com CNAME .
@@ -3327,8 +3325,6 @@ pointblog.net CNAME .
 *.pointblog.net CNAME .
 ql4h.net CNAME .
 *.ql4h.net CNAME .
-recentblog.net CNAME .
-*.recentblog.net CNAME .
 rigala.net CNAME .
 *.rigala.net CNAME .
 scienceontheweb.net CNAME .
@@ -3355,8 +3351,6 @@ totalh.net CNAME .
 *.totalh.net CNAME .
 trexgame.net CNAME .
 *.trexgame.net CNAME .
-tutorial-blog.net CNAME .
-*.tutorial-blog.net CNAME .
 tweakblogs.net CNAME .
 *.tweakblogs.net CNAME .
 ucoz.net CNAME .
@@ -3979,8 +3973,6 @@ okistore.shop CNAME .
 *.okistore.shop CNAME .
 onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
-openinglook.shop CNAME .
-*.openinglook.shop CNAME .
 orangeusa.shop CNAME .
 *.orangeusa.shop CNAME .
 orderedlinks.shop CNAME .

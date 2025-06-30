@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751177220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751241960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jun 2025 06:07 UTC
-; Version: 2025.0629.0607.42
+; Last modified: 30 Jun 2025 00:06 UTC
+; Version: 2025.0630.0006.29
 ; Syntax: RPZ
-; Number of entries: 9586
+; Number of entries: 9600
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -30,8 +30,6 @@ bebra.ai CNAME .
 *.bebra.ai CNAME .
 nodepay.ai CNAME .
 *.nodepay.ai CNAME .
-next.rinet.ai CNAME .
-*.next.rinet.ai CNAME .
 sical.s.ical.sic.al CNAME .
 *.sical.s.ical.sic.al CNAME .
 onion.am CNAME .
@@ -2618,6 +2616,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -2786,8 +2786,6 @@ openvpn.com CNAME .
 *.openvpn.com CNAME .
 openvpn-ssh.com CNAME .
 *.openvpn-ssh.com CNAME .
-flipgrid.opior.com CNAME .
-*.flipgrid.opior.com CNAME .
 dns.eu-frankfurt-1.oraclecloud.com CNAME .
 *.dns.eu-frankfurt-1.oraclecloud.com CNAME .
 dns.uk-london-1.oraclecloud.com CNAME .
@@ -2890,8 +2888,6 @@ mind.gov.ping24.com CNAME .
 *.mind.gov.ping24.com CNAME .
 pingproxy.com CNAME .
 *.pingproxy.com CNAME .
-www-funny.pinkertonmc.com CNAME .
-*.www-funny.pinkertonmc.com CNAME .
 pirataproxy.com CNAME .
 *.pirataproxy.com CNAME .
 pixelprivacy.com CNAME .
@@ -3200,8 +3196,6 @@ dns1.ryan-palmer.com CNAME .
 *.dns1.ryan-palmer.com CNAME .
 math.sachhot.com CNAME .
 *.math.sachhot.com CNAME .
-desmos.saf-eng.com CNAME .
-*.desmos.saf-eng.com CNAME .
 safe-inet.com CNAME .
 *.safe-inet.com CNAME .
 safeguardianvpn.com CNAME .
@@ -3342,8 +3336,6 @@ dove.soapagent.com CNAME .
 *.dove.soapagent.com CNAME .
 dove.soapclient.com CNAME .
 *.dove.soapclient.com CNAME .
-signup.soapclient.com CNAME .
-*.signup.soapclient.com CNAME .
 free-vpn.en.softonic.com CNAME .
 *.free-vpn.en.softonic.com CNAME .
 soleilvpn-app.com CNAME .
@@ -3402,8 +3394,6 @@ stage-ngrok.com CNAME .
 *.stage-ngrok.com CNAME .
 tests.data.stardustcommercialservices.com CNAME .
 *.tests.data.stardustcommercialservices.com CNAME .
-task.words.starlordbob.com CNAME .
-*.task.words.starlordbob.com CNAME .
 starssh.com CNAME .
 *.starssh.com CNAME .
 math.startechcomputacion.com CNAME .
@@ -3418,8 +3408,52 @@ eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
-proxy2.startpage.com CNAME .
-*.proxy2.startpage.com CNAME .
+0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com CNAME .
+*.0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com CNAME .
+071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com CNAME .
+*.071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com CNAME .
+0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com CNAME .
+*.0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com CNAME .
+1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com CNAME .
+*.1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com CNAME .
+51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com CNAME .
+*.51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com CNAME .
+5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com CNAME .
+*.5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com CNAME .
+787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com CNAME .
+*.787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com CNAME .
+919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com CNAME .
+*.919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com CNAME .
+9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com CNAME .
+*.9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com CNAME .
+954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com CNAME .
+*.954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com CNAME .
+aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com CNAME .
+*.aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com CNAME .
+afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com CNAME .
+*.afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com CNAME .
+c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com CNAME .
+*.c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com CNAME .
+c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com CNAME .
+*.c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com CNAME .
+c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com CNAME .
+*.c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com CNAME .
+cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com CNAME .
+*.cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com CNAME .
+dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com CNAME .
+*.dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com CNAME .
+e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com CNAME .
+*.e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com CNAME .
+ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com CNAME .
+*.ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com CNAME .
+f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com CNAME .
+*.f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com CNAME .
+f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com CNAME .
+*.f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com CNAME .
+fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com CNAME .
+*.fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com CNAME .
+session.proxy2.startpage.com CNAME .
+*.session.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -3632,8 +3666,6 @@ top10vpn.com CNAME .
 *.top10vpn.com CNAME .
 topvpnguides.com CNAME .
 *.topvpnguides.com CNAME .
-tor4pay.com CNAME .
-*.tor4pay.com CNAME .
 torrentprivacy.com CNAME .
 *.torrentprivacy.com CNAME .
 torsona.com CNAME .
@@ -5264,8 +5296,6 @@ boxcat.radio-zvez.info CNAME .
 *.boxcat.radio-zvez.info CNAME .
 learn.razorlan.info CNAME .
 *.learn.razorlan.info CNAME .
-use.razorlan.info CNAME .
-*.use.razorlan.info CNAME .
 redproxy.info CNAME .
 *.redproxy.info CNAME .
 redschool.info CNAME .
@@ -5568,8 +5598,6 @@ wi3ue6xg7yqi.connect.remote.it CNAME .
 *.wi3ue6xg7yqi.connect.remote.it CNAME .
 dns.repressoh.it CNAME .
 *.dns.repressoh.it CNAME .
-rizzohiosigmajasin111.com.soon.it CNAME .
-*.rizzohiosigmajasin111.com.soon.it CNAME .
 jcmswebsiteunblocker.soon.it CNAME .
 *.jcmswebsiteunblocker.soon.it CNAME .
 konata-ice.soon.it CNAME .
@@ -5578,8 +5606,6 @@ maxkershoe.soon.it CNAME .
 *.maxkershoe.soon.it CNAME .
 swisscheesebyjohn.soon.it CNAME .
 *.swisscheesebyjohn.soon.it CNAME .
-you.know.that.im.strokin.it CNAME .
-*.you.know.that.im.strokin.it CNAME .
 pleasekeep.strokin.it CNAME .
 *.pleasekeep.strokin.it CNAME .
 tor2web.it CNAME .
@@ -5588,8 +5614,6 @@ unblock.it CNAME .
 *.unblock.it CNAME .
 lebronisthegoat.undo.it CNAME .
 *.lebronisthegoat.undo.it CNAME .
-galileo.math.unipd.it CNAME .
-*.galileo.math.unipd.it CNAME .
 rateavon.je CNAME .
 *.rateavon.je CNAME .
 googolclasroom.dob.jp CNAME .
@@ -5640,8 +5664,6 @@ study.tests.fiat500.li CNAME .
 *.study.tests.fiat500.li CNAME .
 flashvpn.li CNAME .
 *.flashvpn.li CNAME .
-yoursuper.rude.li CNAME .
-*.yoursuper.rude.li CNAME .
 proxy.schel.li CNAME .
 *.proxy.schel.li CNAME .
 theproxy.li CNAME .
@@ -5714,8 +5736,6 @@ proxyduke.lol CNAME .
 *.proxyduke.lol CNAME .
 quic.lol CNAME .
 *.quic.lol CNAME .
-zixypy.reticence.lol CNAME .
-*.zixypy.reticence.lol CNAME .
 themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 *.themeaningofallmeaningsforallofthemeaningsmeanings.lol CNAME .
 theproxy.lol CNAME .
@@ -5894,8 +5914,6 @@ proxy4free.me CNAME .
 *.proxy4free.me CNAME .
 proxymaster.me CNAME .
 *.proxymaster.me CNAME .
-start.puto.me CNAME .
-*.start.puto.me CNAME .
 doh.pyry.me CNAME .
 *.doh.pyry.me CNAME .
 at.pzhg.me CNAME .
@@ -6826,8 +6844,6 @@ rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 school.pepikutan.net CNAME .
 *.school.pepikutan.net CNAME .
-perfectvpn.net CNAME .
-*.perfectvpn.net CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 dns.phillipjberry.net CNAME .
@@ -6998,8 +7014,6 @@ surfall.net CNAME .
 *.surfall.net CNAME .
 surfshark.net CNAME .
 *.surfshark.net CNAME .
-poptee-liawheufhwae-awef.swanndvr.net CNAME .
-*.poptee-liawheufhwae-awef.swanndvr.net CNAME .
 popteeeee-lkshfeakwueh-ew.swanndvr.net CNAME .
 *.popteeeee-lkshfeakwueh-ew.swanndvr.net CNAME .
 ramm-ume-pro.swanndvr.net CNAME .
@@ -8756,6 +8770,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -8764,8 +8780,6 @@ study.info.east-kazakhstan.su CNAME .
 *.study.info.east-kazakhstan.su CNAME .
 amp.nov.su CNAME .
 *.amp.nov.su CNAME .
-tor2web.su CNAME .
-*.tor2web.su CNAME .
 unblocked.surf CNAME .
 *.unblocked.surf CNAME .
 crypto.sx CNAME .
