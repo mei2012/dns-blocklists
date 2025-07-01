@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jun 2025 18:04 UTC
-# Version: 2025.0630.1804.13
+# Last modified: 01 Jul 2025 06:08 UTC
+# Version: 2025.0701.0608.34
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1601
+# Number of entries: 1598
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -624,7 +624,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -648,6 +647,7 @@
 0.0.0.0 fra1.eyecay.xyz
 0.0.0.0 dns.f4a.fun
 0.0.0.0 jp1.f7b6h9.tk
+0.0.0.0 dns.f97.xyz
 0.0.0.0 pdns.faelix.net
 0.0.0.0 rdns.faelix.net
 0.0.0.0 dns.faked.org
@@ -667,7 +667,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -722,7 +721,6 @@
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
-0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 dns.gutwe.in
 0.0.0.0 gztech.me
@@ -1024,7 +1022,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io

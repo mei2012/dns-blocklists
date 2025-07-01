@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751306340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751349780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jun 2025 17:59 UTC
-; Version: 2025.0630.1759.21
+; Last modified: 01 Jul 2025 06:03 UTC
+; Version: 2025.0701.0603.16
 ; Syntax: RPZ
-; Number of entries: 127432
+; Number of entries: 127430
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -9581,6 +9581,8 @@ leon-casino-wuu8.casino CNAME .
 *.leon-casino-wuu8.casino CNAME .
 leon1.casino CNAME .
 *.leon1.casino CNAME .
+leon204.casino CNAME .
+*.leon204.casino CNAME .
 leon209.casino CNAME .
 *.leon209.casino CNAME .
 leon214.casino CNAME .
@@ -16027,8 +16029,6 @@ mostbetcasino-app.co CNAME .
 *.mostbetcasino-app.co CNAME .
 betway1.moyafree.co CNAME .
 *.betway1.moyafree.co CNAME .
-necasino.co CNAME .
-*.necasino.co CNAME .
 sodocasino.net.co CNAME .
 *.sodocasino.net.co CNAME .
 newtowncasino.co CNAME .
@@ -16351,18 +16351,12 @@ g88.codes CNAME .
 *.028k365.com CNAME .
 02betslot.com CNAME .
 *.02betslot.com CNAME .
-03174.com CNAME .
-*.03174.com CNAME .
 03betcasino.com CNAME .
 *.03betcasino.com CNAME .
-03casino.com CNAME .
-*.03casino.com CNAME .
 04g8d.com CNAME .
 *.04g8d.com CNAME .
 0572tm.com CNAME .
 *.0572tm.com CNAME .
-05casino.com CNAME .
-*.05casino.com CNAME .
 073bet-casino.com CNAME .
 *.073bet-casino.com CNAME .
 073bet-slots.com CNAME .
@@ -36533,6 +36527,8 @@ dsopasti.com CNAME .
 *.dsopasti.com CNAME .
 dtbets.com CNAME .
 *.dtbets.com CNAME .
+dtgapi.com CNAME .
+*.dtgapi.com CNAME .
 du88.com CNAME .
 *.du88.com CNAME .
 dubai191bets.com CNAME .
@@ -57519,6 +57515,8 @@ slotum.com CNAME .
 *.slotum.com CNAME .
 slotv.com CNAME .
 *.slotv.com CNAME .
+slotvechin.com CNAME .
+*.slotvechin.com CNAME .
 slotvibe.com CNAME .
 *.slotvibe.com CNAME .
 slotxo24hr.com CNAME .
@@ -63135,8 +63133,6 @@ vulkan-platinum-site.com CNAME .
 *.vulkan-platinum-site.com CNAME .
 vulkan-platinum5.com CNAME .
 *.vulkan-platinum5.com CNAME .
-vulkan-prognozi.com CNAME .
-*.vulkan-prognozi.com CNAME .
 vulkan-vegas-casino2.com CNAME .
 *.vulkan-vegas-casino2.com CNAME .
 vulkan-vegas-casino24.com CNAME .
@@ -65895,6 +65891,8 @@ loewen-play-casino.de CNAME .
 *.loewen-play-casino.de CNAME .
 lordlucky.de CNAME .
 *.lordlucky.de CNAME .
+lotos-wetten.de CNAME .
+*.lotos-wetten.de CNAME .
 lotto.de CNAME .
 *.lotto.de CNAME .
 lotto-bayern.de CNAME .
@@ -69883,8 +69881,6 @@ choiwon88.info CNAME .
 *.choiwon88.info CNAME .
 chosen-onlinecasinos-sites.info CNAME .
 *.chosen-onlinecasinos-sites.info CNAME .
-club-vullcan.info CNAME .
-*.club-vullcan.info CNAME .
 coingambling.info CNAME .
 *.coingambling.info CNAME .
 cointracking.info CNAME .
@@ -73537,6 +73533,8 @@ joefortune.com.lv CNAME .
 *.joefortune.com.lv CNAME .
 feniksscasino.lv CNAME .
 *.feniksscasino.lv CNAME .
+ggpoker.lv CNAME .
+*.ggpoker.lv CNAME .
 ice-casino-bonus.lv CNAME .
 *.ice-casino-bonus.lv CNAME .
 icecasinobonus.lv CNAME .
@@ -74265,8 +74263,6 @@ vulkanoriginals.name CNAME .
 *.1xbet-mobi.net CNAME .
 1xbet-officialsite.net CNAME .
 *.1xbet-officialsite.net CNAME .
-1xbet-onlinecasino.net CNAME .
-*.1xbet-onlinecasino.net CNAME .
 1xbet-pk.net CNAME .
 *.1xbet-pk.net CNAME .
 1xbet-slot.net CNAME .
@@ -90065,6 +90061,8 @@ nevasport.ru CNAME .
 *.nevasport.ru CNAME .
 newcasino24.ru CNAME .
 *.newcasino24.ru CNAME .
+newretro-casinowins.ru CNAME .
+*.newretro-casinowins.ru CNAME .
 newretrocasino-casino3.ru CNAME .
 *.newretrocasino-casino3.ru CNAME .
 newretroslotslogin.ru CNAME .
@@ -90117,6 +90115,8 @@ pautina-casinon.ru CNAME .
 *.pautina-casinon.ru CNAME .
 pin-up-casino444.ru CNAME .
 *.pin-up-casino444.ru CNAME .
+pin-up-casino999.ru CNAME .
+*.pin-up-casino999.ru CNAME .
 pin-up-casinok.ru CNAME .
 *.pin-up-casinok.ru CNAME .
 pin-upcasino-com.ru CNAME .
@@ -103727,8 +103727,6 @@ jozz-casino-official24.top CNAME .
 *.jozz-casino-official24.top CNAME .
 jozz-casino-whx.top CNAME .
 *.jozz-casino-whx.top CNAME .
-jozzcasino-bma.top CNAME .
-*.jozzcasino-bma.top CNAME .
 jozzcasino-tum.top CNAME .
 *.jozzcasino-tum.top CNAME .
 jpsultan.top CNAME .

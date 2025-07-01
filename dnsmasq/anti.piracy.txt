@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jun 2025 17:59 UTC
-# Version: 2025.0630.1759.46
+# Last modified: 01 Jul 2025 06:03 UTC
+# Version: 2025.0701.0603.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9978
+# Number of entries: 9981
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -3864,6 +3864,7 @@ local=/gmovies.cc/
 local=/gmovies.xyz/
 local=/gmt-max.org/
 local=/gnetworkbd.com/
+local=/gnula.life/
 local=/gnula.nu/
 local=/gnula.su/
 local=/gnutellaforums.com/
@@ -7959,6 +7960,7 @@ local=/streamtape.com/
 local=/streamwatch.online/
 local=/streamwatchfree.com/
 local=/streamway.org/
+local=/streamwish.to/
 local=/streamwoop.club/
 local=/streamwoop.com/
 local=/streamwoop.net/
@@ -8926,6 +8928,7 @@ local=/ukr-sub.com/
 local=/ultimate-warez.eu/
 local=/ultimateshare.net/
 local=/ultimatestremioaddons.club/
+local=/ultpreplayer.com/
 local=/ultracine.live/
 local=/ultracine.net/
 local=/ultracine.vip/
@@ -9984,6 +9987,6 @@ local=/movies.zsw.ca/
 local=/ultra.zt.ua/
 local=/ztracker.hu/
 local=/tr.zukizuki.org/
-local=/zumods.com/
+local=/zumods.coole/
 local=/zxcmovies.com/
 local=/zxonlinebd.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751306340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751349780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jun 2025 17:59 UTC
-; Version: 2025.0630.1759.46
+; Last modified: 01 Jul 2025 06:03 UTC
+; Version: 2025.0701.0603.43
 ; Syntax: RPZ
-; Number of entries: 19956
+; Number of entries: 19962
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6983,6 +6983,8 @@ ukpiratebayproxy.com CNAME .
 *.ukpiratebayproxy.com CNAME .
 ukr-sub.com CNAME .
 *.ukr-sub.com CNAME .
+ultpreplayer.com CNAME .
+*.ultpreplayer.com CNAME .
 ultradownloads.com CNAME .
 *.ultradownloads.com CNAME .
 ummagurau.com CNAME .
@@ -7563,8 +7565,6 @@ zonesega.com CNAME .
 *.zonesega.com CNAME .
 zooqle.com CNAME .
 *.zooqle.com CNAME .
-zumods.com CNAME .
-*.zumods.com CNAME .
 zxcmovies.com CNAME .
 *.zxcmovies.com CNAME .
 zxonlinebd.com CNAME .
@@ -7595,6 +7595,8 @@ tantifilm.cool CNAME .
 *.tantifilm.cool CNAME .
 tpb.cool CNAME .
 *.tpb.cool CNAME .
+zumods.coole CNAME .
+*.zumods.coole CNAME .
 altadefinizione.coupons CNAME .
 *.altadefinizione.coupons CNAME .
 dognzb.cr CNAME .
@@ -9975,6 +9977,8 @@ filmstreaming-de.life CNAME .
 *.filmstreaming-de.life CNAME .
 flixtor.life CNAME .
 *.flixtor.life CNAME .
+gnula.life CNAME .
+*.gnula.life CNAME .
 guardaflix.life CNAME .
 *.guardaflix.life CNAME .
 guardaserie.life CNAME .
@@ -17839,6 +17843,8 @@ streamm4u.to CNAME .
 *.streamm4u.to CNAME .
 streammovies.to CNAME .
 *.streammovies.to CNAME .
+streamwish.to CNAME .
+*.streamwish.to CNAME .
 supernova.to CNAME .
 *.supernova.to CNAME .
 swatchseries.to CNAME .
