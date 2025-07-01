@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jul 2025 12:08 UTC
-# Version: 2025.0701.1208.33
+# Last modified: 01 Jul 2025 18:10 UTC
+# Version: 2025.0701.1810.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 4847
 #
@@ -135,7 +135,6 @@ local=/87826100.xyz/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
 local=/8888.google/
-local=/8proxy.com/
 local=/arts.field.8tb.net/
 local=/8v9m.com/
 local=/922proxy.com/
@@ -1496,6 +1495,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
