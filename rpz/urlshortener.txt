@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751431500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751467980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2025 04:45 UTC
-; Version: 2025.0702.0445.41
+; Last modified: 02 Jul 2025 14:53 UTC
+; Version: 2025.0702.1453.03
 ; Syntax: RPZ
-; Number of entries: 10512
+; Number of entries: 10454
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1932,8 +1932,6 @@ url.eefocus.com CNAME .
 *.url.eefocus.com CNAME .
 eepurl.com CNAME .
 *.eepurl.com CNAME .
-eg-hr.com CNAME .
-*.eg-hr.com CNAME .
 eg-sale.com CNAME .
 *.eg-sale.com CNAME .
 entryurl.com CNAME .
@@ -4648,10 +4646,6 @@ csgy.info CNAME .
 *.csgy.info CNAME .
 cupoms.info CNAME .
 *.cupoms.info CNAME .
-d-its-hekis-osama-kwi.info CNAME .
-*.d-its-hekis-osama-kwi.info CNAME .
-dafjk.info CNAME .
-*.dafjk.info CNAME .
 detoxgold.info CNAME .
 *.detoxgold.info CNAME .
 dl-protect.info CNAME .
@@ -4664,10 +4658,6 @@ ebooktruyen.info CNAME .
 *.ebooktruyen.info CNAME .
 edmno1.info CNAME .
 *.edmno1.info CNAME .
-elizabethblog.info CNAME .
-*.elizabethblog.info CNAME .
-epuu.info CNAME .
-*.epuu.info CNAME .
 estimatedangles.info CNAME .
 *.estimatedangles.info CNAME .
 feyh.info CNAME .
@@ -5732,52 +5722,30 @@ debbiewestdicksons.life CNAME .
 *.debbiewestdicksons.life CNAME .
 dewaa4982.life CNAME .
 *.dewaa4982.life CNAME .
-digital-it-park.life CNAME .
-*.digital-it-park.life CNAME .
-digitalitpark.life CNAME .
-*.digitalitpark.life CNAME .
-digitalitparks.life CNAME .
-*.digitalitparks.life CNAME .
 disanspam.life CNAME .
 *.disanspam.life CNAME .
 divestiture.life CNAME .
 *.divestiture.life CNAME .
 docusignredirectsharepoint.life CNAME .
 *.docusignredirectsharepoint.life CNAME .
-dominguez-nieves-71.life CNAME .
-*.dominguez-nieves-71.life CNAME .
 dr-lisa.life CNAME .
 *.dr-lisa.life CNAME .
 dreamshigh.life CNAME .
 *.dreamshigh.life CNAME .
-drunks.life CNAME .
-*.drunks.life CNAME .
 dub-a-zanes-pham-and-la-25.life CNAME .
 *.dub-a-zanes-pham-and-la-25.life CNAME .
 dydou.life CNAME .
 *.dydou.life CNAME .
-ed-lira-tahiri-05.life CNAME .
-*.ed-lira-tahiri-05.life CNAME .
-edliratahiri05.life CNAME .
-*.edliratahiri05.life CNAME .
 elevation-crew.life CNAME .
 *.elevation-crew.life CNAME .
-elizabethblog.life CNAME .
-*.elizabethblog.life CNAME .
-elizabethdesign.life CNAME .
-*.elizabethdesign.life CNAME .
 ene-amari-us-43.life CNAME .
 *.ene-amari-us-43.life CNAME .
 epicwin138.life CNAME .
 *.epicwin138.life CNAME .
 eqcodecracks.life CNAME .
 *.eqcodecracks.life CNAME .
-faiq09824.life CNAME .
-*.faiq09824.life CNAME .
 fenditorosiatoter.life CNAME .
 *.fenditorosiatoter.life CNAME .
-firstweber.life CNAME .
-*.firstweber.life CNAME .
 flash-point-studios.life CNAME .
 *.flash-point-studios.life CNAME .
 freesexes.life CNAME .
@@ -6414,16 +6382,12 @@ cooldaddy4yatwo.live CNAME .
 *.cooldaddy4yatwo.live CNAME .
 culture1.live CNAME .
 *.culture1.live CNAME .
-curious-cat.live CNAME .
-*.curious-cat.live CNAME .
 cut.live CNAME .
 *.cut.live CNAME .
 daftarhoki.live CNAME .
 *.daftarhoki.live CNAME .
 daftarmpomax.live CNAME .
 *.daftarmpomax.live CNAME .
-dandbsolutions.live CNAME .
-*.dandbsolutions.live CNAME .
 delanomckinney.live CNAME .
 *.delanomckinney.live CNAME .
 dinguscustoms.live CNAME .
@@ -6458,8 +6422,6 @@ free-sex.live CNAME .
 *.free-sex.live CNAME .
 fullbreed.live CNAME .
 *.fullbreed.live CNAME .
-fullstacklogan.live CNAME .
-*.fullstacklogan.live CNAME .
 gaysi.live CNAME .
 *.gaysi.live CNAME .
 gcrs.live CNAME .
@@ -7708,8 +7670,6 @@ dstats.net CNAME .
 *.dstats.net CNAME .
 easyurl.net CNAME .
 *.easyurl.net CNAME .
-eloism.net CNAME .
-*.eloism.net CNAME .
 emojied.net CNAME .
 *.emojied.net CNAME .
 encurtador.net CNAME .
@@ -8098,8 +8058,6 @@ bolstr.online CNAME .
 *.bolstr.online CNAME .
 buzzao.online CNAME .
 *.buzzao.online CNAME .
-d13links.online CNAME .
-*.d13links.online CNAME .
 dinzzvpn.online CNAME .
 *.dinzzvpn.online CNAME .
 dn303.online CNAME .
@@ -8672,8 +8630,6 @@ ndlb.red CNAME .
 *.ndlb.red CNAME .
 a.trp.red CNAME .
 *.a.trp.red CNAME .
-dscef.rest CNAME .
-*.dscef.rest CNAME .
 shorten.rest CNAME .
 *.shorten.rest CNAME .
 tegmv.rest CNAME .
@@ -8850,16 +8806,8 @@ bzfhq.sbs CNAME .
 *.bzfhq.sbs CNAME .
 dswiw.sbs CNAME .
 *.dswiw.sbs CNAME .
-dyjmk.sbs CNAME .
-*.dyjmk.sbs CNAME .
-eszen.sbs CNAME .
-*.eszen.sbs CNAME .
 fdkmx.sbs CNAME .
 *.fdkmx.sbs CNAME .
-fovre.sbs CNAME .
-*.fovre.sbs CNAME .
-fpfro.sbs CNAME .
-*.fpfro.sbs CNAME .
 gpyew.sbs CNAME .
 *.gpyew.sbs CNAME .
 idjzj.sbs CNAME .
@@ -9016,8 +8964,6 @@ yau.sh CNAME .
 *.yau.sh CNAME .
 8a6rh.shop CNAME .
 *.8a6rh.shop CNAME .
-djarum88.shop CNAME .
-*.djarum88.shop CNAME .
 indahnyaberbagi.shop CNAME .
 *.indahnyaberbagi.shop CNAME .
 linkgacorr88.shop CNAME .
@@ -9678,10 +9624,6 @@ dbccx.top CNAME .
 *.dbccx.top CNAME .
 dlkv.top CNAME .
 *.dlkv.top CNAME .
-dnmqv.top CNAME .
-*.dnmqv.top CNAME .
-eeztk.top CNAME .
-*.eeztk.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
 fwzi.top CNAME .
