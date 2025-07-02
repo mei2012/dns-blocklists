@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751467980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751482020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2025 14:53 UTC
-; Version: 2025.0702.1453.03
+; Last modified: 02 Jul 2025 18:47 UTC
+; Version: 2025.0702.1847.54
 ; Syntax: RPZ
-; Number of entries: 10454
+; Number of entries: 10438
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2044,8 +2044,6 @@ getthot.com CNAME .
 *.getthot.com CNAME .
 ghntinyurl.com CNAME .
 *.ghntinyurl.com CNAME .
-ghxgw.com CNAME .
-*.ghxgw.com CNAME .
 go2sm.com CNAME .
 *.go2sm.com CNAME .
 go2that.com CNAME .
@@ -2072,8 +2070,6 @@ grawolph.com CNAME .
 *.grawolph.com CNAME .
 h2apz.com CNAME .
 *.h2apz.com CNAME .
-hadsucma.com CNAME .
-*.hadsucma.com CNAME .
 hcibh.com CNAME .
 *.hcibh.com CNAME .
 hdd6.com CNAME .
@@ -4674,8 +4670,6 @@ ghalida.info CNAME .
 *.ghalida.info CNAME .
 hamza-prince-001.info CNAME .
 *.hamza-prince-001.info CNAME .
-harachi.info CNAME .
-*.harachi.info CNAME .
 hellraisers.info CNAME .
 *.hellraisers.info CNAME .
 hem-ant-tra-thor-5.info CNAME .
@@ -5752,16 +5746,8 @@ freesexes.life CNAME .
 *.freesexes.life CNAME .
 galvanithina8.life CNAME .
 *.galvanithina8.life CNAME .
-gary-kopff.life CNAME .
-*.gary-kopff.life CNAME .
 gegeshidzedato10.life CNAME .
 *.gegeshidzedato10.life CNAME .
-george-dab-a.life CNAME .
-*.george-dab-a.life CNAME .
-georgebita.life CNAME .
-*.georgebita.life CNAME .
-georgeblota.life CNAME .
-*.georgeblota.life CNAME .
 getneemalogin.life CNAME .
 *.getneemalogin.life CNAME .
 go-vin-ds-asti-ya-080.life CNAME .
@@ -9596,8 +9582,6 @@ zopen.to CNAME .
 *.zopen.to CNAME .
 aki.today CNAME .
 *.aki.today CNAME .
-gameover.today CNAME .
-*.gameover.today CNAME .
 learnit.today CNAME .
 *.learnit.today CNAME .
 gacor.tokyo CNAME .

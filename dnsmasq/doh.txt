@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jul 2025 16:21 UTC
-# Version: 2025.0702.1621.17
+# Last modified: 02 Jul 2025 20:13 UTC
+# Version: 2025.0702.2013.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1440
+# Number of entries: 1438
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -826,7 +826,6 @@ local=/mabuktogel.ltd/
 local=/mabuktogel.marketing/
 local=/mabuktogel.properties/
 local=/mabuktogel.solutions/
-local=/mailkyb.co/
 local=/dns.maitrekuc.fr/
 local=/dns.mandre.dev/
 local=/dns.maolaohei.xyz/
@@ -901,7 +900,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

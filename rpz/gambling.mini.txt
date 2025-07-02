@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751472900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751486820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2025 16:15 UTC
-; Version: 2025.0702.1615.52
+; Last modified: 02 Jul 2025 20:07 UTC
+; Version: 2025.0702.2007.19
 ; Syntax: RPZ
-; Number of entries: 118658
+; Number of entries: 118616
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -3263,8 +3263,6 @@ casinoplus-liveslots-game.boats CNAME .
 *.casinoplus-liveslots-game.boats CNAME .
 casinoplus-online.boats CNAME .
 *.casinoplus-online.boats CNAME .
-guruslotsukses.boats CNAME .
-*.guruslotsukses.boats CNAME .
 hhpoker.boats CNAME .
 *.hhpoker.boats CNAME .
 indoslotsair.boats CNAME .
@@ -12737,8 +12735,6 @@ gambling-hotline.cfd CNAME .
 *.gambling-hotline.cfd CNAME .
 gambling-sites.cfd CNAME .
 *.gambling-sites.cfd CNAME .
-guruslotsukses.cfd CNAME .
-*.guruslotsukses.cfd CNAME .
 how-to-win-the-lottery.cfd CNAME .
 *.how-to-win-the-lottery.cfd CNAME .
 indoslotsair.cfd CNAME .
@@ -14327,8 +14323,6 @@ okcasino.cloud CNAME .
 *.okcasino.cloud CNAME .
 oldcasino.cloud CNAME .
 *.oldcasino.cloud CNAME .
-paushoki22.cloud CNAME .
-*.paushoki22.cloud CNAME .
 philslots.cloud CNAME .
 *.philslots.cloud CNAME .
 pokerdomofficialz2.cloud CNAME .
@@ -37437,8 +37431,6 @@ gdbets-x.com CNAME .
 *.gdbets-x.com CNAME .
 gdbetsapp.com CNAME .
 *.gdbetsapp.com CNAME .
-gdbetsg.com CNAME .
-*.gdbetsg.com CNAME .
 gdfplay.com CNAME .
 *.gdfplay.com CNAME .
 ge-research.com CNAME .
@@ -37671,8 +37663,6 @@ giris-glorycasino.com CNAME .
 *.giris-glorycasino.com CNAME .
 girisbetsortie.com CNAME .
 *.girisbetsortie.com CNAME .
-girisvaycasino2025.com CNAME .
-*.girisvaycasino2025.com CNAME .
 girnecasino607.com CNAME .
 *.girnecasino607.com CNAME .
 girosgratiscasino.com CNAME .
@@ -38063,8 +38053,6 @@ goldenpanda.com CNAME .
 *.goldenpanda.com CNAME .
 goldenpandacasino-se.com CNAME .
 *.goldenpandacasino-se.com CNAME .
-goldenpandaintl.com CNAME .
-*.goldenpandaintl.com CNAME .
 goldenphoenixslots.com CNAME .
 *.goldenphoenixslots.com CNAME .
 goldenreels.com CNAME .
@@ -38317,12 +38305,6 @@ grandpashabet-casino-1.com CNAME .
 *.grandpashabet-casino-1.com CNAME .
 grandpashabet-casino-2.com CNAME .
 *.grandpashabet-casino-2.com CNAME .
-grandpashabetcasino-4.com CNAME .
-*.grandpashabetcasino-4.com CNAME .
-grandpashabetgrscasino-1.com CNAME .
-*.grandpashabetgrscasino-1.com CNAME .
-grandpashabetgrscasino-2.com CNAME .
-*.grandpashabetgrscasino-2.com CNAME .
 grandpashacasinobet.com CNAME .
 *.grandpashacasinobet.com CNAME .
 grandrush.com CNAME .
@@ -38685,8 +38667,6 @@ gummyplaycasino.com CNAME .
 *.gummyplaycasino.com CNAME .
 gummyplayscasino.com CNAME .
 *.gummyplayscasino.com CNAME .
-guncel-vaycasino2025.com CNAME .
-*.guncel-vaycasino2025.com CNAME .
 guncelbetsilingiris.com CNAME .
 *.guncelbetsilingiris.com CNAME .
 guncelcasinolevant.com CNAME .
@@ -46171,8 +46151,6 @@ montecryptoscasino.com CNAME .
 *.montecryptoscasino.com CNAME .
 montgomeryundergroundwinery.com CNAME .
 *.montgomeryundergroundwinery.com CNAME .
-monticellocasinoonline.com CNAME .
-*.monticellocasinoonline.com CNAME .
 montycasinos.com CNAME .
 *.montycasinos.com CNAME .
 monust.com CNAME .
@@ -70039,8 +70017,6 @@ gizbo-casino.lol CNAME .
 *.gizbo-casino.lol CNAME .
 grtildragonpoker88.lol CNAME .
 *.grtildragonpoker88.lol CNAME .
-guruslotsukses.lol CNAME .
-*.guruslotsukses.lol CNAME .
 hologram.lol CNAME .
 *.hologram.lol CNAME .
 indoroulette.lol CNAME .
@@ -70671,8 +70647,6 @@ gaulhomia.mom CNAME .
 *.gaulhomia.mom CNAME .
 gaulhose.mom CNAME .
 *.gaulhose.mom CNAME .
-guruslotsukses.mom CNAME .
-*.guruslotsukses.mom CNAME .
 hswin.mom CNAME .
 *.hswin.mom CNAME .
 koboybets.mom CNAME .
@@ -70955,8 +70929,6 @@ vulkan-king.name CNAME .
 *.vulkan-king.name CNAME .
 vulkanoriginals.name CNAME .
 *.vulkanoriginals.name CNAME .
-00005588.net CNAME .
-*.00005588.net CNAME .
 0xbetcasino.net CNAME .
 *.0xbetcasino.net CNAME .
 101lotterylogin.net CNAME .
@@ -77125,8 +77097,6 @@ poin777.online CNAME .
 *.poin777.online CNAME .
 poin88.online CNAME .
 *.poin88.online CNAME .
-pointslot.online CNAME .
-*.pointslot.online CNAME .
 pojokslotsuper.online CNAME .
 *.pojokslotsuper.online CNAME .
 poker-im.online CNAME .
@@ -81985,8 +81955,6 @@ duniaratu.pics CNAME .
 *.duniaratu.pics CNAME .
 ffs-amp.pics CNAME .
 *.ffs-amp.pics CNAME .
-guruslotsukses.pics CNAME .
-*.guruslotsukses.pics CNAME .
 inirajapoker.pics CNAME .
 *.inirajapoker.pics CNAME .
 jackpot-slots-casino.pics CNAME .
@@ -86763,8 +86731,6 @@ eldoradocasinogr-online.sbs CNAME .
 *.eldoradocasinogr-online.sbs CNAME .
 elevens4d.sbs CNAME .
 *.elevens4d.sbs CNAME .
-gamblerslots.sbs CNAME .
-*.gamblerslots.sbs CNAME .
 gampangwd.sbs CNAME .
 *.gampangwd.sbs CNAME .
 gaulshock.sbs CNAME .
@@ -92975,8 +92941,6 @@ drop.skin CNAME .
 *.drop.skin CNAME .
 gaulpro.skin CNAME .
 *.gaulpro.skin CNAME .
-guruslotsukses.skin CNAME .
-*.guruslotsukses.skin CNAME .
 hhpoker.skin CNAME .
 *.hhpoker.skin CNAME .
 kometa-casino7.skin CNAME .
@@ -104873,8 +104837,6 @@ ltccasino.uk CNAME .
 *.ltccasino.uk CNAME .
 luckyvipcasino.uk CNAME .
 *.luckyvipcasino.uk CNAME .
-lvcasino.uk CNAME .
-*.lvcasino.uk CNAME .
 malina-casino.uk CNAME .
 *.malina-casino.uk CNAME .
 mangocasino.uk CNAME .
@@ -105835,8 +105797,6 @@ grabph.vip CNAME .
 *.grabph.vip CNAME .
 grandpashabetcasinos.vip CNAME .
 *.grandpashabetcasinos.vip CNAME .
-grandpashabetsayfa.vip CNAME .
-*.grandpashabetsayfa.vip CNAME .
 grandslots.vip CNAME .
 *.grandslots.vip CNAME .
 gudang99.vip CNAME .
@@ -110673,8 +110633,6 @@ gama-casino-mr.xyz CNAME .
 *.gama-casino-mr.xyz CNAME .
 gama4dkeren.xyz CNAME .
 *.gama4dkeren.xyz CNAME .
-gamblegenius.xyz CNAME .
-*.gamblegenius.xyz CNAME .
 gambleleva.xyz CNAME .
 *.gambleleva.xyz CNAME .
 gambleslots.xyz CNAME .
