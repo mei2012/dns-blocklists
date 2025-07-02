@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 18:06 UTC
-# Version: 2025.0627.1806.12
+# Last modified: 02 Jul 2025 06:10 UTC
+# Version: 2025.0702.0610.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1473
+# Number of entries: 1472
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -181,7 +181,6 @@ local=/charihoproducts.com/
 local=/charter.com/
 local=/chatnook.com/
 local=/chavo.biz/
-local=/chebicon.ru/
 local=/checkor.com/
 local=/chickenkiller.com/
 local=/chrismac.org/

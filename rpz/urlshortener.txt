@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751409960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751431500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jul 2025 22:46 UTC
-; Version: 2025.0701.2246.00
+; Last modified: 02 Jul 2025 04:45 UTC
+; Version: 2025.0702.0445.41
 ; Syntax: RPZ
-; Number of entries: 10522
+; Number of entries: 10512
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1756,8 +1756,6 @@ cactusskyonline.com CNAME .
 *.cactusskyonline.com CNAME .
 candicegilmerauthor.com CNAME .
 *.candicegilmerauthor.com CNAME .
-capcaifu.com CNAME .
-*.capcaifu.com CNAME .
 capsulink.com CNAME .
 *.capsulink.com CNAME .
 cardiox-care.com CNAME .
@@ -8848,8 +8846,6 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 bpzvx.sbs CNAME .
 *.bpzvx.sbs CNAME .
-bvsok.sbs CNAME .
-*.bvsok.sbs CNAME .
 bzfhq.sbs CNAME .
 *.bzfhq.sbs CNAME .
 dswiw.sbs CNAME .
@@ -9902,8 +9898,6 @@ shorturls.co.uk CNAME .
 *.shorturls.co.uk CNAME .
 trimlink.co.uk CNAME .
 *.trimlink.co.uk CNAME .
-txtme-live.co.uk CNAME .
-*.txtme-live.co.uk CNAME .
 url.co.uk CNAME .
 *.url.co.uk CNAME .
 urlshortener.co.uk CNAME .
@@ -10192,8 +10186,6 @@ bolagroup.vip CNAME .
 *.bolagroup.vip CNAME .
 bolahiu.vip CNAME .
 *.bolahiu.vip CNAME .
-cepatwd.vip CNAME .
-*.cepatwd.vip CNAME .
 coklat.vip CNAME .
 *.coklat.vip CNAME .
 hokidana.vip CNAME .
@@ -10284,8 +10276,6 @@ bet200.win CNAME .
 *.bet200.win CNAME .
 cashurl.win CNAME .
 *.cashurl.win CNAME .
-cepatwd.win CNAME .
-*.cepatwd.win CNAME .
 dogelexus.win CNAME .
 *.dogelexus.win CNAME .
 gacoer.win CNAME .

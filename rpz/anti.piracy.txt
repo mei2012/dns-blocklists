@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751414760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751436300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2025 00:06 UTC
-; Version: 2025.0702.0006.20
+; Last modified: 02 Jul 2025 06:05 UTC
+; Version: 2025.0702.0605.54
 ; Syntax: RPZ
-; Number of entries: 19962
+; Number of entries: 19958
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -17195,8 +17195,6 @@ putlocker.style CNAME .
 *.123moviesgo.su CNAME .
 catflix.su CNAME .
 *.catflix.su CNAME .
-cb01.su CNAME .
-*.cb01.su CNAME .
 exsite.su CNAME .
 *.exsite.su CNAME .
 flixtor.su CNAME .
@@ -17501,8 +17499,6 @@ canna.to CNAME .
 *.canna.to CNAME .
 canna-power.to CNAME .
 *.canna-power.to CNAME .
-cataz.to CNAME .
-*.cataz.to CNAME .
 cine.to CNAME .
 *.cine.to CNAME .
 tracker.cinemaz.to CNAME .

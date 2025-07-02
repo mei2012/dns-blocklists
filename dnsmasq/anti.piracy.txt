@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jul 2025 00:06 UTC
-# Version: 2025.0702.0006.20
+# Last modified: 02 Jul 2025 06:05 UTC
+# Version: 2025.0702.0605.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9981
+# Number of entries: 9979
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1633,7 +1633,6 @@ local=/casanovax.com/
 local=/castradio.net/
 local=/casualgamers.club/
 local=/cataz.ru/
-local=/cataz.to/
 local=/catflix.su/
 local=/catherinemacivor.com/
 local=/cb01.ac/
@@ -1710,7 +1709,6 @@ local=/cb01.singles/
 local=/cb01.social/
 local=/cb01.solutions/
 local=/cb01.studio/
-local=/cb01.su/
 local=/cb01.taxi/
 local=/cb01.today/
 local=/cb01.training/
