@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jul 2025 12:03 UTC
-# Version: 2025.0701.1203.03
+# Last modified: 02 Jul 2025 00:06 UTC
+# Version: 2025.0702.0006.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9980
+# Number of entries: 9981
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -933,7 +933,6 @@ local=/arabp2p.com/
 local=/arabp2p.net/
 local=/arabseries.org/
 local=/araditracker.com/
-local=/arc018.to/
 local=/archivx.to/
 local=/arconaitv.us/
 local=/area51.to/
@@ -5448,6 +5447,7 @@ local=/mkvanime.mov/
 local=/mkvcage.com/
 local=/mkvcage.ws/
 local=/mkvcinemas.kim/
+local=/mkvcinemas.men/
 local=/mkvcinemas.red/
 local=/mkvdrama.org/
 local=/mkvking.me/
@@ -9252,6 +9252,7 @@ local=/vidcloud.icu/
 local=/vidcloud.us/
 local=/vidcloud1.com/
 local=/vidcloud9.com/
+local=/vide.cx/
 local=/vidembed.net/
 local=/videobin.co/
 local=/videocop.com/

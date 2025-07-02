@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751388360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751409960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jul 2025 16:46 UTC
-; Version: 2025.0701.1646.01
+; Last modified: 01 Jul 2025 22:46 UTC
+; Version: 2025.0701.2246.00
 ; Syntax: RPZ
-; Number of entries: 10554
+; Number of entries: 10522
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1626,8 +1626,6 @@ appbitly.com CNAME .
 *.appbitly.com CNAME .
 apticirl.com CNAME .
 *.apticirl.com CNAME .
-arserike.com CNAME .
-*.arserike.com CNAME .
 aryenmotors.com CNAME .
 *.aryenmotors.com CNAME .
 atglinks.com CNAME .
@@ -3390,8 +3388,6 @@ asusrog.de CNAME .
 *.asusrog.de CNAME .
 baratun.de CNAME .
 *.baratun.de CNAME .
-berater-it.de CNAME .
-*.berater-it.de CNAME .
 s.bts-ev.de CNAME .
 *.s.bts-ev.de CNAME .
 ci8.de CNAME .
@@ -3916,8 +3912,6 @@ sikilat.fun CNAME .
 *.sikilat.fun CNAME .
 zlink.fun CNAME .
 *.zlink.fun CNAME .
-agt.fyi CNAME .
-*.agt.fyi CNAME .
 brendan.fyi CNAME .
 *.brendan.fyi CNAME .
 kwx.fyi CNAME .
@@ -4638,12 +4632,8 @@ go.appsscript.info CNAME .
 *.go.appsscript.info CNAME .
 aresgacor.info CNAME .
 *.aresgacor.info CNAME .
-arrington-j153.info CNAME .
-*.arrington-j153.info CNAME .
 bbva.info CNAME .
 *.bbva.info CNAME .
-bdjk.info CNAME .
-*.bdjk.info CNAME .
 r.bioinfweb.info CNAME .
 *.r.bioinfweb.info CNAME .
 calendrierbdp.info CNAME .
@@ -5176,8 +5166,6 @@ zshort.io CNAME .
 *.900r.ir CNAME .
 adr3.ir CNAME .
 *.adr3.ir CNAME .
-agbr.ir CNAME .
-*.agbr.ir CNAME .
 b2n.ir CNAME .
 *.b2n.ir CNAME .
 cut2.ir CNAME .
@@ -5676,20 +5664,12 @@ afb88.life CNAME .
 *.afb88.life CNAME .
 ai-beast-online.life CNAME .
 *.ai-beast-online.life CNAME .
-aisc.life CNAME .
-*.aisc.life CNAME .
 alex-test-1.life CNAME .
 *.alex-test-1.life CNAME .
-alldemetrius.life CNAME .
-*.alldemetrius.life CNAME .
 aozczwj.life CNAME .
 *.aozczwj.life CNAME .
-ariahscollection.life CNAME .
-*.ariahscollection.life CNAME .
 azov.life CNAME .
 *.azov.life CNAME .
-bbuyyani.life CNAME .
-*.bbuyyani.life CNAME .
 bchf.life CNAME .
 *.bchf.life CNAME .
 bee-kz.life CNAME .
@@ -6394,12 +6374,6 @@ adeolasagay.live CNAME .
 *.adeolasagay.live CNAME .
 agen303.live CNAME .
 *.agen303.live CNAME .
-aisc.live CNAME .
-*.aisc.live CNAME .
-aitoys7.live CNAME .
-*.aitoys7.live CNAME .
-akivulhasan.live CNAME .
-*.akivulhasan.live CNAME .
 alias.live CNAME .
 *.alias.live CNAME .
 alongno1.live CNAME .
@@ -8872,8 +8846,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-apzjp.sbs CNAME .
-*.apzjp.sbs CNAME .
 bpzvx.sbs CNAME .
 *.bpzvx.sbs CNAME .
 bvsok.sbs CNAME .
@@ -9694,12 +9666,8 @@ videos.pbi.tools CNAME .
 *.1link.top CNAME .
 aghq.top CNAME .
 *.aghq.top CNAME .
-amspi.top CNAME .
-*.amspi.top CNAME .
 anvcc.top CNAME .
 *.anvcc.top CNAME .
-aszfg.top CNAME .
-*.aszfg.top CNAME .
 bitcoinshortener.top CNAME .
 *.bitcoinshortener.top CNAME .
 biturl.top CNAME .

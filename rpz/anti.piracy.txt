@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751371380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751414760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jul 2025 12:03 UTC
-; Version: 2025.0701.1203.03
+; Last modified: 02 Jul 2025 00:06 UTC
+; Version: 2025.0702.0006.20
 ; Syntax: RPZ
-; Number of entries: 19960
+; Number of entries: 19962
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7655,6 +7655,8 @@ streamcloud.cx CNAME .
 *.streamcloud.cx CNAME .
 thepiratebay.cx CNAME .
 *.thepiratebay.cx CNAME .
+vide.cx CNAME .
+*.vide.cx CNAME .
 videothek.cx CNAME .
 *.videothek.cx CNAME .
 vostfree.cx CNAME .
@@ -11031,6 +11033,8 @@ ilgeniodellostreaming.men CNAME .
 *.ilgeniodellostreaming.men CNAME .
 megakino.men CNAME .
 *.megakino.men CNAME .
+mkvcinemas.men CNAME .
+*.mkvcinemas.men CNAME .
 boot.ml CNAME .
 *.boot.ml CNAME .
 tr.kxmp.ml CNAME .
@@ -17467,8 +17471,6 @@ anizone.to CNAME .
 *.anizone.to CNAME .
 appdb.to CNAME .
 *.appdb.to CNAME .
-arc018.to CNAME .
-*.arc018.to CNAME .
 archivx.to CNAME .
 *.archivx.to CNAME .
 area51.to CNAME .

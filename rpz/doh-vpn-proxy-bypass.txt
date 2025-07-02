@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751393400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751415060 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jul 2025 18:10 UTC
-; Version: 2025.0701.1810.33
+; Last modified: 02 Jul 2025 00:11 UTC
+; Version: 2025.0702.0011.50
 ; Syntax: RPZ
-; Number of entries: 9694
+; Number of entries: 9688
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1032,8 +1032,6 @@ blitz-setup.ahadns.com CNAME .
 *.blitz-setup.ahadns.com CNAME .
 use.alabasgames.com CNAME .
 *.use.alabasgames.com CNAME .
-work.excel.albacetediario.com CNAME .
-*.work.excel.albacetediario.com CNAME .
 class.craft.alerteqa.com CNAME .
 *.class.craft.alerteqa.com CNAME .
 alhapi.com CNAME .
@@ -1672,8 +1670,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2608,8 +2604,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
