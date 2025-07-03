@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751539500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751554020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 10:45 UTC
-; Version: 2025.0703.1045.11
+; Last modified: 03 Jul 2025 14:47 UTC
+; Version: 2025.0703.1447.09
 ; Syntax: RPZ
-; Number of entries: 10346
+; Number of entries: 10328
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2488,14 +2488,10 @@ privad0.com CNAME .
 *.privad0.com CNAME .
 profeelo.com CNAME .
 *.profeelo.com CNAME .
-psgra.com CNAME .
-*.psgra.com CNAME .
 ptolreco.com CNAME .
 *.ptolreco.com CNAME .
 ptr88.com CNAME .
 *.ptr88.com CNAME .
-qeejx.com CNAME .
-*.qeejx.com CNAME .
 qicute.com CNAME .
 *.qicute.com CNAME .
 jobs.qjobsindia.com CNAME .
@@ -5830,8 +5826,6 @@ onelovepalmbeaches.life CNAME .
 *.onelovepalmbeaches.life CNAME .
 onlinekassirjessica.life CNAME .
 *.onlinekassirjessica.life CNAME .
-pancitkantonan.life CNAME .
-*.pancitkantonan.life CNAME .
 partyspecial.life CNAME .
 *.partyspecial.life CNAME .
 pav-lobe-z-rod-ny-8611.life CNAME .
@@ -6470,14 +6464,8 @@ onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
 petterihollander.live CNAME .
 *.petterihollander.live CNAME .
-pocketpass.live CNAME .
-*.pocketpass.live CNAME .
 portall2024pr.live CNAME .
 *.portall2024pr.live CNAME .
-ppcgogo.live CNAME .
-*.ppcgogo.live CNAME .
-ppcome.live CNAME .
-*.ppcome.live CNAME .
 ppslots.live CNAME .
 *.ppslots.live CNAME .
 premierbet.live CNAME .
@@ -8734,10 +8722,6 @@ pggms.sbs CNAME .
 *.pggms.sbs CNAME .
 prcgg.sbs CNAME .
 *.prcgg.sbs CNAME .
-psrak.sbs CNAME .
-*.psrak.sbs CNAME .
-pzjms.sbs CNAME .
-*.pzjms.sbs CNAME .
 qwjbc.sbs CNAME .
 *.qwjbc.sbs CNAME .
 szjrw.sbs CNAME .
@@ -9546,8 +9530,6 @@ pastihoki.top CNAME .
 *.pastihoki.top CNAME .
 pokoknya.top CNAME .
 *.pokoknya.top CNAME .
-qfqqi.top CNAME .
-*.qfqqi.top CNAME .
 qrlcm.top CNAME .
 *.qrlcm.top CNAME .
 ref11.top CNAME .

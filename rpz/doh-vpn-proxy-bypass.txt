@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751544360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751558940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 12:06 UTC
-; Version: 2025.0703.1206.55
+; Last modified: 03 Jul 2025 16:09 UTC
+; Version: 2025.0703.1609.37
 ; Syntax: RPZ
-; Number of entries: 9740
+; Number of entries: 9742
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2604,6 +2604,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4380,8 +4382,6 @@ edu.scholar.hoffer.cx CNAME .
 *.edu.scholar.hoffer.cx CNAME .
 ns3.cx CNAME .
 *.ns3.cx CNAME .
-polaris.cx CNAME .
-*.polaris.cx CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 acrea.cz CNAME .
@@ -8912,6 +8912,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

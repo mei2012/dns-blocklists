@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751544060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751558640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 12:01 UTC
-; Version: 2025.0703.1201.45
+; Last modified: 03 Jul 2025 16:04 UTC
+; Version: 2025.0703.1604.13
 ; Syntax: RPZ
-; Number of entries: 20176
+; Number of entries: 20172
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5689,8 +5689,6 @@ planete-lolo.com CNAME .
 *.planete-lolo.com CNAME .
 platinmods.com CNAME .
 *.platinmods.com CNAME .
-playary.com CNAME .
-*.playary.com CNAME .
 playhydrax.com CNAME .
 *.playhydrax.com CNAME .
 playtvgo.com CNAME .
@@ -12639,8 +12637,6 @@ pelisplushd.net CNAME .
 *.pelisplushd.net CNAME .
 peruwarez.net CNAME .
 *.peruwarez.net CNAME .
-picturesetc.net CNAME .
-*.picturesetc.net CNAME .
 piecejointe.net CNAME .
 *.piecejointe.net CNAME .
 tracker.pimp4003.net CNAME .
