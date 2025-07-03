@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jul 2025 14:45 UTC
-# Version: 2025.0703.1445.17
+# Last modified: 03 Jul 2025 18:43 UTC
+# Version: 2025.0703.1843.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14323
+# Number of entries: 14321
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -1815,6 +1815,8 @@ local=/brandoftennis.com/
 local=/brandt-belle.de/
 local=/brandtoiletries.com/
 local=/brandup-grade.de/
+local=/branvoir.com/
+local=/branvoirleben.com/
 local=/braucheschnell.com/
 local=/brava-berlin.de/
 local=/bravedrawer.com/
@@ -5839,6 +5841,7 @@ local=/heizoel-held.com/
 local=/heizoel-jetzt.de/
 local=/heizoel-portal.de/
 local=/heizoel-premium.de/
+local=/heizoel-schnell.com/
 local=/heizoel-solutions.net/
 local=/heizoel-station.com/
 local=/heizoel-tankstelle.de/
@@ -10808,7 +10811,6 @@ local=/rothen-burg.de/
 local=/rotyka.com/
 local=/roudamo.shop/
 local=/roujedeutschland.com/
-local=/roujeusa.us/
 local=/roulettegem.com/
 local=/roumite.com/
 local=/rovikshop.de/
@@ -11030,7 +11032,6 @@ local=/sapientfinancial.ltd/
 local=/sara-berlin.com/
 local=/sarahmo.de/
 local=/sarahravengb.com/
-local=/saraleneumann.com/
 local=/saramaud.com/
 local=/sarasarade.shop/
 local=/sardinenbarberlinava.shop/
@@ -11088,7 +11089,6 @@ local=/schlafhimmel.com/
 local=/schlaftabletten-rezeptfrei.org/
 local=/schlagschrauberfive.com/
 local=/schloss-pichler.at/
-local=/schlossrettung-24.at/
 local=/schluchsee-ferienwohnung.de/
 local=/schluesseldienst.at/
 local=/schluesseldienst-hilfe.at/
@@ -11143,7 +11143,6 @@ local=/schreibundstilonline.shop/
 local=/schroder-dusseldorf.de/
 local=/schroeer23.de/
 local=/schuerer-energie.de/
-local=/schuhechoice.com/
 local=/schuhehoka.de/
 local=/schuhepromo.com/
 local=/schuhewienshoponline.com/
@@ -11240,7 +11239,6 @@ local=/sendrabootsosterreich.com/
 local=/sendrasuomi.net/
 local=/sendrawien.at/
 local=/sendros.de/
-local=/senovaclo.com/
 local=/sensiblew.com/
 local=/sensualsale.com/
 local=/sensuawear.com/

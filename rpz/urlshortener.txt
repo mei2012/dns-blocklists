@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751554020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751568300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 14:47 UTC
-; Version: 2025.0703.1447.09
+; Last modified: 03 Jul 2025 18:45 UTC
+; Version: 2025.0703.1845.30
 ; Syntax: RPZ
-; Number of entries: 10328
+; Number of entries: 10320
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -26,6 +26,8 @@ bsu.ac CNAME .
 *.bsu.ac CNAME .
 cadill.ac CNAME .
 *.cadill.ac CNAME .
+come.ac CNAME .
+*.come.ac CNAME .
 cultm.ac CNAME .
 *.cultm.ac CNAME .
 edin.ac CNAME .
@@ -90,6 +92,8 @@ abr.ai CNAME .
 *.abr.ai CNAME .
 abre.ai CNAME .
 *.abre.ai CNAME .
+centi.ai CNAME .
+*.centi.ai CNAME .
 clica.ai CNAME .
 *.clica.ai CNAME .
 dailym.ai CNAME .
@@ -5834,12 +5838,6 @@ pdp.life CNAME .
 *.pdp.life CNAME .
 qcutul2702.life CNAME .
 *.qcutul2702.life CNAME .
-queen-kelly.life CNAME .
-*.queen-kelly.life CNAME .
-quoraurls.life CNAME .
-*.quoraurls.life CNAME .
-quoraurlsite.life CNAME .
-*.quoraurlsite.life CNAME .
 redditp2pcredit.life CNAME .
 *.redditp2pcredit.life CNAME .
 redditsp2pcredit.life CNAME .
@@ -5848,8 +5846,6 @@ regalacasian8.life CNAME .
 *.regalacasian8.life CNAME .
 rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
-rivera-quinones-luis-manuel-5.life CNAME .
-*.rivera-quinones-luis-manuel-5.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6474,8 +6470,6 @@ princessbabybratx.live CNAME .
 *.princessbabybratx.live CNAME .
 psychic-shiva-ram.live CNAME .
 *.psychic-shiva-ram.live CNAME .
-queenkelly.live CNAME .
-*.queenkelly.live CNAME .
 ramcourier.live CNAME .
 *.ramcourier.live CNAME .
 rbhouse.live CNAME .
@@ -9004,6 +8998,8 @@ ntn.so CNAME .
 *.ntn.so CNAME .
 ref.so CNAME .
 *.ref.so CNAME .
+shorten.so CNAME .
+*.shorten.so CNAME .
 tny.so CNAME .
 *.tny.so CNAME .
 wee.so CNAME .
@@ -9530,8 +9526,6 @@ pastihoki.top CNAME .
 *.pastihoki.top CNAME .
 pokoknya.top CNAME .
 *.pokoknya.top CNAME .
-qrlcm.top CNAME .
-*.qrlcm.top CNAME .
 ref11.top CNAME .
 *.ref11.top CNAME .
 roids.top CNAME .
@@ -10294,8 +10288,6 @@ piggy.xyz CNAME .
 *.piggy.xyz CNAME .
 pws1ooo.xyz CNAME .
 *.pws1ooo.xyz CNAME .
-r2slotamp.xyz CNAME .
-*.r2slotamp.xyz CNAME .
 saddr.xyz CNAME .
 *.saddr.xyz CNAME .
 shortenerlink.xyz CNAME .

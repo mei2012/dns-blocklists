@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jul 2025 14:47 UTC
-# Version: 2025.0703.1447.09
+# Last modified: 03 Jul 2025 18:45 UTC
+# Version: 2025.0703.1845.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5164
+# Number of entries: 5160
 #
 local=/00oo.lol/
 local=/010.at/
@@ -890,6 +890,7 @@ local=/cdpoju.com/
 local=/s.cdw.ro/
 local=/ceci-ana-jada-271928.life/
 local=/celfam.us/
+local=/centi.ai/
 local=/cesinthi.com/
 local=/cf2.me/
 local=/cf6.co/
@@ -1027,6 +1028,7 @@ local=/shortlink.com.au/
 local=/tim.com.vc/
 local=/useek.com.au/
 local=/comca.st/
+local=/come.ac/
 local=/kutt.comodo.com/
 local=/consiseurl.com/
 local=/consultant828.com/
@@ -3338,7 +3340,6 @@ local=/qrdb.co/
 local=/qrfy.com/
 local=/qrfy.io/
 local=/qrisni.me/
-local=/qrlcm.top/
 local=/qrs.ly/
 local=/qrtag.fr/
 local=/qrurl.cc/
@@ -3348,12 +3349,8 @@ local=/qt.ke/
 local=/quainator.com/
 local=/quamiller.com/
 local=/quee.link/
-local=/queen-kelly.life/
-local=/queenkelly.live/
 local=/quick.lt/
 local=/quip-art.com/
-local=/quoraurls.life/
-local=/quoraurlsite.life/
 local=/qut.to/
 local=/qutt.me/
 local=/qutt.us/
@@ -3367,7 +3364,6 @@ local=/r-7.co/
 local=/r-txt.com/
 local=/r-txt.org/
 local=/r2c.one/
-local=/r2slotamp.xyz/
 local=/raceclip.com/
 local=/radly.ir/
 local=/raic.hu/
@@ -3481,7 +3477,6 @@ local=/rip.city/
 local=/rip.to/
 local=/risu.io/
 local=/ritea.id/
-local=/rivera-quinones-luis-manuel-5.life/
 local=/riz.cz/
 local=/rizy.ir/
 local=/rj99.art/
@@ -3713,6 +3708,7 @@ local=/shorten.asia/
 local=/shorten.ee/
 local=/shorten.is/
 local=/shorten.rest/
+local=/shorten.so/
 local=/shorten.tv/
 local=/shorten.world/
 local=/shorten-url.com/

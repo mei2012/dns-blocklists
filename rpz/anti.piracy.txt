@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751558640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751572920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 16:04 UTC
-; Version: 2025.0703.1604.13
+; Last modified: 03 Jul 2025 20:02 UTC
+; Version: 2025.0703.2002.16
 ; Syntax: RPZ
-; Number of entries: 20172
+; Number of entries: 20174
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -16939,6 +16939,8 @@ streamingcommunity.shop CNAME .
 *.streamingcommunity.shop CNAME .
 tantifilm.shop CNAME .
 *.tantifilm.shop CNAME .
+time4tv.shop CNAME .
+*.time4tv.shop CNAME .
 123freemovies.show CNAME .
 *.123freemovies.show CNAME .
 123movie.show CNAME .
