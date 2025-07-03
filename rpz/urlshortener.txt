@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751510760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751525100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 02:46 UTC
-; Version: 2025.0703.0246.18
+; Last modified: 03 Jul 2025 06:45 UTC
+; Version: 2025.0703.0645.21
 ; Syntax: RPZ
-; Number of entries: 10398
+; Number of entries: 10374
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2320,10 +2320,6 @@ mdklt.com CNAME .
 *.mdklt.com CNAME .
 mdmblz.com CNAME .
 *.mdmblz.com CNAME .
-mdska.com CNAME .
-*.mdska.com CNAME .
-mdyvah.com CNAME .
-*.mdyvah.com CNAME .
 me-qr.com CNAME .
 *.me-qr.com CNAME .
 meraihcuan.com CNAME .
@@ -3520,8 +3516,6 @@ wejdz.do CNAME .
 *.wejdz.do CNAME .
 zln.do CNAME .
 *.zln.do CNAME .
-musicpack4djs.download CNAME .
-*.musicpack4djs.download CNAME .
 adr.ec CNAME .
 *.adr.ec CNAME .
 cyb.ec CNAME .
@@ -3728,8 +3722,6 @@ urly.fi CNAME .
 *.urly.fi CNAME .
 amc.film CNAME .
 *.amc.film CNAME .
-grow.momentumproject.finance CNAME .
-*.grow.momentumproject.finance CNAME .
 5e.fit CNAME .
 *.5e.fit CNAME .
 5w.fit CNAME .
@@ -4702,8 +4694,6 @@ meg-e-sdi.info CNAME .
 *.meg-e-sdi.info CNAME .
 menangbola77.info CNAME .
 *.menangbola77.info CNAME .
-mgwp2024.info CNAME .
-*.mgwp2024.info CNAME .
 miss-m-216.info CNAME .
 *.miss-m-216.info CNAME .
 mojidul24.info CNAME .
@@ -5798,8 +5788,6 @@ miguelcastilloa59club.life CNAME .
 *.miguelcastilloa59club.life CNAME .
 mkish1950.life CNAME .
 *.mkish1950.life CNAME .
-mmould44.life CNAME .
-*.mmould44.life CNAME .
 mo-lane-jerry-20.life CNAME .
 *.mo-lane-jerry-20.life CNAME .
 mom-one-z-1991.life CNAME .
@@ -5824,8 +5812,6 @@ mono-gog-o.life CNAME .
 *.mono-gog-o.life CNAME .
 movevibe.life CNAME .
 *.movevibe.life CNAME .
-mr-kern-al7.life CNAME .
-*.mr-kern-al7.life CNAME .
 mute-fill-mood.life CNAME .
 *.mute-fill-mood.life CNAME .
 my-elizabeth.life CNAME .
@@ -7700,8 +7686,6 @@ linkye.net CNAME .
 *.linkye.net CNAME .
 ln-s.net CNAME .
 *.ln-s.net CNAME .
-magybu.net CNAME .
-*.magybu.net CNAME .
 mdl29.net CNAME .
 *.mdl29.net CNAME .
 metamark.net CNAME .
@@ -8768,14 +8752,6 @@ khpsn.sbs CNAME .
 *.khpsn.sbs CNAME .
 lieva.sbs CNAME .
 *.lieva.sbs CNAME .
-ltjay.sbs CNAME .
-*.ltjay.sbs CNAME .
-mgfyx.sbs CNAME .
-*.mgfyx.sbs CNAME .
-miljo.sbs CNAME .
-*.miljo.sbs CNAME .
-mtbts.sbs CNAME .
-*.mtbts.sbs CNAME .
 noeuz.sbs CNAME .
 *.noeuz.sbs CNAME .
 ozkyx.sbs CNAME .

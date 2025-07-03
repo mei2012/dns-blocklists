@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jul 2025 04:04 UTC
-# Version: 2025.0703.0404.43
+# Last modified: 03 Jul 2025 08:01 UTC
+# Version: 2025.0703.0801.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10092
+# Number of entries: 10088
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -665,6 +665,7 @@ local=/ambassadorddl.site/
 local=/ambits.org/
 local=/amcomputers.org/
 local=/amedia.biz/
+local=/amedia.so/
 local=/americansoccerarchives.com/
 local=/amrbd.com/
 local=/an1.com/
@@ -5238,7 +5239,6 @@ local=/macintoshgarden.org/
 local=/macked.app/
 local=/macnulled.com/
 local=/macoscrack.com/
-local=/macserial.com/
 local=/macserialjunkie.com/
 local=/macsoftdownload.com/
 local=/macsourceports.com/
@@ -5304,7 +5304,6 @@ local=/massgrave.dev/
 local=/master-prez.com/
 local=/masterani.me/
 local=/masterboot.net/
-local=/masterflix.online/
 local=/masterkreatif.com/
 local=/masterof13fps.com/
 local=/masters-tb.com/
@@ -5528,7 +5527,6 @@ local=/mod-yolo.com/
 local=/modapkcloud.com/
 local=/modapkdown.com/
 local=/modapp.org/
-local=/modcombo.com/
 local=/modded-1.com/
 local=/moddedguru.com/
 local=/modder.me/
@@ -5605,7 +5603,6 @@ local=/movie-blog.tv/
 local=/movie-forum.co/
 local=/movie-web.me/
 local=/movie2k.to/
-local=/movie2kproxy.com/
 local=/movie4k.ag/
 local=/movie4k.org/
 local=/movie4k.sx/
@@ -5782,7 +5779,6 @@ local=/mrdeni.com/
 local=/mrtwig.net/
 local=/mrunblock.pro/
 local=/ettv.mrunblock.bar/
-local=/losmovies.mrunblock.casa/
 local=/mrunlock.space/
 local=/mscracks.com/
 local=/mserver.link/
