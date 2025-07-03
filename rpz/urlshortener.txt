@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751525100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751539500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 06:45 UTC
-; Version: 2025.0703.0645.21
+; Last modified: 03 Jul 2025 10:45 UTC
+; Version: 2025.0703.1045.11
 ; Syntax: RPZ
-; Number of entries: 10374
+; Number of entries: 10346
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2380,8 +2380,6 @@ mypoya.com CNAME .
 *.mypoya.com CNAME .
 myshorturls.com CNAME .
 *.myshorturls.com CNAME .
-mysurl.com CNAME .
-*.mysurl.com CNAME .
 myvdcc.com CNAME .
 *.myvdcc.com CNAME .
 name.com CNAME .
@@ -2402,16 +2400,12 @@ nbcchi.com CNAME .
 *.nbcchi.com CNAME .
 neflixenomovies.com CNAME .
 *.neflixenomovies.com CNAME .
-networking-htx.com CNAME .
-*.networking-htx.com CNAME .
 newhotlink.com CNAME .
 *.newhotlink.com CNAME .
 nextworm.com CNAME .
 *.nextworm.com CNAME .
 ngrid.com CNAME .
 *.ngrid.com CNAME .
-nhbvi.com CNAME .
-*.nhbvi.com CNAME .
 nipnit.com CNAME .
 *.nipnit.com CNAME .
 nktcx.com CNAME .
@@ -2430,8 +2424,6 @@ nwspprs.com CNAME .
 *.nwspprs.com CNAME .
 nxgtm.com CNAME .
 *.nxgtm.com CNAME .
-oaglyfoa.com CNAME .
-*.oaglyfoa.com CNAME .
 ok2.com CNAME .
 *.ok2.com CNAME .
 okebio.com CNAME .
@@ -4722,10 +4714,6 @@ nftchampions.info CNAME .
 *.nftchampions.info CNAME .
 niit-mts.info CNAME .
 *.niit-mts.info CNAME .
-oduarjakujas.info CNAME .
-*.oduarjakujas.info CNAME .
-okachi.info CNAME .
-*.okachi.info CNAME .
 pbzl.info CNAME .
 *.pbzl.info CNAME .
 pferrer15.info CNAME .
@@ -4964,8 +4952,6 @@ mylinkinb.io CNAME .
 *.mylinkinb.io CNAME .
 nov.io CNAME .
 *.nov.io CNAME .
-ntbk.io CNAME .
-*.ntbk.io CNAME .
 oii.io CNAME .
 *.oii.io CNAME .
 orp.io CNAME .
@@ -5814,8 +5800,6 @@ movevibe.life CNAME .
 *.movevibe.life CNAME .
 mute-fill-mood.life CNAME .
 *.mute-fill-mood.life CNAME .
-my-elizabeth.life CNAME .
-*.my-elizabeth.life CNAME .
 my-gay.life CNAME .
 *.my-gay.life CNAME .
 mycecianajada271928.life CNAME .
@@ -5830,16 +5814,8 @@ mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
 *.mytoluwalemi.life CNAME .
-myweber.life CNAME .
-*.myweber.life CNAME .
-n-tan-dow-mckoena-0903.life CNAME .
-*.n-tan-dow-mckoena-0903.life CNAME .
-nagaaslicc.life CNAME .
-*.nagaaslicc.life CNAME .
 newcecianajada271928.life CNAME .
 *.newcecianajada271928.life CNAME .
-newhrm.life CNAME .
-*.newhrm.life CNAME .
 nikoroli.life CNAME .
 *.nikoroli.life CNAME .
 noicindya.life CNAME .
@@ -5850,8 +5826,6 @@ nxc.life CNAME .
 *.nxc.life CNAME .
 ogle-wolfe.life CNAME .
 *.ogle-wolfe.life CNAME .
-okachi.life CNAME .
-*.okachi.life CNAME .
 onelovepalmbeaches.life CNAME .
 *.onelovepalmbeaches.life CNAME .
 onlinekassirjessica.life CNAME .
@@ -9566,8 +9540,6 @@ mylinks.top CNAME .
 *.mylinks.top CNAME .
 nwo-s.top CNAME .
 *.nwo-s.top CNAME .
-oizcx.top CNAME .
-*.oizcx.top CNAME .
 ospug.top CNAME .
 *.ospug.top CNAME .
 pastihoki.top CNAME .
