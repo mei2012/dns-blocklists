@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751482020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751496480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2025 18:47 UTC
-; Version: 2025.0702.1847.54
+; Last modified: 02 Jul 2025 22:48 UTC
+; Version: 2025.0702.2248.07
 ; Syntax: RPZ
-; Number of entries: 10438
+; Number of entries: 10416
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2102,14 +2102,10 @@ h-pp.hotstar.com CNAME .
 *.h-pp.hotstar.com CNAME .
 hover.com CNAME .
 *.hover.com CNAME .
-hpxjl.com CNAME .
-*.hpxjl.com CNAME .
 httpslink.com CNAME .
 *.httpslink.com CNAME .
 hugeurl.com CNAME .
 *.hugeurl.com CNAME .
-hulk3.com CNAME .
-*.hulk3.com CNAME .
 iapdw.com CNAME .
 *.iapdw.com CNAME .
 icanhaz.com CNAME .
@@ -2118,10 +2114,6 @@ icutlink.com CNAME .
 *.icutlink.com CNAME .
 iembelleze.com CNAME .
 *.iembelleze.com CNAME .
-ievccd.com CNAME .
-*.ievccd.com CNAME .
-ifwni.com CNAME .
-*.ifwni.com CNAME .
 ihnpo.com CNAME .
 *.ihnpo.com CNAME .
 inclusivetravelwithnikki.com CNAME .
@@ -2158,10 +2150,6 @@ itvty.com CNAME .
 *.itvty.com CNAME .
 jaglil.com CNAME .
 *.jaglil.com CNAME .
-japkq.com CNAME .
-*.japkq.com CNAME .
-jbqdo.com CNAME .
-*.jbqdo.com CNAME .
 jddbo.com CNAME .
 *.jddbo.com CNAME .
 jellyurl.com CNAME .
@@ -6440,20 +6428,14 @@ hobbyajans.live CNAME .
 *.hobbyajans.live CNAME .
 i-am-here.live CNAME .
 *.i-am-here.live CNAME .
-ichafunddrives.live CNAME .
-*.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
-inburstcorp.live CNAME .
-*.inburstcorp.live CNAME .
 incl.live CNAME .
 *.incl.live CNAME .
 isot2024.live CNAME .
 *.isot2024.live CNAME .
 jacobgb334inc.live CNAME .
 *.jacobgb334inc.live CNAME .
-jaenwoo.live CNAME .
-*.jaenwoo.live CNAME .
 jamesastaten.live CNAME .
 *.jamesastaten.live CNAME .
 jxxl.live CNAME .
@@ -8714,8 +8696,6 @@ htgi.ru CNAME .
 *.htgi.ru CNAME .
 inlnk.ru CNAME .
 *.inlnk.ru CNAME .
-ioui.ru CNAME .
-*.ioui.ru CNAME .
 ipgrabber.ru CNAME .
 *.ipgrabber.ru CNAME .
 ipgraber.ru CNAME .
@@ -8796,8 +8776,6 @@ fdkmx.sbs CNAME .
 *.fdkmx.sbs CNAME .
 gpyew.sbs CNAME .
 *.gpyew.sbs CNAME .
-idjzj.sbs CNAME .
-*.idjzj.sbs CNAME .
 ilofi.sbs CNAME .
 *.ilofi.sbs CNAME .
 katwr.sbs CNAME .
