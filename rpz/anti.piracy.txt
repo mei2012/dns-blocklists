@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751501220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751515440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 00:07 UTC
-; Version: 2025.0703.0007.52
+; Last modified: 03 Jul 2025 04:04 UTC
+; Version: 2025.0703.0404.43
 ; Syntax: RPZ
-; Number of entries: 20186
+; Number of entries: 20184
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1811,8 +1811,6 @@ italia-film.co CNAME .
 *.italia-film.co CNAME .
 jpmangas.co CNAME .
 *.jpmangas.co CNAME .
-kickassto.co CNAME .
-*.kickassto.co CNAME .
 kinoz.co CNAME .
 *.kinoz.co CNAME .
 kuiken.co CNAME .
@@ -12349,8 +12347,6 @@ licensekey.net CNAME .
 *.licensekey.net CNAME .
 ipstresser.lidamorgenstein.net CNAME .
 *.ipstresser.lidamorgenstein.net CNAME .
-linkgalleries.net CNAME .
-*.linkgalleries.net CNAME .
 linkomanija.net CNAME .
 *.linkomanija.net CNAME .
 linksbox.net CNAME .
@@ -16983,6 +16979,8 @@ kimcartoon.si CNAME .
 *.kimcartoon.si CNAME .
 kwik.si CNAME .
 *.kwik.si CNAME .
+megakino.si CNAME .
+*.megakino.si CNAME .
 nyaa.si CNAME .
 *.nyaa.si CNAME .
 onionplay.si CNAME .

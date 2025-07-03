@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751496480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751510760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jul 2025 22:48 UTC
-; Version: 2025.0702.2248.07
+; Last modified: 03 Jul 2025 02:46 UTC
+; Version: 2025.0703.0246.18
 ; Syntax: RPZ
-; Number of entries: 10416
+; Number of entries: 10398
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -662,8 +662,6 @@ jppt.cc CNAME .
 *.jppt.cc CNAME .
 koi800.cc CNAME .
 *.koi800.cc CNAME .
-ktv303.cc CNAME .
-*.ktv303.cc CNAME .
 letsharu.cc CNAME .
 *.letsharu.cc CNAME .
 lihi.cc CNAME .
@@ -2186,8 +2184,6 @@ krunchd.com CNAME .
 *.krunchd.com CNAME .
 ktckesaria.com CNAME .
 *.ktckesaria.com CNAME .
-landoafterschool.com CNAME .
-*.landoafterschool.com CNAME .
 lighthouse-scholarship.com CNAME .
 *.lighthouse-scholarship.com CNAME .
 lihi1.com CNAME .
@@ -2272,8 +2268,6 @@ lkysrw.com CNAME .
 *.lkysrw.com CNAME .
 llclick.com CNAME .
 *.llclick.com CNAME .
-llcyxq.com CNAME .
-*.llcyxq.com CNAME .
 lnkiy.com CNAME .
 *.lnkiy.com CNAME .
 loasj.com CNAME .
@@ -4684,8 +4678,6 @@ kharyona.info CNAME .
 *.kharyona.info CNAME .
 kojj.info CNAME .
 *.kojj.info CNAME .
-kriizuh-rig-09.info CNAME .
-*.kriizuh-rig-09.info CNAME .
 kulturaff.info CNAME .
 *.kulturaff.info CNAME .
 kyaa.info CNAME .
@@ -4700,8 +4692,6 @@ linkgacor33.info CNAME .
 *.linkgacor33.info CNAME .
 linktexas.info CNAME .
 *.linktexas.info CNAME .
-llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
-*.llllllllllllllllllllllllllllllllllllllllllllllllllllllls.info CNAME .
 lrrahad200346.info CNAME .
 *.lrrahad200346.info CNAME .
 maper.info CNAME .
@@ -5778,8 +5768,6 @@ kapten69.life CNAME .
 *.kapten69.life CNAME .
 karisaathman346.life CNAME .
 *.karisaathman346.life CNAME .
-krishnaraosivaramas.life CNAME .
-*.krishnaraosivaramas.life CNAME .
 kuykendall-lauren.life CNAME .
 *.kuykendall-lauren.life CNAME .
 lillebrordahlstrom.life CNAME .
@@ -8032,8 +8020,6 @@ dn303.online CNAME .
 *.dn303.online CNAME .
 jagoan-hosting.online CNAME .
 *.jagoan-hosting.online CNAME .
-kliks.online CNAME .
-*.kliks.online CNAME .
 linkshortner.online CNAME .
 *.linkshortner.online CNAME .
 liverpooldescarga.online CNAME .
@@ -8778,12 +8764,8 @@ gpyew.sbs CNAME .
 *.gpyew.sbs CNAME .
 ilofi.sbs CNAME .
 *.ilofi.sbs CNAME .
-katwr.sbs CNAME .
-*.katwr.sbs CNAME .
 khpsn.sbs CNAME .
 *.khpsn.sbs CNAME .
-kjuzm.sbs CNAME .
-*.kjuzm.sbs CNAME .
 lieva.sbs CNAME .
 *.lieva.sbs CNAME .
 ltjay.sbs CNAME .

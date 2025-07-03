@@ -1,6 +1,14 @@
 # Unblocking for all lists (relaxed, balanced, aggressive and strict)
 # Domains to be removed from the light, normal, pro, pro++ and ultimate list. Also from the fake, popupads and tif.
 
+# https://github.com/hagezi/dns-blocklists/issues/6611
+monitoring.*.amazonaws.com
+logs.*.amazonaws.com
+
+# https://github.com/hagezi/dns-blocklists/issues/6611#issuecomment-3030094828
+*telemetry*.oraclecloud.com
+*telemetry*.oraclecloud20.com
+
 # RTL+ live TV
 rin-yospace-adstorage-prod-cf.cbc-sttech-storage.aws-cbc.cloud
 

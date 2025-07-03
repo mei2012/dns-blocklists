@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jul 2025 00:07 UTC
-# Version: 2025.0703.0007.52
+# Last modified: 03 Jul 2025 04:04 UTC
+# Version: 2025.0703.0404.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10093
+# Number of entries: 10092
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4783,7 +4783,6 @@ local=/kickass2.xyz/
 local=/kickassanime.mx/
 local=/kickassanime.rs/
 local=/kickassto.cc/
-local=/kickassto.co/
 local=/kickasstorrent.bid/
 local=/kickasstorrent.cr/
 local=/kickasstorrent.eu/
@@ -5074,7 +5073,6 @@ local=/limetorrentx.cc/
 local=/line-net.ru/
 local=/link-base.org/
 local=/linkbucks.com/
-local=/linkgalleries.net/
 local=/linkomanija.net/
 local=/tracker.linkomanija.org/
 local=/linkr.top/
@@ -5388,6 +5386,7 @@ local=/megakino.pw/
 local=/megakino.red/
 local=/megakino.rip/
 local=/megakino.show/
+local=/megakino.si/
 local=/megakino.style/
 local=/megakino.tax/
 local=/megakino.team/

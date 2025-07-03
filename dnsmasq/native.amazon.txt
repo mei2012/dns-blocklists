@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jun 2025 03:55 UTC
-# Version: 2025.0628.0355.14
+# Last modified: 03 Jul 2025 02:33 UTC
+# Version: 2025.0703.0233.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 350
+# Number of entries: 312
 #
 local=/aan.amazon.co.jp/
 local=/aan.amazon.co.uk/
@@ -222,38 +222,6 @@ local=/maws-aax-us-pdx-rtb.amazon-adsystem.com/
 local=/metrics.media-amazon.com/
 local=/minerva.devices.a2z.com/
 local=/mobileanalytics.us-east-1.amazonaws.com/
-local=/monitoring.af-south-1.amazonaws.com/
-local=/monitoring.ap-east-1.amazonaws.com/
-local=/monitoring.ap-northeast-1.amazonaws.com/
-local=/monitoring.ap-northeast-2.amazonaws.com/
-local=/monitoring.ap-northeast-3.amazonaws.com/
-local=/monitoring.ap-south-1.amazonaws.com/
-local=/monitoring.ap-south-2.amazonaws.com/
-local=/monitoring.ap-southeast-1.amazonaws.com/
-local=/monitoring.ap-southeast-2.amazonaws.com/
-local=/monitoring.ap-southeast-3.amazonaws.com/
-local=/monitoring.ap-southeast-4.amazonaws.com/
-local=/monitoring.ca-central-1.amazonaws.com/
-local=/monitoring.ca-west-1.amazonaws.com/
-local=/monitoring.eu-central-1.amazonaws.com/
-local=/monitoring.eu-central-2.amazonaws.com/
-local=/monitoring.eu-north-1.amazonaws.com/
-local=/monitoring.eu-south-1.amazonaws.com/
-local=/monitoring.eu-south-2.amazonaws.com/
-local=/monitoring.eu-west-1.amazonaws.com/
-local=/monitoring.eu-west-2.amazonaws.com/
-local=/monitoring.eu-west-3.amazonaws.com/
-local=/monitoring.il-central-1.amazonaws.com/
-local=/monitoring.me-central-1.amazonaws.com/
-local=/monitoring.me-south-1.amazonaws.com/
-local=/monitoring.prod.cloudwatch.amazonaws.com/
-local=/monitoring.sa-east-1.amazonaws.com/
-local=/monitoring.us-east-1.amazonaws.com/
-local=/monitoring.us-east-2.amazonaws.com/
-local=/monitoring.us-gov-east-1.amazonaws.com/
-local=/monitoring.us-gov-west-1.amazonaws.com/
-local=/monitoring.us-west-1.amazonaws.com/
-local=/monitoring.us-west-2.amazonaws.com/
 local=/mshopbugsnag.irm.amazon.dev/
 local=/origin-sq-tungsten-ts.amazon-adsystem.com/
 local=/paa-reporting-advertising.amazon/
@@ -341,12 +309,6 @@ local=/vfw-us-west-gamma.amazon-adsystem.com/
 local=/vfw-us-west.amazon-adsystem.com/
 local=/vfw-us.amazon-adsystem.com/
 local=/vfw.amazon-adsystem.com/
-local=/video-ads.a2z.com/
-local=/vq-eu-west-1.amazon-adsystem.com/
-local=/vq-fe-us-west-2.amazon-adsystem.com/
-local=/vq-test-us-east-1.amazon-adsystem.com/
-local=/vq-us-east-1.amazon-adsystem.com/
-local=/vq-us-west-2.amazon-adsystem.com/
 local=/wms-eu.amazon-adsystem.com/
 local=/wms-fe.amazon-adsystem.com/
 local=/wms-in.amazon-adsystem.com/
