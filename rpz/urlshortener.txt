@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751611800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751626020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jul 2025 06:50 UTC
-; Version: 2025.0704.0650.15
+; Last modified: 04 Jul 2025 10:47 UTC
+; Version: 2025.0704.1047.04
 ; Syntax: RPZ
-; Number of entries: 10250
+; Number of entries: 10230
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3112,8 +3112,6 @@ xbrch.com CNAME .
 *.xbrch.com CNAME .
 xdsnht.com CNAME .
 *.xdsnht.com CNAME .
-xmekz.com CNAME .
-*.xmekz.com CNAME .
 xojby.com CNAME .
 *.xojby.com CNAME .
 xortly.com CNAME .
@@ -3122,8 +3120,6 @@ xoxourl.com CNAME .
 *.xoxourl.com CNAME .
 xr.com CNAME .
 *.xr.com CNAME .
-xwhxx.com CNAME .
-*.xwhxx.com CNAME .
 yahbo.com CNAME .
 *.yahbo.com CNAME .
 yalepccsm.com CNAME .
@@ -3136,20 +3132,14 @@ yect.com CNAME .
 *.yect.com CNAME .
 yfrog.com CNAME .
 *.yfrog.com CNAME .
-ygudy.com CNAME .
-*.ygudy.com CNAME .
 yjmva.com CNAME .
 *.yjmva.com CNAME .
 ymoizd.com CNAME .
 *.ymoizd.com CNAME .
-ymsoy.com CNAME .
-*.ymsoy.com CNAME .
 yoalizer.com CNAME .
 *.yoalizer.com CNAME .
 yotpoclicks.com CNAME .
 *.yotpoclicks.com CNAME .
-yozzc.com CNAME .
-*.yozzc.com CNAME .
 ypflx.com CNAME .
 *.ypflx.com CNAME .
 yukibio.com CNAME .
@@ -3162,10 +3152,6 @@ zbitly.com CNAME .
 *.zbitly.com CNAME .
 zcays.com CNAME .
 *.zcays.com CNAME .
-zfgcx.com CNAME .
-*.zfgcx.com CNAME .
-zggvt.com CNAME .
-*.zggvt.com CNAME .
 zigilink.com CNAME .
 *.zigilink.com CNAME .
 zipmyurl.com CNAME .
@@ -3186,8 +3172,6 @@ zshorten.com CNAME .
 *.zshorten.com CNAME .
 zshortner.com CNAME .
 *.zshortner.com CNAME .
-zsjdu.com CNAME .
-*.zsjdu.com CNAME .
 zsote.com CNAME .
 *.zsote.com CNAME .
 zzlinks.com CNAME .
@@ -5776,6 +5760,8 @@ myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
+mytiktok.life CNAME .
+*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6522,8 +6508,6 @@ wolftravels.live CNAME .
 *.wolftravels.live CNAME .
 wordmovies.live CNAME .
 *.wordmovies.live CNAME .
-zaidsafwah.live CNAME .
-*.zaidsafwah.live CNAME .
 zap-onlisd.live CNAME .
 *.zap-onlisd.live CNAME .
 zeusstore.live CNAME .
@@ -9482,8 +9466,6 @@ woah.top CNAME .
 *.woah.top CNAME .
 wolg.top CNAME .
 *.wolg.top CNAME .
-yfdxr.top CNAME .
-*.yfdxr.top CNAME .
 ywum.top CNAME .
 *.ywum.top CNAME .
 mdl.town CNAME .
@@ -9862,8 +9844,6 @@ xiqi.us CNAME .
 *.xiqi.us CNAME .
 xrl.us CNAME .
 *.xrl.us CNAME .
-yh6.us CNAME .
-*.yh6.us CNAME .
 yourcs.us CNAME .
 *.yourcs.us CNAME .
 za2.us CNAME .
