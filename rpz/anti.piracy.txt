@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751587200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751601420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jul 2025 00:00 UTC
-; Version: 2025.0704.0000.42
+; Last modified: 04 Jul 2025 03:57 UTC
+; Version: 2025.0704.0357.50
 ; Syntax: RPZ
-; Number of entries: 20170
+; Number of entries: 20166
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -13173,8 +13173,6 @@ uaserials.net CNAME .
 *.uaserials.net CNAME .
 uatracker.net CNAME .
 *.uatracker.net CNAME .
-ubucks.net CNAME .
-*.ubucks.net CNAME .
 dowm-movies.ucoz.net CNAME .
 *.dowm-movies.ucoz.net CNAME .
 ufcstreams.net CNAME .
@@ -20107,8 +20105,6 @@ trackerlist.xyz CNAME .
 *.trackerlist.xyz CNAME .
 tryzonet.xyz CNAME .
 *.tryzonet.xyz CNAME .
-ukpirateproxy.xyz CNAME .
-*.ukpirateproxy.xyz CNAME .
 union-crax.xyz CNAME .
 *.union-crax.xyz CNAME .
 tracker.uw0.xyz CNAME .

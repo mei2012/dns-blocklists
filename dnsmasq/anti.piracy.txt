@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2025 00:00 UTC
-# Version: 2025.0704.0000.42
+# Last modified: 04 Jul 2025 03:57 UTC
+# Version: 2025.0704.0357.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10085
+# Number of entries: 10083
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -8976,7 +8976,6 @@ local=/uatracker.net/
 local=/uatyan.com/
 local=/uplay.ubi.com/
 local=/ubnbd.com/
-local=/ubucks.net/
 local=/torrent.ubuntu.com/
 local=/ubuweb.com/
 local=/4rvard-warez.ucoz.ru/
@@ -9015,7 +9014,6 @@ local=/ukpirate.org/
 local=/ukpiratebay.net/
 local=/ukpiratebay.org/
 local=/ukpiratebayproxy.com/
-local=/ukpirateproxy.xyz/
 local=/ukr-sub.com/
 local=/ultimate-warez.eu/
 local=/ultimateshare.net/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2025 00:05 UTC
-# Version: 2025.0704.0005.37
+# Last modified: 04 Jul 2025 04:03 UTC
+# Version: 2025.0704.0403.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4867
+# Number of entries: 4866
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -4069,7 +4069,6 @@ local=/thevpncompany.net/
 local=/thexite.net/
 local=/dns.thiz.top/
 local=/threeproxy.net/
-local=/king.thronos.eu/
 local=/okwhattheflip.thuis.vlaanderen/
 local=/thundervpnwin.com/
 local=/tiafun.com/

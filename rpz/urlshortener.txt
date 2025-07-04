@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751582700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751597040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 22:45 UTC
-; Version: 2025.0703.2245.03
+; Last modified: 04 Jul 2025 02:44 UTC
+; Version: 2025.0704.0244.39
 ; Syntax: RPZ
-; Number of entries: 10298
+; Number of entries: 10272
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -908,8 +908,6 @@ cle.clinic CNAME .
 *.cle.clinic CNAME .
 anchorurl.cloud CNAME .
 *.anchorurl.cloud CNAME .
-tanzx.cloud CNAME .
-*.tanzx.cloud CNAME .
 17mimei.club CNAME .
 *.17mimei.club CNAME .
 bckr.club CNAME .
@@ -2816,8 +2814,6 @@ thefood2.com CNAME .
 *.thefood2.com CNAME .
 thejoekuskie.com CNAME .
 *.thejoekuskie.com CNAME .
-thekreww.com CNAME .
-*.thekreww.com CNAME .
 theposhed.com CNAME .
 *.theposhed.com CNAME .
 thinfi.com CNAME .
@@ -2854,8 +2850,6 @@ titleagentmarketing.com CNAME .
 *.titleagentmarketing.com CNAME .
 tixxh.com CNAME .
 *.tixxh.com CNAME .
-tjazih.com CNAME .
-*.tjazih.com CNAME .
 tklinks.com CNAME .
 *.tklinks.com CNAME .
 tlinky.com CNAME .
@@ -2914,8 +2908,6 @@ udhbc.com CNAME .
 *.udhbc.com CNAME .
 uepx.com CNAME .
 *.uepx.com CNAME .
-ufjqt.com CNAME .
-*.ufjqt.com CNAME .
 uhishado.com CNAME .
 *.uhishado.com CNAME .
 s.ul.com CNAME .
@@ -4728,10 +4720,6 @@ teliget.info CNAME .
 *.teliget.info CNAME .
 terahnahor.info CNAME .
 *.terahnahor.info CNAME .
-the-vic.info CNAME .
-*.the-vic.info CNAME .
-thekrew.info CNAME .
-*.thekrew.info CNAME .
 tlgs.info CNAME .
 *.tlgs.info CNAME .
 url-shortener.info CNAME .
@@ -5854,14 +5842,10 @@ sweaver.life CNAME .
 *.sweaver.life CNAME .
 taythi.life CNAME .
 *.taythi.life CNAME .
-teeny.life CNAME .
-*.teeny.life CNAME .
 teenycheck9.life CNAME .
 *.teenycheck9.life CNAME .
 teliget.life CNAME .
 *.teliget.life CNAME .
-thandisozynobiahlongwanes.life CNAME .
-*.thandisozynobiahlongwanes.life CNAME .
 thaniel.life CNAME .
 *.thaniel.life CNAME .
 thug-bug-g-928.life CNAME .
@@ -7688,8 +7672,6 @@ sub2unlock.net CNAME .
 *.sub2unlock.net CNAME .
 telnet-service.net CNAME .
 *.telnet-service.net CNAME .
-thekrew.net CNAME .
-*.thekrew.net CNAME .
 tinylink.net CNAME .
 *.tinylink.net CNAME .
 tllg.net CNAME .
@@ -8506,10 +8488,6 @@ a.trp.red CNAME .
 *.a.trp.red CNAME .
 shorten.rest CNAME .
 *.shorten.rest CNAME .
-tegmv.rest CNAME .
-*.tegmv.rest CNAME .
-udylo.rest CNAME .
-*.udylo.rest CNAME .
 staticprocessorsource.review CNAME .
 *.staticprocessorsource.review CNAME .
 luna.rip CNAME .
@@ -8700,10 +8678,6 @@ qwjbc.sbs CNAME .
 *.qwjbc.sbs CNAME .
 szjrw.sbs CNAME .
 *.szjrw.sbs CNAME .
-ubfhb.sbs CNAME .
-*.ubfhb.sbs CNAME .
-uitve.sbs CNAME .
-*.uitve.sbs CNAME .
 vsucs.sbs CNAME .
 *.vsucs.sbs CNAME .
 vunvc.sbs CNAME .
