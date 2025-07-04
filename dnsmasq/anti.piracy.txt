@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jul 2025 20:02 UTC
-# Version: 2025.0703.2002.16
+# Last modified: 04 Jul 2025 00:00 UTC
+# Version: 2025.0704.0000.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10087
+# Number of entries: 10085
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -8036,7 +8036,6 @@ local=/streammaster.xyz/
 local=/streammovies.to/
 local=/streamonhd.me/
 local=/streamonsport.net/
-local=/streamonsport28.xyz/
 local=/streamoz.me/
 local=/streamshunters.com/
 local=/streamsthunder.tv/
@@ -8054,7 +8053,6 @@ local=/streamworld.ws/
 local=/streamz.cc/
 local=/streamz.ws/
 local=/streamzone.org/
-local=/streamzone.ru/
 local=/streema.com/
 local=/streettorrent.pl/
 local=/streghettaincucina.com/

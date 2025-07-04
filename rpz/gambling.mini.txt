@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751572860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751587200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 20:01 UTC
-; Version: 2025.0703.2001.49
+; Last modified: 04 Jul 2025 00:00 UTC
+; Version: 2025.0704.0000.13
 ; Syntax: RPZ
-; Number of entries: 122946
+; Number of entries: 122926
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -11805,8 +11805,6 @@ stables.casino CNAME .
 *.stables.casino CNAME .
 stake-ca.casino CNAME .
 *.stake-ca.casino CNAME .
-stake127.casino CNAME .
-*.stake127.casino CNAME .
 stake231.casino CNAME .
 *.stake231.casino CNAME .
 stakecom.casino CNAME .
@@ -56551,8 +56549,6 @@ slots-kasino.com CNAME .
 *.slots-kasino.com CNAME .
 slots-links.com CNAME .
 *.slots-links.com CNAME .
-slots-list2025.com CNAME .
-*.slots-list2025.com CNAME .
 slots-lux.com CNAME .
 *.slots-lux.com CNAME .
 slots-magica.com CNAME .
@@ -57561,8 +57557,6 @@ spinight.com CNAME .
 *.spinight.com CNAME .
 spinight3.com CNAME .
 *.spinight3.com CNAME .
-spinightcasino2.com CNAME .
-*.spinightcasino2.com CNAME .
 spinincasinovibe.com CNAME .
 *.spinincasinovibe.com CNAME .
 spinit.com CNAME .
@@ -71957,8 +71951,6 @@ slot99-casino.link CNAME .
 *.slot99-casino.link CNAME .
 slot999-casino.link CNAME .
 *.slot999-casino.link CNAME .
-slotscashcasinogames.link CNAME .
-*.slotscashcasinogames.link CNAME .
 slotsvader.link CNAME .
 *.slotsvader.link CNAME .
 superduyung303.link CNAME .
@@ -80493,8 +80485,6 @@ susblackcasino777e.online CNAME .
 *.susblackcasino777e.online CNAME .
 svbet.online CNAME .
 *.svbet.online CNAME .
-swag-casino.online CNAME .
-*.swag-casino.online CNAME .
 swisslottery-online.online CNAME .
 *.swisslottery-online.online CNAME .
 sydney303.online CNAME .
@@ -109343,8 +109333,6 @@ simbacasino.uk CNAME .
 *.simbacasino.uk CNAME .
 skol-casino.uk CNAME .
 *.skol-casino.uk CNAME .
-skylivecasino.uk CNAME .
-*.skylivecasino.uk CNAME .
 slotmonstercasino.uk CNAME .
 *.slotmonstercasino.uk CNAME .
 slotnitecasino.uk CNAME .
@@ -120717,8 +120705,6 @@ serverasli.xyz CNAME .
 *.serverasli.xyz CNAME .
 serverpol88.xyz CNAME .
 *.serverpol88.xyz CNAME .
-serversrgl69.xyz CNAME .
-*.serversrgl69.xyz CNAME .
 seven77best.xyz CNAME .
 *.seven77best.xyz CNAME .
 seven77fact.xyz CNAME .
@@ -121079,8 +121065,6 @@ slotsgovip.xyz CNAME .
 *.slotsgovip.xyz CNAME .
 slotshero.xyz CNAME .
 *.slotshero.xyz CNAME .
-slotshopeepay.xyz CNAME .
-*.slotshopeepay.xyz CNAME .
 slotsitusgacor.xyz CNAME .
 *.slotsitusgacor.xyz CNAME .
 slotskin.xyz CNAME .
@@ -121107,8 +121091,6 @@ slotspark.xyz CNAME .
 *.slotspark.xyz CNAME .
 slotsplanet.xyz CNAME .
 *.slotsplanet.xyz CNAME .
-slotsrg.xyz CNAME .
-*.slotsrg.xyz CNAME .
 slotsshop.xyz CNAME .
 *.slotsshop.xyz CNAME .
 slotsuniverse.xyz CNAME .
@@ -121171,8 +121153,6 @@ soju88asli.xyz CNAME .
 *.soju88asli.xyz CNAME .
 soju88kita.xyz CNAME .
 *.soju88kita.xyz CNAME .
-sol-casino777.xyz CNAME .
-*.sol-casino777.xyz CNAME .
 sol-casinos.xyz CNAME .
 *.sol-casinos.xyz CNAME .
 solaireonlinecasino.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751572920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751587200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 20:02 UTC
-; Version: 2025.0703.2002.16
+; Last modified: 04 Jul 2025 00:00 UTC
+; Version: 2025.0704.0000.42
 ; Syntax: RPZ
-; Number of entries: 20174
+; Number of entries: 20170
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -16655,8 +16655,6 @@ sport-stream.ru CNAME .
 *.sport-stream.ru CNAME .
 squid-board.ru CNAME .
 *.squid-board.ru CNAME .
-streamzone.ru CNAME .
-*.streamzone.ru CNAME .
 swatchseries.ru CNAME .
 *.swatchseries.ru CNAME .
 t2bot.ru CNAME .
@@ -20075,8 +20073,6 @@ streamingcommunity.xyz CNAME .
 *.streamingcommunity.xyz CNAME .
 streammaster.xyz CNAME .
 *.streammaster.xyz CNAME .
-streamonsport28.xyz CNAME .
-*.streamonsport28.xyz CNAME .
 streamwoop.xyz CNAME .
 *.streamwoop.xyz CNAME .
 superlinkbd.xyz CNAME .

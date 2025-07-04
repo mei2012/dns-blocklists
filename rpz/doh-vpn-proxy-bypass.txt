@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751573220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751587500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 20:07 UTC
-; Version: 2025.0703.2007.39
+; Last modified: 04 Jul 2025 00:05 UTC
+; Version: 2025.0704.0005.37
 ; Syntax: RPZ
-; Number of entries: 9742
+; Number of entries: 9734
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2606,8 +2606,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3352,8 +3350,6 @@ spicevpn.com CNAME .
 *.spicevpn.com CNAME .
 sportsballhub.com CNAME .
 *.sportsballhub.com CNAME .
-game.spynick.com CNAME .
-*.game.spynick.com CNAME .
 spysurfing.com CNAME .
 *.spysurfing.com CNAME .
 squidproxyserver.com CNAME .
@@ -5740,8 +5736,6 @@ maxkershoe.soon.it CNAME .
 *.maxkershoe.soon.it CNAME .
 swisscheesebyjohn.soon.it CNAME .
 *.swisscheesebyjohn.soon.it CNAME .
-pleasekeep.strokin.it CNAME .
-*.pleasekeep.strokin.it CNAME .
 tor2web.it CNAME .
 *.tor2web.it CNAME .
 unblock.it CNAME .
@@ -7152,8 +7146,6 @@ surfall.net CNAME .
 *.surfall.net CNAME .
 surfshark.net CNAME .
 *.surfshark.net CNAME .
-popteeeee-lkshfeakwueh-ew.swanndvr.net CNAME .
-*.popteeeee-lkshfeakwueh-ew.swanndvr.net CNAME .
 ramm-ume-pro.swanndvr.net CNAME .
 *.ramm-ume-pro.swanndvr.net CNAME .
 rammerhead-10.swanndvr.net CNAME .

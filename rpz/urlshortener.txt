@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751568300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751582700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jul 2025 18:45 UTC
-; Version: 2025.0703.1845.30
+; Last modified: 03 Jul 2025 22:45 UTC
+; Version: 2025.0703.2245.03
 ; Syntax: RPZ
-; Number of entries: 10320
+; Number of entries: 10298
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2658,16 +2658,12 @@ shortifyme.com CNAME .
 *.shortifyme.com CNAME .
 shortlinkpanel.com CNAME .
 *.shortlinkpanel.com CNAME .
-shortlk.com CNAME .
-*.shortlk.com CNAME .
 shortll.com CNAME .
 *.shortll.com CNAME .
 shortlync.com CNAME .
 *.shortlync.com CNAME .
 shortmenu.com CNAME .
 *.shortmenu.com CNAME .
-shortmoneyus.com CNAME .
-*.shortmoneyus.com CNAME .
 shortonly.com CNAME .
 *.shortonly.com CNAME .
 shortracz.com CNAME .
@@ -2722,8 +2718,6 @@ simurl.com CNAME .
 *.simurl.com CNAME .
 skiplinko.com CNAME .
 *.skiplinko.com CNAME .
-slamfootball.com CNAME .
-*.slamfootball.com CNAME .
 slecastle.com CNAME .
 *.slecastle.com CNAME .
 slotamina.com CNAME .
@@ -2780,8 +2774,6 @@ supurlman.com CNAME .
 *.supurlman.com CNAME .
 susurl.com CNAME .
 *.susurl.com CNAME .
-suumk.com CNAME .
-*.suumk.com CNAME .
 swiftation.com CNAME .
 *.swiftation.com CNAME .
 swifttopia.com CNAME .
@@ -4730,8 +4722,6 @@ siakapkeli.info CNAME .
 *.siakapkeli.info CNAME .
 soumtrack.info CNAME .
 *.soumtrack.info CNAME .
-ssc2003.info CNAME .
-*.ssc2003.info CNAME .
 ssl-check-links.info CNAME .
 *.ssl-check-links.info CNAME .
 teliget.info CNAME .
@@ -5856,18 +5846,10 @@ shop-ify-store-km.life CNAME .
 *.shop-ify-store-km.life CNAME .
 shopifystorekms.life CNAME .
 *.shopifystorekms.life CNAME .
-shopquoraurl.life CNAME .
-*.shopquoraurl.life CNAME .
 shopvt.life CNAME .
 *.shopvt.life CNAME .
 siakap.life CNAME .
 *.siakap.life CNAME .
-sibutathemba120.life CNAME .
-*.sibutathemba120.life CNAME .
-soulful-transformation-studio.life CNAME .
-*.soulful-transformation-studio.life CNAME .
-steve-patrick-811.life CNAME .
-*.steve-patrick-811.life CNAME .
 sweaver.life CNAME .
 *.sweaver.life CNAME .
 taythi.life CNAME .
@@ -6510,8 +6492,6 @@ srwedding.live CNAME .
 *.srwedding.live CNAME .
 startupperks.live CNAME .
 *.startupperks.live CNAME .
-sumpahdokteruph52.live CNAME .
-*.sumpahdokteruph52.live CNAME .
 supporticket231.live CNAME .
 *.supporticket231.live CNAME .
 syl83otk.live CNAME .
@@ -8922,8 +8902,6 @@ sdr168.site CNAME .
 *.sdr168.site CNAME .
 shrturl.site CNAME .
 *.shrturl.site CNAME .
-signatureclub.site CNAME .
-*.signatureclub.site CNAME .
 terasherelinks.site CNAME .
 *.terasherelinks.site CNAME .
 tt5k.site CNAME .
