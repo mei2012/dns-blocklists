@@ -526,6 +526,13 @@
       }
     },
     {
+      "PK": "*.edu.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.engineer",
       "action": {
         "do": 0,
@@ -1450,6 +1457,13 @@
       }
     },
     {
+      "PK": "*.sa.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.sale",
       "action": {
         "do": 0,
@@ -1885,6 +1899,13 @@
     },
     {
       "PK": "*.you",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.za.com",
       "action": {
         "do": 0,
         "status": 1

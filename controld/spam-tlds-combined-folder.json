@@ -1421,6 +1421,13 @@
       }
     },
     {
+      "PK": "*.edu.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "e.foundation",
       "action": {
         "do": 1,
@@ -4347,6 +4354,13 @@
       }
     },
     {
+      "PK": "*.sa.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "safe.pharmacy",
       "action": {
         "do": 1,
@@ -6842,6 +6856,13 @@
       "PK": "yts.monster",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.za.com",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

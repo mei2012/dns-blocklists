@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jul 2025 22:52 UTC
-! Version: 2025.0704.2252.11
+! Last modified: 05 Jul 2025 03:45 UTC
+! Version: 2025.0705.0345.38
 ! Syntax: uBlock
-! Number of latin TLDs: 270 - non-latin TLDs: 151
+! Number of latin TLDs: 273 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -90,6 +90,7 @@
 ||dog^$doc,domain=~telegram.dog
 ||download^$doc,domain=~caido.download|~mkvtoolnix.download|~up4ever.download|~upfiles.download
 ||eco^$doc,domain=~elli.eco|~play.eco
+||edu.eu^$doc
 ||engineer^$doc
 ||enterprises^$doc
 ||equipment^$doc,domain=~biqu.equipment
@@ -222,6 +223,7 @@
 ||rodeo^$doc
 ||rugby^$doc
 ||ryukyu^$doc
+||sa.com^$doc
 ||sale^$doc
 ||sbs^$doc
 ||schule^$doc
@@ -285,6 +287,7 @@
 ||yachts^$doc,domain=~sinking.yachts
 ||yoga^$doc
 ||you^$doc
+||za.com^$doc
 ||zip^$doc,domain=~community.zip|~financialstatement.zip|~lemmy.zip|~makea.zip|~uploaded-files.zip|~voron.zip
 ||рус^$doc
 ||कॉम^$doc
