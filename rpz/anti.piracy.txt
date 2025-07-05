@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751716860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751745780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jul 2025 12:01 UTC
-; Version: 2025.0705.1201.19
+; Last modified: 05 Jul 2025 20:03 UTC
+; Version: 2025.0705.2003.49
 ; Syntax: RPZ
-; Number of entries: 20166
+; Number of entries: 20168
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -19315,6 +19315,8 @@ jokerlivestream.vip CNAME .
 *.jokerlivestream.vip CNAME .
 juraganfilm.vip CNAME .
 *.juraganfilm.vip CNAME .
+kinovibe.vip CNAME .
+*.kinovibe.vip CNAME .
 lk21official.vip CNAME .
 *.lk21official.vip CNAME .
 m4ufree.vip CNAME .
