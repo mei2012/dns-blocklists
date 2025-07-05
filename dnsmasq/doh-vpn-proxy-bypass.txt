@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jul 2025 04:05 UTC
-# Version: 2025.0705.0405.09
+# Last modified: 05 Jul 2025 08:02 UTC
+# Version: 2025.0705.0802.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4331
+# Number of entries: 4330
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1202,7 +1202,6 @@ local=/dns.tuna.tsinghua.edu.cn/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/elephantvpn.com/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2025 20:04 UTC
-# Version: 2025.0704.2004.01
+# Last modified: 05 Jul 2025 08:02 UTC
+# Version: 2025.0705.0802.21
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1601
+# Number of entries: 1600
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -624,7 +624,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
