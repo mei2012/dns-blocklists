@@ -10,8 +10,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jul 2025 18:47 UTC
-! Version: 2025.0704.1847.22
+! Last modified: 04 Jul 2025 22:52 UTC
+! Version: 2025.0704.2252.11
 ! Syntax: AdGuard
 ! Number of latin TLDs: 270 - punycode TLDs: 151
 !
@@ -124,7 +124,7 @@
 ||*.glass^$denyallow=domain.glass
 ||*.gold^$denyallow=xnxx.gold
 ||*.golf^
-||*.gq^
+||*.gq^$denyallow=inege.gq
 ||*.gratis^
 ||*.green^
 ||*.guide^$denyallow=cfw.guide|discordjs.guide|hacks.guide|homebrew.guide|opensource.guide|ripped.guide|site.guide|wii.guide|wisely.guide|zig.guide
@@ -169,7 +169,7 @@
 ||*.moe^$denyallow=aniya.moe|catbox.moe|ddlc.moe|mathi.moe
 ||*.mom^
 ||*.money^$denyallow=flowyour.money|unstoppable.money|vivid.money
-||*.monster^$denyallow=fedi.monster|mortgage.monster|rollenspiel.monster|tts.monster|yts.monster
+||*.monster^$denyallow=cloudcdn.monster|fedi.monster|mortgage.monster|rollenspiel.monster|tts.monster|yts.monster
 ||*.motorcycles^
 ||*.mov^$denyallow=david.mov|peerflix.mov|spankbang.mov
 ||*.name^$denyallow=davidwalsh.name

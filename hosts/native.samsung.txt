@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jun 2025 23:23 UTC
-# Version: 2025.0627.2323.26
+# Last modified: 04 Jul 2025 23:16 UTC
+# Version: 2025.0704.2316.46
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 255
+# Number of entries: 254
 #
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 metric.account-samsung.com
@@ -124,7 +124,6 @@
 0.0.0.0 tracking.americas.business.samsung.com
 0.0.0.0 lp.apac.business.samsung.com
 0.0.0.0 tracking.apac.business.samsung.com
-0.0.0.0 eu.business.samsung.com
 0.0.0.0 tracking.europe.business.samsung.com
 0.0.0.0 images.it.business.samsung.com
 0.0.0.0 seao.business.samsung.com
@@ -170,6 +169,7 @@
 0.0.0.0 go.samsungads.com
 0.0.0.0 go2.samsungads.com
 0.0.0.0 rtb-config.samsungads.com
+0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 tvp-ads-log-staging.samsungads.com
 0.0.0.0 www.samsungads.com
 0.0.0.0 samsungallstore.com
@@ -230,7 +230,6 @@
 0.0.0.0 business.samsungusa.com
 0.0.0.0 app.business.samsungusa.com
 0.0.0.0 images.business.samsungusa.com
-0.0.0.0 mail01.business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 samsungau.api.useinsider.com

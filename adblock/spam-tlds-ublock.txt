@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jul 2025 18:47 UTC
-! Version: 2025.0704.1847.22
+! Last modified: 04 Jul 2025 22:52 UTC
+! Version: 2025.0704.2252.11
 ! Syntax: uBlock
 ! Number of latin TLDs: 270 - non-latin TLDs: 151
 !
@@ -125,7 +125,7 @@
 ||glass^$doc,domain=~domain.glass
 ||gold^$doc,domain=~xnxx.gold
 ||golf^$doc
-||gq^$doc
+||gq^$doc,domain=~inege.gq
 ||gratis^$doc
 ||green^$doc
 ||guide^$doc,domain=~cfw.guide|~discordjs.guide|~hacks.guide|~homebrew.guide|~opensource.guide|~ripped.guide|~site.guide|~wii.guide|~wisely.guide|~zig.guide
@@ -170,7 +170,7 @@
 ||moe^$doc,domain=~aniya.moe|~catbox.moe|~ddlc.moe|~mathi.moe
 ||mom^$doc
 ||money^$doc,domain=~flowyour.money|~unstoppable.money|~vivid.money
-||monster^$doc,domain=~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
+||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~peerflix.mov|~spankbang.mov
 ||name^$doc,domain=~davidwalsh.name

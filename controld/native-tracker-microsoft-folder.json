@@ -253,13 +253,6 @@
       }
     },
     {
-      "PK": "analytics-listener.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "analytics.live.com",
       "action": {
         "do": 0,
@@ -2865,6 +2858,13 @@
     },
     {
       "PK": "word-telemetry.wac.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wttwebsiteprodapi-liveevents.trafficmanager.net",
       "action": {
         "do": 0,
         "status": 1

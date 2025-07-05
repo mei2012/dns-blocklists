@@ -5,8 +5,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Jun 2025 14:23 UTC
-! Version: 2025.0619.1423.58
+! Last modified: 04 Jul 2025 23:10 UTC
+! Version: 2025.0704.2310.41
 ! Syntax: AdBlock
 ! Number of entries: 410
 !
@@ -319,7 +319,6 @@
 ||adsdk.trafficmanager.net^
 ||agps-location-livenet.trafficmanager.net^
 ||analytics.trafficmanager.net^
-||analytics-listener.trafficmanager.net^
 ||atm-settingsfe-prod-geo2.trafficmanager.net^
 ||beacons.trafficmanager.net^
 ||bf-analytics-tracker-tm.trafficmanager.net^
@@ -372,6 +371,7 @@
 ||ppc-word-telemetry.wac.trafficmanager.net^
 ||word-telemetry.wac.trafficmanager.net^
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
+||wttwebsiteprodapi-liveevents.trafficmanager.net^
 ||dc.services.visualstudio.com^
 ||h4g3z1-native.winoffice.web.app^
 ||activity.windows.com^
