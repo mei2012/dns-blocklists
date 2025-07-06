@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jul 2025 10:46 UTC
-# Version: 2025.0705.1046.54
+# Last modified: 06 Jul 2025 15:39 UTC
+# Version: 2025.0706.1539.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2134
+# Number of entries: 2133
 #
 local=/000a.de/
 local=/000free.us/
@@ -235,7 +235,6 @@ local=/ambien-blog.com/
 local=/amoblog.com/
 local=/ampblogs.com/
 local=/ampedpages.com/
-local=/amplifyapp.com/
 local=/an-erster-stelle.de/
 local=/anchor-blog.com/
 local=/and-friends.de/

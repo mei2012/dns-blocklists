@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751803020 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751817600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jul 2025 11:57 UTC
-; Version: 2025.0706.1157.27
+; Last modified: 06 Jul 2025 16:00 UTC
+; Version: 2025.0706.1600.32
 ; Syntax: RPZ
-; Number of entries: 114344
+; Number of entries: 114364
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -16513,6 +16513,8 @@ vip.222-pu.com CNAME .
 *.2344bets.com CNAME .
 234betslot.com CNAME .
 *.234betslot.com CNAME .
+234togelone.com CNAME .
+*.234togelone.com CNAME .
 234verdecasino1307.com CNAME .
 *.234verdecasino1307.com CNAME .
 234vip77.com CNAME .
@@ -38235,6 +38237,8 @@ huikee.com CNAME .
 *.huikee.com CNAME .
 huikeecasino.com CNAME .
 *.huikeecasino.com CNAME .
+hujanvisa.com CNAME .
+*.hujanvisa.com CNAME .
 hulaspins.com CNAME .
 *.hulaspins.com CNAME .
 hulkcasinos.com CNAME .
@@ -49563,6 +49567,8 @@ puppetpoker.com CNAME .
 *.puppetpoker.com CNAME .
 purecasino.com CNAME .
 *.purecasino.com CNAME .
+puresoluble.com CNAME .
+*.puresoluble.com CNAME .
 purewin.com CNAME .
 *.purewin.com CNAME .
 pusaka88daftar.com CNAME .
@@ -56549,6 +56555,10 @@ tulalipcasino.com CNAME .
 *.tulalipcasino.com CNAME .
 tulalipresortcasino.com CNAME .
 *.tulalipresortcasino.com CNAME .
+tumi123.com CNAME .
+*.tumi123.com CNAME .
+tumi123or.com CNAME .
+*.tumi123or.com CNAME .
 tunicasinos.com CNAME .
 *.tunicasinos.com CNAME .
 tuohi.com CNAME .
@@ -57135,6 +57145,8 @@ uvabets.com CNAME .
 *.uvabets.com CNAME .
 uwin.com CNAME .
 *.uwin.com CNAME .
+uwin33myr1.com CNAME .
+*.uwin33myr1.com CNAME .
 uxslots.com CNAME .
 *.uxslots.com CNAME .
 uz-betandreas.com CNAME .
@@ -60021,6 +60033,8 @@ xogkhd.com CNAME .
 *.xogkhd.com CNAME .
 xon-bets.com CNAME .
 *.xon-bets.com CNAME .
+xooolink.com CNAME .
+*.xooolink.com CNAME .
 xoso5678.com CNAME .
 *.xoso5678.com CNAME .
 xox232.com CNAME .
@@ -70709,6 +70723,8 @@ izmirde.net CNAME .
 *.izmirde.net CNAME .
 jaak-casino-uk.net CNAME .
 *.jaak-casino-uk.net CNAME .
+jackpot108play.net CNAME .
+*.jackpot108play.net CNAME .
 jackpotjill.net CNAME .
 *.jackpotjill.net CNAME .
 jackpotjoycasino.net CNAME .
@@ -79625,6 +79641,8 @@ xcasino.pl CNAME .
 *.xcasino.pl CNAME .
 7jl.plus CNAME .
 *.7jl.plus CNAME .
+bk8.plus CNAME .
+*.bk8.plus CNAME .
 casinoextra2-fr.plus CNAME .
 *.casinoextra2-fr.plus CNAME .
 ezcasino.plus CNAME .
@@ -103285,6 +103303,8 @@ best-slots.world CNAME .
 *.best-slots.world CNAME .
 betstar.world CNAME .
 *.betstar.world CNAME .
+bk8.world CNAME .
+*.bk8.world CNAME .
 brunocasino.world CNAME .
 *.brunocasino.world CNAME .
 casino-bet365.world CNAME .
