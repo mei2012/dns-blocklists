@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jul 2025 20:03 UTC
-# Version: 2025.0705.2003.49
+# Last modified: 06 Jul 2025 03:56 UTC
+# Version: 2025.0706.0356.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10084
+# Number of entries: 10085
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -9244,6 +9244,7 @@ local=/uraxhayer.ru/
 local=/urbanproxy.eu/
 local=/urll.net/
 local=/gomovies.us.com/
+local=/tracker.guguan.us.kg/
 local=/seikai-no-fansubs.us.tt/
 local=/usabit.com/
 local=/usagoals.net/
