@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2025 03:56 UTC
-# Version: 2025.0706.0356.22
+# Last modified: 06 Jul 2025 11:58 UTC
+# Version: 2025.0706.1158.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10085
+# Number of entries: 10086
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -9348,6 +9348,7 @@ local=/vidcloud.us/
 local=/vidcloud1.com/
 local=/vidcloud9.com/
 local=/vide.cx/
+local=/vide0.net/
 local=/vidembed.net/
 local=/videobin.co/
 local=/videocop.com/
