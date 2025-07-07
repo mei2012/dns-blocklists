@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1751885220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1751914020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Jul 2025 10:47 UTC
-; Version: 2025.0707.1047.38
+; Last modified: 07 Jul 2025 18:47 UTC
+; Version: 2025.0707.1847.55
 ; Syntax: RPZ
-; Number of entries: 10224
+; Number of entries: 10248
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -694,6 +694,8 @@ lync.cc CNAME .
 *.lync.cc CNAME .
 mawar500.cc CNAME .
 *.mawar500.cc CNAME .
+mtws.cc CNAME .
+*.mtws.cc CNAME .
 myppt.cc CNAME .
 *.myppt.cc CNAME .
 mytd.cc CNAME .
@@ -1326,6 +1328,8 @@ qvc.co CNAME .
 *.qvc.co CNAME .
 r-7.co CNAME .
 *.r-7.co CNAME .
+r-txt.co CNAME .
+*.r-txt.co CNAME .
 rb6.co CNAME .
 *.rb6.co CNAME .
 rblx.co CNAME .
@@ -2090,6 +2094,8 @@ hideuri.com CNAME .
 *.hideuri.com CNAME .
 ly.hkfture.com CNAME .
 *.ly.hkfture.com CNAME .
+hncinnamon.com CNAME .
+*.hncinnamon.com CNAME .
 hodroffs.com CNAME .
 *.hodroffs.com CNAME .
 hoki22crot.com CNAME .
@@ -2104,6 +2110,8 @@ httpslink.com CNAME .
 *.httpslink.com CNAME .
 hugeurl.com CNAME .
 *.hugeurl.com CNAME .
+iamsrikrung.com CNAME .
+*.iamsrikrung.com CNAME .
 iapdw.com CNAME .
 *.iapdw.com CNAME .
 icanhaz.com CNAME .
@@ -2176,10 +2184,14 @@ katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
 kcbxo.com CNAME .
 *.kcbxo.com CNAME .
+keckcntr.com CNAME .
+*.keckcntr.com CNAME .
 kereta-vip.com CNAME .
 *.kereta-vip.com CNAME .
 go.koloua.com CNAME .
 *.go.koloua.com CNAME .
+kppgay.com CNAME .
+*.kppgay.com CNAME .
 krunchd.com CNAME .
 *.krunchd.com CNAME .
 ktckesaria.com CNAME .
@@ -2270,6 +2282,8 @@ llclick.com CNAME .
 *.llclick.com CNAME .
 lnkiy.com CNAME .
 *.lnkiy.com CNAME .
+lnkshk.com CNAME .
+*.lnkshk.com CNAME .
 loasj.com CNAME .
 *.loasj.com CNAME .
 logincuan1.com CNAME .
@@ -3026,6 +3040,8 @@ vcwvb.com CNAME .
 *.vcwvb.com CNAME .
 vd55.com CNAME .
 *.vd55.com CNAME .
+venkateswaragases.com CNAME .
+*.venkateswaragases.com CNAME .
 veshort.com CNAME .
 *.veshort.com CNAME .
 vfnzvr.com CNAME .
@@ -6334,6 +6350,8 @@ linkotw.live CNAME .
 *.linkotw.live CNAME .
 listaderoger.live CNAME .
 *.listaderoger.live CNAME .
+loaynwfv2.live CNAME .
+*.loaynwfv2.live CNAME .
 mahse.live CNAME .
 *.mahse.live CNAME .
 mailisa.live CNAME .
@@ -6368,6 +6386,8 @@ motphimz.live CNAME .
 *.motphimz.live CNAME .
 my-club.live CNAME .
 *.my-club.live CNAME .
+my-google.live CNAME .
+*.my-google.live CNAME .
 myautotrading.live CNAME .
 *.myautotrading.live CNAME .
 mysexychat.live CNAME .
@@ -8626,6 +8646,8 @@ ilofi.sbs CNAME .
 *.ilofi.sbs CNAME .
 khpsn.sbs CNAME .
 *.khpsn.sbs CNAME .
+lgay.sbs CNAME .
+*.lgay.sbs CNAME .
 lieva.sbs CNAME .
 *.lieva.sbs CNAME .
 noeuz.sbs CNAME .
@@ -8858,6 +8880,8 @@ dopice.sk CNAME .
 *.dopice.sk CNAME .
 ix.sk CNAME .
 *.ix.sk CNAME .
+kaz.sk CNAME .
+*.kaz.sk CNAME .
 lnk.sk CNAME .
 *.lnk.sk CNAME .
 qxp.sk CNAME .

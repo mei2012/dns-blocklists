@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jul 2025 10:47 UTC
-# Version: 2025.0707.1047.38
+# Last modified: 07 Jul 2025 18:47 UTC
+# Version: 2025.0707.1847.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5112
+# Number of entries: 5124
 #
 local=/00oo.lol/
 local=/010.at/
@@ -1857,6 +1857,7 @@ local=/hm.ru/
 local=/hmf.li/
 local=/hmp.me/
 local=/hmt.ai/
+local=/hncinnamon.com/
 local=/hnsl.mn/
 local=/go.hny.co/
 local=/ho.io/
@@ -1929,6 +1930,7 @@ local=/i-d.co/
 local=/i7i.co/
 local=/i8.ae/
 local=/i99.cz/
+local=/iamsrikrung.com/
 local=/iapdw.com/
 local=/ibb.co/
 local=/ibest.in/
@@ -2163,11 +2165,13 @@ local=/kas.pr/
 local=/kask.us/
 local=/katespadesneakpeek.com/
 local=/katzr.net/
+local=/kaz.sk/
 local=/kbank.co/
 local=/kbit.co/
 local=/kcbxo.com/
 local=/kck.st/
 local=/slurl.keatsmedia.ca/
+local=/keckcntr.com/
 local=/keepo.bio/
 local=/keepo.io/
 local=/kem.lu/
@@ -2233,6 +2237,7 @@ local=/kortlink.dk/
 local=/kotl.in/
 local=/kp.org/
 local=/kpmg.ch/
+local=/kppgay.com/
 local=/kr.pe/
 local=/kr3w.de/
 local=/kratsi.cz/
@@ -2303,6 +2308,7 @@ local=/less.al/
 local=/lessnmore.net/
 local=/letsharu.cc/
 local=/lft.to/
+local=/lgay.sbs/
 local=/lialink.net/
 local=/lib.ac/
 local=/libero.it/
@@ -2511,6 +2517,7 @@ local=/lnkiy.com/
 local=/lnkiy.in/
 local=/lnks.ai/
 local=/lnks.es/
+local=/lnkshk.com/
 local=/lnkw.co/
 local=/lnky.jp/
 local=/lnkz.at/
@@ -2518,6 +2525,7 @@ local=/lnnk.in/
 local=/lnv.gy/
 local=/lo.ge/
 local=/loasj.com/
+local=/loaynwfv2.live/
 local=/logincuan1.com/
 local=/logincuan2.com/
 local=/loginmaxwin.pro/
@@ -2809,6 +2817,7 @@ local=/i.mtr.cool/
 local=/my.mtr.cool/
 local=/mttr.io/
 local=/link.mtvrs.it/
+local=/mtws.cc/
 local=/mub.me/
 local=/multishorturl.com/
 local=/mumy.me/
@@ -2827,6 +2836,7 @@ local=/unp.my.id/
 local=/my-ab.co/
 local=/my-club.live/
 local=/my-gay.life/
+local=/my-google.live/
 local=/my-link.in/
 local=/myanlink.com/
 local=/myautotrading.live/
@@ -3359,6 +3369,7 @@ local=/qxp.sk/
 local=/qxxxp.org/
 local=/qzr2.com/
 local=/r-7.co/
+local=/r-txt.co/
 local=/r-txt.com/
 local=/r-txt.org/
 local=/r2c.one/
@@ -4648,6 +4659,7 @@ local=/vegalinks.net/
 local=/vehi.co/
 local=/vena.sh/
 local=/vendoagora.live/
+local=/venkateswaragases.com/
 local=/vercel.link/
 local=/verd.in/
 local=/veshort.com/
