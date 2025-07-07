@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jul 2025 11:58 UTC
-# Version: 2025.0706.1158.01
+# Last modified: 07 Jul 2025 15:58 UTC
+# Version: 2025.0707.1558.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10086
+# Number of entries: 10087
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4258,6 +4258,7 @@ local=/hgzone.ro/
 local=/hhdmovies.org/
 local=/hi10anime.com/
 local=/hianime.cx/
+local=/hianime.gs/
 local=/hianime.nz/
 local=/hianime.sx/
 local=/hianime.to/
