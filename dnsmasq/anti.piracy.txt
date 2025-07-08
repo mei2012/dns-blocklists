@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jul 2025 15:58 UTC
-# Version: 2025.0707.1558.28
+# Last modified: 07 Jul 2025 23:56 UTC
+# Version: 2025.0707.2356.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10087
+# Number of entries: 10088
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -6067,6 +6067,7 @@ local=/nhlstream.net/
 local=/nhlstreams.io/
 local=/nhlstreams.to/
 local=/h4.trakx.nibba.trade/
+local=/nicedocx.top/
 local=/nicemoviezion.pro/
 local=/nightmarestresser.com/
 local=/niktu.com/
