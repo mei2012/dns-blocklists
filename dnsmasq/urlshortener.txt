@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jul 2025 18:47 UTC
-# Version: 2025.0707.1847.55
+# Last modified: 08 Jul 2025 10:46 UTC
+# Version: 2025.0708.1046.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5124
+# Number of entries: 5123
 #
 local=/00oo.lol/
 local=/010.at/
@@ -3498,7 +3498,6 @@ local=/rmuti.me/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
-local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
 local=/roids.top/
