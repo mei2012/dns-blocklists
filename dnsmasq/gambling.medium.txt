@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jul 2025 11:58 UTC
-# Version: 2025.0708.1158.30
+# Last modified: 08 Jul 2025 23:56 UTC
+# Version: 2025.0708.2356.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 85740
+# Number of entries: 85742
 #
 local=/0-bdmbet.com/
 local=/0-betsixty.com/
@@ -19024,6 +19024,7 @@ local=/bets-ss.com/
 local=/bets03app.com/
 local=/bets09app.com/
 local=/bets1.io/
+local=/bets10.io/
 local=/bets10-2025giris-adresi.com/
 local=/bets10-masvi-giris.com/
 local=/bets10-resmitr-adresi.com/
@@ -43045,6 +43046,7 @@ local=/hollywoodpoker.com/
 local=/hollywoodraces.com/
 local=/hollywoodsportsbook.com/
 local=/hollywoodsportsbook.eu/
+local=/holobet.com/
 local=/holochaincasino.com/
 local=/hologramcasinogames.id/
 local=/holy789.org/
