@@ -42,3 +42,8 @@ voilatile-pa.googleapis.com
 
 # Needed for Google Timeline
 userlocation.googleapis.com
+
+# Perplexity model selection on Android.
+# The problem does not occur under iOS.
+# https://github.com/hagezi/dns-blocklists/issues/6664
+fscdn.eppo.cloud

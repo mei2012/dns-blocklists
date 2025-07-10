@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752163200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752177540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Jul 2025 16:00 UTC
-; Version: 2025.0710.1600.17
+; Last modified: 10 Jul 2025 19:59 UTC
+; Version: 2025.0710.1959.13
 ; Syntax: RPZ
-; Number of entries: 111634
+; Number of entries: 111624
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -36473,8 +36473,6 @@ ggpoker-app.com CNAME .
 *.ggpoker-app.com CNAME .
 ggpokerinv.com CNAME .
 *.ggpokerinv.com CNAME .
-ggpokerokplay.com CNAME .
-*.ggpokerokplay.com CNAME .
 ggqqcasino.com CNAME .
 *.ggqqcasino.com CNAME .
 ggqqslots.com CNAME .
@@ -42475,8 +42473,6 @@ lujocasinoresmi.com CNAME .
 *.lujocasinoresmi.com CNAME .
 luk666-casino.com CNAME .
 *.luk666-casino.com CNAME .
-lukerendah.com CNAME .
-*.lukerendah.com CNAME .
 lukki.com CNAME .
 *.lukki.com CNAME .
 lukkly3.com CNAME .
@@ -50045,8 +50041,6 @@ red88.com CNAME .
 *.red88.com CNAME .
 redaxeplaycasino.com CNAME .
 *.redaxeplaycasino.com CNAME .
-redbankstables.com CNAME .
-*.redbankstables.com CNAME .
 redbet.com CNAME .
 *.redbet.com CNAME .
 redbullcasino.com CNAME .
@@ -81931,10 +81925,6 @@ getx-casino-6804.ru CNAME .
 *.getx-casino-6804.ru CNAME .
 getx-casino-9930.ru CNAME .
 *.getx-casino-9930.ru CNAME .
-getx-games-casino-amp.ru CNAME .
-*.getx-games-casino-amp.ru CNAME .
-getx-games-casino2024.ru CNAME .
-*.getx-games-casino2024.ru CNAME .
 ggbet-casino-kz.ru CNAME .
 *.ggbet-casino-kz.ru CNAME .
 gipsyteam.ru CNAME .
