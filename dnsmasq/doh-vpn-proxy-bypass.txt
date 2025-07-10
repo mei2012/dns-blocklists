@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jul 2025 04:01 UTC
-# Version: 2025.0710.0401.31
+# Last modified: 10 Jul 2025 08:02 UTC
+# Version: 2025.0710.0802.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5104
+# Number of entries: 5107
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -91,7 +91,6 @@ local=/2r34.com/
 local=/2ub.top/
 local=/30t.online/
 local=/doh.30x.me/
-local=/351242444.xyz/
 local=/dns.354688.xyz/
 local=/doh.360.cn/
 local=/dot.360.cn/
@@ -531,6 +530,7 @@ local=/pakupaku.bounceme.net/
 local=/full.boxathome.net/
 local=/vectorgpt.boxathome.net/
 local=/boxpn.com/
+local=/dns.braene.com/
 local=/dns.brahma.world/
 local=/bramka-proxy.pl/
 local=/bravedns.com/
@@ -1351,6 +1351,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1501,6 +1502,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2614,6 +2616,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

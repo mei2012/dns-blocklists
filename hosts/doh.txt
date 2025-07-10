@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jul 2025 04:01 UTC
-# Version: 2025.0710.0401.07
+# Last modified: 10 Jul 2025 08:02 UTC
+# Version: 2025.0710.0802.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1597
+# Number of entries: 1600
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -23,7 +23,6 @@
 0.0.0.0 dns.240527.xyz
 0.0.0.0 doh003.280blocker.net
 0.0.0.0 doh.30x.me
-0.0.0.0 351242444.xyz
 0.0.0.0 dns.354688.xyz
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
@@ -211,6 +210,7 @@
 0.0.0.0 adguard.bonsirven.eu
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 cloudns.bosco.ovh
+0.0.0.0 dns.braene.com
 0.0.0.0 dns.brahma.world
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
@@ -623,6 +623,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -666,6 +667,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1021,6 +1023,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
