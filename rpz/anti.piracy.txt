@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752076740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752163200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jul 2025 15:59 UTC
-; Version: 2025.0709.1559.27
+; Last modified: 10 Jul 2025 16:00 UTC
+; Version: 2025.0710.1600.42
 ; Syntax: RPZ
-; Number of entries: 20180
+; Number of entries: 20184
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3465,6 +3465,8 @@ deutschekanale.com CNAME .
 *.deutschekanale.com CNAME .
 devuploads.com CNAME .
 *.devuploads.com CNAME .
+dexapk.com CNAME .
+*.dexapk.com CNAME .
 dezflight-underground.com CNAME .
 *.dezflight-underground.com CNAME .
 dfichiers.com CNAME .
@@ -7953,6 +7955,8 @@ streamingcommunity.dev CNAME .
 *.streamingcommunity.dev CNAME .
 newalbumreleases.unblockit.dev CNAME .
 *.newalbumreleases.unblockit.dev CNAME .
+videq.dev CNAME .
+*.videq.dev CNAME .
 tracker.webtorrent.dev CNAME .
 *.tracker.webtorrent.dev CNAME .
 drive.massgravel.workers.dev CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jul 2025 15:59 UTC
-# Version: 2025.0709.1559.27
+# Last modified: 10 Jul 2025 16:00 UTC
+# Version: 2025.0710.1600.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10090
+# Number of entries: 10092
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2435,6 +2435,7 @@ local=/devil-torrents.pl/
 local=/deviloid.net/
 local=/devops.gay/
 local=/devuploads.com/
+local=/dexapk.com/
 local=/dezflight-underground.com/
 local=/dfast.app/
 local=/dfichiers.com/
@@ -9362,6 +9363,7 @@ local=/admin.videoenpoche.info/
 local=/videoneat.com/
 local=/videospider.in/
 local=/videothek.cx/
+local=/videq.dev/
 local=/vider.info/
 local=/vider.love/
 local=/vidhog.com/
