@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752091500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752106260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jul 2025 20:05 UTC
-; Version: 2025.0709.2005.39
+; Last modified: 10 Jul 2025 00:11 UTC
+; Version: 2025.0710.0011.15
 ; Syntax: RPZ
-; Number of entries: 10208
+; Number of entries: 10210
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1674,6 +1674,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2598,6 +2600,8 @@ myiphide.com CNAME .
 *.myiphide.com CNAME .
 sites.scholar.academic.mylogisoft.com CNAME .
 *.sites.scholar.academic.mylogisoft.com CNAME .
+study-english-net.mysaol.com CNAME .
+*.study-english-net.mysaol.com CNAME .
 myspaceunlock.com CNAME .
 *.myspaceunlock.com CNAME .
 mysteriumvpn.com CNAME .
@@ -2608,8 +2612,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -6570,6 +6572,8 @@ dns.stvsk.ml CNAME .
 *.dns.stvsk.ml CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
+study.404.mn CNAME .
+*.study.404.mn CNAME .
 bookpog.bad.mn CNAME .
 *.bookpog.bad.mn CNAME .
 westhamforever.bad.mn CNAME .
@@ -9376,8 +9380,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

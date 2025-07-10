@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jul 2025 20:05 UTC
-# Version: 2025.0709.2005.39
+# Last modified: 10 Jul 2025 00:11 UTC
+# Version: 2025.0710.0011.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5104
+# Number of entries: 5105
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -107,6 +107,7 @@ local=/dns.3wv.de/
 local=/3x.nz/
 local=/dns.4-the.win/
 local=/notfound-google.404.mn/
+local=/study.404.mn/
 local=/doh.42l.fr/
 local=/bannana.web-doge.42web.io/
 local=/46sdzf3zdg1dxg2.us/
@@ -1350,6 +1351,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1500,7 +1502,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2602,6 +2603,7 @@ local=/myproxy.help/
 local=/myproxy.link/
 local=/myproxy.lol/
 local=/myproxysite.org/
+local=/study-english-net.mysaol.com/
 local=/myspaceunlock.com/
 local=/mysteriumvpn.com/
 local=/mytunneling.com/
@@ -2613,7 +2615,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
