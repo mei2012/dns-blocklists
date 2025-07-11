@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752223560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752235080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Jul 2025 08:46 UTC
-; Version: 2025.0711.0846.03
+; Last modified: 11 Jul 2025 11:58 UTC
+; Version: 2025.0711.1158.59
 ; Syntax: RPZ
-; Number of entries: 116814
+; Number of entries: 116726
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -10381,8 +10381,6 @@ srch.casino CNAME .
 *.srch.casino CNAME .
 ssi.casino CNAME .
 *.ssi.casino CNAME .
-sss.casino CNAME .
-*.sss.casino CNAME .
 ssss.casino CNAME .
 *.ssss.casino CNAME .
 st-moritz.casino CNAME .
@@ -69685,8 +69683,6 @@ ambanibookid.live CNAME .
 *.ambanibookid.live CNAME .
 americanbets.live CNAME .
 *.americanbets.live CNAME .
-americancasinothatsfairxyz.live CNAME .
-*.americancasinothatsfairxyz.live CNAME .
 ankslots.live CNAME .
 *.ankslots.live CNAME .
 arkada-casino-online.live CNAME .
@@ -74037,8 +74033,6 @@ royalreelsslotszone.net CNAME .
 *.royalreelsslotszone.net CNAME .
 ru-azino777casino.net CNAME .
 *.ru-azino777casino.net CNAME .
-runacasino.net CNAME .
-*.runacasino.net CNAME .
 rupiah189.net CNAME .
 *.rupiah189.net CNAME .
 ry36.net CNAME .
@@ -75489,8 +75483,6 @@ winorama-casino.nz CNAME .
 *.winorama-casino.nz CNAME .
 wintikacasino.nz CNAME .
 *.wintikacasino.nz CNAME .
-1keobong.one CNAME .
-*.1keobong.one CNAME .
 1xbet-kazino.one CNAME .
 *.1xbet-kazino.one CNAME .
 1xslotsamp.one CNAME .
@@ -76537,8 +76529,6 @@ kbestcasino999sggbo.online CNAME .
 *.kbestcasino999sggbo.online CNAME .
 kelengmabuk.online CNAME .
 *.kelengmabuk.online CNAME .
-kembang787.online CNAME .
-*.kembang787.online CNAME .
 kent-casino177.online CNAME .
 *.kent-casino177.online CNAME .
 kent-casino777.online CNAME .
@@ -79325,8 +79315,6 @@ irwin-casino4.org CNAME .
 *.irwin-casino4.org CNAME .
 irwincasino4.org CNAME .
 *.irwincasino4.org CNAME .
-islam-in-poland.org CNAME .
-*.islam-in-poland.org CNAME .
 istana17.org CNAME .
 *.istana17.org CNAME .
 ivibet-casino.org CNAME .
@@ -81777,8 +81765,6 @@ admiral777-casino.pics CNAME .
 *.admiral777-casino.pics CNAME .
 casino-club-vulkan.pics CNAME .
 *.casino-club-vulkan.pics CNAME .
-casino-vulcans-club.pics CNAME .
-*.casino-vulcans-club.pics CNAME .
 casino-vulkan.pics CNAME .
 *.casino-vulkan.pics CNAME .
 casinos-1win.pics CNAME .
@@ -98645,36 +98631,12 @@ ethereum-casino-us.top CNAME .
 *.ethereum-casino-us.top CNAME .
 europacasino.top CNAME .
 *.europacasino.top CNAME .
-ezcashcasino1.top CNAME .
-*.ezcashcasino1.top CNAME .
-ezcashcasino10.top CNAME .
-*.ezcashcasino10.top CNAME .
-ezcashcasino11.top CNAME .
-*.ezcashcasino11.top CNAME .
-ezcashcasino12.top CNAME .
-*.ezcashcasino12.top CNAME .
 ezcashcasino13.top CNAME .
 *.ezcashcasino13.top CNAME .
-ezcashcasino14.top CNAME .
-*.ezcashcasino14.top CNAME .
-ezcashcasino15.top CNAME .
-*.ezcashcasino15.top CNAME .
 ezcashcasino2.top CNAME .
 *.ezcashcasino2.top CNAME .
 ezcashcasino3.top CNAME .
 *.ezcashcasino3.top CNAME .
-ezcashcasino4.top CNAME .
-*.ezcashcasino4.top CNAME .
-ezcashcasino5.top CNAME .
-*.ezcashcasino5.top CNAME .
-ezcashcasino6.top CNAME .
-*.ezcashcasino6.top CNAME .
-ezcashcasino7.top CNAME .
-*.ezcashcasino7.top CNAME .
-ezcashcasino8.top CNAME .
-*.ezcashcasino8.top CNAME .
-ezcashcasino9.top CNAME .
-*.ezcashcasino9.top CNAME .
 fada888.top CNAME .
 *.fada888.top CNAME .
 fairgocasino.top CNAME .
@@ -104237,46 +104199,16 @@ zoomacasino-9071.top CNAME .
 *.zoomacasino-9071.top CNAME .
 zoomacasino358.top CNAME .
 *.zoomacasino358.top CNAME .
-zoomacasino51.top CNAME .
-*.zoomacasino51.top CNAME .
-zoomacasino52.top CNAME .
-*.zoomacasino52.top CNAME .
-zoomacasino53.top CNAME .
-*.zoomacasino53.top CNAME .
 zoomacasino54.top CNAME .
 *.zoomacasino54.top CNAME .
-zoomacasino55.top CNAME .
-*.zoomacasino55.top CNAME .
 zoomacasino56.top CNAME .
 *.zoomacasino56.top CNAME .
 zoomacasino57.top CNAME .
 *.zoomacasino57.top CNAME .
-zoomacasino58.top CNAME .
-*.zoomacasino58.top CNAME .
-zoomacasino59.top CNAME .
-*.zoomacasino59.top CNAME .
-zoomacasino60.top CNAME .
-*.zoomacasino60.top CNAME .
-zoomacasino61.top CNAME .
-*.zoomacasino61.top CNAME .
-zoomacasino62.top CNAME .
-*.zoomacasino62.top CNAME .
 zoomacasino63.top CNAME .
 *.zoomacasino63.top CNAME .
-zoomacasino64.top CNAME .
-*.zoomacasino64.top CNAME .
-zoomacasino65.top CNAME .
-*.zoomacasino65.top CNAME .
 zoomacasino66.top CNAME .
 *.zoomacasino66.top CNAME .
-zoomacasino67.top CNAME .
-*.zoomacasino67.top CNAME .
-zoomacasino68.top CNAME .
-*.zoomacasino68.top CNAME .
-zoomacasino69.top CNAME .
-*.zoomacasino69.top CNAME .
-zoomacasino70.top CNAME .
-*.zoomacasino70.top CNAME .
 zoomacasino906.top CNAME .
 *.zoomacasino906.top CNAME .
 zoomacasino9071.top CNAME .
@@ -105309,8 +105241,6 @@ lottery.co.uk CNAME .
 *.lottery.co.uk CNAME .
 lottoland.co.uk CNAME .
 *.lottoland.co.uk CNAME .
-lottomartcasino.co.uk CNAME .
-*.lottomartcasino.co.uk CNAME .
 lowdepositcasinos.co.uk CNAME .
 *.lowdepositcasinos.co.uk CNAME .
 luckcasino-uk.co.uk CNAME .
@@ -108709,20 +108639,14 @@ amp-akim.xyz CNAME .
 *.amp-akim.xyz CNAME .
 amp-dinoslot168.xyz CNAME .
 *.amp-dinoslot168.xyz CNAME .
-amp-imanbanget.xyz CNAME .
-*.amp-imanbanget.xyz CNAME .
 amp-istana777.xyz CNAME .
 *.amp-istana777.xyz CNAME .
 amp-kambingbolot.xyz CNAME .
 *.amp-kambingbolot.xyz CNAME .
-amp-kerajaanmonyet.xyz CNAME .
-*.amp-kerajaanmonyet.xyz CNAME .
 amp-kopi77.xyz CNAME .
 *.amp-kopi77.xyz CNAME .
 amp-lgaa.xyz CNAME .
 *.amp-lgaa.xyz CNAME .
-amp-sarungsakti.xyz CNAME .
-*.amp-sarungsakti.xyz CNAME .
 amp1visa288.xyz CNAME .
 *.amp1visa288.xyz CNAME .
 amp2-fanta168.xyz CNAME .
@@ -114571,18 +114495,12 @@ rtp-km88.xyz CNAME .
 *.rtp-km88.xyz CNAME .
 rtp-kombo88.xyz CNAME .
 *.rtp-kombo88.xyz CNAME .
-rtp-lamianyuk.xyz CNAME .
-*.rtp-lamianyuk.xyz CNAME .
 rtp-lektoto.xyz CNAME .
 *.rtp-lektoto.xyz CNAME .
 rtp-power.xyz CNAME .
 *.rtp-power.xyz CNAME .
 rtp-raksasa123data.xyz CNAME .
 *.rtp-raksasa123data.xyz CNAME .
-rtp-rs77juara.xyz CNAME .
-*.rtp-rs77juara.xyz CNAME .
-rtp-rs77unik.xyz CNAME .
-*.rtp-rs77unik.xyz CNAME .
 rtp-slotpkr.xyz CNAME .
 *.rtp-slotpkr.xyz CNAME .
 rtp-warung.xyz CNAME .
@@ -114803,10 +114721,6 @@ rtpkuganas33.xyz CNAME .
 *.rtpkuganas33.xyz CNAME .
 rtpkulotus33.xyz CNAME .
 *.rtpkulotus33.xyz CNAME .
-rtplamianganas.xyz CNAME .
-*.rtplamianganas.xyz CNAME .
-rtplamianjawa.xyz CNAME .
-*.rtplamianjawa.xyz CNAME .
 rtplapakwd88.xyz CNAME .
 *.rtplapakwd88.xyz CNAME .
 rtplato4dku.xyz CNAME .
@@ -114925,8 +114839,6 @@ rtpresmi3.xyz CNAME .
 *.rtpresmi3.xyz CNAME .
 rtpromanobet7.xyz CNAME .
 *.rtpromanobet7.xyz CNAME .
-rtprs77lampung.xyz CNAME .
-*.rtprs77lampung.xyz CNAME .
 rtprupiahhoki.xyz CNAME .
 *.rtprupiahhoki.xyz CNAME .
 rtpsamsul4d.xyz CNAME .
