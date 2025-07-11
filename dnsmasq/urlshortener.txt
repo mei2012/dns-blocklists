@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jul 2025 22:44 UTC
-# Version: 2025.0708.2244.10
+# Last modified: 10 Jul 2025 22:47 UTC
+# Version: 2025.0710.2247.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5124
+# Number of entries: 5127
 #
 local=/00oo.lol/
 local=/010.at/
@@ -2602,6 +2602,9 @@ local=/macau123.link/
 local=/madondressokwanda2.life/
 local=/maejo.link/
 local=/maga.lu/
+local=/magaus.co/
+local=/magaus.net/
+local=/magaus.org/
 local=/maha77.site/
 local=/mahse.life/
 local=/mahse.live/

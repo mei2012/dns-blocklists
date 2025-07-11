@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752177840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752192300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Jul 2025 20:04 UTC
-; Version: 2025.0710.2004.41
+; Last modified: 11 Jul 2025 00:05 UTC
+; Version: 2025.0711.0005.47
 ; Syntax: RPZ
-; Number of entries: 10194
+; Number of entries: 10210
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1674,6 +1674,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2610,8 +2612,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -8184,8 +8184,22 @@ dontblockme.org CNAME .
 *.dontblockme.org CNAME .
 bitly-galatikx.duckdns.org CNAME .
 *.bitly-galatikx.duckdns.org CNAME .
+home27.duckdns.org CNAME .
+*.home27.duckdns.org CNAME .
 huawaakiskokoa.duckdns.org CNAME .
 *.huawaakiskokoa.duckdns.org CNAME .
+jurre-home.duckdns.org CNAME .
+*.jurre-home.duckdns.org CNAME .
+krtekvpn.duckdns.org CNAME .
+*.krtekvpn.duckdns.org CNAME .
+osefcorp.duckdns.org CNAME .
+*.osefcorp.duckdns.org CNAME .
+punono.duckdns.org CNAME .
+*.punono.duckdns.org CNAME .
+tuandns.duckdns.org CNAME .
+*.tuandns.duckdns.org CNAME .
+tungdnsne.duckdns.org CNAME .
+*.tungdnsne.duckdns.org CNAME .
 ueni.dyndns.org CNAME .
 *.ueni.dyndns.org CNAME .
 tor.eff.org CNAME .
@@ -8234,6 +8248,8 @@ freevpn.org CNAME .
 *.freevpn.org CNAME .
 freevpnapp.org CNAME .
 *.freevpnapp.org CNAME .
+adguard.gambini.org CNAME .
+*.adguard.gambini.org CNAME .
 gatcha.org CNAME .
 *.gatcha.org CNAME .
 vocab.media.georgas.org CNAME .
