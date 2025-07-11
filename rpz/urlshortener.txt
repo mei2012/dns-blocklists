@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752187620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752218220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 10 Jul 2025 22:47 UTC
-; Version: 2025.0710.2247.28
+; Last modified: 11 Jul 2025 07:17 UTC
+; Version: 2025.0711.0717.11
 ; Syntax: RPZ
-; Number of entries: 10254
+; Number of entries: 10260
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5776,6 +5776,8 @@ myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
+mytiktok.life CNAME .
+*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6412,6 +6414,8 @@ omedia.live CNAME .
 *.omedia.live CNAME .
 onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
+onlyfansamairanidiaz.live CNAME .
+*.onlyfansamairanidiaz.live CNAME .
 onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
 petterihollander.live CNAME .
@@ -6440,6 +6444,8 @@ rehtek.live CNAME .
 *.rehtek.live CNAME .
 robertdray2.live CNAME .
 *.robertdray2.live CNAME .
+robloxtech.live CNAME .
+*.robloxtech.live CNAME .
 rouletteonline.live CNAME .
 *.rouletteonline.live CNAME .
 roush-jims.live CNAME .
