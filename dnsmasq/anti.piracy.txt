@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jul 2025 11:59 UTC
-# Version: 2025.0711.1159.24
+# Last modified: 11 Jul 2025 19:35 UTC
+# Version: 2025.0711.1935.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10093
+# Number of entries: 10096
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -100,6 +100,7 @@ local=/123movies-to.org/
 local=/123movies4u.fun/
 local=/123movies4u.life/
 local=/123movies4u.net/
+local=/123moviesb.net/
 local=/123moviesbq.com/
 local=/123moviesc.cyou/
 local=/123moviesfree.best/
@@ -9944,6 +9945,7 @@ local=/youserials.com/
 local=/youtorrent.com/
 local=/youtrade.tv/
 local=/youwatch.org/
+local=/yoxplay.xyz/
 local=/ntorrent.yoyo.pl/
 local=/yoyomovies.net/
 local=/yqzuji.com/
@@ -10100,5 +10102,6 @@ local=/movies.zsw.ca/
 local=/ultra.zt.ua/
 local=/ztracker.hu/
 local=/tr.zukizuki.org/
+local=/zumods.com/
 local=/zxcmovies.com/
 local=/zxonlinebd.com/

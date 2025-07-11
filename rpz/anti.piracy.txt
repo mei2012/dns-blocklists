@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752235140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752262500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Jul 2025 11:59 UTC
-; Version: 2025.0711.1159.24
+; Last modified: 11 Jul 2025 19:35 UTC
+; Version: 2025.0711.1935.28
 ; Syntax: RPZ
-; Number of entries: 20186
+; Number of entries: 20192
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7599,6 +7599,8 @@ zonesega.com CNAME .
 *.zonesega.com CNAME .
 zooqle.com CNAME .
 *.zooqle.com CNAME .
+zumods.com CNAME .
+*.zumods.com CNAME .
 zxcmovies.com CNAME .
 *.zxcmovies.com CNAME .
 zxonlinebd.com CNAME .
@@ -11351,6 +11353,8 @@ planetdl.0fees.net CNAME .
 *.123freemovies.net CNAME .
 123movies4u.net CNAME .
 *.123movies4u.net CNAME .
+123moviesb.net CNAME .
+*.123moviesb.net CNAME .
 123moviesfree.net CNAME .
 *.123moviesfree.net CNAME .
 123moviess.net CNAME .
@@ -20143,6 +20147,8 @@ xstress.xyz CNAME .
 *.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
+yoxplay.xyz CNAME .
+*.yoxplay.xyz CNAME .
 ytstvmovies.xyz CNAME .
 *.ytstvmovies.xyz CNAME .
 tracker.zaluan.xyz CNAME .
