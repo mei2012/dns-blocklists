@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752336240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752350700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 12 Jul 2025 16:04 UTC
-; Version: 2025.0712.1604.33
+; Last modified: 12 Jul 2025 20:05 UTC
+; Version: 2025.0712.2005.05
 ; Syntax: RPZ
-; Number of entries: 10238
+; Number of entries: 10260
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -46,6 +46,8 @@ shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
 jpdns.cola16.app CNAME .
 *.jpdns.cola16.app CNAME .
+croxyproxy.app CNAME .
+*.croxyproxy.app CNAME .
 qg4qp4-8080.csb.app CNAME .
 *.qg4qp4-8080.csb.app CNAME .
 r8gjg2-8000.csb.app CNAME .
@@ -1456,6 +1458,8 @@ dns.coderoria.com CNAME .
 *.dns.coderoria.com CNAME .
 recap.coach.coinio.com CNAME .
 *.recap.coach.coinio.com CNAME .
+coloney3.com CNAME .
+*.coloney3.com CNAME .
 easy-vpn.comodo.com CNAME .
 *.easy-vpn.comodo.com CNAME .
 math.tests.comprotusjuguetes.com CNAME .
@@ -2612,8 +2616,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3038,6 +3040,8 @@ proxyist.com CNAME .
 *.proxyist.com CNAME .
 proxyium.com CNAME .
 *.proxyium.com CNAME .
+proxyiumi.com CNAME .
+*.proxyiumi.com CNAME .
 proxylister.com CNAME .
 *.proxylister.com CNAME .
 proxylistpro.com CNAME .
@@ -3048,6 +3052,8 @@ proxynova.com CNAME .
 *.proxynova.com CNAME .
 proxyof.com CNAME .
 *.proxyof.com CNAME .
+proxyorb.com CNAME .
+*.proxyorb.com CNAME .
 proxyoutlet.com CNAME .
 *.proxyoutlet.com CNAME .
 proxypirates.com CNAME .
@@ -4210,6 +4216,8 @@ dns.technostriker.com CNAME .
 *.dns.technostriker.com CNAME .
 rx.techomespace.com CNAME .
 *.rx.techomespace.com CNAME .
+temproxy.com CNAME .
+*.temproxy.com CNAME .
 tenta.com CNAME .
 *.tenta.com CNAME .
 cloud.tezoi.com CNAME .
@@ -5600,6 +5608,8 @@ hax.co.id CNAME .
 *.hax.co.id CNAME .
 dns.spil.co.id CNAME .
 *.dns.spil.co.id CNAME .
+croxy-proxy.id CNAME .
+*.croxy-proxy.id CNAME .
 dns.diarbagus.id CNAME .
 *.dns.diarbagus.id CNAME .
 dns.gnb09.id CNAME .
@@ -5642,6 +5652,8 @@ swisscheesebyjohn.malam.or.id CNAME .
 *.swisscheesebyjohn.malam.or.id CNAME .
 zoooom.malam.or.id CNAME .
 *.zoooom.malam.or.id CNAME .
+proxygratis.id CNAME .
+*.proxygratis.id CNAME .
 doh.runsel.id CNAME .
 *.doh.runsel.id CNAME .
 unblocked.id CNAME .
@@ -6060,6 +6072,8 @@ dns.n23.io CNAME .
 *.dns.n23.io CNAME .
 vpn.ncapi.io CNAME .
 *.vpn.ncapi.io CNAME .
+nebulaproxy.io CNAME .
+*.nebulaproxy.io CNAME .
 netnut.io CNAME .
 *.netnut.io CNAME .
 dns.nextdns.io CNAME .
@@ -6106,6 +6120,8 @@ proxyjet.io CNAME .
 *.proxyjet.io CNAME .
 proxysite.io CNAME .
 *.proxysite.io CNAME .
+proxywebsite.io CNAME .
+*.proxywebsite.io CNAME .
 doh.qis.io CNAME .
 *.doh.qis.io CNAME .
 doh.rezhajul.io CNAME .
@@ -6168,6 +6184,8 @@ ghadrboland.ir CNAME .
 *.ghadrboland.ir CNAME .
 hotac.ir CNAME .
 *.hotac.ir CNAME .
+pesemes.ir CNAME .
+*.pesemes.ir CNAME .
 dns.shecan.ir CNAME .
 *.dns.shecan.ir CNAME .
 free.shecan.ir CNAME .
@@ -9316,12 +9334,16 @@ joker81fansbase.site CNAME .
 *.joker81fansbase.site CNAME .
 dns.l337.site CNAME .
 *.dns.l337.site CNAME .
+dns.labnekotest.site CNAME .
+*.dns.labnekotest.site CNAME .
 lookingglass.site CNAME .
 *.lookingglass.site CNAME .
 mycelium.site CNAME .
 *.mycelium.site CNAME .
 check.peer2profit.site CNAME .
 *.check.peer2profit.site CNAME .
+proxycroxy.site CNAME .
+*.proxycroxy.site CNAME .
 proxysite.site CNAME .
 *.proxysite.site CNAME .
 proxyunblock.site CNAME .
@@ -9408,8 +9430,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -9858,6 +9878,8 @@ unblockyoutube.video CNAME .
 *.unblockyoutube.video CNAME .
 aerodrorne.vip CNAME .
 *.aerodrorne.vip CNAME .
+croxyproxy.vip CNAME .
+*.croxyproxy.vip CNAME .
 dns.horcrux.vip CNAME .
 *.dns.horcrux.vip CNAME .
 dns.mtoo.vip CNAME .

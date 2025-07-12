@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jul 2025 16:04 UTC
-# Version: 2025.0712.1604.33
+# Last modified: 12 Jul 2025 20:05 UTC
+# Version: 2025.0712.2005.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5119
+# Number of entries: 5130
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -859,6 +859,7 @@ local=/coinsite.info/
 local=/coinweb.info/
 local=/4y5t.coke0.cc/
 local=/jpdns.cola16.app/
+local=/coloney3.com/
 local=/coloredwool.us/
 local=/dns.colorfreedom.org/
 local=/dns.7sec.com.br/
@@ -976,11 +977,14 @@ local=/croxy.network/
 local=/croxy.org/
 local=/croxy.red/
 local=/croxy-proxy.com/
+local=/croxy-proxy.id/
+local=/croxyproxy.app/
 local=/croxyproxy.best/
 local=/croxyproxy.com/
 local=/croxyproxy.net/
 local=/croxyproxy.rocks/
 local=/croxyproxy.us/
+local=/croxyproxy.vip/
 local=/croxyproxys.com/
 local=/croxyproxyvpn.com/
 local=/crushus.com/
@@ -1502,7 +1506,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2266,6 +2269,7 @@ local=/classroom.google.com.l5.ca/
 local=/docs.google.l5.ca/
 local=/quesosrammerhaha.l5.ca/
 local=/lablancer.com/
+local=/dns.labnekotest.site/
 local=/doh.lacontrevoie.fr/
 local=/field.ideas.ladanghijau.com/
 local=/www-proxy.ladifsoftware.com/
@@ -2617,7 +2621,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2674,6 +2677,7 @@ local=/zuh.ndr.cl/
 local=/ne1.ca/
 local=/bdedu.ne1.co/
 local=/nrr.ne1.co/
+local=/nebulaproxy.io/
 local=/dns.neeb.it/
 local=/needunblock.com/
 local=/arain.neighborhoodcloud.com/
@@ -3005,6 +3009,7 @@ local=/personalvpn.biz/
 local=/personalvpn.com/
 local=/personaly.click/
 local=/dns.pesaventofilippo.com/
+local=/pesemes.ir/
 local=/dns.petqa.ru/
 local=/by-itrsa.pettica.com/
 local=/adguard.pggns.de/
@@ -3240,6 +3245,7 @@ local=/proxybuss.com/
 local=/proxycloud.net/
 local=/proxycloyd.com/
 local=/proxycompass.com/
+local=/proxycroxy.site/
 local=/proxydrop.com/
 local=/proxydude.red/
 local=/proxydude.xyz/
@@ -3253,12 +3259,14 @@ local=/proxyfree.org/
 local=/proxygate.com/
 local=/proxygizlen.com/
 local=/proxygogo.info/
+local=/proxygratis.id/
 local=/proxyhash.net/
 local=/proxyhub.in/
 local=/proxyisp.com/
 local=/proxyist.com/
 local=/proxyium.com/
 local=/proxyium.org/
+local=/proxyiumi.com/
 local=/proxyjet.io/
 local=/proxylister.com/
 local=/proxylistpro.com/
@@ -3268,6 +3276,7 @@ local=/proxymesh.com/
 local=/proxynova.com/
 local=/proxyof.com/
 local=/proxyone.net/
+local=/proxyorb.com/
 local=/proxyoutlet.com/
 local=/proxypal.net/
 local=/proxypirates.com/
@@ -3311,6 +3320,7 @@ local=/proxyunblocker.org/
 local=/proxyvpn.eu/
 local=/proxyvpnserver.com/
 local=/proxyway.com/
+local=/proxywebsite.io/
 local=/proxywebtunnel.com/
 local=/f1.psgl.cl/
 local=/psiphon.ca/
@@ -4243,6 +4253,7 @@ local=/dns.technostriker.com/
 local=/rx.techomespace.com/
 local=/dns.telekom.de/
 local=/telleport.me/
+local=/temproxy.com/
 local=/vpn-tw.teng.sh/
 local=/theunionforever.tenspot.net/
 local=/tenta.com/
