@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Jul 2025 12:05 UTC
-! Version: 2025.0712.1205.28
+! Last modified: 12 Jul 2025 16:04 UTC
+! Version: 2025.0712.1604.33
 ! Syntax: AdBlock
-! Number of entries: 5116
+! Number of entries: 5119
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -187,6 +187,7 @@
 ||adl.adfilter.net^
 ||per.adfilter.net^
 ||syd.adfilter.net^
+||adfiltro.fun^
 ||adfreedns.top^
 ||adfreeproxy.com^
 ||adguard.io^
@@ -797,6 +798,7 @@
 ||us.doh.cloudveil.org^
 ||prep.clever.cloudworkonline.com^
 ||dns.cmrg.net^
+||doh.cnetwork.cloud^
 ||10bestvpn.co.uk^
 ||adguard.aa4.co.uk^
 ||akashiro.co.id^
@@ -1501,6 +1503,7 @@
 ||fitnessdepotprices.com^
 ||chart.books.fivepals.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||gothgirlsareawesome.flamex.hm^
 ||flarquix.xyz^
 ||flashpull.com^
