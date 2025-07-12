@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752230760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752317100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 11 Jul 2025 10:46 UTC
-; Version: 2025.0711.1046.50
+; Last modified: 12 Jul 2025 10:45 UTC
+; Version: 2025.0712.1045.52
 ; Syntax: RPZ
-; Number of entries: 10254
+; Number of entries: 10252
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6300,8 +6300,6 @@ goninja.live CNAME .
 *.goninja.live CNAME .
 goodnessokparaeke.live CNAME .
 *.goodnessokparaeke.live CNAME .
-google-meet-join-live-video-chat-invites.live CNAME .
-*.google-meet-join-live-video-chat-invites.live CNAME .
 google-photo.live CNAME .
 *.google-photo.live CNAME .
 googleidmaps.live CNAME .
