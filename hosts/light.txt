@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jul 2025 15:24 UTC
-# Version: 2025.0713.1524.26
+# Last modified: 13 Jul 2025 19:23 UTC
+# Version: 2025.0713.1923.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 108673
+# Number of entries: 108687
 #
 0.0.0.0 000free.us
 0.0.0.0 000nethost.com
@@ -172,8 +172,6 @@
 0.0.0.0 1000love.asia
 0.0.0.0 1000mercis.com
 0.0.0.0 smartad.10010.com
-0.0.0.0 10022020newfolder1002002131-service1002.space
-0.0.0.0 www.10022020newfolder1002002131-service1002.space
 0.0.0.0 10022020test41-service100201pro2510022020.ru
 0.0.0.0 www.10022020test41-service100201pro2510022020.ru
 0.0.0.0 10022020test481-service1002012510022020.ru
@@ -11861,7 +11859,6 @@
 0.0.0.0 alsmhfttzoimv.site
 0.0.0.0 alsowhirl.com
 0.0.0.0 adv.alsscan.com
-0.0.0.0 alstonltd.com
 0.0.0.0 alsverisinizindr.click
 0.0.0.0 alt.net
 0.0.0.0 alt-verifier.cfd
@@ -12277,6 +12274,7 @@
 0.0.0.0 prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 0.0.0.0 sync-yieldmo-com-tf-1869548451.eu-west-1.elb.amazonaws.com
 0.0.0.0 tau-collector-2141062151.eu-west-1.elb.amazonaws.com
+0.0.0.0 usdclog-nginx-hik-connect-eu-1428162561.eu-west-1.elb.amazonaws.com
 0.0.0.0 wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com
 0.0.0.0 ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com
 0.0.0.0 chs-matomo-1238305517.eu-west-2.elb.amazonaws.com
@@ -12329,6 +12327,8 @@
 0.0.0.0 tracker-663174376.us-east-1.elb.amazonaws.com
 0.0.0.0 tracker-load-balancer-910132794.us-east-1.elb.amazonaws.com
 0.0.0.0 tracking-api-prod-alb-1867888358.us-east-1.elb.amazonaws.com
+0.0.0.0 usdclog-1571272846.us-east-1.elb.amazonaws.com
+0.0.0.0 usdclog-nginx-hik-connect-us-237022769.us-east-1.elb.amazonaws.com
 0.0.0.0 wral-snowplow-collector-1139283751.us-east-1.elb.amazonaws.com
 0.0.0.0 ad-interactions-prod-lb-773417274.us-east-2.elb.amazonaws.com
 0.0.0.0 ana-collector-alb-us-iron-1731170687.us-east-2.elb.amazonaws.com
@@ -12763,6 +12763,7 @@
 0.0.0.0 anchoreditor.com
 0.0.0.0 ancidammel.pro
 0.0.0.0 ancientact.com
+0.0.0.0 ancientmaps.quest
 0.0.0.0 ancilecrost.shop
 0.0.0.0 ancyrsoolti.pro
 0.0.0.0 ancznewozw.com
@@ -26931,6 +26932,7 @@
 0.0.0.0 cdn.caprofitx.com
 0.0.0.0 capstoneapp-app.com
 0.0.0.0 capstoneufgz.com
+0.0.0.0 captcha.rest
 0.0.0.0 ct.capterra.com
 0.0.0.0 tracking.capterra.com
 0.0.0.0 captifymedia.com
@@ -31321,6 +31323,7 @@
 0.0.0.0 cash-app-live.site
 0.0.0.0 cash-out-refinance-be41.asia
 0.0.0.0 cash-out-refinance-be45.asia
+0.0.0.0 cash-thrust.live
 0.0.0.0 cash-zoom.com
 0.0.0.0 cashalot.bet
 0.0.0.0 cashback24.com
@@ -31345,6 +31348,7 @@
 0.0.0.0 cashswarmai.net
 0.0.0.0 cashusa.com
 0.0.0.0 adcenter-api.cashwalk.co
+0.0.0.0 cashwealth.net
 0.0.0.0 cashyinvestment.org
 0.0.0.0 www.cashyinvestment.org
 0.0.0.0 casinado-online.fr
@@ -46460,6 +46464,7 @@
 0.0.0.0 september-loadbalancer.durchsichtig.xyz
 0.0.0.0 durhamcityrunfestival.com
 0.0.0.0 duringcereal.com
+0.0.0.0 duringtidy.lat
 0.0.0.0 analytics.durst-group.com
 0.0.0.0 dusjnnn.shop
 0.0.0.0 duskspire-horizon.com
@@ -47840,6 +47845,7 @@
 0.0.0.0 eleavers.com
 0.0.0.0 account.eleavers.com
 0.0.0.0 servedby.eleavers.com
+0.0.0.0 file.elecfans.com
 0.0.0.0 electberli.pro
 0.0.0.0 electionwall.org
 0.0.0.0 electis.xyz
@@ -51437,6 +51443,7 @@
 0.0.0.0 formalhood.com
 0.0.0.0 formalyzer.com
 0.0.0.0 analytics.formassembly.com
+0.0.0.0 formatsfilter.lat
 0.0.0.0 formayday.com
 0.0.0.0 formbuddy.com
 0.0.0.0 formessengers.com
@@ -52773,7 +52780,6 @@
 0.0.0.0 g2.ganjing.world
 0.0.0.0 traxex.gannettdigital.com
 0.0.0.0 reporting-api.gannettinnovation.com
-0.0.0.0 ganobaz.com
 0.0.0.0 gaolerampyx.top
 0.0.0.0 gaoshouyou.com
 0.0.0.0 securemetrics.gap.com
@@ -55262,8 +55268,6 @@
 0.0.0.0 a.greenbids.ai
 0.0.0.0 t.greenbids.ai
 0.0.0.0 tms.hft.greenchef.com
-0.0.0.0 greenco2021.top
-0.0.0.0 www.greenco2021.top
 0.0.0.0 greencolumnhealth.com
 0.0.0.0 ob.greencolumnhealth.com
 0.0.0.0 obs.greencolumnhealth.com
@@ -56807,6 +56811,7 @@
 0.0.0.0 hiddenbobcat.pro
 0.0.0.0 hiddenkoel.pro
 0.0.0.0 hiddenmouflon.pro
+0.0.0.0 hiddenpath.quest
 0.0.0.0 hiddensteps.quest
 0.0.0.0 hiddenunicorn.pro
 0.0.0.0 hiddenverse.xyz
@@ -62462,6 +62467,7 @@
 0.0.0.0 jubnaadserve.com
 0.0.0.0 app.jubnaadserve.com
 0.0.0.0 static.jubnaadserve.com
+0.0.0.0 jucihoi.com
 0.0.0.0 judazkoxbnhnc.store
 0.0.0.0 judebelii.com
 0.0.0.0 judgement.center
@@ -64117,6 +64123,7 @@
 0.0.0.0 seeds-sina.xycdn.com.gslb.kuiniuca.com
 0.0.0.0 kukrosti.com
 0.0.0.0 kukrwwls.xyz
+0.0.0.0 kuksbdopui.top
 0.0.0.0 kukyheo8.pro
 0.0.0.0 kulanhonour.shop
 0.0.0.0 kulino.ru
@@ -64291,6 +64298,7 @@
 0.0.0.0 l1jtl9.top
 0.0.0.0 l1native.com
 0.0.0.0 l235cj20z.com
+0.0.0.0 l2oadfileclick.store
 0.0.0.0 l7u3kf.cn
 0.0.0.0 l8absmartsafe.store
 0.0.0.0 l9ogicfilemedia.online
@@ -67157,7 +67165,6 @@
 0.0.0.0 lugita22.sbs
 0.0.0.0 luizpassaroni.xyz
 0.0.0.0 luizsycwgzmkg.website
-0.0.0.0 lujecuk.com
 0.0.0.0 lukc.io
 0.0.0.0 plausible.lukeorth.com
 0.0.0.0 luknob.click
@@ -67318,6 +67325,7 @@
 0.0.0.0 lvse-live.net
 0.0.0.0 lvturbo.com
 0.0.0.0 lvualvjfekioz.space
+0.0.0.0 lvvbqeaqvrzlv.top
 0.0.0.0 lvwojmlajvcub.site
 0.0.0.0 lvxbeiiwsmsstjv.com
 0.0.0.0 lvyowwrjewjj.top
@@ -75001,6 +75009,7 @@
 0.0.0.0 novohudosovu.com
 0.0.0.0 www.novohudosovu.com
 0.0.0.0 novostifeed.com
+0.0.0.0 novostifeedhub.com
 0.0.0.0 novosty.store
 0.0.0.0 novusphere.pro
 0.0.0.0 nowaymail.com
@@ -80555,6 +80564,7 @@
 0.0.0.0 plannerequivalentadmitted.com
 0.0.0.0 plannto.com
 0.0.0.0 planscul.com
+0.0.0.0 plansmean.lat
 0.0.0.0 plantationarmytasty.com
 0.0.0.0 planteuropewear.com
 0.0.0.0 plantgenagri.com
@@ -84983,6 +84993,7 @@
 0.0.0.0 redistats.com
 0.0.0.0 redllama.ru
 0.0.0.0 redlocust.pro
+0.0.0.0 redlow.lat
 0.0.0.0 ads.redmangoanalytics.com
 0.0.0.0 redmas.com
 0.0.0.0 telemetry.redmatic.de
@@ -87754,6 +87765,7 @@
 0.0.0.0 safewallet-v1.com
 0.0.0.0 stats.safeway.com
 0.0.0.0 safewaydelivery.live
+0.0.0.0 safewebfix.com
 0.0.0.0 saffronfennec.pro
 0.0.0.0 saftsordes.shop
 0.0.0.0 sagcoreedge.com
@@ -91329,7 +91341,7 @@
 0.0.0.0 csync-us.smartadserver.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diff3.smartadserver.com
-0.0.0.0 euw2.smartadserver.com
+0.0.0.0 euw1.smartadserver.com
 0.0.0.0 gallery.smartadserver.com
 0.0.0.0 help.smartadserver.com
 0.0.0.0 manage.smartadserver.com
@@ -94682,6 +94694,7 @@
 0.0.0.0 rtb2-useast.t3dsp.com
 0.0.0.0 t4trade.com
 0.0.0.0 www.t4trade.com
+0.0.0.0 t5ech-zone.xyz
 0.0.0.0 t5ze577tb.baby
 0.0.0.0 t6oprjpb.asia
 0.0.0.0 t79e9z.top
@@ -95292,7 +95305,6 @@
 0.0.0.0 taruhanolahraga.com
 0.0.0.0 tascoangling.shop
 0.0.0.0 tashiro-office.com
-0.0.0.0 taskaorder.xyz
 0.0.0.0 taskbyte.sbs
 0.0.0.0 taskdropl.top
 0.0.0.0 taskdropr.top
@@ -96991,6 +97003,7 @@
 0.0.0.0 time-to-live.ru
 0.0.0.0 posthog.timecamp.io
 0.0.0.0 fonts.timeinc.net
+0.0.0.0 timelessroad.quest
 0.0.0.0 timely-table.com
 0.0.0.0 timelynewsflash.online
 0.0.0.0 timelyreports.online
@@ -101578,8 +101591,6 @@
 0.0.0.0 verbaucher-highlights.de
 0.0.0.0 verbephyto.pro
 0.0.0.0 analytics.backend.verbolia.com
-0.0.0.0 verboliatsiaeeees.com
-0.0.0.0 www.verboliatsiaeeees.com
 0.0.0.0 verbsponsor.com
 0.0.0.0 file-lin2.vercel.app
 0.0.0.0 next-plausible.vercel.app
@@ -103505,6 +103516,7 @@
 0.0.0.0 walk-in-tubs-45866.bond
 0.0.0.0 walk-in-tubs-71267.bond
 0.0.0.0 walk-in-tubs-76546.bond
+0.0.0.0 walkin.college
 0.0.0.0 metrics.walkinlab.com
 0.0.0.0 analytics.walkme.com
 0.0.0.0 ec.walkme.com
@@ -107432,6 +107444,7 @@
 0.0.0.0 yuanmengbi.com
 0.0.0.0 yuanprofit.org
 0.0.0.0 overseauspider.yuanshen.com
+0.0.0.0 yuantrademaster.net
 0.0.0.0 sgtm.yubico.com
 0.0.0.0 yubikk.info
 0.0.0.0 yucoui.icu
@@ -108648,6 +108661,7 @@
 0.0.0.0 zybrdr.com
 0.0.0.0 zycofeo.top
 0.0.0.0 zyf03k.xyz
+0.0.0.0 zykranvaultaiapp.net
 0.0.0.0 zymjzwvmjjqz.top
 0.0.0.0 zap.cdn.zynga.com
 0.0.0.0 zyntrax-vault.net
