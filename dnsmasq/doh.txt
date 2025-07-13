@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jul 2025 08:02 UTC
-# Version: 2025.0713.0802.38
+# Last modified: 13 Jul 2025 16:04 UTC
+# Version: 2025.0713.1604.03
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1440
 #
@@ -74,6 +74,7 @@ local=/dns-unfiltered.adguard.com/
 local=/adguard-dns.com/
 local=/dns.adrianlam.com/
 local=/aerodrorne.vip/
+local=/affcdn.net/
 local=/affsoft.cc/
 local=/shield.afixer.app/
 local=/ahadns.net/
@@ -903,7 +904,6 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
