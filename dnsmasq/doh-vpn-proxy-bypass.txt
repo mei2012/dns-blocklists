@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jul 2025 20:05 UTC
-# Version: 2025.0712.2005.05
+# Last modified: 13 Jul 2025 00:02 UTC
+# Version: 2025.0713.0002.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5130
+# Number of entries: 5131
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1356,6 +1356,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1506,6 +1507,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2621,6 +2623,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2686,7 +2689,6 @@ local=/nekoray.org/
 local=/smart.quiz.nelsonshack.com/
 local=/adguard.neon0404.space/
 local=/neonos.me/
-local=/dns.neowutran.ovh/
 local=/dns.aa.net.uk/
 local=/doh.max.net.id/
 local=/ns.net.kg/
@@ -3320,7 +3322,6 @@ local=/proxyunblocker.org/
 local=/proxyvpn.eu/
 local=/proxyvpnserver.com/
 local=/proxyway.com/
-local=/proxywebsite.io/
 local=/proxywebtunnel.com/
 local=/f1.psgl.cl/
 local=/psiphon.ca/
