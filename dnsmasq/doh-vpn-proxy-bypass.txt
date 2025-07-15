@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jul 2025 12:03 UTC
-# Version: 2025.0714.1203.03
+# Last modified: 15 Jul 2025 00:03 UTC
+# Version: 2025.0715.0003.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5027
+# Number of entries: 5035
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -882,7 +882,6 @@ local=/yug-has-a-big-butt.faizinternational.com.np/
 local=/fast-proxy.com.de/
 local=/fastest-proxy.com.de/
 local=/free-proxy.com.de/
-local=/adguard.frutuozo.com.br/
 local=/adguard.gbrossi.com.br/
 local=/german-proxy.com.de/
 local=/germany-proxy.com.de/
@@ -895,6 +894,7 @@ local=/logisticsacademy.logistica.com.mx/
 local=/encryption.madereramilano.com.ar/
 local=/grid.brain.marcenes.com.br/
 local=/packetyo.nanbang.com.tr/
+local=/cluzeha.neikos.com.mx/
 local=/hicluzelol.neikos.com.mx/
 local=/dns.netraptor.com.au/
 local=/new-proxy.com.de/
@@ -908,6 +908,7 @@ local=/dns.weixin.qq.com.cn/
 local=/nya.qualitypaperindustries.com.np/
 local=/dns.redhosting.com.ar/
 local=/chat-isinterstellargood.safira.com.my/
+local=/core.atom.san-ss.com.ar/
 local=/cloudbarfbagisback.saugatnepal.com.np/
 local=/mathvideos.sharmaraju.com.np/
 local=/visit.sistemasplenario.com.ar/
@@ -2429,6 +2430,7 @@ local=/mapspublications.us/
 local=/maqgie.xyz/
 local=/dns.marasov.id/
 local=/dns.marbledfennec.net/
+local=/music.recap.markisfullofshit.com/
 local=/ag.marschi.de/
 local=/adguard.marto.si/
 local=/read.maryejackson.com/
@@ -2528,6 +2530,7 @@ local=/mockblock.com/
 local=/sage.area.modeemi.net/
 local=/ps1.modr.club/
 local=/edu.moldeo.org/
+local=/history-of-the-king-of-pop.moldeo.org/
 local=/only-shooting-stars-breakthe.moldeo.org/
 local=/dns.molinero.dev/
 local=/naganohara-yoimiya.momokko.moe/
@@ -2589,6 +2592,7 @@ local=/i.myclarevision.com/
 local=/learn.myclarevision.com/
 local=/linewizesucks.myclarevision.com/
 local=/thisismathteach.myclarevision.com/
+local=/smart.data.mydj.ro/
 local=/adblock.mydns.network/
 local=/family.mydns.network/
 local=/freedom.mydns.network/
@@ -2623,7 +2627,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2953,6 +2956,8 @@ local=/oxywebproxy.sbs/
 local=/oystervpn.com/
 local=/1a.ns.ozer.im/
 local=/p99nxpivfscyverz.me/
+local=/topic.teach.pacbell.hk/
+local=/solve.write.pacificbellinternational.com/
 local=/packetriot.net/
 local=/dns.paesa.es/
 local=/incognito-static-version.pages.dev/
@@ -3544,6 +3549,7 @@ local=/gravity.sciencevictory.org/
 local=/bright-storm-707.scientificsense.org/
 local=/dns.scott-smith.us/
 local=/dns.scuola.org/
+local=/facts.teach.sdm-tv.com/
 local=/se3v5tjfff3aet.me/
 local=/adguard.sealyserver.com/
 local=/seanfat.club/
@@ -4537,6 +4543,7 @@ local=/undofilters.com/
 local=/dns.unerror.network/
 local=/ines.zfn.uni-bremen.de/
 local=/guh.uniall.tk/
+local=/major.know.unielectronics.ca/
 local=/unifiedvpn.com/
 local=/galileo.math.unipd.it/
 local=/universityproxy.net/
@@ -4810,6 +4817,7 @@ local=/waselpro.com/
 local=/watchunblocked.com/
 local=/dns.engineer.web.id/
 local=/h4g3z1-doh-vpn-proxy-bypass.web.app/
+local=/how.learn.harimurti.web.id/
 local=/doh.this.web.id/
 local=/munfe.ro.wawan.web.id/
 local=/1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com/

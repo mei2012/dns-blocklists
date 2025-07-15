@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752436620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752537480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 13 Jul 2025 19:57 UTC
-; Version: 2025.0713.1957.59
+; Last modified: 14 Jul 2025 23:58 UTC
+; Version: 2025.0714.2358.27
 ; Syntax: RPZ
-; Number of entries: 20196
+; Number of entries: 20210
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1685,6 +1685,8 @@ tracker.hiyj.cn CNAME .
 *.tracker.hiyj.cn CNAME .
 jshdtv.cn CNAME .
 *.jshdtv.cn CNAME .
+tracker.home.kmzs123.cn CNAME .
+*.tracker.home.kmzs123.cn CNAME .
 tracker.kmzs123.cn CNAME .
 *.tracker.kmzs123.cn CNAME .
 tracker.loligirl.cn CNAME .
@@ -3539,6 +3541,8 @@ tracker.dler.com CNAME .
 *.tracker.dler.com CNAME .
 tracker2.dler.com CNAME .
 *.tracker2.dler.com CNAME .
+tracker3.dler.com CNAME .
+*.tracker3.dler.com CNAME .
 dnetbd.com CNAME .
 *.dnetbd.com CNAME .
 dnetdrive.com CNAME .
@@ -10011,6 +10015,8 @@ torrentdb.li CNAME .
 *.torrentdb.li CNAME .
 chihaya.toss.li CNAME .
 *.chihaya.toss.li CNAME .
+tracker.toss.li CNAME .
+*.tracker.toss.li CNAME .
 utorrent.li CNAME .
 *.utorrent.li CNAME .
 yggtorrent.li CNAME .
@@ -11865,6 +11871,8 @@ datascene.net CNAME .
 *.datascene.net CNAME .
 ddlbase.net CNAME .
 *.ddlbase.net CNAME .
+asiatorrent.ddns.net CNAME .
+*.asiatorrent.ddns.net CNAME .
 houniao.ddns.net CNAME .
 *.houniao.ddns.net CNAME .
 ddgu.ddos-guard.net CNAME .
@@ -14589,6 +14597,8 @@ tracker.ledreactor.org CNAME .
 *.tracker.ledreactor.org CNAME .
 leechers-paradise.org CNAME .
 *.leechers-paradise.org CNAME .
+tracker.leechersparadise.org CNAME .
+*.tracker.leechersparadise.org CNAME .
 tracker.leniter.org CNAME .
 *.tracker.leniter.org CNAME .
 leopard-raws.org CNAME .
@@ -15853,6 +15863,8 @@ filmstreaming.pro CNAME .
 *.filmstreaming.pro CNAME .
 filmstreaming1.pro CNAME .
 *.filmstreaming1.pro CNAME .
+tracker.fixr.pro CNAME .
+*.tracker.fixr.pro CNAME .
 goldhiphop.pro CNAME .
 *.goldhiphop.pro CNAME .
 gomoviz1.pro CNAME .
@@ -18305,6 +18317,8 @@ guardaserie.toys CNAME .
 *.guardaserie.toys CNAME .
 tracker.4.babico.name.tr CNAME .
 *.tracker.4.babico.name.tr CNAME .
+tracker.babico.name.tr CNAME .
+*.tracker.babico.name.tr CNAME .
 eurostreaming.trade CNAME .
 *.eurostreaming.trade CNAME .
 ilgeniodellostreaming.trade CNAME .

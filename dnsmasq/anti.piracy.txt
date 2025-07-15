@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jul 2025 19:57 UTC
-# Version: 2025.0713.1957.59
+# Last modified: 14 Jul 2025 23:58 UTC
+# Version: 2025.0714.2358.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10098
+# Number of entries: 10105
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2372,6 +2372,7 @@ local=/ddlspot.com/
 local=/ddlvalley.me/
 local=/ddnbd.com/
 local=/ddnbd.fun/
+local=/asiatorrent.ddns.net/
 local=/houniao.ddns.net/
 local=/ddos.city/
 local=/ddos.kr/
@@ -2525,6 +2526,7 @@ local=/dle-shablons.ru/
 local=/dler.org/
 local=/tracker.dler.com/
 local=/tracker2.dler.com/
+local=/tracker3.dler.com/
 local=/tracker.dm258.cn/
 local=/tracker.dmcomic.org/
 local=/dmfk.org/
@@ -3422,6 +3424,7 @@ local=/firstsrows.net/
 local=/firstsrowsports.tv/
 local=/satrong.fissabd.com/
 local=/fitgirl-repacks.site/
+local=/tracker.fixr.pro/
 local=/fk9.pw/
 local=/fl1x.com/
 local=/flactor.ru/
@@ -4917,6 +4920,7 @@ local=/klub777.ru/
 local=/kludd.com/
 local=/kmnbd.net/
 local=/kmsautoplus.su/
+local=/tracker.home.kmzs123.cn/
 local=/tracker.kmzs123.cn/
 local=/tracker.kmzs123.top/
 local=/knaben.eu/
@@ -4994,6 +4998,7 @@ local=/tracker.ledreactor.org/
 local=/leeapk.com/
 local=/leechers-paradise.org/
 local=/leecherslair.com/
+local=/tracker.leechersparadise.org/
 local=/leechinghell.pw/
 local=/leechking.com/
 local=/leechlisting.com/
@@ -5916,6 +5921,7 @@ local=/nagordola.live/
 local=/naijavault.com/
 local=/najnovije.net/
 local=/tracker.4.babico.name.tr/
+local=/tracker.babico.name.tr/
 local=/nanniesofgreenhills.com/
 local=/www.tracker.nano-net.ro/
 local=/tracker.nanyangpt.com/
@@ -8807,6 +8813,7 @@ local=/torsecurityteam.org/
 local=/torula.tv/
 local=/tosarang.net/
 local=/chihaya.toss.li/
+local=/tracker.toss.li/
 local=/totaldownloader.it/
 local=/totalsportek.ac/
 local=/totalsportek.at/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jul 2025 10:46 UTC
-# Version: 2025.0711.1046.25
+# Last modified: 14 Jul 2025 22:43 UTC
+# Version: 2025.0714.2243.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2134
+# Number of entries: 2135
 #
 local=/000a.de/
 local=/000free.us/
@@ -990,6 +990,7 @@ local=/frankclassic.shop/
 local=/free.bg/
 local=/free.cr/
 local=/free.lc/
+local=/free.nf/
 local=/free-blogz.com/
 local=/free-forums.org/
 local=/freeasphost.net/
