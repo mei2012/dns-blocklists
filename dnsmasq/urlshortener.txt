@@ -11,11 +11,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Jul 2025 22:44 UTC
-# Version: 2025.0714.2244.04
+# Last modified: 15 Jul 2025 06:45 UTC
+# Version: 2025.0715.0645.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5130
+# Number of entries: 5138
 #
+local=/0.gp/
 local=/00oo.lol/
 local=/010.at/
 local=/02faq.com/
@@ -84,6 +85,7 @@ local=/1shop.io/
 local=/1short.io/
 local=/1shortlink.com/
 local=/1stgop.co/
+local=/1sturl.com/
 local=/1tk.us/
 local=/1to3.link/
 local=/1u.fi/
@@ -96,6 +98,7 @@ local=/1wrd.org/
 local=/1z.lc/
 local=/1zr.in/
 local=/2.gd/
+local=/2.gp/
 local=/2.ht/
 local=/2.ly/
 local=/20.dk/
@@ -164,6 +167,7 @@ local=/3w.pm/
 local=/3x.si/
 local=/3xs.live/
 local=/4.gg/
+local=/4.gp/
 local=/4.ly/
 local=/4172499085.live/
 local=/420.bio/
@@ -172,6 +176,7 @@ local=/45h.it/
 local=/47.de/
 local=/49rs.co/
 local=/4d2.link/
+local=/4eq.ir/
 local=/4h.net/
 local=/4insurancejobs.com/
 local=/4ja.ai/
@@ -184,6 +189,7 @@ local=/4ton.com/
 local=/4uid.com/
 local=/4url.cc/
 local=/4x.si/
+local=/5.gp/
 local=/5278url.com/
 local=/531566.xyz/
 local=/53eig.ht/
@@ -198,6 +204,7 @@ local=/5rwv.info/
 local=/5url.net/
 local=/5w.fit/
 local=/5z8.info/
+local=/6.gp/
 local=/6.ly/
 local=/60.dk/
 local=/654.pl/
@@ -220,6 +227,7 @@ local=/73.nu/
 local=/733s.com/
 local=/77url.com/
 local=/7894.xyz/
+local=/7c34.com/
 local=/7fth.cc/
 local=/7g7.ir/
 local=/7i.se/

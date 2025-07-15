@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752533040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752561900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jul 2025 22:44 UTC
-; Version: 2025.0714.2244.04
+; Last modified: 15 Jul 2025 06:45 UTC
+; Version: 2025.0715.0645.08
 ; Syntax: RPZ
-; Number of entries: 10260
+; Number of entries: 10276
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1512,6 +1512,8 @@ has.coffee CNAME .
 *.1dietplans.com CNAME .
 1shortlink.com CNAME .
 *.1shortlink.com CNAME .
+1sturl.com CNAME .
+*.1sturl.com CNAME .
 1url.com CNAME .
 *.1url.com CNAME .
 247superhost.com CNAME .
@@ -1554,6 +1556,8 @@ has.coffee CNAME .
 *.733s.com CNAME .
 77url.com CNAME .
 *.77url.com CNAME .
+7c34.com CNAME .
+*.7c34.com CNAME .
 7kts.com CNAME .
 *.7kts.com CNAME .
 888df.com CNAME .
@@ -4004,6 +4008,16 @@ on.nyc.gov CNAME .
 *.on.nyc.gov CNAME .
 go.usa.gov CNAME .
 *.go.usa.gov CNAME .
+0.gp CNAME .
+*.0.gp CNAME .
+2.gp CNAME .
+*.2.gp CNAME .
+4.gp CNAME .
+*.4.gp CNAME .
+5.gp CNAME .
+*.5.gp CNAME .
+6.gp CNAME .
+*.6.gp CNAME .
 act.gp CNAME .
 *.act.gp CNAME .
 aka.gr CNAME .
@@ -5064,6 +5078,8 @@ zshort.io CNAME .
 *.1o2.ir CNAME .
 2wo.ir CNAME .
 *.2wo.ir CNAME .
+4eq.ir CNAME .
+*.4eq.ir CNAME .
 7g7.ir CNAME .
 *.7g7.ir CNAME .
 900r.ir CNAME .

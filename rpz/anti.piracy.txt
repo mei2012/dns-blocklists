@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752537480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752566580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 14 Jul 2025 23:58 UTC
-; Version: 2025.0714.2358.27
+; Last modified: 15 Jul 2025 08:03 UTC
+; Version: 2025.0715.0803.57
 ; Syntax: RPZ
-; Number of entries: 20210
+; Number of entries: 20216
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11871,8 +11871,6 @@ datascene.net CNAME .
 *.datascene.net CNAME .
 ddlbase.net CNAME .
 *.ddlbase.net CNAME .
-asiatorrent.ddns.net CNAME .
-*.asiatorrent.ddns.net CNAME .
 houniao.ddns.net CNAME .
 *.houniao.ddns.net CNAME .
 ddgu.ddos-guard.net CNAME .
@@ -18151,6 +18149,10 @@ ddos.tools CNAME .
 *.123movies.top CNAME .
 123movieshd.top CNAME .
 *.123movieshd.top CNAME .
+supaflix.1mt.top CNAME .
+*.supaflix.1mt.top CNAME .
+supaflix-series.1mt.top CNAME .
+*.supaflix-series.1mt.top CNAME .
 1stream.top CNAME .
 *.1stream.top CNAME .
 tracker.23794.top CNAME .
@@ -19057,6 +19059,8 @@ vega.org.uk CNAME .
 *.vega.org.uk CNAME .
 unblockpirate.uk CNAME .
 *.unblockpirate.uk CNAME .
+123movie.uno CNAME .
+*.123movie.uno CNAME .
 alluc.uno CNAME .
 *.alluc.uno CNAME .
 cb01.uno CNAME .
@@ -19531,6 +19535,8 @@ unblocker.win CNAME .
 *.unblocker.win CNAME .
 whowill.win CNAME .
 *.whowill.win CNAME .
+123movies.wine CNAME .
+*.123movies.wine CNAME .
 filmpertutti.wine CNAME .
 *.filmpertutti.wine CNAME .
 123movies.work CNAME .
