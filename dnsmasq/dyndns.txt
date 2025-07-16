@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jul 2025 06:10 UTC
-# Version: 2025.0702.0610.57
+# Last modified: 16 Jul 2025 00:09 UTC
+# Version: 2025.0716.0009.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1472
+# Number of entries: 1475
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -105,6 +105,7 @@ local=/authorizeddns.us/
 local=/autoipset.com/
 local=/avandns.com/
 local=/ax.lt/
+local=/b0ne.com/
 local=/b0tnet.com/
 local=/b33r.us/
 local=/bad.mn/
@@ -152,6 +153,7 @@ local=/brawlcustommusic.com/
 local=/briansagar.com/
 local=/broke-it.net/
 local=/brweb.org/
+local=/bsn2bsn.com/
 local=/bumbleshrimp.com/
 local=/burlingtondrywall.com/
 local=/buys.ru/
@@ -260,6 +262,7 @@ local=/ddns.ms/
 local=/ddns.name/
 local=/ddns.net/
 local=/ddns.us/
+local=/ddns-dvr.com/
 local=/ddns5.com/
 local=/ddnsapp.com/
 local=/ddnsfree.com/

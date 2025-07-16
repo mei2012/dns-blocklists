@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 15 Jul 2025 08:08 UTC
-# Version: 2025.0715.0808.34
+# Last modified: 16 Jul 2025 00:09 UTC
+# Version: 2025.0716.0009.32
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1598
 #
@@ -115,6 +115,7 @@
 0.0.0.0 public254.alidns.com
 0.0.0.0 public99.alidns.com
 0.0.0.0 httpdns-sc.aliyuncs.com
+0.0.0.0 alleesph.online
 0.0.0.0 dns.alloxr.info
 0.0.0.0 dns.almir1904.eu
 0.0.0.0 adguard.alu.dog
@@ -168,7 +169,6 @@
 0.0.0.0 antivirus.bebasid.com
 0.0.0.0 dns.bebasid.com
 0.0.0.0 internetsehat.bebasid.com
-0.0.0.0 justhost.bedro.cloud
 0.0.0.0 dns.belnet.be
 0.0.0.0 dns.bermeitinger.eu
 0.0.0.0 bestwon203.com
@@ -218,6 +218,7 @@
 0.0.0.0 free.bravedns.com
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 ag.brianlee.fun
+0.0.0.0 dns.brono.cloud
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 stratus.bugz.fr
@@ -624,7 +625,6 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -992,7 +992,6 @@
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
 0.0.0.0 dns.mrkaran.dev
-0.0.0.0 msr177.com
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com
@@ -1025,6 +1024,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1406,7 +1406,6 @@
 0.0.0.0 sitdns.com
 0.0.0.0 dns.sitdns.com
 0.0.0.0 dns.skrep.eu
-0.0.0.0 dns.skrep.in
 0.0.0.0 skydragoness.com
 0.0.0.0 dns.slinkyman.net
 0.0.0.0 dns.smartguard.io
@@ -1607,4 +1606,5 @@
 0.0.0.0 dns.zemows.industries
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 doh.zknt.org
+0.0.0.0 zougloub.eu
 0.0.0.0 dns.zzuhacker.cn

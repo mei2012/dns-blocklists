@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752561900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752619440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 15 Jul 2025 06:45 UTC
-; Version: 2025.0715.0645.08
+; Last modified: 15 Jul 2025 22:44 UTC
+; Version: 2025.0715.2244.52
 ; Syntax: RPZ
-; Number of entries: 10276
+; Number of entries: 10288
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1054,6 +1054,8 @@ go.btwrdn.co CNAME .
 *.go.btwrdn.co CNAME .
 bulink.co CNAME .
 *.bulink.co CNAME .
+c1k.co CNAME .
+*.c1k.co CNAME .
 capitalfm.co CNAME .
 *.capitalfm.co CNAME .
 captl1.co CNAME .
@@ -1632,6 +1634,8 @@ anytimefitnessinstagram.com CNAME .
 *.anytimefitnessinstagram.com CNAME .
 aorracer.com CNAME .
 *.aorracer.com CNAME .
+parg.aparg.com CNAME .
+*.parg.aparg.com CNAME .
 appbitly.com CNAME .
 *.appbitly.com CNAME .
 apticirl.com CNAME .
@@ -1698,6 +1702,8 @@ biibly.com CNAME .
 *.biibly.com CNAME .
 biltiy.com CNAME .
 *.biltiy.com CNAME .
+binbucks.com CNAME .
+*.binbucks.com CNAME .
 bitigee.com CNAME .
 *.bitigee.com CNAME .
 bitly.com CNAME .
@@ -5086,8 +5092,12 @@ zshort.io CNAME .
 *.900r.ir CNAME .
 adr3.ir CNAME .
 *.adr3.ir CNAME .
+agbr.ir CNAME .
+*.agbr.ir CNAME .
 b2n.ir CNAME .
 *.b2n.ir CNAME .
+cnz.ir CNAME .
+*.cnz.ir CNAME .
 cut2.ir CNAME .
 *.cut2.ir CNAME .
 drnx.ir CNAME .
@@ -6658,6 +6668,8 @@ vla.lu CNAME .
 *.0o.lv CNAME .
 cr8.lv CNAME .
 *.cr8.lv CNAME .
+cur.lv CNAME .
+*.cur.lv CNAME .
 inx.lv CNAME .
 *.inx.lv CNAME .
 jkf.lv CNAME .
