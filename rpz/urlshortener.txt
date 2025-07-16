@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752648240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752691620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 06:44 UTC
-; Version: 2025.0716.0644.49
+; Last modified: 16 Jul 2025 18:47 UTC
+; Version: 2025.0716.1847.25
 ; Syntax: RPZ
-; Number of entries: 10292
+; Number of entries: 10310
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2130,6 +2130,8 @@ iamsrikrung.com CNAME .
 *.iamsrikrung.com CNAME .
 iapdw.com CNAME .
 *.iapdw.com CNAME .
+iblgcr.com CNAME .
+*.iblgcr.com CNAME .
 icanhaz.com CNAME .
 *.icanhaz.com CNAME .
 icutlink.com CNAME .
@@ -2212,6 +2214,8 @@ krunchd.com CNAME .
 *.krunchd.com CNAME .
 ktckesaria.com CNAME .
 *.ktckesaria.com CNAME .
+leitup.com CNAME .
+*.leitup.com CNAME .
 lighthouse-scholarship.com CNAME .
 *.lighthouse-scholarship.com CNAME .
 lihi1.com CNAME .
@@ -2240,6 +2244,8 @@ linkbun.com CNAME .
 *.linkbun.com CNAME .
 linkclickcounter.com CNAME .
 *.linkclickcounter.com CNAME .
+linkcrypter.com CNAME .
+*.linkcrypter.com CNAME .
 linkcutt.com CNAME .
 *.linkcutt.com CNAME .
 linkedin-jobmkt.com CNAME .
@@ -3782,6 +3788,8 @@ go.lamotte.fr CNAME .
 *.go.lamotte.fr CNAME .
 lemde.fr CNAME .
 *.lemde.fr CNAME .
+lnks.fr CNAME .
+*.lnks.fr CNAME .
 lstu.fr CNAME .
 *.lstu.fr CNAME .
 lurl.fr CNAME .
@@ -4632,6 +4640,8 @@ gallerylink.info CNAME .
 *.gallerylink.info CNAME .
 ghalida.info CNAME .
 *.ghalida.info CNAME .
+gtrv.info CNAME .
+*.gtrv.info CNAME .
 hamza-prince-001.info CNAME .
 *.hamza-prince-001.info CNAME .
 hellraisers.info CNAME .
@@ -5116,6 +5126,8 @@ amirhossein.id.ir CNAME .
 *.amirhossein.id.ir CNAME .
 ilk.ir CNAME .
 *.ilk.ir CNAME .
+iwo.ir CNAME .
+*.iwo.ir CNAME .
 khtm.ir CNAME .
 *.khtm.ir CNAME .
 lt5.ir CNAME .
@@ -5744,6 +5756,8 @@ kapten69.life CNAME .
 *.kapten69.life CNAME .
 karisaathman346.life CNAME .
 *.karisaathman346.life CNAME .
+kerang.life CNAME .
+*.kerang.life CNAME .
 kuykendall-lauren.life CNAME .
 *.kuykendall-lauren.life CNAME .
 lillebrordahlstrom.life CNAME .
@@ -7586,6 +7600,8 @@ httpreferer.net CNAME .
 *.httpreferer.net CNAME .
 hurirk.net CNAME .
 *.hurirk.net CNAME .
+idek.net CNAME .
+*.idek.net CNAME .
 interpride.net CNAME .
 *.interpride.net CNAME .
 iscool.net CNAME .
@@ -9692,6 +9708,8 @@ coop.uk CNAME .
 *.coop.uk CNAME .
 f4d.uk CNAME .
 *.f4d.uk CNAME .
+linkr.uk CNAME .
+*.linkr.uk CNAME .
 masy.uk CNAME .
 *.masy.uk CNAME .
 mbdns.uk CNAME .

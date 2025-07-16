@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752653760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752696840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 08:16 UTC
-; Version: 2025.0716.0816.43
+; Last modified: 16 Jul 2025 20:14 UTC
+; Version: 2025.0716.2014.51
 ; Syntax: RPZ
-; Number of entries: 10322
+; Number of entries: 10348
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -708,6 +708,10 @@ prr.toma.cl CNAME .
 *.prr.toma.cl CNAME .
 sushi.tosochilemat.cl CNAME .
 *.sushi.tosochilemat.cl CNAME .
+illegals-in-my-yard.trustmi.cl CNAME .
+*.illegals-in-my-yard.trustmi.cl CNAME .
+ryanchennotgay.trustmi.cl CNAME .
+*.ryanchennotgay.trustmi.cl CNAME .
 mathsfun.undergames.cl CNAME .
 *.mathsfun.undergames.cl CNAME .
 block.undo.cl CNAME .
@@ -732,6 +736,8 @@ dns.listo.click CNAME .
 *.dns.listo.click CNAME .
 personaly.click CNAME .
 *.personaly.click CNAME .
+justhost.bedro.cloud CNAME .
+*.justhost.bedro.cloud CNAME .
 dns.brembeck.cloud CNAME .
 *.dns.brembeck.cloud CNAME .
 dns.brono.cloud CNAME .
@@ -1698,8 +1704,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2058,6 +2062,8 @@ harbaletsstudy.com CNAME .
 *.harbaletsstudy.com CNAME .
 resolver-eu.haringstad.com CNAME .
 *.resolver-eu.haringstad.com CNAME .
+headproxy.com CNAME .
+*.headproxy.com CNAME .
 sage.skills.hellasinside.com CNAME .
 *.sage.skills.hellasinside.com CNAME .
 dns.hellozhao.com CNAME .
@@ -2160,6 +2166,8 @@ link-two.ibewlocalzero.com CNAME .
 *.link-two.ibewlocalzero.com CNAME .
 ibvpn.com CNAME .
 *.ibvpn.com CNAME .
+icitek.com CNAME .
+*.icitek.com CNAME .
 mask.icloud.com CNAME .
 *.mask.icloud.com CNAME .
 mask-h2.icloud.com CNAME .
@@ -2640,8 +2648,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3698,6 +3704,8 @@ eu2-browse.startpage.com CNAME .
 *.92040211643af234e11f6a9f9cd57b2bde266150-m.proxy1.startpage.com CNAME .
 93939528bfaef1d4f5cbdbb3bb52f8f873b4b305-m.proxy1.startpage.com CNAME .
 *.93939528bfaef1d4f5cbdbb3bb52f8f873b4b305-m.proxy1.startpage.com CNAME .
+9487723323ac070068cc9dd9e9988dc122920c1a-m.proxy1.startpage.com CNAME .
+*.9487723323ac070068cc9dd9e9988dc122920c1a-m.proxy1.startpage.com CNAME .
 951051916e501f032cb90c57a50e73643945a098-m.proxy1.startpage.com CNAME .
 *.951051916e501f032cb90c57a50e73643945a098-m.proxy1.startpage.com CNAME .
 9534cacfb08026210cbc9fb470b195057ef5526c-m.proxy1.startpage.com CNAME .
@@ -3708,6 +3716,8 @@ eu2-browse.startpage.com CNAME .
 *.955f849095d97004c42324b89d9313ca797d565e-m.proxy1.startpage.com CNAME .
 990eba767db643573cb3fc31c7d1fb8c4e8db3b8-m.proxy1.startpage.com CNAME .
 *.990eba767db643573cb3fc31c7d1fb8c4e8db3b8-m.proxy1.startpage.com CNAME .
+9afa15bec9e37443c7b9fc6b5af59c30262ed1c5-m.proxy1.startpage.com CNAME .
+*.9afa15bec9e37443c7b9fc6b5af59c30262ed1c5-m.proxy1.startpage.com CNAME .
 9b271c5b35544d0cc456592c11127c9dbd3be3d1-m.proxy1.startpage.com CNAME .
 *.9b271c5b35544d0cc456592c11127c9dbd3be3d1-m.proxy1.startpage.com CNAME .
 9bd22204c23549f40e2e63d0adb3d84d1b80f382-m.proxy1.startpage.com CNAME .
@@ -3754,6 +3764,8 @@ b3b5ec98c97fe566d366fdefb296e0e47452d39e-m.proxy1.startpage.com CNAME .
 *.b3b5ec98c97fe566d366fdefb296e0e47452d39e-m.proxy1.startpage.com CNAME .
 b43e1ae55bedacaa1cb9eec3ede85bedd2a66557-m.proxy1.startpage.com CNAME .
 *.b43e1ae55bedacaa1cb9eec3ede85bedd2a66557-m.proxy1.startpage.com CNAME .
+b4a99bd629599bd2cf8e0979f8a153f5e3078cc8-m.proxy1.startpage.com CNAME .
+*.b4a99bd629599bd2cf8e0979f8a153f5e3078cc8-m.proxy1.startpage.com CNAME .
 b4b7e998fa693796608666ee39fecc8ad395ec61-m.proxy1.startpage.com CNAME .
 *.b4b7e998fa693796608666ee39fecc8ad395ec61-m.proxy1.startpage.com CNAME .
 b4e5991998d196cd3a58dbbdae8a431c52c2a562-m.proxy1.startpage.com CNAME .
@@ -3810,6 +3822,8 @@ c95cab6a203bc5bcd67072dccb21a39d8ed15506-m.proxy1.startpage.com CNAME .
 *.c95cab6a203bc5bcd67072dccb21a39d8ed15506-m.proxy1.startpage.com CNAME .
 cd5de78d6deb1213d2ab48c35da5a05ceb02f6a9-m.proxy1.startpage.com CNAME .
 *.cd5de78d6deb1213d2ab48c35da5a05ceb02f6a9-m.proxy1.startpage.com CNAME .
+cf9203e079db9d4b0482b2d6e37926df88ab946d-m.proxy1.startpage.com CNAME .
+*.cf9203e079db9d4b0482b2d6e37926df88ab946d-m.proxy1.startpage.com CNAME .
 cfe37fa8cb96b6ca8488e56f2ea62c0cc3ca56cd-m.proxy1.startpage.com CNAME .
 *.cfe37fa8cb96b6ca8488e56f2ea62c0cc3ca56cd-m.proxy1.startpage.com CNAME .
 d0bb494fb27f93e02cd34c01de0f37dd042fbf71-m.proxy1.startpage.com CNAME .
@@ -3832,6 +3846,8 @@ d66a49ddaff10e8c0b23e45d71388bb84bf221c0-m.proxy1.startpage.com CNAME .
 *.d66a49ddaff10e8c0b23e45d71388bb84bf221c0-m.proxy1.startpage.com CNAME .
 d75a562b4ee9439fea06a571ed256f0a2bd224ad-m.proxy1.startpage.com CNAME .
 *.d75a562b4ee9439fea06a571ed256f0a2bd224ad-m.proxy1.startpage.com CNAME .
+d7951d9c1da9ff5eec9abb55241f276de4908c26-m.proxy1.startpage.com CNAME .
+*.d7951d9c1da9ff5eec9abb55241f276de4908c26-m.proxy1.startpage.com CNAME .
 d867242d16cb10acc073242a12f0b1720914016e-m.proxy1.startpage.com CNAME .
 *.d867242d16cb10acc073242a12f0b1720914016e-m.proxy1.startpage.com CNAME .
 d8ba58564bef3a021fe82753175ffd430308d292-m.proxy1.startpage.com CNAME .
@@ -3852,6 +3868,8 @@ e351751253e3cf79d032ddd4d61f2be323200064-m.proxy1.startpage.com CNAME .
 *.e351751253e3cf79d032ddd4d61f2be323200064-m.proxy1.startpage.com CNAME .
 e3feb68f69f618b30dbceec9f19c4af59c158c56-m.proxy1.startpage.com CNAME .
 *.e3feb68f69f618b30dbceec9f19c4af59c158c56-m.proxy1.startpage.com CNAME .
+e56e66fb755a6fcc70482edbb4ac18f12defbaf6-m.proxy1.startpage.com CNAME .
+*.e56e66fb755a6fcc70482edbb4ac18f12defbaf6-m.proxy1.startpage.com CNAME .
 e7f1189f256f2eb8d6b68b87b7b9d92dc70d45bb-m.proxy1.startpage.com CNAME .
 *.e7f1189f256f2eb8d6b68b87b7b9d92dc70d45bb-m.proxy1.startpage.com CNAME .
 e81bbb9ddebc9e571cd1d4694269e01c1f10f4c6-m.proxy1.startpage.com CNAME .
@@ -3888,6 +3906,8 @@ f8a5c54672435c661c7c2e52ebf1d8101d1a7347-m.proxy1.startpage.com CNAME .
 *.f8a5c54672435c661c7c2e52ebf1d8101d1a7347-m.proxy1.startpage.com CNAME .
 f93e553908c2ea75f42a4340e15fa322d1629938-m.proxy1.startpage.com CNAME .
 *.f93e553908c2ea75f42a4340e15fa322d1629938-m.proxy1.startpage.com CNAME .
+f9faa4fed008d4fc4aa78a36b57398874640a91a-m.proxy1.startpage.com CNAME .
+*.f9faa4fed008d4fc4aa78a36b57398874640a91a-m.proxy1.startpage.com CNAME .
 fa7817c4c224fc833caa30460cf2b2fb658d7176-m.proxy1.startpage.com CNAME .
 *.fa7817c4c224fc833caa30460cf2b2fb658d7176-m.proxy1.startpage.com CNAME .
 fab308aec347a55c2738177f727406e9c4c00dc6-m.proxy1.startpage.com CNAME .
@@ -4116,6 +4136,8 @@ session.proxy2.startpage.com CNAME .
 *.session.proxy2.startpage.com CNAME .
 130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
 *.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
+proxy5.startpage.com CNAME .
+*.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
@@ -5754,6 +5776,8 @@ proxyhub.in CNAME .
 *.proxyhub.in CNAME .
 sitenable.in CNAME .
 *.sitenable.in CNAME .
+dns.skrep.in CNAME .
+*.dns.skrep.in CNAME .
 doh.technochat.in CNAME .
 *.doh.technochat.in CNAME .
 websurf.in CNAME .
@@ -6550,6 +6574,8 @@ honeygain.me CNAME .
 *.honeygain.me CNAME .
 www.pleaseinput.html-5.me CNAME .
 *.www.pleaseinput.html-5.me CNAME .
+dns.huas.me CNAME .
+*.dns.huas.me CNAME .
 dns.indust.me CNAME .
 *.dns.indust.me CNAME .
 iportal.me CNAME .
@@ -9452,8 +9478,6 @@ sdfergrdewdwdawdwdszdsadsadas.helixarcade.space CNAME .
 *.sdfergrdewdwdawdwdszdsadsadas.helixarcade.space CNAME .
 interstellar.midnite.space CNAME .
 *.interstellar.midnite.space CNAME .
-adguard.neon0404.space CNAME .
-*.adguard.neon0404.space CNAME .
 openproxy.space CNAME .
 *.openproxy.space CNAME .
 thiscopyofartclassisnotgenuine.rare1k.space CNAME .
@@ -9518,6 +9542,8 @@ easyproxy.tech CNAME .
 *.easyproxy.tech CNAME .
 f0lga.tech CNAME .
 *.f0lga.tech CNAME .
+mathlearning.tech CNAME .
+*.mathlearning.tech CNAME .
 mehmetarikan.tech CNAME .
 *.mehmetarikan.tech CNAME .
 romirely.tech CNAME .

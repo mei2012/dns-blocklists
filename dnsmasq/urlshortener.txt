@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jul 2025 06:44 UTC
-# Version: 2025.0716.0644.49
+# Last modified: 16 Jul 2025 18:47 UTC
+# Version: 2025.0716.1847.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5146
+# Number of entries: 5155
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1799,6 +1799,7 @@ local=/gtly.ink/
 local=/gtly.to/
 local=/gtne.ws/
 local=/gtnr.it/
+local=/gtrv.info/
 local=/gumtr.ee/
 local=/gurl.to/
 local=/guzman-zulma1.life/
@@ -1951,6 +1952,7 @@ local=/ibb.co/
 local=/ibest.in/
 local=/ibf.tw/
 local=/ibit.ly/
+local=/iblgcr.com/
 local=/ibm.biz/
 local=/ibm.co/
 local=/ic9.in/
@@ -1963,6 +1965,7 @@ local=/icutlink.com/
 local=/icux.xyz/
 local=/amirhossein.id.ir/
 local=/go.id.me/
+local=/idek.net/
 local=/idfk.lol/
 local=/w.idg.de/
 local=/idm.in/
@@ -2092,6 +2095,7 @@ local=/iurl.dk/
 local=/iurl.one/
 local=/iurl.us/
 local=/iuu.ro/
+local=/iwo.ir/
 local=/iwr.link/
 local=/ix.sk/
 local=/iyc.life/
@@ -2191,6 +2195,7 @@ local=/keckcntr.com/
 local=/keepo.bio/
 local=/keepo.io/
 local=/kem.lu/
+local=/kerang.life/
 local=/keraskale.me/
 local=/kereta-vip.com/
 local=/kes.re/
@@ -2317,6 +2322,7 @@ local=/learnit.today/
 local=/lego.build/
 local=/leica.gs/
 local=/leit.link/
+local=/leitup.com/
 local=/lelink.in/
 local=/lemde.fr/
 local=/lenon.page/
@@ -2405,6 +2411,7 @@ local=/linkbun.ch/
 local=/linkbun.com/
 local=/linkclickcounter.com/
 local=/linkcloaker.pro/
+local=/linkcrypter.com/
 local=/linkcutt.com/
 local=/linkd.in/
 local=/linke.to/
@@ -2452,6 +2459,7 @@ local=/linkotw.live/
 local=/linkpays.in/
 local=/linkpop.com/
 local=/linkpug4d.com/
+local=/linkr.uk/
 local=/linkrefferal.vip/
 local=/links2.me/
 local=/links4money.com/
@@ -2533,6 +2541,7 @@ local=/lnkiy.com/
 local=/lnkiy.in/
 local=/lnks.ai/
 local=/lnks.es/
+local=/lnks.fr/
 local=/lnkshk.com/
 local=/lnkw.co/
 local=/lnky.jp/
