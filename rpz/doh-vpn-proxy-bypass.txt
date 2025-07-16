@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752624540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752653760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 00:09 UTC
-; Version: 2025.0716.0009.54
+; Last modified: 16 Jul 2025 08:16 UTC
+; Version: 2025.0716.0816.43
 ; Syntax: RPZ
-; Number of entries: 10296
+; Number of entries: 10322
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1588,6 +1588,8 @@ dirtyworkproxy.com CNAME .
 *.dirtyworkproxy.com CNAME .
 districtnewyork.com CNAME .
 *.districtnewyork.com CNAME .
+divalane.com CNAME .
+*.divalane.com CNAME .
 divaloo.com CNAME .
 *.divaloo.com CNAME .
 divavu.com CNAME .
@@ -1598,6 +1600,8 @@ dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-over-https.com CNAME .
 *.dns.dns-over-https.com CNAME .
+dns-savage.com CNAME .
+*.dns-savage.com CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
@@ -1654,6 +1658,8 @@ droidvpn.com CNAME .
 *.droidvpn.com CNAME .
 duapps.com CNAME .
 *.duapps.com CNAME .
+resolver1.dyndnsinternetguide.com CNAME .
+*.resolver1.dyndnsinternetguide.com CNAME .
 data.math.dyvniy.com CNAME .
 *.data.math.dyvniy.com CNAME .
 please-please-please-watch-you-or.dexter.e1racecar.com CNAME .
@@ -1692,6 +1698,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -1736,6 +1744,8 @@ idea.lab.fabriquilla25.com CNAME .
 *.idea.lab.fabriquilla25.com CNAME .
 fastestvpn.com CNAME .
 *.fastestvpn.com CNAME .
+fastfoxvpn.com CNAME .
+*.fastfoxvpn.com CNAME .
 fastproxynetwork.com CNAME .
 *.fastproxynetwork.com CNAME .
 fastssh.com CNAME .
@@ -2574,6 +2584,8 @@ moyazyinomoyasi.com CNAME .
 *.moyazyinomoyasi.com CNAME .
 atom.bio.mrlewburger.com CNAME .
 *.atom.bio.mrlewburger.com CNAME .
+msr177.com CNAME .
+*.msr177.com CNAME .
 mtagprox.com CNAME .
 *.mtagprox.com CNAME .
 ns.mtsoln.com CNAME .
@@ -6514,6 +6526,8 @@ freeproxy.me CNAME .
 *.freeproxy.me CNAME .
 freevpn.me CNAME .
 *.freevpn.me CNAME .
+dns.futuredns.me CNAME .
+*.dns.futuredns.me CNAME .
 adg.geili.me CNAME .
 *.adg.geili.me CNAME .
 getproton.me CNAME .
@@ -7112,6 +7126,8 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -7218,6 +7234,8 @@ gizlen.net CNAME .
 *.gizlen.net CNAME .
 globalssh.net CNAME .
 *.globalssh.net CNAME .
+dns-tunnel-check.googlezip.net CNAME .
+*.dns-tunnel-check.googlezip.net CNAME .
 tunnel.googlezip.net CNAME .
 *.tunnel.googlezip.net CNAME .
 greenproxy.net CNAME .
@@ -8254,6 +8272,8 @@ jiyuu.dnsitalia.org CNAME .
 *.jiyuu.dnsitalia.org CNAME .
 dontblockme.org CNAME .
 *.dontblockme.org CNAME .
+ns1.dotls.org CNAME .
+*.ns1.dotls.org CNAME .
 bitly-galatikx.duckdns.org CNAME .
 *.bitly-galatikx.duckdns.org CNAME .
 home27.duckdns.org CNAME .
@@ -9208,6 +9228,8 @@ kahoot.it.dmtr.ru CNAME .
 *.kahoot.it.dmtr.ru CNAME .
 arjunthestinkyindian.dorsrv.ru CNAME .
 *.arjunthestinkyindian.dorsrv.ru CNAME .
+bristol-is-the-king.dorsrv.ru CNAME .
+*.bristol-is-the-king.dorsrv.ru CNAME .
 joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru CNAME .
 *.joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru CNAME .
 vpn.geshido.ru CNAME .
@@ -9556,6 +9578,8 @@ danhcan.top CNAME .
 *.danhcan.top CNAME .
 droyd.top CNAME .
 *.droyd.top CNAME .
+extravpn.top CNAME .
+*.extravpn.top CNAME .
 fidelius.top CNAME .
 *.fidelius.top CNAME .
 freeproxy.top CNAME .
@@ -10128,6 +10152,8 @@ free-vpn.xyz CNAME .
 *.free-vpn.xyz CNAME .
 geckovpn.xyz CNAME .
 *.geckovpn.xyz CNAME .
+getxvpn.xyz CNAME .
+*.getxvpn.xyz CNAME .
 performance.gosami.xyz CNAME .
 *.performance.gosami.xyz CNAME .
 vpn.gosami.xyz CNAME .

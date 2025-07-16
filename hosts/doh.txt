@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jul 2025 00:09 UTC
-# Version: 2025.0716.0009.32
+# Last modified: 16 Jul 2025 08:16 UTC
+# Version: 2025.0716.0816.18
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1598
+# Number of entries: 1604
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -598,6 +598,7 @@
 0.0.0.0 takhtakh.domyah.net
 0.0.0.0 dns.dooks.uk
 0.0.0.0 dot.pub
+0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
 0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
@@ -613,6 +614,8 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 resolver1.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -625,6 +628,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -688,6 +692,7 @@
 0.0.0.0 dns.furrydns.de
 0.0.0.0 doh.futa.app
 0.0.0.0 doh.futa.gg
+0.0.0.0 dns.futuredns.me
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
@@ -992,6 +997,7 @@
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
 0.0.0.0 dns.mrkaran.dev
+0.0.0.0 msr177.com
 0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com

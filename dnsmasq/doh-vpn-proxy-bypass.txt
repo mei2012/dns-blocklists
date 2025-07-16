@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jul 2025 00:09 UTC
-# Version: 2025.0716.0009.54
+# Last modified: 16 Jul 2025 08:16 UTC
+# Version: 2025.0716.0816.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5148
+# Number of entries: 5161
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1116,6 +1116,7 @@ local=/doh.disconnect.app/
 local=/fdns1.dismail.de/
 local=/fdns2.dismail.de/
 local=/districtnewyork.com/
+local=/divalane.com/
 local=/divaloo.com/
 local=/divavu.com/
 local=/coolgams.dk-condos.com/
@@ -1139,6 +1140,7 @@ local=/dns3.dns-ga.de/
 local=/doh.dns-ga.de/
 local=/secure-dns.dns-ga.de/
 local=/dns.dns-over-https.com/
+local=/dns-savage.com/
 local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/dns4me.net/
@@ -1289,7 +1291,9 @@ local=/dontblockme.org/
 local=/dontfilter.us/
 local=/dns.dooks.uk/
 local=/arjunthestinkyindian.dorsrv.ru/
+local=/bristol-is-the-king.dorsrv.ru/
 local=/dot.pub/
+local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/dotvpn.com/
 local=/doublehop.me/
@@ -1325,7 +1329,9 @@ local=/dutchproxy.nl/
 local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/resolver1.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1369,6 +1375,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1429,6 +1436,7 @@ local=/cool.explosionlearning.org/
 local=/expressapisv2.net/
 local=/expressvpn.com/
 local=/expressvpn.net/
+local=/extravpn.top/
 local=/dns.extrawdw.net/
 local=/extremevpn.com/
 local=/fra1.eyecay.xyz/
@@ -1462,6 +1470,7 @@ local=/dennisthemeance.farted.net/
 local=/tenhh.farted.net/
 local=/fastestvpn.com/
 local=/fastestvpn.info/
+local=/fastfoxvpn.com/
 local=/fastfreeproxy.info/
 local=/nuclearvp.global.ssl.fastly.net/
 local=/fastp.org/
@@ -1647,6 +1656,7 @@ local=/dns.furrydns.de/
 local=/furriesarecute.furryplace.eu/
 local=/doh.futa.app/
 local=/doh.futa.gg/
+local=/dns.futuredns.me/
 local=/cats.fuzzylookups.com/
 local=/dogs.fuzzylookups.com/
 local=/foxes.fuzzylookups.com/
@@ -1707,6 +1717,7 @@ local=/gettwifi.com/
 local=/getusvpn.com/
 local=/getvpnx.com/
 local=/getxvpn.com/
+local=/getxvpn.xyz/
 local=/gfwvpn.com/
 local=/ghadrboland.ir/
 local=/www-croxy.ghgi.site/
@@ -1758,6 +1769,7 @@ local=/goodssh.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
+local=/dns-tunnel-check.googlezip.net/
 local=/tunnel.googlezip.net/
 local=/goosevpn.com/
 local=/performance.gosami.xyz/
@@ -2562,6 +2574,7 @@ local=/vpn.mozilla.org/
 local=/dns.mrkaran.dev/
 local=/atom.bio.mrlewburger.com/
 local=/sail.msg.boats/
+local=/msr177.com/
 local=/dns.msxnet.ru/
 local=/mtagprox.com/
 local=/dns.mtoo.vip/

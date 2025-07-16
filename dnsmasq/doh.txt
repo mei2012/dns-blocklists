@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jul 2025 00:09 UTC
-# Version: 2025.0716.0009.32
+# Last modified: 16 Jul 2025 08:16 UTC
+# Version: 2025.0716.0816.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1437
+# Number of entries: 1443
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -489,6 +489,7 @@ local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
 local=/dns.dooks.uk/
 local=/dot.pub/
+local=/ns1.dotls.org/
 local=/dns.dotnet.win/
 local=/dns.dremaxx.de/
 local=/droyd.top/
@@ -504,6 +505,8 @@ local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
+local=/resolver1.dyndnsinternetguide.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -516,6 +519,7 @@ local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
+local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -579,6 +583,7 @@ local=/doh.funtopia.tv/
 local=/dns.furrydns.de/
 local=/doh.futa.app/
 local=/doh.futa.gg/
+local=/dns.futuredns.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
@@ -876,6 +881,7 @@ local=/zrh1-ns01.monzoon.net/
 local=/dns.moonssif.com/
 local=/morbitzer.de/
 local=/dns.mrkaran.dev/
+local=/msr177.com/
 local=/dns.msxnet.ru/
 local=/dns.mtoo.vip/
 local=/ns.mtsoln.com/

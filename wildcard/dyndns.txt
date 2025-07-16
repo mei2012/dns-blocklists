@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jul 2025 00:09 UTC
-# Version: 2025.0716.0009.07
+# Last modified: 16 Jul 2025 08:15 UTC
+# Version: 2025.0716.0815.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1475
+# Number of entries: 1476
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -360,6 +360,7 @@
 *.drunkensailor.org
 *.dsmtp.com
 *.dtdns.com
+*.dtdns.net
 *.dtdns.org
 *.dubya.info
 *.dubya.net
