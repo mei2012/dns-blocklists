@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752696840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752711000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 20:14 UTC
-; Version: 2025.0716.2014.51
+; Last modified: 17 Jul 2025 00:10 UTC
+; Version: 2025.0717.0010.46
 ; Syntax: RPZ
-; Number of entries: 10348
+; Number of entries: 10358
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -870,6 +870,8 @@ nrr.ne1.co CNAME .
 *.nrr.ne1.co CNAME .
 oceanbrowser.co CNAME .
 *.oceanbrowser.co CNAME .
+onlineproxy.co CNAME .
+*.onlineproxy.co CNAME .
 pandapow.co CNAME .
 *.pandapow.co CNAME .
 pango-paas.co CNAME .
@@ -1704,6 +1706,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2766,6 +2770,8 @@ okayfreedom.com CNAME .
 *.okayfreedom.com CNAME .
 omegaproxy.com CNAME .
 *.omegaproxy.com CNAME .
+onevpn.com CNAME .
+*.onevpn.com CNAME .
 onlineanonymizer.com CNAME .
 *.onlineanonymizer.com CNAME .
 onlineipchanger.com CNAME .
@@ -9510,6 +9516,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10250,6 +10258,8 @@ lv1.nixnet.xyz CNAME .
 *.lv1.nixnet.xyz CNAME .
 ny1.nixnet.xyz CNAME .
 *.ny1.nixnet.xyz CNAME .
+nowhiteflags.xyz CNAME .
+*.nowhiteflags.xyz CNAME .
 noyourmean.xyz CNAME .
 *.noyourmean.xyz CNAME .
 ns8469rfvth42.xyz CNAME .

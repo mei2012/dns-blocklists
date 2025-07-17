@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752691620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752705900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 18:47 UTC
-; Version: 2025.0716.1847.25
+; Last modified: 16 Jul 2025 22:45 UTC
+; Version: 2025.0716.2245.15
 ; Syntax: RPZ
-; Number of entries: 10310
+; Number of entries: 10316
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2416,6 +2416,8 @@ mypoya.com CNAME .
 *.mypoya.com CNAME .
 myshorturls.com CNAME .
 *.myshorturls.com CNAME .
+mysurl.com CNAME .
+*.mysurl.com CNAME .
 myvdcc.com CNAME .
 *.myvdcc.com CNAME .
 name.com CNAME .
@@ -2460,6 +2462,8 @@ nwspprs.com CNAME .
 *.nwspprs.com CNAME .
 nxgtm.com CNAME .
 *.nxgtm.com CNAME .
+obblink.com CNAME .
+*.obblink.com CNAME .
 ok2.com CNAME .
 *.ok2.com CNAME .
 okebio.com CNAME .
@@ -6444,6 +6448,8 @@ mysexychat.live CNAME .
 *.mysexychat.live CNAME .
 nefeli.live CNAME .
 *.nefeli.live CNAME .
+neweden.live CNAME .
+*.neweden.live CNAME .
 nobitaxx.live CNAME .
 *.nobitaxx.live CNAME .
 nofnec.live CNAME .

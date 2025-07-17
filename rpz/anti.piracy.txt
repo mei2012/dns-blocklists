@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752696540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752710700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 20:09 UTC
-; Version: 2025.0716.2009.38
+; Last modified: 17 Jul 2025 00:05 UTC
+; Version: 2025.0717.0005.29
 ; Syntax: RPZ
-; Number of entries: 20396
+; Number of entries: 20400
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5685,6 +5685,8 @@ pandopuntokualda.com CNAME .
 *.pandopuntokualda.com CNAME .
 pangzitv.com CNAME .
 *.pangzitv.com CNAME .
+panoric.com CNAME .
+*.panoric.com CNAME .
 pantherabits.com CNAME .
 *.pantherabits.com CNAME .
 papflix.com CNAME .
@@ -14939,6 +14941,8 @@ newz-complex.org CNAME .
 *.newz-complex.org CNAME .
 nfhh.org CNAME .
 *.nfhh.org CNAME .
+nicoblog.org CNAME .
+*.nicoblog.org CNAME .
 nima4k.org CNAME .
 *.nima4k.org CNAME .
 nitesgate.org CNAME .
