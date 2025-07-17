@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752705900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752778020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 16 Jul 2025 22:45 UTC
-; Version: 2025.0716.2245.15
+; Last modified: 17 Jul 2025 18:47 UTC
+; Version: 2025.0717.1847.21
 ; Syntax: RPZ
-; Number of entries: 10316
+; Number of entries: 10358
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -276,6 +276,8 @@ pdxint.at CNAME .
 *.pdxint.at CNAME .
 posted.at CNAME .
 *.posted.at CNAME .
+shortr.at CNAME .
+*.shortr.at CNAME .
 shorturl.at CNAME .
 *.shorturl.at CNAME .
 tprurl.at CNAME .
@@ -780,6 +782,8 @@ urlf.cc CNAME .
 *.urlf.cc CNAME .
 urlme.cc CNAME .
 *.urlme.cc CNAME .
+urlsshares.cc CNAME .
+*.urlsshares.cc CNAME .
 uucc.cc CNAME .
 *.uucc.cc CNAME .
 uuz.cc CNAME .
@@ -1310,6 +1314,8 @@ pojonews.co CNAME .
 *.pojonews.co CNAME .
 politi.co CNAME .
 *.politi.co CNAME .
+potong.co CNAME .
+*.potong.co CNAME .
 prgress.co CNAME .
 *.prgress.co CNAME .
 prodd.co CNAME .
@@ -1470,6 +1476,8 @@ we.co CNAME .
 *.we.co CNAME .
 wfly.co CNAME .
 *.wfly.co CNAME .
+wjcf.co CNAME .
+*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -1482,6 +1490,8 @@ wrctr.co CNAME .
 *.wrctr.co CNAME .
 x.co CNAME .
 *.x.co CNAME .
+yourmovie.co CNAME .
+*.yourmovie.co CNAME .
 yubi.co CNAME .
 *.yubi.co CNAME .
 yyv.co CNAME .
@@ -2606,6 +2616,8 @@ rntyu.com CNAME .
 *.rntyu.com CNAME .
 rollwithpaul.com CNAME .
 *.rollwithpaul.com CNAME .
+rounash.com CNAME .
+*.rounash.com CNAME .
 rsmonkey.com CNAME .
 *.rsmonkey.com CNAME .
 rtvote.com CNAME .
@@ -2696,6 +2708,8 @@ shortlinkpanel.com CNAME .
 *.shortlinkpanel.com CNAME .
 shortll.com CNAME .
 *.shortll.com CNAME .
+shortlurl.com CNAME .
+*.shortlurl.com CNAME .
 shortlync.com CNAME .
 *.shortlync.com CNAME .
 shortmenu.com CNAME .
@@ -2732,6 +2746,8 @@ shrinkl.com CNAME .
 *.shrinkl.com CNAME .
 shrinkster.com CNAME .
 *.shrinkster.com CNAME .
+shrten.com CNAME .
+*.shrten.com CNAME .
 shrtfly.com CNAME .
 *.shrtfly.com CNAME .
 shrturll.com CNAME .
@@ -2972,6 +2988,8 @@ urlah.com CNAME .
 *.urlah.com CNAME .
 urlao.com CNAME .
 *.urlao.com CNAME .
+urlbrief.com CNAME .
+*.urlbrief.com CNAME .
 urlcover.com CNAME .
 *.urlcover.com CNAME .
 urlcut.com CNAME .
@@ -3082,6 +3100,8 @@ at.vibe.com CNAME .
 *.at.vibe.com CNAME .
 vigilink.com CNAME .
 *.vigilink.com CNAME .
+vipshortener.com CNAME .
+*.vipshortener.com CNAME .
 virl.com CNAME .
 *.virl.com CNAME .
 url.virtualstr8pnp.com CNAME .
@@ -3102,6 +3122,8 @@ vshorturl.com CNAME .
 *.vshorturl.com CNAME .
 vurl.com CNAME .
 *.vurl.com CNAME .
+vzturl.com CNAME .
+*.vzturl.com CNAME .
 w3dv.com CNAME .
 *.w3dv.com CNAME .
 walpolevoterguide2024.com CNAME .
@@ -3118,10 +3140,14 @@ go.weplayholding.com CNAME .
 *.go.weplayholding.com CNAME .
 whatsappconsulta.com CNAME .
 *.whatsappconsulta.com CNAME .
+whyiwu.com CNAME .
+*.whyiwu.com CNAME .
 peercertification.wildalwhite.com CNAME .
 *.peercertification.wildalwhite.com CNAME .
 winlynk.com CNAME .
 *.winlynk.com CNAME .
+withtask.com CNAME .
+*.withtask.com CNAME .
 wmojo.com CNAME .
 *.wmojo.com CNAME .
 woflpackciye.com CNAME .
@@ -3142,6 +3168,8 @@ wurlz.com CNAME .
 *.wurlz.com CNAME .
 wwdurl.com CNAME .
 *.wwdurl.com CNAME .
+x2t.com CNAME .
+*.x2t.com CNAME .
 xaddr.com CNAME .
 *.xaddr.com CNAME .
 xajfl.com CNAME .
@@ -5164,6 +5192,8 @@ yourl.ir CNAME .
 *.yourl.ir CNAME .
 yun.ir CNAME .
 *.yun.ir CNAME .
+zeek.ir CNAME .
+*.zeek.ir CNAME .
 zurl.ir CNAME .
 *.zurl.ir CNAME .
 0i.is CNAME .
@@ -6154,6 +6184,8 @@ short1.link CNAME .
 *.short1.link CNAME .
 shortq.link CNAME .
 *.shortq.link CNAME .
+shrtme.link CNAME .
+*.shrtme.link CNAME .
 smart.link CNAME .
 *.smart.link CNAME .
 smurl.link CNAME .
@@ -7390,6 +7422,8 @@ myqrcode.mobi CNAME .
 *.myqrcode.mobi CNAME .
 nlc.mobi CNAME .
 *.nlc.mobi CNAME .
+prvt.mobi CNAME .
+*.prvt.mobi CNAME .
 tinyurl.mobi CNAME .
 *.tinyurl.mobi CNAME .
 go.westco.mobi CNAME .
@@ -7790,6 +7824,8 @@ zip.net CNAME .
 *.zip.net CNAME .
 zoneurl.net CNAME .
 *.zoneurl.net CNAME .
+zsms.net CNAME .
+*.zsms.net CNAME .
 zxq.net CNAME .
 *.zxq.net CNAME .
 bitly.network CNAME .
@@ -8442,6 +8478,8 @@ qsl.pw CNAME .
 *.qsl.pw CNAME .
 rebrand.pw CNAME .
 *.rebrand.pw CNAME .
+short24.pw CNAME .
+*.short24.pw CNAME .
 u.shxj.pw CNAME .
 *.u.shxj.pw CNAME .
 sura.pw CNAME .
@@ -10284,6 +10322,8 @@ piggy.xyz CNAME .
 *.piggy.xyz CNAME .
 pws1ooo.xyz CNAME .
 *.pws1ooo.xyz CNAME .
+rusuhkali.xyz CNAME .
+*.rusuhkali.xyz CNAME .
 saddr.xyz CNAME .
 *.saddr.xyz CNAME .
 shortenerlink.xyz CNAME .
@@ -10296,6 +10336,8 @@ shortmds.xyz CNAME .
 *.shortmds.xyz CNAME .
 shortme.xyz CNAME .
 *.shortme.xyz CNAME .
+spidz.xyz CNAME .
+*.spidz.xyz CNAME .
 srturl.xyz CNAME .
 *.srturl.xyz CNAME .
 stke.xyz CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 16 Jul 2025 20:14 UTC
-# Version: 2025.0716.2014.07
+# Last modified: 17 Jul 2025 20:13 UTC
+# Version: 2025.0717.2013.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1477
+# Number of entries: 1479
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1115,6 +1115,7 @@ local=/parikh.net/
 local=/partycenteronline.com/
 local=/patelmortgage.com/
 local=/paulkelly.org/
+local=/pcanywhere.net/
 local=/peachyweb.com/
 local=/pedie.info/
 local=/pendulumaudio.com/
@@ -1414,6 +1415,7 @@ local=/viiic.net/
 local=/vincomlimited.com/
 local=/vitalwerks.com/
 local=/vizvaz.com/
+local=/voles35.ru/
 local=/voyez.ca/
 local=/vpn64.de/
 local=/vpndns.net/
