@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752840000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1752854580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 18 Jul 2025 12:00 UTC
-; Version: 2025.0718.1200.41
+; Last modified: 18 Jul 2025 16:03 UTC
+; Version: 2025.0718.1603.43
 ; Syntax: RPZ
-; Number of entries: 119704
+; Number of entries: 119718
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -17803,6 +17803,8 @@ images.20241213.com CNAME .
 *.2899bets.com CNAME .
 289win04.com CNAME .
 *.289win04.com CNAME .
+289win06.com CNAME .
+*.289win06.com CNAME .
 28bet-casino.com CNAME .
 *.28bet-casino.com CNAME .
 28betslots.com CNAME .
@@ -21517,6 +21519,8 @@ bsi3p.88zfym.com CNAME .
 *.939bet-bets.com CNAME .
 939bet-casino.com CNAME .
 *.939bet-casino.com CNAME .
+939bet13.com CNAME .
+*.939bet13.com CNAME .
 939bet6.com CNAME .
 *.939bet6.com CNAME .
 939bet7.com CNAME .
@@ -38465,6 +38469,8 @@ goldenheartsgames.com CNAME .
 *.goldenheartsgames.com CNAME .
 goldenhoyeahslots.com CNAME .
 *.goldenhoyeahslots.com CNAME .
+goldenjojo.com CNAME .
+*.goldenjojo.com CNAME .
 goldenladycasino.com CNAME .
 *.goldenladycasino.com CNAME .
 goldenlioncasinoonline.com CNAME .
@@ -39611,6 +39617,8 @@ hh55slots.com CNAME .
 *.hh55slots.com CNAME .
 hhbet.com CNAME .
 *.hhbet.com CNAME .
+hhbet0.com CNAME .
+*.hhbet0.com CNAME .
 hhbet1.com CNAME .
 *.hhbet1.com CNAME .
 hhbet5.com CNAME .
@@ -43297,6 +43305,8 @@ lecerbere.com CNAME .
 *.lecerbere.com CNAME .
 lechoixducasino.com CNAME .
 *.lechoixducasino.com CNAME .
+leebet8.com CNAME .
+*.leebet8.com CNAME .
 leestreetsportsbar.com CNAME .
 *.leestreetsportsbar.com CNAME .
 legailscasinowebsite.com CNAME .
@@ -47971,6 +47981,8 @@ okd8712.com CNAME .
 *.okd8712.com CNAME .
 oke-slot.com CNAME .
 *.oke-slot.com CNAME .
+oke63-9.com CNAME .
+*.oke63-9.com CNAME .
 okeybets.com CNAME .
 *.okeybets.com CNAME .
 okeymonitor.com CNAME .
@@ -49417,6 +49429,8 @@ pepcasinogirisi.com CNAME .
 *.pepcasinogirisi.com CNAME .
 pepcasinositesi.com CNAME .
 *.pepcasinositesi.com CNAME .
+pepeta.com CNAME .
+*.pepeta.com CNAME .
 pepsipg.com CNAME .
 *.pepsipg.com CNAME .
 perabetegirisi.com CNAME .
@@ -62037,6 +62051,8 @@ winpkr13.com CNAME .
 *.winpkr13.com CNAME .
 winplus10.com CNAME .
 *.winplus10.com CNAME .
+winplus12.com CNAME .
+*.winplus12.com CNAME .
 winpokerbot.com CNAME .
 *.winpokerbot.com CNAME .
 winport-casino.com CNAME .
@@ -62557,6 +62573,8 @@ x1490.com CNAME .
 *.x1490.com CNAME .
 x18778.com CNAME .
 *.x18778.com CNAME .
+x2007win.com CNAME .
+*.x2007win.com CNAME .
 x24bet.com CNAME .
 *.x24bet.com CNAME .
 x26-casino.com CNAME .
@@ -70109,6 +70127,8 @@ wmb.jp CNAME .
 *.8xbet.kaufen CNAME .
 1xbet-kenya.ke CNAME .
 *.1xbet-kenya.ke CNAME .
+betfalme.ke CNAME .
+*.betfalme.ke CNAME .
 betlion.ke CNAME .
 *.betlion.ke CNAME .
 betwinner.ke CNAME .
@@ -84603,8 +84623,6 @@ ivibets.pro CNAME .
 *.ivibets.pro CNAME .
 jackpotpiratencasino.pro CNAME .
 *.jackpotpiratencasino.pro CNAME .
-javabetsportid.pro CNAME .
-*.javabetsportid.pro CNAME .
 jitabet-app.pro CNAME .
 *.jitabet-app.pro CNAME .
 jugabebslotsworld.pro CNAME .
@@ -99487,8 +99505,6 @@ casinox-nsq.top CNAME .
 *.casinox-nsq.top CNAME .
 casinox-ntg.top CNAME .
 *.casinox-ntg.top CNAME .
-casinox-oficial.top CNAME .
-*.casinox-oficial.top CNAME .
 casinox-oqe.top CNAME .
 *.casinox-oqe.top CNAME .
 casinox-rbl.top CNAME .
@@ -104259,8 +104275,6 @@ redstagcasinoes.top CNAME .
 *.redstagcasinoes.top CNAME .
 refpa.top CNAME .
 *.refpa.top CNAME .
-refpa0461441.top CNAME .
-*.refpa0461441.top CNAME .
 refpa1342653.top CNAME .
 *.refpa1342653.top CNAME .
 refpa28543.top CNAME .
