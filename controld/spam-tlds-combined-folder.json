@@ -4074,6 +4074,13 @@
       }
     },
     {
+      "PK": "pstream.mov",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.pub",
       "action": {
         "do": 0,
