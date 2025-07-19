@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jul 2025 23:10 UTC
-# Version: 2025.0704.2310.41
+# Last modified: 18 Jul 2025 23:09 UTC
+# Version: 2025.0718.2309.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 410
+# Number of entries: 411
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -318,6 +318,7 @@
 *.adsdk.trafficmanager.net
 *.agps-location-livenet.trafficmanager.net
 *.analytics.trafficmanager.net
+*.analytics-listener.trafficmanager.net
 *.atm-settingsfe-prod-geo2.trafficmanager.net
 *.beacons.trafficmanager.net
 *.bf-analytics-tracker-tm.trafficmanager.net

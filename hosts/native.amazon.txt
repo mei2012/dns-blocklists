@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jul 2025 23:09 UTC
-# Version: 2025.0711.2309.53
+# Last modified: 18 Jul 2025 23:08 UTC
+# Version: 2025.0718.2308.27
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 597
+# Number of entries: 604
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -51,6 +51,7 @@
 0.0.0.0 aax-eu-test1.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.us-east.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
@@ -571,7 +572,13 @@
 0.0.0.0 vfwm-us.amazon-adsystem.com
 0.0.0.0 vfwm.amazon-adsystem.com
 0.0.0.0 vfws.amazon-adsystem.com
+0.0.0.0 video-ads.a2z.com
 0.0.0.0 video-player.aps.amazon-adsystem.com
+0.0.0.0 vq-eu-west-1.amazon-adsystem.com
+0.0.0.0 vq-fe-us-west-2.amazon-adsystem.com
+0.0.0.0 vq-test-us-east-1.amazon-adsystem.com
+0.0.0.0 vq-us-east-1.amazon-adsystem.com
+0.0.0.0 vq-us-west-2.amazon-adsystem.com
 0.0.0.0 web.ads.aps.amazon-adsystem.com
 0.0.0.0 web.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 web.eu-west.aps.axp.amazon-adsystem.com
