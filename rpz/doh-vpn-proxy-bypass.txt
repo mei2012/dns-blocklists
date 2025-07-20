@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1752969660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753041960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 20 Jul 2025 00:01 UTC
-; Version: 2025.0720.0001.38
+; Last modified: 20 Jul 2025 20:06 UTC
+; Version: 2025.0720.2006.27
 ; Syntax: RPZ
-; Number of entries: 10412
+; Number of entries: 10416
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2652,8 +2652,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3974,6 +3972,8 @@ session.proxy1.startpage.com CNAME .
 *.08bb0a086d6dfe296717ad8156a1b87aedf491e8-m.proxy2.startpage.com CNAME .
 09ef4f2ff625b90a98f1eb380808f197406550df-m.proxy2.startpage.com CNAME .
 *.09ef4f2ff625b90a98f1eb380808f197406550df-m.proxy2.startpage.com CNAME .
+0a554bd25705c792841028c12f104e051fb5a1c9-m.proxy2.startpage.com CNAME .
+*.0a554bd25705c792841028c12f104e051fb5a1c9-m.proxy2.startpage.com CNAME .
 0c7797c34249ebf9364c14bff6f2592bc0afc661-m.proxy2.startpage.com CNAME .
 *.0c7797c34249ebf9364c14bff6f2592bc0afc661-m.proxy2.startpage.com CNAME .
 0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com CNAME .
@@ -4062,6 +4062,8 @@ session.proxy1.startpage.com CNAME .
 *.9031f18492dd0d3bad67fa49cecb4dce64732838-m.proxy2.startpage.com CNAME .
 909ec055f2c294b9cc6a03360fcd90f4d033e647-m.proxy2.startpage.com CNAME .
 *.909ec055f2c294b9cc6a03360fcd90f4d033e647-m.proxy2.startpage.com CNAME .
+91930d044ed04dc3f60c23bbe2b5c79ab2f97e9f-m.proxy2.startpage.com CNAME .
+*.91930d044ed04dc3f60c23bbe2b5c79ab2f97e9f-m.proxy2.startpage.com CNAME .
 919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com CNAME .
 *.919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com CNAME .
 9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com CNAME .
@@ -4100,6 +4102,8 @@ c05ab1fa6cbc5db297727c09678d77cb3101c6d5-m.proxy2.startpage.com CNAME .
 *.c05ab1fa6cbc5db297727c09678d77cb3101c6d5-m.proxy2.startpage.com CNAME .
 c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com CNAME .
 *.c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com CNAME .
+c7a662cfbd1dd13d6a4b841781befbb6f645ae20-m.proxy2.startpage.com CNAME .
+*.c7a662cfbd1dd13d6a4b841781befbb6f645ae20-m.proxy2.startpage.com CNAME .
 c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com CNAME .
 *.c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com CNAME .
 c8227d5bb898b8f7d57f2deb529714a5e814961f-m.proxy2.startpage.com CNAME .
@@ -4168,6 +4172,8 @@ fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com CNAME .
 *.fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com CNAME .
 fb80256653edfbd9468b6d580605b0a338ea2a16-m.proxy2.startpage.com CNAME .
 *.fb80256653edfbd9468b6d580605b0a338ea2a16-m.proxy2.startpage.com CNAME .
+fb90d67e62e07ca6733db0f5aa8b7d21d0d8ff3b-m.proxy2.startpage.com CNAME .
+*.fb90d67e62e07ca6733db0f5aa8b7d21d0d8ff3b-m.proxy2.startpage.com CNAME .
 febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com CNAME .
 *.febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com CNAME .
 session.proxy2.startpage.com CNAME .
@@ -6214,10 +6220,6 @@ privacy.io CNAME .
 *.privacy.io CNAME .
 privado.io CNAME .
 *.privado.io CNAME .
-de.dns.privex.io CNAME .
-*.de.dns.privex.io CNAME .
-nl.dns.privex.io CNAME .
-*.nl.dns.privex.io CNAME .
 proxyfactory.io CNAME .
 *.proxyfactory.io CNAME .
 proxyjet.io CNAME .
@@ -9572,6 +9574,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

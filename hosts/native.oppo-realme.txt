@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 12 Jun 2025 13:00 UTC
-# Version: 2025.0612.1300.03
+# Last modified: 20 Jul 2025 16:34 UTC
+# Version: 2025.0720.1634.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 448
+# Number of entries: 450
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -245,6 +245,8 @@
 0.0.0.0 dhfs-in.heytapimage.com
 0.0.0.0 dhfs-my.heytapimage.com
 0.0.0.0 dhfs-ph.heytapimage.com
+0.0.0.0 ums-rum-cn.heytapimage.com
+0.0.0.0 ums-rum-global.heytapimage.com
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx-f.ads.heytapmobi.com
