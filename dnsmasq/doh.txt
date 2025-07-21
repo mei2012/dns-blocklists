@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jul 2025 12:04 UTC
-# Version: 2025.0721.1204.47
+# Last modified: 21 Jul 2025 20:07 UTC
+# Version: 2025.0721.2007.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1445
+# Number of entries: 1447
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -503,6 +503,7 @@ local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/dukun.de/
+local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver1.dyndnsinternetguide.com/
 local=/gustamadh.dynv6.net/
@@ -586,6 +587,7 @@ local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
 local=/adguard.gambini.org/
 local=/dns.beta.gandi.net/
+local=/gclouddns.com/
 local=/adg.geili.me/
 local=/geshido.vpn.geshido.ru/
 local=/getdnsapi.net/
@@ -1340,6 +1342,7 @@ local=/timedns.net/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
 local=/dns.tipsy.coffee/
+local=/tk31z.com/
 local=/dns.tls-data.de/
 local=/d.toairs.com/
 local=/dot.tooli.ca/
@@ -1438,7 +1441,6 @@ local=/lion.yazilimatolye.com/
 local=/ychen.cf/
 local=/ychen.gq/
 local=/sg.yepdns.com/
-local=/net01.youcef.io/
 local=/your-dns.run/
 local=/yovbak.com/
 local=/dns.yuu-g.net/

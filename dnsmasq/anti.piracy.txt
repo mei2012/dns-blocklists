@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jul 2025 11:59 UTC
-# Version: 2025.0721.1159.55
+# Last modified: 21 Jul 2025 20:02 UTC
+# Version: 2025.0721.2002.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10249
+# Number of entries: 10261
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -22,6 +22,7 @@ local=/0123moviesfree.org/
 local=/01streaming.click/
 local=/01streaming.tv/
 local=/037hdmovie.com/
+local=/0902797.xyz/
 local=/0day.ro/
 local=/0daycn.net/
 local=/0dayddl.com/
@@ -214,6 +215,7 @@ local=/24h.tv/
 local=/24urban.com/
 local=/24warez.ru/
 local=/2600.com/
+local=/266528.xyz/
 local=/2bbit.com/
 local=/2bcalvi.com/
 local=/2ddl.it/
@@ -1456,6 +1458,7 @@ local=/boerse.to/
 local=/boerse.tw/
 local=/bokashoka.com/
 local=/bolly4u.tube/
+local=/bollyflix.army/
 local=/bollywood.eu/
 local=/bolmovies.com/
 local=/bomplay.com/
@@ -1463,10 +1466,12 @@ local=/bondhuitbd.com/
 local=/bonoov.fr/
 local=/bonsaihd.live/
 local=/bookaudiobook.net/
+local=/bookaura.top/
 local=/bookddl.com/
 local=/bookgrill.com/
 local=/bookracy.ru/
 local=/books-share.com/
+local=/booksrus.xyz/
 local=/boomep.com/
 local=/boommovie.org/
 local=/boostfluence.com/
@@ -1914,6 +1919,7 @@ local=/cinemahd.work/
 local=/cinemahdv2.io/
 local=/cinemaindo.net/
 local=/cinemalibero.cafe/
+local=/cinemalux.cfd/
 local=/cinemamovies.pl/
 local=/cinemanija.com/
 local=/cinemastore.hu/
@@ -2781,6 +2787,7 @@ local=/aam-bt.dyns.cx/
 local=/thitgaluoc.dynu.net/
 local=/dyxz.org/
 local=/dzot.com/
+local=/e-book.cash/
 local=/e-booksland.com/
 local=/bt.e-burg.org/
 local=/e-hentai.org/
@@ -5228,6 +5235,7 @@ local=/lk21official.info/
 local=/lk21official.vip/
 local=/tv2.lk21official.pro/
 local=/lk21tv.com/
+local=/ll1.my/
 local=/lmanime.com/
 local=/lmp3.org/
 local=/lnx-bbc.org/
@@ -7007,6 +7015,7 @@ local=/purelivegigs.com/
 local=/puretna.com/
 local=/bt.pusacg.org/
 local=/pussytorrents.org/
+local=/pustakalya.vip/
 local=/put-locker.com/
 local=/putlocker.actor/
 local=/putlocker.blue/
@@ -7229,7 +7238,6 @@ local=/redditsoccerstreams.one/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.watch/
 local=/redditsoccerstreams.xyz/
-local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
@@ -9449,6 +9457,7 @@ local=/vegamovies.ngo/
 local=/vegamovies.rs/
 local=/vegamovies.ss/
 local=/vegamovies.vg/
+local=/vegamovies6.com/
 local=/velocinator.tv/
 local=/veoble.com/
 local=/veranime.top/
@@ -9993,6 +10002,7 @@ local=/xtremezone.ro/
 local=/xtv.to/
 local=/xtvi.com/
 local=/xubster.com/
+local=/xuyadong.sbs/
 local=/xwt-classics.net/
 local=/open.xxtor.com/
 local=/xxx-tracker.com/
@@ -10188,6 +10198,7 @@ local=/zdig1.biz/
 local=/zdstresser.net/
 local=/zecircle.xyz/
 local=/zeduga.com/
+local=/zeegwet.shop/
 local=/zeflix.online/
 local=/mail2.zelenaya.net/
 local=/zelka.org/
@@ -10217,6 +10228,7 @@ local=/ziperto.com/
 local=/zipnetbd.com/
 local=/zippyshare.com/
 local=/zippyshare.day/
+local=/zlibrarya.online/
 local=/bt.zlofenix.org/
 local=/zlotracker.org/
 local=/zmovie.ru/

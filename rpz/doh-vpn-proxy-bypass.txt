@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753099500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753128420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Jul 2025 12:05 UTC
-; Version: 2025.0721.1205.12
+; Last modified: 21 Jul 2025 20:07 UTC
+; Version: 2025.0721.2007.53
 ; Syntax: RPZ
-; Number of entries: 10414
+; Number of entries: 10418
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1916,6 +1916,8 @@ zxyp.02.garmanage.com CNAME .
 *.zxyp.02.garmanage.com CNAME .
 myincredibleweightlossjounrney.gblandscape.com CNAME .
 *.myincredibleweightlossjounrney.gblandscape.com CNAME .
+gclouddns.com CNAME .
+*.gclouddns.com CNAME .
 geekproxy.com CNAME .
 *.geekproxy.com CNAME .
 genmirror.com CNAME .
@@ -4376,6 +4378,8 @@ timurpoyraz.com CNAME .
 *.timurpoyraz.com CNAME .
 titantunnelvpn.com CNAME .
 *.titantunnelvpn.com CNAME .
+tk31z.com CNAME .
+*.tk31z.com CNAME .
 tlsext.com CNAME .
 *.tlsext.com CNAME .
 tnvpn.com CNAME .
@@ -5074,6 +5078,8 @@ dns.dremaxx.de CNAME .
 *.dns.dremaxx.de CNAME .
 dukun.de CNAME .
 *.dukun.de CNAME .
+dns.dyn1.de CNAME .
+*.dns.dyn1.de CNAME .
 adbox-v9.dynipv6.de CNAME .
 *.adbox-v9.dynipv6.de CNAME .
 opennic1.eth-services.de CNAME .
@@ -6278,8 +6284,6 @@ webshare.io CNAME .
 *.webshare.io CNAME .
 xvpn.io CNAME .
 *.xvpn.io CNAME .
-net01.youcef.io CNAME .
-*.net01.youcef.io CNAME .
 zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
 ougonokaze.cheftayebeh.ir CNAME .

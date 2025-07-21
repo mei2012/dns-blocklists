@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753099140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753128120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 21 Jul 2025 11:59 UTC
-; Version: 2025.0721.1159.55
+; Last modified: 21 Jul 2025 20:02 UTC
+; Version: 2025.0721.2002.43
 ; Syntax: RPZ
-; Number of entries: 20498
+; Number of entries: 20522
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -293,6 +293,8 @@ eurostreaming.archi CNAME .
 *.eurostreaming.archi CNAME .
 aaa.army CNAME .
 *.aaa.army CNAME .
+bollyflix.army CNAME .
+*.bollyflix.army CNAME .
 guardaserie.army CNAME .
 *.guardaserie.army CNAME .
 piratebay.army CNAME .
@@ -933,6 +935,8 @@ tamilblasters.casa CNAME .
 *.tamilblasters.casa CNAME .
 unblocked.casa CNAME .
 *.unblocked.casa CNAME .
+e-book.cash CNAME .
+*.e-book.cash CNAME .
 eurostreaming.cash CNAME .
 *.eurostreaming.cash CNAME .
 altadefinizione.casino CNAME .
@@ -1215,8 +1219,6 @@ radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
 rarbg.cc CNAME .
 *.rarbg.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -1337,6 +1339,8 @@ altadefinizione.cfd CNAME .
 *.altadefinizione.cfd CNAME .
 cb01.cfd CNAME .
 *.cb01.cfd CNAME .
+cinemalux.cfd CNAME .
+*.cinemalux.cfd CNAME .
 filmpertutti.cfd CNAME .
 *.filmpertutti.cfd CNAME .
 sharespark.cfd CNAME .
@@ -7247,6 +7251,8 @@ vdos-s.com CNAME .
 *.vdos-s.com CNAME .
 vedigratis.com CNAME .
 *.vedigratis.com CNAME .
+vegamovies6.com CNAME .
+*.vegamovies6.com CNAME .
 veoble.com CNAME .
 *.veoble.com CNAME .
 verpeliculasultra.com CNAME .
@@ -11479,6 +11485,8 @@ yts.mx CNAME .
 *.yts.mx CNAME .
 hdfilme-to.my CNAME .
 *.hdfilme-to.my CNAME .
+ll1.my CNAME .
+*.ll1.my CNAME .
 netmirror.my CNAME .
 *.netmirror.my CNAME .
 streamcloud.my CNAME .
@@ -14027,6 +14035,8 @@ xcine.online CNAME .
 *.xcine.online CNAME .
 zeflix.online CNAME .
 *.zeflix.online CNAME .
+zlibrarya.online CNAME .
+*.zlibrarya.online CNAME .
 0123moviesfree.org CNAME .
 *.0123moviesfree.org CNAME .
 1-thepiratebay.org CNAME .
@@ -17035,6 +17045,8 @@ piratesbay.sbs CNAME .
 *.piratesbay.sbs CNAME .
 tantifilm.sbs CNAME .
 *.tantifilm.sbs CNAME .
+xuyadong.sbs CNAME .
+*.xuyadong.sbs CNAME .
 123movies.sc CNAME .
 *.123movies.sc CNAME .
 123movieshub.sc CNAME .
@@ -17207,6 +17219,8 @@ tantifilm.shop CNAME .
 *.tantifilm.shop CNAME .
 time4tv.shop CNAME .
 *.time4tv.shop CNAME .
+zeegwet.shop CNAME .
+*.zeegwet.shop CNAME .
 123freemovies.show CNAME .
 *.123freemovies.show CNAME .
 123movie.show CNAME .
@@ -18429,6 +18443,8 @@ altadefinizione01.top CNAME .
 *.altadefinizione01.top CNAME .
 bclearning.top CNAME .
 *.bclearning.top CNAME .
+bookaura.top CNAME .
+*.bookaura.top CNAME .
 btracker.top CNAME .
 *.btracker.top CNAME .
 cikava-ideya.top CNAME .
@@ -19631,6 +19647,8 @@ myfreemp3.vip CNAME .
 *.myfreemp3.vip CNAME .
 nyafilmer.vip CNAME .
 *.nyafilmer.vip CNAME .
+pustakalya.vip CNAME .
+*.pustakalya.vip CNAME .
 putlocker.vip CNAME .
 *.putlocker.vip CNAME .
 saiko.vip CNAME .
@@ -20123,6 +20141,8 @@ u.wwwww.wtf CNAME .
 *.u.wwwww.wtf CNAME .
 w.wwwww.wtf CNAME .
 *.w.wwwww.wtf CNAME .
+0902797.xyz CNAME .
+*.0902797.xyz CNAME .
 atrack-asia-s1.114913.xyz CNAME .
 *.atrack-asia-s1.114913.xyz CNAME .
 123movieonline.xyz CNAME .
@@ -20135,6 +20155,8 @@ t.213891.xyz CNAME .
 *.t.213891.xyz CNAME .
 23movies.xyz CNAME .
 *.23movies.xyz CNAME .
+266528.xyz CNAME .
+*.266528.xyz CNAME .
 337hhh.xyz CNAME .
 *.337hhh.xyz CNAME .
 bt.3kb.xyz CNAME .
@@ -20177,6 +20199,8 @@ blunter.xyz CNAME .
 *.blunter.xyz CNAME .
 blutopia.xyz CNAME .
 *.blutopia.xyz CNAME .
+booksrus.xyz CNAME .
+*.booksrus.xyz CNAME .
 t.btcland.xyz CNAME .
 *.t.btcland.xyz CNAME .
 btorrent.xyz CNAME .
