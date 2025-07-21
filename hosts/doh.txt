@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jul 2025 20:06 UTC
-# Version: 2025.0720.2006.06
+# Last modified: 21 Jul 2025 08:00 UTC
+# Version: 2025.0721.0800.51
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1607
 #
@@ -612,7 +612,6 @@
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
-0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver1.dyndnsinternetguide.com
 0.0.0.0 gustamadh.dynv6.net
@@ -671,7 +670,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1273,6 +1271,8 @@
 0.0.0.0 luxembourg.privacy-dns.pw
 0.0.0.0 romania.privacy-dns.pw
 0.0.0.0 orpi.privado.ovh
+0.0.0.0 de.dns.privex.io
+0.0.0.0 nl.dns.privex.io
 0.0.0.0 project-evoex.de
 0.0.0.0 dns.propheci.xyz
 0.0.0.0 dns.psociety.de
