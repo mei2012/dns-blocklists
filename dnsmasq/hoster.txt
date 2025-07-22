@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jul 2025 18:39 UTC
-# Version: 2025.0721.1839.56
+# Last modified: 22 Jul 2025 10:39 UTC
+# Version: 2025.0722.1039.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2137
+# Number of entries: 2138
 #
 local=/000a.de/
 local=/000free.us/
@@ -1856,6 +1856,7 @@ local=/topbloghub.com/
 local=/total-blog.com/
 local=/totalh.net/
 local=/ftp.totallyanonymous.com/
+local=/tqhmu.cn/
 local=/tr.gg/
 local=/tr.gp/
 local=/trackfinanceworld.com/
