@@ -11,8 +11,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 22 Jul 2025 11:35 UTC
-! Version: 2025.0722.1135.34
+! Last modified: 22 Jul 2025 15:25 UTC
+! Version: 2025.0722.1525.18
 ! Syntax: uBlock
 ! Number of latin TLDs: 271 - non-latin TLDs: 151
 !
@@ -21,7 +21,7 @@
 ||agency^$doc,domain=~apptoro.agency|~baam.agency|~battlefield.agency|~byteful.agency|~robotzebra.agency|~uphotel.agency|~usenet.agency|~ws.agency
 ||apartments^$doc
 ||army^$doc,domain=~phishing.army
-||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~homelands.asia|~pansci.asia
+||asia^$doc,domain=~amzn.asia|~autoads.asia|~bandainamcoent.asia|~dbankcloud.asia|~elgaucho.asia|~homelands.asia|~pansci.asia
 ||auction^$doc
 ||autos^$doc
 ||baby^$doc
@@ -32,7 +32,7 @@
 ||best^$doc,domain=~epg.best|~xhamster.best
 ||bet^$doc
 ||bid^$doc
-||bike^$doc,domain=~lime.bike|~rapido.bike
+||bike^$doc,domain=~dat.bike|~lime.bike|~rapido.bike
 ||bingo^$doc
 ||biz^$doc,domain=~anonymurl.biz|~beiniz.biz|~bonial.biz|~cloudns.biz|~cyberciti.biz|~dailyinnovation.biz|~engelliler.biz|~epson.biz|~ette.biz|~gamesindustry.biz|~gimmeporn.biz|~hb.biz|~iimwf.biz|~kioskcms.biz|~knuddels.biz|~line.biz|~localise.biz|~luckysbarbershop.biz|~movabletype.biz|~notebookcheck.biz|~oe24cdn.biz|~ooshahwa.biz|~panasonic.biz|~slussen.biz|~volvocars.biz|~wiz.biz|~wspay.biz|~wyborcza.biz|~yoox.biz
 ||black^$doc

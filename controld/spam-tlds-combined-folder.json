@@ -1169,6 +1169,13 @@
       }
     },
     {
+      "PK": "dat.bike",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.date",
       "action": {
         "do": 0,
@@ -1443,6 +1450,13 @@
     },
     {
       "PK": "e.foundation",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "elgaucho.asia",
       "action": {
         "do": 1,
         "status": 1

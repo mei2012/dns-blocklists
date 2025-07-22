@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753186380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753200360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 22 Jul 2025 12:13 UTC
-; Version: 2025.0722.1213.03
+; Last modified: 22 Jul 2025 16:06 UTC
+; Version: 2025.0722.1606.21
 ; Syntax: RPZ
-; Number of entries: 10468
+; Number of entries: 10480
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -204,6 +204,8 @@ h4g3z1-doh-vpn-proxy-bypass.web.app CNAME .
 *.h4g3z1-doh-vpn-proxy-bypass.web.app CNAME .
 wirevpn.app CNAME .
 *.wirevpn.app CNAME .
+a1.asistdoc.ar CNAME .
+*.a1.asistdoc.ar CNAME .
 data.c-abogados.com.ar CNAME .
 *.data.c-abogados.com.ar CNAME .
 budget.chodos.com.ar CNAME .
@@ -1706,8 +1708,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -1720,6 +1720,8 @@ study.employeevantage.com CNAME .
 *.study.employeevantage.com CNAME .
 endente.com CNAME .
 *.endente.com CNAME .
+plant.smart.energysemi.com CNAME .
+*.plant.smart.energysemi.com CNAME .
 enproxy.com CNAME .
 *.enproxy.com CNAME .
 enrollkirgo.com CNAME .
@@ -2588,6 +2590,8 @@ aahfgdd.mooo.com CNAME .
 *.aahfgdd.mooo.com CNAME .
 aleks.readtheory.com.mooo.com CNAME .
 *.aleks.readtheory.com.mooo.com CNAME .
+freednsafraidorg.mooo.com CNAME .
+*.freednsafraidorg.mooo.com CNAME .
 propeller.catapzlt.rohu.mooo.com CNAME .
 *.propeller.catapzlt.rohu.mooo.com CNAME .
 morevpn.com CNAME .
@@ -4246,6 +4250,8 @@ stealthvpn.com CNAME .
 *.stealthvpn.com CNAME .
 steganos.com CNAME .
 *.steganos.com CNAME .
+pupil.learn.stevedewald.com CNAME .
+*.pupil.learn.stevedewald.com CNAME .
 read.atom.stickyricecakes.com CNAME .
 *.read.atom.stickyricecakes.com CNAME .
 dns.stirringphoto.com CNAME .
@@ -4408,6 +4414,8 @@ therabbitvpn.com CNAME .
 *.therabbitvpn.com CNAME .
 thesiteproxy.com CNAME .
 *.thesiteproxy.com CNAME .
+vyujcfwinj.thetrist.com CNAME .
+*.vyujcfwinj.thetrist.com CNAME .
 thundervpnwin.com CNAME .
 *.thundervpnwin.com CNAME .
 tiafun.com CNAME .
@@ -6396,6 +6404,8 @@ konata-ice.soon.it CNAME .
 *.konata-ice.soon.it CNAME .
 maxkershoe.soon.it CNAME .
 *.maxkershoe.soon.it CNAME .
+mybad.soon.it CNAME .
+*.mybad.soon.it CNAME .
 swisscheesebyjohn.soon.it CNAME .
 *.swisscheesebyjohn.soon.it CNAME .
 tor2web.it CNAME .
@@ -6770,8 +6780,6 @@ dns.warma.me CNAME .
 *.dns.warma.me CNAME .
 websurfproxy.me CNAME .
 *.websurfproxy.me CNAME .
-a.zpn.me CNAME .
-*.a.zpn.me CNAME .
 unblockit.meme CNAME .
 *.unblockit.meme CNAME .
 adultproxy.men CNAME .
@@ -8344,6 +8352,8 @@ dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .
 *.bmetrics.org CNAME .
+tutor.skills.bretonmeadowfarm.org CNAME .
+*.tutor.skills.bretonmeadowfarm.org CNAME .
 blooket.broomleigh.org CNAME .
 *.blooket.broomleigh.org CNAME .
 classroom.broomleigh.org CNAME .
@@ -8476,6 +8486,8 @@ freevpnapp.org CNAME .
 *.freevpnapp.org CNAME .
 adguard.gambini.org CNAME .
 *.adguard.gambini.org CNAME .
+work.quiz.gamersuk.org CNAME .
+*.work.quiz.gamersuk.org CNAME .
 gatcha.org CNAME .
 *.gatcha.org CNAME .
 vocab.media.georgas.org CNAME .
@@ -8938,6 +8950,8 @@ recap.grade.kredytlinia.pl CNAME .
 *.recap.grade.kredytlinia.pl CNAME .
 skills.field.cftc-devoteam.one.pl CNAME .
 *.skills.field.cftc-devoteam.one.pl CNAME .
+skills.notes.pakla.pl CNAME .
+*.skills.notes.pakla.pl CNAME .
 dns.panszelescik.pl CNAME .
 *.dns.panszelescik.pl CNAME .
 dns-ovh.panszelescik.pl CNAME .
@@ -9626,8 +9640,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jul 2025 12:13 UTC
-# Version: 2025.0722.1213.03
+# Last modified: 22 Jul 2025 16:06 UTC
+# Version: 2025.0722.1606.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5234
+# Number of entries: 5240
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -340,6 +340,7 @@ local=/dns.artikel10.org/
 local=/doh.asagiri.moe/
 local=/asheranztwitch.online/
 local=/dns.ashleyjackson.net/
+local=/a1.asistdoc.ar/
 local=/terms.skill.asleepingturtle.com/
 local=/survey.aspdebugger.com/
 local=/task.major.assholetenants.com/
@@ -548,6 +549,7 @@ local=/brazilproxy.com/
 local=/brazilproxy.info/
 local=/breakwall.net/
 local=/dns.brembeck.cloud/
+local=/tutor.skills.bretonmeadowfarm.org/
 local=/ag.brianlee.fun/
 local=/bright4good.eco/
 local=/brightvpn.com/
@@ -1375,7 +1377,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1394,6 +1395,7 @@ local=/status.emtbiceland.is/
 local=/encrypt.me/
 local=/endente.com/
 local=/adguard.ender.fr/
+local=/plant.smart.energysemi.com/
 local=/my.englishpapers.online/
 local=/reading.englishpapers.online/
 local=/study.englishpapers.online/
@@ -1528,7 +1530,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1670,6 +1671,7 @@ local=/dns.gamban.com/
 local=/adguard.gambini.org/
 local=/proxy.gamecove.net/
 local=/gamers-nor.com/
+local=/work.quiz.gamersuk.org/
 local=/gamingssh.com/
 local=/dns.beta.gandi.net/
 local=/vocab.sage.garagepig.com/
@@ -2571,6 +2573,7 @@ local=/zrh1-ns01.monzoon.net/
 local=/dns.moonssif.com/
 local=/aahfgdd.mooo.com/
 local=/aleks.readtheory.com.mooo.com/
+local=/freednsafraidorg.mooo.com/
 local=/propeller.catapzlt.rohu.mooo.com/
 local=/morbitzer.de/
 local=/morevpn.com/
@@ -2994,6 +2997,7 @@ local=/incognito-static-version.pages.dev/
 local=/unblockit.pages.dev/
 local=/dingdong.pakasak.com/
 local=/vpn-ru-msk.pakharenko.ru/
+local=/skills.notes.pakla.pl/
 local=/paladinvpn.com/
 local=/usernotfound.palomadi.ar/
 local=/pandapow.co/
@@ -3753,6 +3757,7 @@ local=/somelikeitproxy.com/
 local=/jcmswebsiteunblocker.soon.it/
 local=/konata-ice.soon.it/
 local=/maxkershoe.soon.it/
+local=/mybad.soon.it/
 local=/swisscheesebyjohn.soon.it/
 local=/r.soraapp.gq/
 local=/admin1.sotna.org/
@@ -4218,6 +4223,7 @@ local=/stealthvpn.com/
 local=/stealthy.co/
 local=/qokl0912.stedler.org/
 local=/steganos.com/
+local=/pupil.learn.stevedewald.com/
 local=/dns.stevenz.net/
 local=/iam.steveward.ws/
 local=/read.atom.stickyricecakes.com/
@@ -4424,6 +4430,7 @@ local=/thesafety.us/
 local=/minds.plant.theseks.net/
 local=/thesiteproxy.com/
 local=/blocker.thethorsens.org/
+local=/vyujcfwinj.thetrist.com/
 local=/theunblock.net/
 local=/thevpncompany.net/
 local=/thexite.net/
@@ -5237,7 +5244,6 @@ local=/diagnostics.zothow.com/
 local=/zougloub.eu/
 local=/zpath.net/
 local=/zpn.im/
-local=/a.zpn.me/
 local=/zproxy.de/
 local=/zproxy.org/
 local=/zscalertwo.net/

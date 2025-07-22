@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jul 2025 12:07 UTC
-# Version: 2025.0722.1207.56
+# Last modified: 22 Jul 2025 16:00 UTC
+# Version: 2025.0722.1600.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10262
+# Number of entries: 10267
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -5831,6 +5831,8 @@ local=/movieuniverse.li/
 local=/movieuniverse.se/
 local=/movieunlimited.net/
 local=/movieuwutv.top/
+local=/movievilla.cfd/
+local=/movievilla.my/
 local=/moviewapi.in/
 local=/moviewatcher.eu/
 local=/moviewatcher.is/
@@ -6079,6 +6081,7 @@ local=/speedo.net.bd/
 local=/tetraplex.net.bd/
 local=/touchonline.net.bd/
 local=/velocity.net.bd/
+local=/net2025.cc/
 local=/net3lix.com/
 local=/net3lix.world/
 local=/netanime.tv/
@@ -7238,7 +7241,6 @@ local=/redditsoccerstreams.one/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.watch/
 local=/redditsoccerstreams.xyz/
-local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
@@ -8147,6 +8149,8 @@ local=/streamingcommunity.work/
 local=/streamingcommunity.xyz/
 local=/streamingcommunityz.boats/
 local=/streamingcommunityz.city/
+local=/streamingcommunityz.com/
+local=/streamingcommunityz.date/
 local=/streamingdivx.ch/
 local=/streaminggratuit.cc/
 local=/streaminggratuit.rip/
@@ -10050,6 +10054,7 @@ local=/yesmovies.vc/
 local=/yesmovies.zone/
 local=/yesnetcommunication.com/
 local=/yeyemo.info/
+local=/yflix.to/
 local=/ygg.re/
 local=/yggtorrent.com/
 local=/yggtorrent.fi/
