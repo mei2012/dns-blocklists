@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 21 Jul 2025 18:38 UTC
-# Version: 2025.0721.1838.27
+# Last modified: 22 Jul 2025 02:39 UTC
+# Version: 2025.0722.0239.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14745
+# Number of entries: 14746
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -10402,6 +10402,7 @@ local=/potenzpillenschweiz.com/
 local=/potflourride.shop/
 local=/potsdampal.de/
 local=/pottery-classes.org/
+local=/potwex.com/
 local=/powderxpirit.at/
 local=/powersebike.com/
 local=/powerundgarten.com/
