@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jul 2025 20:10 UTC
-# Version: 2025.0722.2010.08
+# Last modified: 23 Jul 2025 04:06 UTC
+# Version: 2025.0723.0406.13
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1607
+# Number of entries: 1605
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -79,7 +79,6 @@
 0.0.0.0 dns.adrianlam.com
 0.0.0.0 aerodrorne.vip
 0.0.0.0 affcdn.net
-0.0.0.0 affsoft.cc
 0.0.0.0 shield.afixer.app
 0.0.0.0 ahadns.net
 0.0.0.0 doh.au.ahadns.net
@@ -126,7 +125,6 @@
 0.0.0.0 doh.angry.im
 0.0.0.0 dns.anon.no
 0.0.0.0 secure.anudeep.me
-0.0.0.0 ad.anym0re.ru
 0.0.0.0 doh.apad.pro
 0.0.0.0 ag.apollohct.com
 0.0.0.0 doh.dns.apple.com
@@ -626,6 +624,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -669,7 +668,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1030,6 +1028,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1272,7 +1271,6 @@
 0.0.0.0 luxembourg.privacy-dns.pw
 0.0.0.0 romania.privacy-dns.pw
 0.0.0.0 orpi.privado.ovh
-0.0.0.0 de.dns.privex.io
 0.0.0.0 nl.dns.privex.io
 0.0.0.0 project-evoex.de
 0.0.0.0 dns.propheci.xyz
