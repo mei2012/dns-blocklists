@@ -701,7 +701,21 @@
       }
     },
     {
+      "PK": "dcintl.push.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "dc-stat-in.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "device-ups.push.heytapmobi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -967,27 +981,6 @@
       }
     },
     {
-      "PK": "httpdns-euex-push.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "httpdns-ocloud.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "httpdns-push.heytapmobile.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "i-cn01a.ocloud.heytapmobi.com",
       "action": {
         "do": 0,
@@ -1045,6 +1038,13 @@
     },
     {
       "PK": "icota-service-in.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "id.push.heytapmobi.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2227,13 +2227,6 @@
       }
     },
     {
-      "PK": "push.heytapmobi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "push.heytapmobile.com",
       "action": {
         "do": 0,
@@ -2480,6 +2473,13 @@
     },
     {
       "PK": "ums-telemetry-cn.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "userprofile.push.heytapmobi.com",
       "action": {
         "do": 0,
         "status": 1

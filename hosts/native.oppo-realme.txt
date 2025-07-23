@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jul 2025 16:34 UTC
-# Version: 2025.0720.1634.06
+# Last modified: 23 Jul 2025 17:55 UTC
+# Version: 2025.0723.1755.25
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 450
+# Number of entries: 445
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -301,10 +301,8 @@
 0.0.0.0 i-cn01a.ocloud.heytapmobi.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 omes-sec.heytapmobi.com
-0.0.0.0 push.heytapmobi.com
 0.0.0.0 dcintl.push.heytapmobi.com
 0.0.0.0 device-ups.push.heytapmobi.com
-0.0.0.0 httpdns.push.heytapmobi.com
 0.0.0.0 id.push.heytapmobi.com
 0.0.0.0 userprofile.push.heytapmobi.com
 0.0.0.0 api-id.theme.heytapmobi.com
@@ -389,9 +387,6 @@
 0.0.0.0 dc-stat-in.heytapmobile.com
 0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 api-id.game.heytapmobile.com
-0.0.0.0 httpdns-euex-push.heytapmobile.com
-0.0.0.0 httpdns-ocloud.heytapmobile.com
-0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 mdp-usertrace-in.heytapmobile.com
 0.0.0.0 mdp-usertrace-sg.heytapmobile.com
 0.0.0.0 obus-dc-eu.heytapmobile.com

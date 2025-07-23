@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 20 Jul 2025 16:34 UTC
-# Version: 2025.0720.1634.06
+# Last modified: 23 Jul 2025 17:55 UTC
+# Version: 2025.0723.1755.25
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 359
 #
@@ -271,7 +271,10 @@ local=/album-sg01a.ocloud.heytapmobi.com/
 local=/i-cn01a.ocloud.heytapmobi.com/
 local=/i-sg01a.ocloud.heytapmobi.com/
 local=/omes-sec.heytapmobi.com/
-local=/push.heytapmobi.com/
+local=/dcintl.push.heytapmobi.com/
+local=/device-ups.push.heytapmobi.com/
+local=/id.push.heytapmobi.com/
+local=/userprofile.push.heytapmobi.com/
 local=/api-id.theme.heytapmobi.com/
 local=/ums-telemetry-cn.heytapmobi.com/
 local=/ads.heytapmobile.com/
@@ -320,9 +323,6 @@ local=/obus-sg.dc.heytapmobile.com/
 local=/dc-stat-in.heytapmobile.com/
 local=/dragate-in-dc.heytapmobile.com/
 local=/api-id.game.heytapmobile.com/
-local=/httpdns-euex-push.heytapmobile.com/
-local=/httpdns-ocloud.heytapmobile.com/
-local=/httpdns-push.heytapmobile.com/
 local=/mdp-usertrace-in.heytapmobile.com/
 local=/mdp-usertrace-sg.heytapmobile.com/
 local=/obus-dc-eu.heytapmobile.com/

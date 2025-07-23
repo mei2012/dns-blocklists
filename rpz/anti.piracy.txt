@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753272120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753301040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 23 Jul 2025 12:02 UTC
-; Version: 2025.0723.1202.05
+; Last modified: 23 Jul 2025 20:04 UTC
+; Version: 2025.0723.2004.48
 ; Syntax: RPZ
-; Number of entries: 20536
+; Number of entries: 20542
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -359,6 +359,8 @@ lidarr.audio CNAME .
 *.lidarr.audio CNAME .
 guardaserie.autos CNAME .
 *.guardaserie.autos CNAME .
+kkiste.autos CNAME .
+*.kkiste.autos CNAME .
 yts.autos CNAME .
 *.yts.autos CNAME .
 tracker.qu.ax CNAME .
@@ -563,6 +565,8 @@ megakino.bio CNAME .
 *.megakino.bio CNAME .
 streamingcommunity.bio CNAME .
 *.streamingcommunity.bio CNAME .
+streamingcommunityz.bio CNAME .
+*.streamingcommunityz.bio CNAME .
 123moviesonline.biz CNAME .
 *.123moviesonline.biz CNAME .
 altadefinizione.biz CNAME .
@@ -1221,8 +1225,6 @@ radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
 rarbg.cc CNAME .
 *.rarbg.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -8945,6 +8947,8 @@ fzmovies.host CNAME .
 *.fzmovies.host CNAME .
 putlocker.host CNAME .
 *.putlocker.host CNAME .
+megakino.how CNAME .
+*.megakino.how CNAME .
 putlocker.how CNAME .
 *.putlocker.how CNAME .
 eztv.unblocked.how CNAME .
@@ -19603,6 +19607,8 @@ streamingcommunity.vin CNAME .
 *.streamingcommunity.vin CNAME .
 thepiratebay.vin CNAME .
 *.thepiratebay.vin CNAME .
+100zhaocili.vip CNAME .
+*.100zhaocili.vip CNAME .
 altadefinizione.vip CNAME .
 *.altadefinizione.vip CNAME .
 app-valley.vip CNAME .
