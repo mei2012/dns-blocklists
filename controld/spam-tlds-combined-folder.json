@@ -1337,6 +1337,13 @@
       }
     },
     {
+      "PK": "discuss.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.diy",
       "action": {
         "do": 0,
