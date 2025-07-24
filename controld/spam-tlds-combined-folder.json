@@ -1050,6 +1050,13 @@
       }
     },
     {
+      "PK": "covet.pics",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cpolar.top",
       "action": {
         "do": 1,
@@ -4168,6 +4175,13 @@
       "PK": "*.pub",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "push.delivery",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

@@ -1,5 +1,8 @@
 # Unblocking for relaxed lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/6811
+514001643.collect.igodigital.com
+
 # https://github.com/hagezi/dns-blocklists/issues/5943
 variations.brave.com
 variations.bravesoftware.com
@@ -13,6 +16,7 @@ ws.batch.com
 
 # https://github.com/hagezi/dns-blocklists/issues/4928
 *.siteintercept.qualtrics.com
+*.siteintercept.qualtrics.com.cdn.cloudflare.net
 api.segment.io
 
 # Floods the dns with requests when blocked, possible battery drain on mobile devices.

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jul 2025 04:12 UTC
-# Version: 2025.0724.0412.24
+# Last modified: 24 Jul 2025 20:12 UTC
+# Version: 2025.0724.2012.55
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1605
+# Number of entries: 1609
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -624,6 +624,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -1028,6 +1029,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1551,6 +1553,7 @@
 0.0.0.0 megumin.is.my.waifu.cz
 0.0.0.0 yunyun.is.my.waifu.cz
 0.0.0.0 dns.wang.art
+0.0.0.0 wantaquddin.com
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
 0.0.0.0 dns.warma.me
@@ -1580,6 +1583,7 @@
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 dns.xlion.tw
 0.0.0.0 xn--durhre-yxa.de
+0.0.0.0 xorbiadns.com
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
 0.0.0.0 dns.xwdmw.xyz
