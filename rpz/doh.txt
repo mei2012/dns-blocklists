@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753359060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753373280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jul 2025 12:11 UTC
-; Version: 2025.0724.1211.29
+; Last modified: 24 Jul 2025 16:08 UTC
+; Version: 2025.0724.1608.51
 ; Syntax: RPZ
-; Number of entries: 2890
+; Number of entries: 2894
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -168,6 +168,8 @@ dns.brono.cloud CNAME .
 *.dns.brono.cloud CNAME .
 dns.clanto.cloud CNAME .
 *.dns.clanto.cloud CNAME .
+dns-secondary.cloudnx.cloud CNAME .
+*.dns-secondary.cloudnx.cloud CNAME .
 doh.cnetwork.cloud CNAME .
 *.doh.cnetwork.cloud CNAME .
 gateway.fomichev.cloud CNAME .
@@ -454,8 +456,6 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 dns.flwagners.com CNAME .
@@ -794,6 +794,8 @@ doh.valscosmos.com CNAME .
 *.doh.valscosmos.com CNAME .
 dns.vishalk.com CNAME .
 *.dns.vishalk.com CNAME .
+wantaquddin.com CNAME .
+*.wantaquddin.com CNAME .
 dns.wechat.com CNAME .
 *.dns.wechat.com CNAME .
 ns2.wuyouss.com CNAME .
@@ -806,6 +808,8 @@ dot.xfinity.com CNAME .
 *.dot.xfinity.com CNAME .
 doh2.gslb2.xfinity.com CNAME .
 *.doh2.gslb2.xfinity.com CNAME .
+xorbiadns.com CNAME .
+*.xorbiadns.com CNAME .
 dns.xusqui.com CNAME .
 *.dns.xusqui.com CNAME .
 dns.yameenassotally.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753359060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753373340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jul 2025 12:11 UTC
-; Version: 2025.0724.1211.49
+; Last modified: 24 Jul 2025 16:09 UTC
+; Version: 2025.0724.1609.15
 ; Syntax: RPZ
-; Number of entries: 10630
+; Number of entries: 10634
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -744,6 +744,8 @@ dns.brono.cloud CNAME .
 *.dns.brono.cloud CNAME .
 dns.clanto.cloud CNAME .
 *.dns.clanto.cloud CNAME .
+dns-secondary.cloudnx.cloud CNAME .
+*.dns-secondary.cloudnx.cloud CNAME .
 doh.cnetwork.cloud CNAME .
 *.doh.cnetwork.cloud CNAME .
 gateway.fomichev.cloud CNAME .
@@ -1706,8 +1708,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -4964,6 +4964,8 @@ vyprvpn.com CNAME .
 *.vyprvpn.com CNAME .
 walln.com CNAME .
 *.walln.com CNAME .
+wantaquddin.com CNAME .
+*.wantaquddin.com CNAME .
 email.warhawkenterprises.com CNAME .
 *.email.warhawkenterprises.com CNAME .
 secure.warhawkenterprises.com CNAME .
@@ -5074,6 +5076,8 @@ xitesite.com CNAME .
 *.xitesite.com CNAME .
 xjumper.com CNAME .
 *.xjumper.com CNAME .
+xorbiadns.com CNAME .
+*.xorbiadns.com CNAME .
 xperienc.com CNAME .
 *.xperienc.com CNAME .
 dns.xusqui.com CNAME .
