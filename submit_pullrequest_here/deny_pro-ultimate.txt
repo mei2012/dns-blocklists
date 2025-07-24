@@ -1,5 +1,9 @@
 # Domains to be added only to the pro, pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/6806
+siteintercept.qualtrics.com
+siteintercept.qualtrics.com.cdn.cloudflare.net
+
 # https://github.com/hagezi/dns-blocklists/issues/6458#issuecomment-2963253524
 perseus-productanalytics.deliveryhero.net
 

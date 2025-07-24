@@ -13,6 +13,7 @@ ws.batch.com
 
 # https://github.com/hagezi/dns-blocklists/issues/4928
 *.siteintercept.qualtrics.com
+*.siteintercept.qualtrics.com.cdn.cloudflare.net
 api.segment.io
 
 # Floods the dns with requests when blocked, possible battery drain on mobile devices.
