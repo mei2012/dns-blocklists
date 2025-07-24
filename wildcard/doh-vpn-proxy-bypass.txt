@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jul 2025 16:09 UTC
-# Version: 2025.0724.1609.15
+# Last modified: 24 Jul 2025 20:13 UTC
+# Version: 2025.0724.2013.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 5317
+# Number of entries: 5318
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -799,7 +799,6 @@
 *.voyage-s01.cloudku.technology
 *.adguard.cloudmini.net
 *.addition.chillyparrotmath.cloudns.ch
-*.dns-secondary.cloudnx.cloud
 *.cloudnymous.com
 *.dns-fr-psv1.cloudsides.com
 *.cloudssh.net
@@ -1376,6 +1375,7 @@
 *.educationdean.us
 *.adguard.ef67daisuki.club
 *.tor.eff.org
+*.dns.efficientdocuments.com
 *.scifi0.eigenlicht.us
 *.hole.elbschloss.xyz
 *.elearning.electronicajck.com
@@ -1529,6 +1529,7 @@
 *.fitnessdepotprices.com
 *.chart.books.fivepals.com
 *.fixproxy.com
+*.dns.fizz.studio
 *.gothgirlsareawesome.flamex.hm
 *.flarquix.xyz
 *.flashpull.com

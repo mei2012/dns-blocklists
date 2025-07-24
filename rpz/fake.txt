@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753368060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753382460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jul 2025 14:41 UTC
-; Version: 2025.0724.1441.04
+; Last modified: 24 Jul 2025 18:41 UTC
+; Version: 2025.0724.1841.52
 ; Syntax: RPZ
-; Number of entries: 29540
+; Number of entries: 29550
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -5987,6 +5987,8 @@ eletrostartestufas.com CNAME .
 *.eletrostartestufas.com CNAME .
 eletrotrevo.com CNAME .
 *.eletrotrevo.com CNAME .
+elevengk.com CNAME .
+*.elevengk.com CNAME .
 elfashionsale.com CNAME .
 *.elfashionsale.com CNAME .
 elfbarsvape.com CNAME .
@@ -6731,6 +6733,8 @@ fightfairtex.com CNAME .
 *.fightfairtex.com CNAME .
 fightsolong.com CNAME .
 *.fightsolong.com CNAME .
+figurinez.com CNAME .
+*.figurinez.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
 fillamoda.com CNAME .
@@ -10131,6 +10135,8 @@ liebeskindberlinblog.com CNAME .
 *.liebeskindberlinblog.com CNAME .
 lieblin-gskind.com CNAME .
 *.lieblin-gskind.com CNAME .
+liebling-baby.com CNAME .
+*.liebling-baby.com CNAME .
 lieralist.com CNAME .
 *.lieralist.com CNAME .
 liewoodsales.com CNAME .
@@ -10147,6 +10153,8 @@ lifthe.com CNAME .
 *.lifthe.com CNAME .
 lighinmoon.com CNAME .
 *.lighinmoon.com CNAME .
+light-finanzberatung.com CNAME .
+*.light-finanzberatung.com CNAME .
 lightcanarm.com CNAME .
 *.lightcanarm.com CNAME .
 lightess.com CNAME .
@@ -20077,6 +20085,8 @@ finkerkette.de CNAME .
 *.finkerkette.de CNAME .
 firalo.de CNAME .
 *.firalo.de CNAME .
+firat-handel24.de CNAME .
+*.firat-handel24.de CNAME .
 firewood-versand.de CNAME .
 *.firewood-versand.de CNAME .
 first-bikes.de CNAME .

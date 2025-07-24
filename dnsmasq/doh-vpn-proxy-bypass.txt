@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 Jul 2025 16:09 UTC
-# Version: 2025.0724.1609.15
+# Last modified: 24 Jul 2025 20:13 UTC
+# Version: 2025.0724.2013.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5317
+# Number of entries: 5318
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -799,7 +799,6 @@ local=/europe-west3-topvpn-873d5.cloudfunctions.net/
 local=/voyage-s01.cloudku.technology/
 local=/adguard.cloudmini.net/
 local=/addition.chillyparrotmath.cloudns.ch/
-local=/dns-secondary.cloudnx.cloud/
 local=/cloudnymous.com/
 local=/dns-fr-psv1.cloudsides.com/
 local=/cloudssh.net/
@@ -1376,6 +1375,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1529,6 +1529,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
