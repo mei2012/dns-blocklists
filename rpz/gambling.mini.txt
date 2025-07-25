@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753387620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753401780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jul 2025 20:07 UTC
-; Version: 2025.0724.2007.21
+; Last modified: 25 Jul 2025 00:03 UTC
+; Version: 2025.0725.0003.59
 ; Syntax: RPZ
-; Number of entries: 120532
+; Number of entries: 120528
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -41961,8 +41961,6 @@ k8-vn.com CNAME .
 *.k8-vn.com CNAME .
 k888bets.com CNAME .
 *.k888bets.com CNAME .
-k8best03.com CNAME .
-*.k8best03.com CNAME .
 k8bet-casino.com CNAME .
 *.k8bet-casino.com CNAME .
 k8betno1.com CNAME .
@@ -41975,8 +41973,6 @@ k8betvn58.com CNAME .
 *.k8betvn58.com CNAME .
 k8funbet.com CNAME .
 *.k8funbet.com CNAME .
-k8sup18.com CNAME .
-*.k8sup18.com CNAME .
 k8win889.com CNAME .
 *.k8win889.com CNAME .
 k9c2g3.com CNAME .

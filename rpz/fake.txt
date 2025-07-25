@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753382460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753396740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 24 Jul 2025 18:41 UTC
-; Version: 2025.0724.1841.52
+; Last modified: 24 Jul 2025 22:39 UTC
+; Version: 2025.0724.2239.09
 ; Syntax: RPZ
-; Number of entries: 29550
+; Number of entries: 29552
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4573,6 +4573,8 @@ clothingonsale-online.com CNAME .
 *.clothingonsale-online.com CNAME .
 clothingprana.com CNAME .
 *.clothingprana.com CNAME .
+cloudstepsuomi.com CNAME .
+*.cloudstepsuomi.com CNAME .
 account.cmagruppe.com CNAME .
 *.account.cmagruppe.com CNAME .
 cmchbhopal.com CNAME .
@@ -6733,8 +6735,6 @@ fightfairtex.com CNAME .
 *.fightfairtex.com CNAME .
 fightsolong.com CNAME .
 *.fightsolong.com CNAME .
-figurinez.com CNAME .
-*.figurinez.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
 fillamoda.com CNAME .
@@ -10675,6 +10675,8 @@ mariana-organics.com CNAME .
 *.mariana-organics.com CNAME .
 mariandmaison.com CNAME .
 *.mariandmaison.com CNAME .
+marimekkoofficial.com CNAME .
+*.marimekkoofficial.com CNAME .
 marinepartdepots.com CNAME .
 *.marinepartdepots.com CNAME .
 marioautopecas.com CNAME .
