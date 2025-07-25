@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753402140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753430940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Jul 2025 00:09 UTC
-; Version: 2025.0725.0009.25
+; Last modified: 25 Jul 2025 08:09 UTC
+; Version: 2025.0725.0809.19
 ; Syntax: RPZ
-; Number of entries: 10634
+; Number of entries: 10636
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1706,6 +1706,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
