@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Generate release tag
         run: |
-          repo_version=$(date +'%Y.%m.%d')
+          repo_version=$(TZ=Asia/Bangkok date +'%Y.%m.%d.%I%M%p')
           echo "release_tag=$repo_version" >> $GITHUB_ENV
       - name: Generate issue list
         run: echo "issue_list=$(gh issue list -l fixed-pending-release  | cut -f1 | sed 's/^/#/' | sed 's/$/ /' | tr -d '\n\t\r')" >> $GITHUB_ENV
