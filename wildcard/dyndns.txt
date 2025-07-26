@@ -4,17 +4,16 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Jul 2025 20:13 UTC
-# Version: 2025.0717.2013.22
+# Last modified: 26 Jul 2025 20:19 UTC
+# Version: 2025.0726.2019.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1479
+# Number of entries: 1465
 #
 *.0000000000000000000000.com
 *.0rg.us
 *.0x.no
 *.100mountain.com
 *.10dv.com
-*.10x.es
 *.120v.ac
 *.1337.cx
 *.16-b.it
@@ -289,10 +288,7 @@
 *.digikabel.hu
 *.digitalgroupe.com
 *.dip.jp
-*.diskstation.eu
-*.diskstation.org
 *.ditchyourip.com
-*.divx.se
 *.dlinkddns.com
 *.dmtr.ru
 *.dnet.hu
@@ -355,7 +351,6 @@
 *.dpcube.com
 *.dray-dns.de
 *.drayddns.com
-*.draydns.de
 *.dropfiles.net
 *.drunkensailor.org
 *.dsmtp.com
@@ -451,7 +446,6 @@
 *.dynv4.net
 *.dynv6.com
 *.dynv6.net
-*.dynvpn.de
 *.dyyndns.net
 *.e-m-a-i-l.org
 *.e-romagnoli.com
@@ -496,7 +490,6 @@
 *.eurotank.ro
 *.eva.hk
 *.everton.com
-*.evils.in
 *.expired-dns.com
 *.ez-ip.net
 *.ezua.com
@@ -922,7 +915,6 @@
 *.medbury.com
 *.medittech.com
 *.mefound.com
-*.mein-vigor.de
 *.melakaboy.com
 *.merseine.com
 *.merseine.nu
@@ -968,8 +960,6 @@
 *.musterihizmetleri.com
 *.mwop.net
 *.my.to
-*.my-vigor.de
-*.my-wan.de
 *.my03.com
 *.myactivedirectory.com
 *.myaddr.dev
@@ -1038,7 +1028,6 @@
 *.net-freaks.com
 *.netcabo.pt
 *.netdorm.com
-*.netlord.de
 *.netmask.ca
 *.networkguru.com
 *.networkoutpost.com
@@ -1327,9 +1316,6 @@
 *.surfnet.ca
 *.suroot.com
 *.swtest.ru
-*.syno-ds.de
-*.synology-diskstation.de
-*.synology-ds.de
 *.synoserver.com
 *.sysadminetworks.com
 *.system-ns.com

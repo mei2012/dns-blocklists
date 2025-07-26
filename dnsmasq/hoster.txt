@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jul 2025 14:44 UTC
-# Version: 2025.0726.1444.29
+# Last modified: 26 Jul 2025 18:43 UTC
+# Version: 2025.0726.1843.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2138
+# Number of entries: 2133
 #
 local=/000a.de/
 local=/000free.us/
@@ -123,7 +123,6 @@ local=/310.at/
 local=/350.com/
 local=/351.at/
 local=/36f.de/
-local=/3blogger.com/
 local=/3blogger.net/
 local=/3dn.ru/
 local=/3eeweb.com/
@@ -216,7 +215,6 @@ local=/ahlamountada.com/
 local=/aioblogs.com/
 local=/airground.club/
 local=/airself.shop/
-local=/akuanakmamah.de/
 local=/al6.de/
 local=/alavps.com/
 local=/alboompro.com/
@@ -999,7 +997,6 @@ local=/freeasphost.net/
 local=/freebase.hu/
 local=/freeblog.biz/
 local=/freecities.com/
-local=/freecyberzone.com/
 local=/freeforums.net/
 local=/freeforums.org/
 local=/freehomepage.com/
@@ -1610,7 +1607,6 @@ local=/pro.ac/
 local=/pro.vg/
 local=/pro3.de/
 local=/proboards.com/
-local=/prodepl.top/
 local=/profis.info/
 local=/profreehost.com/
 local=/prohosts.org/
@@ -1662,7 +1658,6 @@ local=/rubberphone.shop/
 local=/rumahweb.org/
 local=/runhosting.com/
 local=/s.gp/
-local=/s4usf.com/
 local=/sa.gp/
 local=/citybios.sa.com/
 local=/lifecycle.sa.com/

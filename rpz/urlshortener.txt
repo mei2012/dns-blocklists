@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753541040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753555440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jul 2025 14:44 UTC
-; Version: 2025.0726.1444.51
+; Last modified: 26 Jul 2025 18:44 UTC
+; Version: 2025.0726.1844.17
 ; Syntax: RPZ
-; Number of entries: 10348
+; Number of entries: 10304
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -802,8 +802,6 @@ oe.cd CNAME .
 *.oe.cd CNAME .
 uni.cf CNAME .
 *.uni.cf CNAME .
-blogshare.cfd CNAME .
-*.blogshare.cfd CNAME .
 minggu.cfd CNAME .
 *.minggu.cfd CNAME .
 activetea.ch CNAME .
@@ -1314,8 +1312,6 @@ pojonews.co CNAME .
 *.pojonews.co CNAME .
 politi.co CNAME .
 *.politi.co CNAME .
-potong.co CNAME .
-*.potong.co CNAME .
 prgress.co CNAME .
 *.prgress.co CNAME .
 prodd.co CNAME .
@@ -1802,8 +1798,6 @@ change-erp.com CNAME .
 *.change-erp.com CNAME .
 checkshorturl.com CNAME .
 *.checkshorturl.com CNAME .
-cheftems.com CNAME .
-*.cheftems.com CNAME .
 chimney-doctors.com CNAME .
 *.chimney-doctors.com CNAME .
 chogoon.com CNAME .
@@ -1908,8 +1902,6 @@ djurl.com CNAME .
 *.djurl.com CNAME .
 dmprd.com CNAME .
 *.dmprd.com CNAME .
-dmvrenew.com CNAME .
-*.dmvrenew.com CNAME .
 doburl.com CNAME .
 *.doburl.com CNAME .
 doiop.com CNAME .
@@ -1946,8 +1938,6 @@ dwzhila.com CNAME .
 *.dwzhila.com CNAME .
 dxirl.com CNAME .
 *.dxirl.com CNAME .
-earnshorter.com CNAME .
-*.earnshorter.com CNAME .
 easyuri.com CNAME .
 *.easyuri.com CNAME .
 ecomstacking.com CNAME .
@@ -1976,8 +1966,6 @@ euqni.com CNAME .
 *.euqni.com CNAME .
 exploreosv.com CNAME .
 *.exploreosv.com CNAME .
-eyemakeu.com CNAME .
-*.eyemakeu.com CNAME .
 f1mate.com CNAME .
 *.f1mate.com CNAME .
 f5url.com CNAME .
@@ -2170,8 +2158,6 @@ isc-vn.com CNAME .
 *.isc-vn.com CNAME .
 ishortify.com CNAME .
 *.ishortify.com CNAME .
-istubby.com CNAME .
-*.istubby.com CNAME .
 itp24.com CNAME .
 *.itp24.com CNAME .
 its-4-u.com CNAME .
@@ -2390,8 +2376,6 @@ mmwzvo.com CNAME .
 *.mmwzvo.com CNAME .
 mntrmeme.com CNAME .
 *.mntrmeme.com CNAME .
-mollyminx.com CNAME .
-*.mollyminx.com CNAME .
 mondoagram.com CNAME .
 *.mondoagram.com CNAME .
 moourl.com CNAME .
@@ -2470,8 +2454,6 @@ nwspprs.com CNAME .
 *.nwspprs.com CNAME .
 nxgtm.com CNAME .
 *.nxgtm.com CNAME .
-obblink.com CNAME .
-*.obblink.com CNAME .
 ok2.com CNAME .
 *.ok2.com CNAME .
 okebio.com CNAME .
@@ -3816,8 +3798,6 @@ go.lamotte.fr CNAME .
 *.go.lamotte.fr CNAME .
 lemde.fr CNAME .
 *.lemde.fr CNAME .
-lnks.fr CNAME .
-*.lnks.fr CNAME .
 lstu.fr CNAME .
 *.lstu.fr CNAME .
 lurl.fr CNAME .
@@ -4752,8 +4732,6 @@ niit-mts.info CNAME .
 *.niit-mts.info CNAME .
 pbzl.info CNAME .
 *.pbzl.info CNAME .
-pferrer15.info CNAME .
-*.pferrer15.info CNAME .
 pldthome.info CNAME .
 *.pldthome.info CNAME .
 prince-0210th-akur.info CNAME .
@@ -4790,8 +4768,6 @@ worldcinema.info CNAME .
 *.worldcinema.info CNAME .
 xbig.info CNAME .
 *.xbig.info CNAME .
-xwq.info CNAME .
-*.xwq.info CNAME .
 ybhd.info CNAME .
 *.ybhd.info CNAME .
 yourls.info CNAME .
@@ -5138,8 +5114,6 @@ agbr.ir CNAME .
 *.agbr.ir CNAME .
 b2n.ir CNAME .
 *.b2n.ir CNAME .
-cnz.ir CNAME .
-*.cnz.ir CNAME .
 cut2.ir CNAME .
 *.cut2.ir CNAME .
 drnx.ir CNAME .
@@ -5660,8 +5634,6 @@ bose.life CNAME .
 *.bose.life CNAME .
 bravos.life CNAME .
 *.bravos.life CNAME .
-bridging-analytics.life CNAME .
-*.bridging-analytics.life CNAME .
 briidge.life CNAME .
 *.briidge.life CNAME .
 brucezielke.life CNAME .
@@ -5838,16 +5810,12 @@ mongmuoisau.life CNAME .
 *.mongmuoisau.life CNAME .
 mono-gog-o.life CNAME .
 *.mono-gog-o.life CNAME .
-movevibe.life CNAME .
-*.movevibe.life CNAME .
 mute-fill-mood.life CNAME .
 *.mute-fill-mood.life CNAME .
 my-gay.life CNAME .
 *.my-gay.life CNAME .
 mycecianajada271928.life CNAME .
 *.mycecianajada271928.life CNAME .
-myduke.life CNAME .
-*.myduke.life CNAME .
 myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 mysales.life CNAME .
@@ -5868,16 +5836,12 @@ nxc.life CNAME .
 *.nxc.life CNAME .
 ogle-wolfe.life CNAME .
 *.ogle-wolfe.life CNAME .
-onelovepalmbeaches.life CNAME .
-*.onelovepalmbeaches.life CNAME .
 onlinekassirjessica.life CNAME .
 *.onlinekassirjessica.life CNAME .
 partyspecial.life CNAME .
 *.partyspecial.life CNAME .
 pav-lobe-z-rod-ny-8611.life CNAME .
 *.pav-lobe-z-rod-ny-8611.life CNAME .
-pdp.life CNAME .
-*.pdp.life CNAME .
 qcutul2702.life CNAME .
 *.qcutul2702.life CNAME .
 redditp2pcredit.life CNAME .
@@ -6338,8 +6302,6 @@ dinguscustoms.live CNAME .
 *.dinguscustoms.live CNAME .
 djloventx.live CNAME .
 *.djloventx.live CNAME .
-dreamachievers.live CNAME .
-*.dreamachievers.live CNAME .
 ecl-for-2026.live CNAME .
 *.ecl-for-2026.live CNAME .
 egypsianrubie.live CNAME .
@@ -6366,8 +6328,6 @@ fullbreed.live CNAME .
 *.fullbreed.live CNAME .
 gaysi.live CNAME .
 *.gaysi.live CNAME .
-gcrs.live CNAME .
-*.gcrs.live CNAME .
 gloshukadamiava2.live CNAME .
 *.gloshukadamiava2.live CNAME .
 go-duo-join-live-video-chat-invite.live CNAME .
@@ -6538,8 +6498,6 @@ smfcx.live CNAME .
 *.smfcx.live CNAME .
 srwedding.live CNAME .
 *.srwedding.live CNAME .
-startupperks.live CNAME .
-*.startupperks.live CNAME .
 supporticket231.live CNAME .
 *.supporticket231.live CNAME .
 syl83otk.live CNAME .
@@ -10330,8 +10288,6 @@ spidz.xyz CNAME .
 *.spidz.xyz CNAME .
 srturl.xyz CNAME .
 *.srturl.xyz CNAME .
-stke.xyz CNAME .
-*.stke.xyz CNAME .
 sukatobrut.xyz CNAME .
 *.sukatobrut.xyz CNAME .
 short.swurl.xyz CNAME .
