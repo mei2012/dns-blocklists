@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jul 2025 12:19 UTC
-# Version: 2025.0726.1219.16
+# Last modified: 26 Jul 2025 16:12 UTC
+# Version: 2025.0726.1612.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1607
+# Number of entries: 1606
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -1027,7 +1027,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io

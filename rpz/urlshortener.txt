@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753526400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753541040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jul 2025 10:40 UTC
-; Version: 2025.0726.1040.59
+; Last modified: 26 Jul 2025 14:44 UTC
+; Version: 2025.0726.1444.51
 ; Syntax: RPZ
-; Number of entries: 10362
+; Number of entries: 10348
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1388,8 +1388,6 @@ shrt.co CNAME .
 *.shrt.co CNAME .
 smallurl.co CNAME .
 *.smallurl.co CNAME .
-smonty.co CNAME .
-*.smonty.co CNAME .
 smsb.co CNAME .
 *.smsb.co CNAME .
 snar.co CNAME .
@@ -3762,8 +3760,6 @@ ihr.fm CNAME .
 *.ihr.fm CNAME .
 go.jc.fm CNAME .
 *.go.jc.fm CNAME .
-jsparty.fm CNAME .
-*.jsparty.fm CNAME .
 ping.fm CNAME .
 *.ping.fm CNAME .
 pxl.fm CNAME .
@@ -5584,8 +5580,6 @@ linka.li CNAME .
 *.linka.li CNAME .
 lvr.li CNAME .
 *.lvr.li CNAME .
-mmz.li CNAME .
-*.mmz.li CNAME .
 nwsdy.li CNAME .
 *.nwsdy.li CNAME .
 otp.li CNAME .
@@ -5858,8 +5852,6 @@ myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6496,8 +6488,6 @@ omedia.live CNAME .
 *.omedia.live CNAME .
 onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
-onlyfansamairanidiaz.live CNAME .
-*.onlyfansamairanidiaz.live CNAME .
 onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
 petterihollander.live CNAME .
@@ -6526,8 +6516,6 @@ rehtek.live CNAME .
 *.rehtek.live CNAME .
 robertdray2.live CNAME .
 *.robertdray2.live CNAME .
-robloxtech.live CNAME .
-*.robloxtech.live CNAME .
 rouletteonline.live CNAME .
 *.rouletteonline.live CNAME .
 roush-jims.live CNAME .
@@ -8072,8 +8060,6 @@ f5i.org CNAME .
 *.f5i.org CNAME .
 gacortexas.org CNAME .
 *.gacortexas.org CNAME .
-galien.org CNAME .
-*.galien.org CNAME .
 gbod.org CNAME .
 *.gbod.org CNAME .
 getadsnow.org CNAME .
