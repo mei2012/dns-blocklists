@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753454400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753485240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Jul 2025 14:40 UTC
-; Version: 2025.0725.1440.18
+; Last modified: 25 Jul 2025 23:14 UTC
+; Version: 2025.0725.2314.55
 ; Syntax: RPZ
-; Number of entries: 29564
+; Number of entries: 29566
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -7449,6 +7449,8 @@ geoxuruguay.com CNAME .
 *.geoxuruguay.com CNAME .
 geqimo.com CNAME .
 *.geqimo.com CNAME .
+geraetedirekt.com CNAME .
+*.geraetedirekt.com CNAME .
 gerbaodan.com CNAME .
 *.gerbaodan.com CNAME .
 gerhard-goerke-finanzberatung.com CNAME .
@@ -16235,6 +16237,8 @@ topdrap.com CNAME .
 *.topdrap.com CNAME .
 topflexibility.com CNAME .
 *.topflexibility.com CNAME .
+topheizlosungen.com CNAME .
+*.topheizlosungen.com CNAME .
 topideaberlin.com CNAME .
 *.topideaberlin.com CNAME .
 topillstore.com CNAME .
@@ -27315,8 +27319,6 @@ dinosaurierde.shop CNAME .
 *.dinosaurierde.shop CNAME .
 dirmolly.shop CNAME .
 *.dirmolly.shop CNAME .
-discount-technogym.shop CNAME .
-*.discount-technogym.shop CNAME .
 djilikervs.shop CNAME .
 *.djilikervs.shop CNAME .
 dlowiegfashion.shop CNAME .

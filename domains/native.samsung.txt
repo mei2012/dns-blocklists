@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jul 2025 23:16 UTC
-# Version: 2025.0711.2316.43
+# Last modified: 25 Jul 2025 23:13 UTC
+# Version: 2025.0725.2313.56
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 256
+# Number of entries: 255
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -231,7 +231,6 @@ www.samsungtvads.com
 business.samsungusa.com
 app.business.samsungusa.com
 images.business.samsungusa.com
-mail01.business.samsungusa.com
 api-samsung.swypeconnect.com
 lbs-samsung.swypeconnect.com
 samsungau.api.useinsider.com
