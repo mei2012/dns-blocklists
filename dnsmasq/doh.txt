@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 22:59 UTC
-# Version: 2025.0725.2259.39
+# Last modified: 26 Jul 2025 08:23 UTC
+# Version: 2025.0726.0823.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1447
+# Number of entries: 1445
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -238,7 +238,6 @@ local=/cloudflare-gateway.com/
 local=/api.cloudflareclient.com/
 local=/cloudflareresolve.com/
 local=/voyage-s01.cloudku.technology/
-local=/adguard.cloudmini.net/
 local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
@@ -504,7 +503,6 @@ local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver1.dyndnsinternetguide.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -533,7 +531,6 @@ local=/arashi.eu.org/
 local=/armorrush.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/dns.mayx.eu.org/
-local=/arashi.net.eu.org/
 local=/sukidayo.eu.org/
 local=/dns.extrawdw.net/
 local=/fra1.eyecay.xyz/
@@ -906,6 +903,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753484340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753518180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 25 Jul 2025 22:59 UTC
-; Version: 2025.0725.2259.04
+; Last modified: 26 Jul 2025 08:23 UTC
+; Version: 2025.0726.0823.57
 ; Syntax: RPZ
-; Number of entries: 10634
+; Number of entries: 10630
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2658,6 +2658,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -7362,8 +7364,6 @@ dy58t8rwtsd9j.cloudfront.net CNAME .
 *.dy58t8rwtsd9j.cloudfront.net CNAME .
 europe-west3-topvpn-873d5.cloudfunctions.net CNAME .
 *.europe-west3-topvpn-873d5.cloudfunctions.net CNAME .
-adguard.cloudmini.net CNAME .
-*.adguard.cloudmini.net CNAME .
 cloudssh.net CNAME .
 *.cloudssh.net CNAME .
 dns.cmrg.net CNAME .
@@ -7420,8 +7420,6 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
-gustamadh.dynv6.net CNAME .
-*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -8606,8 +8604,6 @@ dns.fullaccesstointernet.jp.eu.org CNAME .
 *.dns.fullaccesstointernet.jp.eu.org CNAME .
 dns.mayx.eu.org CNAME .
 *.dns.mayx.eu.org CNAME .
-arashi.net.eu.org CNAME .
-*.arashi.net.eu.org CNAME .
 rammerhead.eu.org CNAME .
 *.rammerhead.eu.org CNAME .
 sukidayo.eu.org CNAME .

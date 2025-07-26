@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 22:59 UTC
-# Version: 2025.0725.2259.04
+# Last modified: 26 Jul 2025 08:23 UTC
+# Version: 2025.0726.0823.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5317
+# Number of entries: 5315
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -797,7 +797,6 @@ local=/dxyef5b084fjk.cloudfront.net/
 local=/dy58t8rwtsd9j.cloudfront.net/
 local=/europe-west3-topvpn-873d5.cloudfunctions.net/
 local=/voyage-s01.cloudku.technology/
-local=/adguard.cloudmini.net/
 local=/addition.chillyparrotmath.cloudns.ch/
 local=/cloudnymous.com/
 local=/dns-fr-psv1.cloudsides.com/
@@ -1333,7 +1332,6 @@ local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/resolver1.dyndnsinternetguide.com/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1422,7 +1420,6 @@ local=/arashi.eu.org/
 local=/armorrush.eu.org/
 local=/dns.fullaccesstointernet.jp.eu.org/
 local=/dns.mayx.eu.org/
-local=/arashi.net.eu.org/
 local=/rammerhead.eu.org/
 local=/sukidayo.eu.org/
 local=/eurproxy.com/
@@ -2658,6 +2655,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
