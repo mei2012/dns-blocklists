@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753555320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753569660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jul 2025 18:42 UTC
-; Version: 2025.0726.1842.10
+; Last modified: 26 Jul 2025 22:41 UTC
+; Version: 2025.0726.2241.55
 ; Syntax: RPZ
-; Number of entries: 28832
+; Number of entries: 28836
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -19055,6 +19055,8 @@ eae-vertrieb.de CNAME .
 *.eae-vertrieb.de CNAME .
 easies.de CNAME .
 *.easies.de CNAME .
+easy-oel.de CNAME .
+*.easy-oel.de CNAME .
 easy-rezeptfrei.de CNAME .
 *.easy-rezeptfrei.de CNAME .
 eatathome.de CNAME .
@@ -22087,6 +22089,8 @@ oil-direkt.de CNAME .
 *.oil-direkt.de CNAME .
 oildirekt24.de CNAME .
 *.oildirekt24.de CNAME .
+oilparadies.de CNAME .
+*.oilparadies.de CNAME .
 ojoro-tech.de CNAME .
 *.ojoro-tech.de CNAME .
 okbon.de CNAME .
