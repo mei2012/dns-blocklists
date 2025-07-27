@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753574820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753632720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jul 2025 00:07 UTC
-; Version: 2025.0727.0007.36
+; Last modified: 27 Jul 2025 16:12 UTC
+; Version: 2025.0727.1612.33
 ; Syntax: RPZ
 ; Number of entries: 10588
 ;
@@ -7760,10 +7760,8 @@ doh-pure.onedns.net CNAME .
 *.doh-pure.onedns.net CNAME .
 espanolmath.ontariobsd.net CNAME .
 *.espanolmath.ontariobsd.net CNAME .
-ada.openbld.net CNAME .
-*.ada.openbld.net CNAME .
-ric.openbld.net CNAME .
-*.ric.openbld.net CNAME .
+openbld.net CNAME .
+*.openbld.net CNAME .
 opengw.net CNAME .
 *.opengw.net CNAME .
 opentunnel.net CNAME .
@@ -8518,6 +8516,8 @@ stats.dietpc.org CNAME .
 *.stats.dietpc.org CNAME .
 diglet.org CNAME .
 *.diglet.org CNAME .
+dnsbunker.org CNAME .
+*.dnsbunker.org CNAME .
 jiyuu.dnsitalia.org CNAME .
 *.jiyuu.dnsitalia.org CNAME .
 dontblockme.org CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753574820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753632720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jul 2025 00:07 UTC
-; Version: 2025.0727.0007.15
+; Last modified: 27 Jul 2025 16:12 UTC
+; Version: 2025.0727.1612.09
 ; Syntax: RPZ
 ; Number of entries: 2902
 ;
@@ -1904,10 +1904,8 @@ doh.onedns.net CNAME .
 *.doh.onedns.net CNAME .
 doh-pure.onedns.net CNAME .
 *.doh-pure.onedns.net CNAME .
-ada.openbld.net CNAME .
-*.ada.openbld.net CNAME .
-ric.openbld.net CNAME .
-*.ric.openbld.net CNAME .
+openbld.net CNAME .
+*.openbld.net CNAME .
 rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 darya.persiannit.net CNAME .
@@ -2084,6 +2082,8 @@ dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
 dns.csswg.org CNAME .
 *.dns.csswg.org CNAME .
+dnsbunker.org CNAME .
+*.dnsbunker.org CNAME .
 ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
 home27.duckdns.org CNAME .

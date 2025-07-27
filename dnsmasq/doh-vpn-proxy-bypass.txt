@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jul 2025 00:07 UTC
-# Version: 2025.0727.0007.36
+# Last modified: 27 Jul 2025 16:12 UTC
+# Version: 2025.0727.1612.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 5294
 #
@@ -1139,6 +1139,7 @@ local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/dns4me.net/
 local=/aroeuyo.dns64.de/
+local=/dnsbunker.org/
 local=/ns1.recursive.dnsbycomodo.com/
 local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
@@ -2911,8 +2912,7 @@ local=/sg2.ooroot.com/
 local=/tw2.ooroot.com/
 local=/jdsiojjifjis.oovb.com/
 local=/zxyp.04.open-window.de/
-local=/ada.openbld.net/
-local=/ric.openbld.net/
+local=/openbld.net/
 local=/dns.opendns.com/
 local=/2.dnscrypt-cert.opendns.com/
 local=/doh.opendns.com/

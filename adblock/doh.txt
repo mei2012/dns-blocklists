@@ -6,8 +6,8 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 Jul 2025 00:07 UTC
-! Version: 2025.0727.0007.15
+! Last modified: 27 Jul 2025 16:12 UTC
+! Version: 2025.0727.1612.09
 ! Syntax: AdBlock
 ! Number of entries: 1451
 !
@@ -350,6 +350,7 @@
 ||dns0.eu^
 ||doh.dns4all.eu^
 ||dns4me.net^
+||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
 ||2.dnscrypt-cert.shield-2.dnsbycomodo.com^
@@ -1030,8 +1031,7 @@
 ||kr2.ooroot.com^
 ||sg2.ooroot.com^
 ||tw2.ooroot.com^
-||ada.openbld.net^
-||ric.openbld.net^
+||openbld.net^
 ||dns.opendns.com^
 ||2.dnscrypt-cert.opendns.com^
 ||doh.opendns.com^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753569660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753627200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 Jul 2025 22:41 UTC
-; Version: 2025.0726.2241.55
+; Last modified: 27 Jul 2025 14:40 UTC
+; Version: 2025.0727.1440.36
 ; Syntax: RPZ
-; Number of entries: 28836
+; Number of entries: 28834
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1757,8 +1757,6 @@ absolutelk.com CNAME .
 *.absolutelk.com CNAME .
 absolutelyn.com CNAME .
 *.absolutelyn.com CNAME .
-absoluteo.com CNAME .
-*.absoluteo.com CNAME .
 absorbpath.com CNAME .
 *.absorbpath.com CNAME .
 absorrption.com CNAME .
@@ -1777,8 +1775,6 @@ acastleinthesun.com CNAME .
 *.acastleinthesun.com CNAME .
 accbulk.com CNAME .
 *.accbulk.com CNAME .
-accelerateg.com CNAME .
-*.accelerateg.com CNAME .
 acceleratet.com CNAME .
 *.acceleratet.com CNAME .
 acceptablt.com CNAME .
@@ -2115,6 +2111,8 @@ alpineskiequipment.com CNAME .
 *.alpineskiequipment.com CNAME .
 alpionki.com CNAME .
 *.alpionki.com CNAME .
+alternatef.com CNAME .
+*.alternatef.com CNAME .
 alternatei.com CNAME .
 *.alternatei.com CNAME .
 alternative-markets.com CNAME .
@@ -2899,6 +2897,8 @@ bargainfadmerge.com CNAME .
 *.bargainfadmerge.com CNAME .
 bargnee.com CNAME .
 *.bargnee.com CNAME .
+barleybeam.com CNAME .
+*.barleybeam.com CNAME .
 barlleiy.com CNAME .
 *.barlleiy.com CNAME .
 barracudca.com CNAME .
@@ -7345,8 +7345,6 @@ getecovex.com CNAME .
 *.getecovex.com CNAME .
 getenergyfix.com CNAME .
 *.getenergyfix.com CNAME .
-getnuubu.com CNAME .
-*.getnuubu.com CNAME .
 getoutdoortool.com CNAME .
 *.getoutdoortool.com CNAME .
 getrcparts.com CNAME .
@@ -7617,6 +7615,8 @@ gourmandebusy.com CNAME .
 *.gourmandebusy.com CNAME .
 gourmetecke.com CNAME .
 *.gourmetecke.com CNAME .
+govern1.com CNAME .
+*.govern1.com CNAME .
 gpslocatorphone.com CNAME .
 *.gpslocatorphone.com CNAME .
 gpt-definity.com CNAME .
@@ -8545,8 +8545,6 @@ hydrogearworld.com CNAME .
 *.hydrogearworld.com CNAME .
 hygienecleanshop.com CNAME .
 *.hygienecleanshop.com CNAME .
-hyip.com CNAME .
-*.hyip.com CNAME .
 hypescrape.com CNAME .
 *.hypescrape.com CNAME .
 hypma.com CNAME .
@@ -8767,6 +8765,8 @@ inspirelf.com CNAME .
 *.inspirelf.com CNAME .
 insta-trading.com CNAME .
 *.insta-trading.com CNAME .
+institutem.com CNAME .
+*.institutem.com CNAME .
 instructionk.com CNAME .
 *.instructionk.com CNAME .
 instrumentak.com CNAME .
@@ -14397,6 +14397,8 @@ smartwerkzeug.com CNAME .
 *.smartwerkzeug.com CNAME .
 smhffbb8o.com CNAME .
 *.smhffbb8o.com CNAME .
+smileclothing.com CNAME .
+*.smileclothing.com CNAME .
 smlkje.com CNAME .
 *.smlkje.com CNAME .
 smpecasparts.com CNAME .
@@ -14591,8 +14593,6 @@ spinderabatt.com CNAME .
 *.spinderabatt.com CNAME .
 spiretime.com CNAME .
 *.spiretime.com CNAME .
-spirits-official.com CNAME .
-*.spirits-official.com CNAME .
 splendiday.com CNAME .
 *.splendiday.com CNAME .
 sponsorw.com CNAME .
@@ -15367,8 +15367,6 @@ tentssaleshop.com CNAME .
 *.tentssaleshop.com CNAME .
 teodoroautopecas.com CNAME .
 *.teodoroautopecas.com CNAME .
-teppichedeko.com CNAME .
-*.teppichedeko.com CNAME .
 terange.com CNAME .
 *.terange.com CNAME .
 terea-polen.com CNAME .
@@ -15745,8 +15743,6 @@ toolsiteportable.com CNAME .
 *.toolsiteportable.com CNAME .
 toolsuppystore.com CNAME .
 *.toolsuppystore.com CNAME .
-toolsusportable.com CNAME .
-*.toolsusportable.com CNAME .
 toolswiha.com CNAME .
 *.toolswiha.com CNAME .
 tooltoall.com CNAME .
@@ -25125,6 +25121,8 @@ europe-pharm.net CNAME .
 *.europe-pharm.net CNAME .
 europeanpharm.net CNAME .
 *.europeanpharm.net CNAME .
+excelia.net CNAME .
+*.excelia.net CNAME .
 familiarm.net CNAME .
 *.familiarm.net CNAME .
 fantomfx.net CNAME .
