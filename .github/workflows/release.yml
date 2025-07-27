@@ -1,6 +1,8 @@
 name: Release
 
 on:
+  schedule:
+    - cron: "15 5 */3 * *"
   push:
     branches:
       - main
@@ -17,15 +19,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          repository: "hagezi/dns-blocklists"
+          ref: "main"
+          
       - name: Generate release tag
         run: |
           repo_version=$(TZ=Asia/Bangkok date +'%Y.%m.%d.%I%M%p')
           echo "release_tag=$repo_version" >> $GITHUB_ENV
+          
       - name: Generate issue list
         run: echo "issue_list=$(gh issue list -l fixed-pending-release  | cut -f1 | sed 's/^/#/' | sed 's/$/ /' | tr -d '\n\t\r')" >> $GITHUB_ENV
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
+          
       - name: Create release
         uses: ncipollo/release-action@v1.18.0
         with:
