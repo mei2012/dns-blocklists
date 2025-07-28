@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753718760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753733640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jul 2025 16:06 UTC
-; Version: 2025.0728.1606.09
+; Last modified: 28 Jul 2025 20:14 UTC
+; Version: 2025.0728.2014.29
 ; Syntax: RPZ
-; Number of entries: 137626
+; Number of entries: 137624
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -117605,8 +117605,6 @@ redstagcasinoes.top CNAME .
 *.redstagcasinoes.top CNAME .
 refpa.top CNAME .
 *.refpa.top CNAME .
-refpa0461441.top CNAME .
-*.refpa0461441.top CNAME .
 refpa1342653.top CNAME .
 *.refpa1342653.top CNAME .
 refpa28543.top CNAME .
@@ -117661,8 +117659,6 @@ refparrknf.top CNAME .
 *.refparrknf.top CNAME .
 refpatbijfdv.top CNAME .
 *.refpatbijfdv.top CNAME .
-refpaucqkl.top CNAME .
-*.refpaucqkl.top CNAME .
 refpauwh.top CNAME .
 *.refpauwh.top CNAME .
 refpaydc.top CNAME .
@@ -123845,6 +123841,8 @@ casinowcm.wiki CNAME .
 *.casinowcm.wiki CNAME .
 chempion-slots.wiki CNAME .
 *.chempion-slots.wiki CNAME .
+clash-meta.wiki CNAME .
+*.clash-meta.wiki CNAME .
 daddy-casinos.wiki CNAME .
 *.daddy-casinos.wiki CNAME .
 eslots.wiki CNAME .
