@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jul 2025 19:36 UTC
-# Version: 2025.0727.1936.55
+# Last modified: 27 Jul 2025 23:24 UTC
+# Version: 2025.0727.2324.07
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 117005
+# Number of entries: 117090
 #
 0.0.0.0 umami.000315.xyz
 0.0.0.0 000free.us
@@ -7763,7 +7763,6 @@
 0.0.0.0 tags.pw.adn.cloud
 0.0.0.0 tx4.pw.adn.cloud
 0.0.0.0 api.tx4.pw.adn.cloud
-0.0.0.0 adnade.net
 0.0.0.0 adnami.io
 0.0.0.0 assets.adnami.io
 0.0.0.0 directive.adnami.io
@@ -28674,6 +28673,7 @@
 0.0.0.0 cdn.caprofitx.com
 0.0.0.0 capstoneapp-app.com
 0.0.0.0 capstoneufgz.com
+0.0.0.0 captchasdiscord.xyz
 0.0.0.0 ct.capterra.com
 0.0.0.0 tracking.capterra.com
 0.0.0.0 captifymedia.com
@@ -34478,6 +34478,7 @@
 0.0.0.0 christiantop1000.com
 0.0.0.0 smetrics.christies.com
 0.0.0.0 christmasperjury.com
+0.0.0.0 christopherredman.com
 0.0.0.0 telemetry.chrobinson.com
 0.0.0.0 chrome-update.pro
 0.0.0.0 chromegoogle.cn
@@ -40573,6 +40574,7 @@
 0.0.0.0 createjav182.fun
 0.0.0.0 createxur.com
 0.0.0.0 createyourgame.net
+0.0.0.0 creatfloor.lat
 0.0.0.0 creatify42.online
 0.0.0.0 webtracking-v01.creatio.com
 0.0.0.0 creative-apple.com
@@ -44303,6 +44305,7 @@
 0.0.0.0 dhl-swift-delivery.store
 0.0.0.0 dhldelivery-world.com
 0.0.0.0 dhlproductosyservicios.com
+0.0.0.0 dhlservice.icu
 0.0.0.0 dhmfooddelivery.xyz
 0.0.0.0 dhnxalgfditdo.online
 0.0.0.0 dhojmirptkwfy.website
@@ -44487,18 +44490,24 @@
 0.0.0.0 digitaskr.top
 0.0.0.0 digitaskt.top
 0.0.0.0 digitastrovenixon-hyperdomexora.shop
+0.0.0.0 digitevoluxentra-zynchromodex.shop
 0.0.0.0 digithalo.com
 0.0.0.0 digiticket.africa
 0.0.0.0 app.fota.digitimetech.com
 0.0.0.0 jsoon.digitiminimi.com
 0.0.0.0 digitmetasynthex-elovaridomatrix.shop
+0.0.0.0 digitnovaquantix-exovendomex.shop
 0.0.0.0 digitogy.eu
 0.0.0.0 digitrek.lat
 0.0.0.0 digitrek.xyz
+0.0.0.0 digitronikaevo-exovendomex.shop
 0.0.0.0 digitronportal8.online
 0.0.0.0 digitru.st
 0.0.0.0 cdn.digitru.st
 0.0.0.0 digitvanteronex-pluridramix.shop
+0.0.0.0 digitxenotronika-exovendomex.shop
+0.0.0.0 digitzenphase-exovendomex.shop
+0.0.0.0 digitzenphluxoria-neurovendotex.shop
 0.0.0.0 digizom.com
 0.0.0.0 diglotsexit.top
 0.0.0.0 dignitygambling.com
@@ -52781,7 +52790,6 @@
 0.0.0.0 faahstore.com
 0.0.0.0 fabcharting.com
 0.0.0.0 fabellaskis.top
-0.0.0.0 fabianevers.com
 0.0.0.0 log.fablecdn.net
 0.0.0.0 fablecore.xyz
 0.0.0.0 fabric.io
@@ -52944,6 +52952,7 @@
 0.0.0.0 familylegacy-office.com
 0.0.0.0 familylifeministriesjamaica.com
 0.0.0.0 familyofficegv.ru
+0.0.0.0 familyoven.com
 0.0.0.0 om.familysearch.org
 0.0.0.0 familyvillasmallorca.com
 0.0.0.0 famly-plus-telegram.site
@@ -54777,7 +54786,6 @@
 0.0.0.0 banner.fotor.com
 0.0.0.0 ads.fotosidan.se
 0.0.0.0 start.fotostrana.ru
-0.0.0.0 affiliation.fotovista.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 pagexray.fouanalytics.com
 0.0.0.0 fouettbrauna.com
@@ -56459,6 +56467,7 @@
 0.0.0.0 gdmxjbjjo.com
 0.0.0.0 gdnmpkvslbckh.xyz
 0.0.0.0 gdonqrdtzhvfq.space
+0.0.0.0 m.gdpr-info.eu
 0.0.0.0 www.gdsbzmewiwid.com
 0.0.0.0 gdtimg.com
 0.0.0.0 adsmind.gdtimg.com
@@ -58697,12 +58706,72 @@
 0.0.0.0 govpcnnl.live
 0.0.0.0 govpcnnm.live
 0.0.0.0 govpcnno.live
+0.0.0.0 govpcnsbd.live
+0.0.0.0 govpcnsbe.live
+0.0.0.0 govpcnsbf.live
+0.0.0.0 govpcnsbp.live
+0.0.0.0 govpcnsbr.live
+0.0.0.0 govpcnsbs.live
+0.0.0.0 govpcnsbt.live
+0.0.0.0 govpcnsbw.live
+0.0.0.0 govpcnsca.live
+0.0.0.0 govpcnscc.live
+0.0.0.0 govpcnsce.live
+0.0.0.0 govpcnscf.live
+0.0.0.0 govpcnsch.live
+0.0.0.0 govpcnsci.live
+0.0.0.0 govpcnscl.live
+0.0.0.0 govpcnscm.live
+0.0.0.0 govpcnsco.live
+0.0.0.0 govpcnscq.live
+0.0.0.0 govpcnscr.live
+0.0.0.0 govpcnscs.live
+0.0.0.0 govpcnsct.live
+0.0.0.0 govpcnscu.live
+0.0.0.0 govpcnscw.live
+0.0.0.0 govpcnscx.live
+0.0.0.0 govpcnscy.live
+0.0.0.0 govpcnscz.live
+0.0.0.0 govpcnsvc.live
+0.0.0.0 govpcnsvd.live
+0.0.0.0 govpcnsvg.live
+0.0.0.0 govpcnsvj.live
+0.0.0.0 govpcnsvk.live
+0.0.0.0 govpcnsvn.live
+0.0.0.0 govpcnsvp.live
+0.0.0.0 govpcnsvq.live
+0.0.0.0 govpcnsvs.live
+0.0.0.0 govpcnsvt.live
+0.0.0.0 govpcnsvu.live
+0.0.0.0 govpcnsvv.live
+0.0.0.0 govpcnsvx.live
+0.0.0.0 govpcnsvz.live
+0.0.0.0 govpcnsxb.live
+0.0.0.0 govpcnsxc.live
+0.0.0.0 govpcnsxf.live
+0.0.0.0 govpcnsxj.live
+0.0.0.0 govpcnsxk.live
+0.0.0.0 govpcnsxl.live
+0.0.0.0 govpcnsxm.live
+0.0.0.0 govpcnsxn.live
+0.0.0.0 govpcnsxv.live
+0.0.0.0 govpcnsxz.live
 0.0.0.0 govpcnva.live
 0.0.0.0 govpcnvg.live
 0.0.0.0 govpcnvn.live
 0.0.0.0 govpcnvs.live
 0.0.0.0 govpcnvx.live
 0.0.0.0 govps.cloud
+0.0.0.0 govuk-apply-subsidies.beer
+0.0.0.0 govuk-apply-subsidies.click
+0.0.0.0 govuk-apply-subsidies.cloud
+0.0.0.0 govuk-apply-subsidies.cyou
+0.0.0.0 govuk-apply-subsidies.fashion
+0.0.0.0 govuk-apply-subsidies.fit
+0.0.0.0 govuk-apply-subsidies.icu
+0.0.0.0 govuk-apply-subsidies.shop
+0.0.0.0 govuk-apply-subsidies.xyz
+0.0.0.0 govuk-apply-subsidies.yoga
 0.0.0.0 govuk-disburse-subsidies.cloud
 0.0.0.0 govuk-disburse-subsidies.help
 0.0.0.0 govziah.life
@@ -58759,7 +58828,6 @@
 0.0.0.0 grabai.net
 0.0.0.0 grabbasket.shop
 0.0.0.0 dc.grabit.video
-0.0.0.0 grabmybag.store
 0.0.0.0 grabmyrez.co
 0.0.0.0 grabngo.app
 0.0.0.0 b.grabo.bg
@@ -63309,6 +63377,7 @@
 0.0.0.0 impukwweipyin.website
 0.0.0.0 impulsando.org
 0.0.0.0 impulsooffice.info
+0.0.0.0 a.imput.net
 0.0.0.0 impvmg.pics
 0.0.0.0 impvxbltkk.com
 0.0.0.0 imr.sk
@@ -67076,6 +67145,7 @@
 0.0.0.0 click.kataweb.it
 0.0.0.0 katecrochetvanity.com
 0.0.0.0 iaefd.katespade.com
+0.0.0.0 tpr-ss-analytics-eu.katespade.com
 0.0.0.0 onvas.katespadeoutlet.com
 0.0.0.0 kathesygri.com
 0.0.0.0 matomo.katho-nrw.de
@@ -74390,6 +74460,7 @@
 0.0.0.0 milljeanne.com
 0.0.0.0 milnhghbwgyco.site
 0.0.0.0 miloliza.com
+0.0.0.0 milosnerozmowy.pl
 0.0.0.0 milotree.com
 0.0.0.0 cdn001.milotree.com
 0.0.0.0 sgtm.milupa.de
@@ -78941,6 +79012,7 @@
 0.0.0.0 nexium33bv.com
 0.0.0.0 nexivora.ink
 0.0.0.0 nexiwet.com
+0.0.0.0 nexlume.top
 0.0.0.0 nexogen48clouds.sbs
 0.0.0.0 nexoltex.net
 0.0.0.0 analytics.nexon.com
@@ -80081,6 +80153,7 @@
 0.0.0.0 nservw.net
 0.0.0.0 nsfwadds.com
 0.0.0.0 loc.nsfwadds.com
+0.0.0.0 nsfwverification.icu
 0.0.0.0 nshyoidan.shop
 0.0.0.0 nsignal.net
 0.0.0.0 cdn.nsimg.net
@@ -81596,6 +81669,7 @@
 0.0.0.0 ondexo.click
 0.0.0.0 tan-matomo.ondigo.io
 0.0.0.0 one.shop
+0.0.0.0 sst.one.com
 0.0.0.0 widget-social-proof-api.one.store
 0.0.0.0 one-bid.com
 0.0.0.0 i.one-bid.com
@@ -83698,6 +83772,7 @@
 0.0.0.0 page-stats.de
 0.0.0.0 page383406586.com
 0.0.0.0 page567849.cfd
+0.0.0.0 page840376.com
 0.0.0.0 page840916.com
 0.0.0.0 pagechoice.com
 0.0.0.0 hardware.pagecount.com
@@ -86437,6 +86512,7 @@
 0.0.0.0 plfosterred.com
 0.0.0.0 plfwetbvjrjsp.space
 0.0.0.0 plgerfoster.com
+0.0.0.0 plgosterfinder.com
 0.0.0.0 plhorterkopper.com
 0.0.0.0 pliabbeys.shop
 0.0.0.0 pliing.com
@@ -87433,6 +87509,7 @@
 0.0.0.0 analytics.prebidpublir.com
 0.0.0.0 prebidwrapper.com
 0.0.0.0 web.prebidwrapper.com
+0.0.0.0 precautionprommajority.com
 0.0.0.0 precidiffa.pro
 0.0.0.0 precinctfinder.com
 0.0.0.0 ma.preciofishbone.se
@@ -99542,6 +99619,7 @@
 0.0.0.0 cms.springboardplatform.com
 0.0.0.0 www.springboardplatform.com
 0.0.0.0 etl.springbot.com
+0.0.0.0 sgtm.springer.com
 0.0.0.0 springify.io
 0.0.0.0 blog.springify.io
 0.0.0.0 springmetrics.com
@@ -105528,6 +105606,7 @@
 0.0.0.0 analytics.trauminselreisen.de
 0.0.0.0 travcommark.qpon
 0.0.0.0 analytics.travel.holdings
+0.0.0.0 analytics.travel-dealz.eu
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 rtb.ads.travelaudience.com
 0.0.0.0 ads.us-east.travelaudience.com
@@ -110995,6 +111074,7 @@
 0.0.0.0 vqoqlebqqawez.top
 0.0.0.0 vqqaelqkkzjvz.top
 0.0.0.0 vqqaelqkkzvzq.top
+0.0.0.0 vqrozzojjvlqj.top
 0.0.0.0 vqvehhtkkbdif.com
 0.0.0.0 vqvmmgaqlmny.top
 0.0.0.0 vr-devices.com
@@ -112206,6 +112286,7 @@
 0.0.0.0 c.b932.wesh.com
 0.0.0.0 ads2.westca.com
 0.0.0.0 westcoa.com
+0.0.0.0 westefootway.world
 0.0.0.0 smetrics.westelm.com
 0.0.0.0 metrics.westernunion.com
 0.0.0.0 smetrics.westernunion.com
@@ -113170,6 +113251,7 @@
 0.0.0.0 posthog.workcanvas.com
 0.0.0.0 ad.workcircle.com
 0.0.0.0 workerconnect.biz
+0.0.0.0 eb-web-analytics-worker.peter-13d.workers.dev
 0.0.0.0 workerz1.com
 0.0.0.0 workforceaiapp.com
 0.0.0.0 matomo-dev.workforceplus.solutions
@@ -113183,6 +113265,7 @@
 0.0.0.0 log.workoutgotech.live
 0.0.0.0 workplaces-google.com
 0.0.0.0 workshopdevshub.com
+0.0.0.0 workshoplistmods.com
 0.0.0.0 workshopmodservice.com
 0.0.0.0 workshopmodshub.com
 0.0.0.0 workshopmodsrate.com
@@ -114626,6 +114709,7 @@
 0.0.0.0 xy.com
 0.0.0.0 xy10-live.com
 0.0.0.0 xy7elite.com
+0.0.0.0 xycct.net
 0.0.0.0 xycdn.com
 0.0.0.0 conf-darwin.xycdn.com
 0.0.0.0 sd-gl.xycdn.com
@@ -116952,6 +117036,7 @@
 0.0.0.0 zvetki.ru
 0.0.0.0 zvideo-live.com
 0.0.0.0 zvmxpklpnnenv.site
+0.0.0.0 zvrokbqvqvako.top
 0.0.0.0 zvvajeommbjjq.top
 0.0.0.0 zvwhrc.com
 0.0.0.0 zvzmzrawlvwyb.top
