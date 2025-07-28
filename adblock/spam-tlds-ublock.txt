@@ -11,10 +11,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 27 Jul 2025 16:13 UTC
-! Version: 2025.0727.1613.13
+! Last modified: 28 Jul 2025 08:09 UTC
+! Version: 2025.0728.0809.35
 ! Syntax: uBlock
-! Number of latin TLDs: 271 - non-latin TLDs: 151
+! Number of latin TLDs: 274 - non-latin TLDs: 151
 !
 ||actor^$doc
 ||africa^$doc,domain=~nation.africa
@@ -137,6 +137,7 @@
 ||healthcare^$doc,domain=~severance.healthcare
 ||help^$doc,domain=~fastmail.help|~gorgias.help|~kustomer.help
 ||homes^$doc,domain=~stremio.homes
+||how^$doc
 ||icu^$doc,domain=~fastdl.icu|~lunar.icu|~mon.icu
 ||ink^$doc,domain=~filepress.ink|~ishortn.ink|~mez.ink|~next.ink|~rdl.ink|~shrinkme.ink|~sumerian.ink|~work.ink
 ||international^$doc
@@ -174,6 +175,7 @@
 ||monster^$doc,domain=~cloudcdn.monster|~fedi.monster|~mortgage.monster|~rollenspiel.monster|~tts.monster|~yts.monster
 ||motorcycles^$doc
 ||mov^$doc,domain=~david.mov|~peerflix.mov|~pstream.mov|~spankbang.mov
+||my^$doc,domain=~google.com.my
 ||name^$doc,domain=~davidwalsh.name
 ||navy^$doc
 ||new^$doc,domain=~bolt.new|~doc.new|~drawing.new|~form.new|~git.new|~lecture.new|~postgres.new|~sheet.new|~site.new|~slide.new
@@ -229,7 +231,7 @@
 ||science^$doc,domain=~canonn.science|~hal.science|~wander.science
 ||sew^$doc
 ||sexy^$doc,domain=~privacy.sexy|~terminal.sexy
-||shop^$doc,domain=~11ts.shop|~30grad.shop|~4id.shop|~chessvibes.shop|~durst.shop|~eventix.shop|~freshtorge.shop|~frontiers.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~kalypso.shop|~majblomman.shop|~munu.shop|~music-merchant.shop|~nordland.shop|~owl-dampfer.shop|~schweden.shop|~scorpions.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~xn--dnemark-5wa.shop
+||shop^$doc,domain=~11ts.shop|~30grad.shop|~4id.shop|~chessvibes.shop|~durst.shop|~eventix.shop|~freshtorge.shop|~frontiers.shop|~geekchic.shop|~grnk.shop|~grog.shop|~henssler.shop|~kalypso.shop|~majblomman.shop|~munu.shop|~music-merchant.shop|~nordland.shop|~owl-dampfer.shop|~prohibited.shop|~schweden.shop|~scorpions.shop|~sentry.shop|~swedish-supplements.shop|~terminal.shop|~urlbluemedia.shop|~xn--dnemark-5wa.shop
 ||shopping^$doc
 ||show^$doc,domain=~camz.show|~j.show
 ||site^$doc,domain=~7mb.site|~additive-apps.site|~aftermath.site|~bio.site|~claude.site|~fbsmarthome.site|~gov-img.site|~heyflow.site|~i5i.site|~kaylees.site|~notion.site|~onrocket.site|~platformsh.site|~privacy-test-pages.site|~reddit-doesnt-like-this.site|~wishonly.site|~wolow.site|~wpdns.site
@@ -245,6 +247,7 @@
 ||su^$doc,domain=~encode.su|~jpg4.su|~jpg5.su|~promportal.su|~saint2.su
 ||support^$doc,domain=~ada.support|~jitsi.support
 ||surf^$doc,domain=~s-wings.surf
+||sx^$doc,domain=~filemoon.sx|~voe.sx
 ||sydney^$doc
 ||tattoo^$doc
 ||tax^$doc

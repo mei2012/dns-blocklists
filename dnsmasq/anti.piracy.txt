@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jul 2025 20:15 UTC
-# Version: 2025.0727.2015.57
+# Last modified: 28 Jul 2025 08:08 UTC
+# Version: 2025.0728.0808.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10176
+# Number of entries: 10181
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -193,6 +193,7 @@ local=/1nd.hu/
 local=/1qwebplay.xyz/
 local=/1stream.top/
 local=/1street.ru/
+local=/1tamilblasters.how/
 local=/1tamilmv.pet/
 local=/1techno.org/
 local=/1trance.org/
@@ -1443,6 +1444,7 @@ local=/boerse.tw/
 local=/bokashoka.com/
 local=/bolly4u.tube/
 local=/bollyflix.army/
+local=/bollyflix.pub/
 local=/bollywood.eu/
 local=/bolmovies.com/
 local=/bomplay.com/
@@ -4213,6 +4215,7 @@ local=/hdfreaks.cc/
 local=/hdfull.lv/
 local=/hdhome.org/
 local=/hdhub4u.family/
+local=/hdhub4u.gifts/
 local=/hdhublist.com/
 local=/hdlivemovies.com/
 local=/hdm.to/
@@ -7674,6 +7677,8 @@ local=/sky-tech.hu/
 local=/skybizbd.net/
 local=/skylinectg.com/
 local=/skyll.net/
+local=/skymovieshd.credit/
+local=/skymovieshd.land/
 local=/skymovieshd.social/
 local=/skynetbd.net/
 local=/skynetchowmuhani.com/

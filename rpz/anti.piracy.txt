@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753647300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753690080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 Jul 2025 20:15 UTC
-; Version: 2025.0727.2015.57
+; Last modified: 28 Jul 2025 08:08 UTC
+; Version: 2025.0728.0808.07
 ; Syntax: RPZ
-; Number of entries: 20352
+; Number of entries: 20362
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7745,6 +7745,8 @@ cb01.credit CNAME .
 *.cb01.credit CNAME .
 eurostreaming.credit CNAME .
 *.eurostreaming.credit CNAME .
+skymovieshd.credit CNAME .
+*.skymovieshd.credit CNAME .
 streamingcommunity.credit CNAME .
 *.streamingcommunity.credit CNAME .
 crichd.cricket CNAME .
@@ -8775,6 +8777,8 @@ torrent9.gg CNAME .
 *.torrent9.gg CNAME .
 tracker.tritan.gg CNAME .
 *.tracker.tritan.gg CNAME .
+hdhub4u.gifts CNAME .
+*.hdhub4u.gifts CNAME .
 eurostreaming.gives CNAME .
 *.eurostreaming.gives CNAME .
 cb01.giving CNAME .
@@ -8883,6 +8887,8 @@ fzmovies.host CNAME .
 *.fzmovies.host CNAME .
 putlocker.host CNAME .
 *.putlocker.host CNAME .
+1tamilblasters.how CNAME .
+*.1tamilblasters.how CNAME .
 megakino.how CNAME .
 *.megakino.how CNAME .
 putlocker.how CNAME .
@@ -10063,6 +10069,8 @@ yts.la CNAME .
 *.yts.la CNAME .
 cineblog01.land CNAME .
 *.cineblog01.land CNAME .
+skymovieshd.land CNAME .
+*.skymovieshd.land CNAME .
 cb01.lat CNAME .
 *.cb01.lat CNAME .
 eurostreaming.lat CNAME .
@@ -16073,6 +16081,8 @@ streameast.ps CNAME .
 *.streameast.ps CNAME .
 ufs.pt CNAME .
 *.ufs.pt CNAME .
+bollyflix.pub CNAME .
+*.bollyflix.pub CNAME .
 dokumen.pub CNAME .
 *.dokumen.pub CNAME .
 fmovies.pub CNAME .
