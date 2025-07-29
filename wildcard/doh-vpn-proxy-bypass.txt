@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jul 2025 08:11 UTC
-# Version: 2025.0729.0811.56
+# Last modified: 29 Jul 2025 16:12 UTC
+# Version: 2025.0729.1612.30
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 5297
 #
@@ -1324,7 +1324,6 @@
 *.dns.dyn1.de
 *.ueni.dyndns.org
 *.adbox-v9.dynipv6.de
-*.gustamadh.dynv6.net
 *.sagamihara.dynv6.net
 *.t9rke-5zq1m.dynv6.net
 *.dns.dynx.pro
@@ -5263,6 +5262,7 @@
 *.yui.cat
 *.friends-are.awesome.yukon.ar
 *.dns.yuu-g.net
+*.yuvelirtut.website
 *.yuyuproxy.com
 *.yxorproxy.com
 *.adg.yybyy.wiki

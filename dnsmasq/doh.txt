@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jul 2025 08:11 UTC
-# Version: 2025.0729.0811.35
+# Last modified: 29 Jul 2025 16:12 UTC
+# Version: 2025.0729.1612.06
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1450
 #
@@ -502,7 +502,6 @@ local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -1448,6 +1447,7 @@ local=/sg.yepdns.com/
 local=/your-dns.run/
 local=/yovbak.com/
 local=/dns.yuu-g.net/
+local=/yuvelirtut.website/
 local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/

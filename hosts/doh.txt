@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jul 2025 08:11 UTC
-# Version: 2025.0729.0811.35
+# Last modified: 29 Jul 2025 16:12 UTC
+# Version: 2025.0729.1612.06
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1607
 #
@@ -613,7 +613,6 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -1605,6 +1604,7 @@
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 dns.yuu-g.net
+0.0.0.0 yuvelirtut.website
 0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 adguard.zachitect.com

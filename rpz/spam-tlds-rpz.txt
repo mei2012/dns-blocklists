@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753704960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753803780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -13,8 +13,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jul 2025 12:16 UTC
-; Version: 2025.0728.1216.53
+; Last modified: 29 Jul 2025 15:43 UTC
+; Version: 2025.0729.1543.30
 ; Syntax: RPZ
 ; Number of latin TLDs: 140/274
 ;

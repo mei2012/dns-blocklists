@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753771080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753800000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jul 2025 06:38 UTC
-; Version: 2025.0729.0638.29
+; Last modified: 29 Jul 2025 14:40 UTC
+; Version: 2025.0729.1440.55
 ; Syntax: RPZ
-; Number of entries: 28860
+; Number of entries: 28874
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2167,8 +2167,6 @@ amazonliw.com CNAME .
 *.amazonliw.com CNAME .
 amazonspallet.com CNAME .
 *.amazonspallet.com CNAME .
-amazwarehouse.com CNAME .
-*.amazwarehouse.com CNAME .
 ambestenkleider.com CNAME .
 *.ambestenkleider.com CNAME .
 ambitbio.com CNAME .
@@ -4531,6 +4529,8 @@ columbia-suomi.com CNAME .
 *.columbia-suomi.com CNAME .
 columbiashoesmalaysia.com CNAME .
 *.columbiashoesmalaysia.com CNAME .
+comazoo.com CNAME .
+*.comazoo.com CNAME .
 combitranslogistics.com CNAME .
 *.combitranslogistics.com CNAME .
 combojoy.com CNAME .
@@ -4749,6 +4749,8 @@ createwithbuy.com CNAME .
 *.createwithbuy.com CNAME .
 creativegameplay.com CNAME .
 *.creativegameplay.com CNAME .
+creativetoyssales.com CNAME .
+*.creativetoyssales.com CNAME .
 crehih.com CNAME .
 *.crehih.com CNAME .
 crest-career.com CNAME .
@@ -4943,6 +4945,8 @@ darlehenjetzt.com CNAME .
 *.darlehenjetzt.com CNAME .
 das-home.com CNAME .
 *.das-home.com CNAME .
+dasbatteries.com CNAME .
+*.dasbatteries.com CNAME .
 dashausderjuwelenosterreich.com CNAME .
 *.dashausderjuwelenosterreich.com CNAME .
 dasleselabor.com CNAME .
@@ -11191,6 +11195,8 @@ fussballtrikot.myshopify.com CNAME .
 *.fussballtrikot.myshopify.com CNAME .
 gold-genuss.myshopify.com CNAME .
 *.gold-genuss.myshopify.com CNAME .
+gomirno.myshopify.com CNAME .
+*.gomirno.myshopify.com CNAME .
 grunraum.myshopify.com CNAME .
 *.grunraum.myshopify.com CNAME .
 haney-university-store.myshopify.com CNAME .
@@ -14311,8 +14317,6 @@ siteuscosmetic.com CNAME .
 *.siteuscosmetic.com CNAME .
 siteusefultool.com CNAME .
 *.siteusefultool.com CNAME .
-sitevogue-us.com CNAME .
-*.sitevogue-us.com CNAME .
 skanehome.com CNAME .
 *.skanehome.com CNAME .
 skate-erlebnis.com CNAME .
@@ -15227,6 +15231,8 @@ taillightsales.com CNAME .
 *.taillightsales.com CNAME .
 tajamom.com CNAME .
 *.tajamom.com CNAME .
+takeyabottleusa.com CNAME .
+*.takeyabottleusa.com CNAME .
 taktischewelt.com CNAME .
 *.taktischewelt.com CNAME .
 ins.talentloompro-at.com CNAME .
@@ -17809,8 +17815,6 @@ arina-handel.de CNAME .
 *.arina-handel.de CNAME .
 ark-handel.de CNAME .
 *.ark-handel.de CNAME .
-arketrabatt.de CNAME .
-*.arketrabatt.de CNAME .
 armedangelsrabatt.de CNAME .
 *.armedangelsrabatt.de CNAME .
 armodamunchen.de CNAME .
@@ -18941,6 +18945,8 @@ dimprice.de CNAME .
 *.dimprice.de CNAME .
 dincer-gartenbau.de CNAME .
 *.dincer-gartenbau.de CNAME .
+dinem-tech.de CNAME .
+*.dinem-tech.de CNAME .
 dirkuhren.de CNAME .
 *.dirkuhren.de CNAME .
 dirndlzeit.de CNAME .
@@ -19427,6 +19433,8 @@ fahrradhandel-richter.de CNAME .
 *.fahrradhandel-richter.de CNAME .
 fahrradhandel-stanke.de CNAME .
 *.fahrradhandel-stanke.de CNAME .
+fahrradladen-hoffmann.de CNAME .
+*.fahrradladen-hoffmann.de CNAME .
 fahrschulagenten.de CNAME .
 *.fahrschulagenten.de CNAME .
 fahrzeugkomfort.de CNAME .
@@ -20719,6 +20727,8 @@ kamerarabatt.de CNAME .
 *.kamerarabatt.de CNAME .
 kameratraum.de CNAME .
 *.kameratraum.de CNAME .
+kamerino.de CNAME .
+*.kamerino.de CNAME .
 kamineo24.de CNAME .
 *.kamineo24.de CNAME .
 kamingmbh.de CNAME .
@@ -22681,6 +22691,8 @@ rosenbaum-berlin.de CNAME .
 *.rosenbaum-berlin.de CNAME .
 rosenberg-boutique.de CNAME .
 *.rosenberg-boutique.de CNAME .
+rostockhaf.de CNAME .
+*.rostockhaf.de CNAME .
 rotes-tor.de CNAME .
 *.rotes-tor.de CNAME .
 rothause.de CNAME .
@@ -23047,6 +23059,8 @@ slimyliquid.de CNAME .
 *.slimyliquid.de CNAME .
 slu-handel.de CNAME .
 *.slu-handel.de CNAME .
+slu24-handel.de CNAME .
+*.slu24-handel.de CNAME .
 smart-ai-etf.de CNAME .
 *.smart-ai-etf.de CNAME .
 smart-chatgpt.de CNAME .
