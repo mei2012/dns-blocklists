@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 Jul 2025 08:13 UTC
-# Version: 2025.0728.0813.28
+# Last modified: 29 Jul 2025 08:11 UTC
+# Version: 2025.0729.0811.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5293
+# Number of entries: 5297
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1284,7 +1284,6 @@ local=/takhtakh.domyah.net/
 local=/watch-dexter.or-you-now.donciccio.net/
 local=/dontblockme.org/
 local=/dontfilter.us/
-local=/dns.dooks.uk/
 local=/arjunthestinkyindian.dorsrv.ru/
 local=/bristol-is-the-king.dorsrv.ru/
 local=/dot.pub/
@@ -1325,6 +1324,7 @@ local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1518,6 +1518,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2647,7 +2648,6 @@ local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
 local=/study.sci.nabim.com/
-local=/doh-ca.naftalie.net/
 local=/najiakeji.top/
 local=/dns.nako.kr/
 local=/www.chungocoai.name.vn/
@@ -3692,12 +3692,16 @@ local=/sitenable.in/
 local=/sitenable.org/
 local=/sitescrack.host/
 local=/sitesunblocked.com/
+local=/sitesunblocked.info/
+local=/sitesunblocked.net/
+local=/sitesunblocked.org/
 local=/siteunblock.org/
 local=/siteunblock.xyz/
 local=/siteunblocked.icu/
 local=/siteunblocked.space/
 local=/siteunblocked.website/
 local=/siteunblocked.xyz/
+local=/siteunlock2you.com/
 local=/sitework.info/
 local=/ofer.ox.sjtech.org/
 local=/iproyal.sjv.io/

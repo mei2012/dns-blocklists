@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753728000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753771080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 28 Jul 2025 18:40 UTC
-; Version: 2025.0728.1840.33
+; Last modified: 29 Jul 2025 06:38 UTC
+; Version: 2025.0729.0638.29
 ; Syntax: RPZ
-; Number of entries: 28836
+; Number of entries: 28860
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -199,6 +199,8 @@ labubu.co.at CNAME .
 *.labubu.co.at CNAME .
 owala.co.at CNAME .
 *.owala.co.at CNAME .
+superdry.co.at CNAME .
+*.superdry.co.at CNAME .
 vanss.co.at CNAME .
 *.vanss.co.at CNAME .
 coachoutlet.at CNAME .
@@ -2109,6 +2111,8 @@ alpineskiequipment.com CNAME .
 *.alpineskiequipment.com CNAME .
 alpionki.com CNAME .
 *.alpionki.com CNAME .
+alternatef.com CNAME .
+*.alternatef.com CNAME .
 alternatei.com CNAME .
 *.alternatei.com CNAME .
 alternative-markets.com CNAME .
@@ -2431,6 +2435,8 @@ arbeitsjacken24.com CNAME .
 *.arbeitsjacken24.com CNAME .
 arbreth.com CNAME .
 *.arbreth.com CNAME .
+arcajettrader.com CNAME .
+*.arcajettrader.com CNAME .
 architectes-fr.com CNAME .
 *.architectes-fr.com CNAME .
 arcistock.com CNAME .
@@ -5209,8 +5215,6 @@ desmonte-wg.com CNAME .
 *.desmonte-wg.com CNAME .
 dessertspoonshop.com CNAME .
 *.dessertspoonshop.com CNAME .
-dessoushop.com CNAME .
-*.dessoushop.com CNAME .
 destineding.com CNAME .
 *.destineding.com CNAME .
 destinedy.com CNAME .
@@ -8539,6 +8543,8 @@ hydrogearworld.com CNAME .
 *.hydrogearworld.com CNAME .
 hygienecleanshop.com CNAME .
 *.hygienecleanshop.com CNAME .
+hyip.com CNAME .
+*.hyip.com CNAME .
 hypescrape.com CNAME .
 *.hypescrape.com CNAME .
 hypma.com CNAME .
@@ -8705,6 +8711,8 @@ inexpensivy.com CNAME .
 *.inexpensivy.com CNAME .
 inferright.com CNAME .
 *.inferright.com CNAME .
+inferutmati.com CNAME .
+*.inferutmati.com CNAME .
 infineink.com CNAME .
 *.infineink.com CNAME .
 infinitediamond.com CNAME .
@@ -9303,6 +9311,8 @@ kezono.com CNAME .
 *.kezono.com CNAME .
 kfg-digital.com CNAME .
 *.kfg-digital.com CNAME .
+kfmdso.com CNAME .
+*.kfmdso.com CNAME .
 kfoodsupp.com CNAME .
 *.kfoodsupp.com CNAME .
 khujoaustria.com CNAME .
@@ -11355,6 +11365,8 @@ nbynicole.com CNAME .
 *.nbynicole.com CNAME .
 ncases.com CNAME .
 *.ncases.com CNAME .
+ndfinitee.com CNAME .
+*.ndfinitee.com CNAME .
 necessityi.com CNAME .
 *.necessityi.com CNAME .
 necessoul.com CNAME .
@@ -11831,6 +11843,8 @@ on-cloudoutletfactory.com CNAME .
 *.on-cloudoutletfactory.com CNAME .
 on-handel.com CNAME .
 *.on-handel.com CNAME .
+on-outlet-store.com CNAME .
+*.on-outlet-store.com CNAME .
 on-runningschweiz.com CNAME .
 *.on-runningschweiz.com CNAME .
 onbestsellprods.com CNAME .
@@ -12935,6 +12949,8 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
+providedes.com CNAME .
+*.providedes.com CNAME .
 proximitye.com CNAME .
 *.proximitye.com CNAME .
 proximityi.com CNAME .
@@ -14429,6 +14445,8 @@ sockestore.com CNAME .
 *.sockestore.com CNAME .
 soedream.com CNAME .
 *.soedream.com CNAME .
+soeobfgf.com CNAME .
+*.soeobfgf.com CNAME .
 sofasundsessel.com CNAME .
 *.sofasundsessel.com CNAME .
 sofort-kreditt.com CNAME .
@@ -22127,6 +22145,8 @@ onopur.de CNAME .
 *.onopur.de CNAME .
 onrunningoutletdeutschland.de CNAME .
 *.onrunningoutletdeutschland.de CNAME .
+onrunningoutletstore.de CNAME .
+*.onrunningoutletstore.de CNAME .
 onrunningsoutlet.de CNAME .
 *.onrunningsoutlet.de CNAME .
 onschuhedeutschland.de CNAME .
@@ -25181,8 +25201,8 @@ goldsicher.net CNAME .
 *.goldsicher.net CNAME .
 graminator.net CNAME .
 *.graminator.net CNAME .
-fr.grandcapital.net CNAME .
-*.fr.grandcapital.net CNAME .
+grandcapital.net CNAME .
+*.grandcapital.net CNAME .
 graskaufen.net CNAME .
 *.graskaufen.net CNAME .
 greenthin.net CNAME .
@@ -25475,8 +25495,6 @@ sanuksuomi.net CNAME .
 *.sanuksuomi.net CNAME .
 saycom.net CNAME .
 *.saycom.net CNAME .
-sblt.net CNAME .
-*.sblt.net CNAME .
 sendrasuomi.net CNAME .
 *.sendrasuomi.net CNAME .
 servicepharmaceutique.net CNAME .
@@ -25997,6 +26015,8 @@ stoneislandsuomi.org CNAME .
 *.stoneislandsuomi.org CNAME .
 supportfortross.org CNAME .
 *.supportfortross.org CNAME .
+tablets-today.org CNAME .
+*.tablets-today.org CNAME .
 technologiesgroup.org CNAME .
 *.technologiesgroup.org CNAME .
 trendzo.org CNAME .
@@ -26223,6 +26243,8 @@ albadistribucionava.shop CNAME .
 *.albadistribucionava.shop CNAME .
 albersdesignde.shop CNAME .
 *.albersdesignde.shop CNAME .
+aldioutlets.shop CNAME .
+*.aldioutlets.shop CNAME .
 alimhomeoutlet.shop CNAME .
 *.alimhomeoutlet.shop CNAME .
 alldiamondpaintingde.shop CNAME .
@@ -26807,6 +26829,8 @@ gekaholz.shop CNAME .
 *.gekaholz.shop CNAME .
 generika-profi.shop CNAME .
 *.generika-profi.shop CNAME .
+georworker.shop CNAME .
+*.georworker.shop CNAME .
 gertakura.shop CNAME .
 *.gertakura.shop CNAME .
 geschenkfreudeeu.shop CNAME .
