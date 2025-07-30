@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753828680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753886400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Jul 2025 22:38 UTC
-; Version: 2025.0729.2238.26
+; Last modified: 30 Jul 2025 14:40 UTC
+; Version: 2025.0730.1440.13
 ; Syntax: RPZ
-; Number of entries: 28876
+; Number of entries: 28906
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1775,6 +1775,8 @@ acastleinthesun.com CNAME .
 *.acastleinthesun.com CNAME .
 accbulk.com CNAME .
 *.accbulk.com CNAME .
+accelerateg.com CNAME .
+*.accelerateg.com CNAME .
 acceleratet.com CNAME .
 *.acceleratet.com CNAME .
 acceptablt.com CNAME .
@@ -4039,6 +4041,8 @@ capitalcourtage.com CNAME .
 *.capitalcourtage.com CNAME .
 capitalfxs.com CNAME .
 *.capitalfxs.com CNAME .
+capitaliko.com CNAME .
+*.capitaliko.com CNAME .
 capitalinvestmentreviews.com CNAME .
 *.capitalinvestmentreviews.com CNAME .
 capitalmarket24.com CNAME .
@@ -4563,6 +4567,8 @@ commiodity.com CNAME .
 *.commiodity.com CNAME .
 commoditye.com CNAME .
 *.commoditye.com CNAME .
+commodityk.com CNAME .
+*.commodityk.com CNAME .
 commodityt.com CNAME .
 *.commodityt.com CNAME .
 communicatk.com CNAME .
@@ -4591,6 +4597,8 @@ comptntistur.com CNAME .
 *.comptntistur.com CNAME .
 conceptionp.com CNAME .
 *.conceptionp.com CNAME .
+condutbarn.com CNAME .
+*.condutbarn.com CNAME .
 confidentp.com CNAME .
 *.confidentp.com CNAME .
 confiemm.com CNAME .
@@ -5219,6 +5227,8 @@ desmonte-wg.com CNAME .
 *.desmonte-wg.com CNAME .
 dessertspoonshop.com CNAME .
 *.dessertspoonshop.com CNAME .
+dessoushop.com CNAME .
+*.dessoushop.com CNAME .
 destineding.com CNAME .
 *.destineding.com CNAME .
 destinedy.com CNAME .
@@ -5925,6 +5935,8 @@ ensemble4cyclisme.com CNAME .
 *.ensemble4cyclisme.com CNAME .
 entdeckennatur.com CNAME .
 *.entdeckennatur.com CNAME .
+entertainl.com CNAME .
+*.entertainl.com CNAME .
 enthusiastip.com CNAME .
 *.enthusiastip.com CNAME .
 entornobanoes.com CNAME .
@@ -6627,6 +6639,8 @@ firegemss.com CNAME .
 *.firegemss.com CNAME .
 firewoiks.com CNAME .
 *.firewoiks.com CNAME .
+firmadmire.com CNAME .
+*.firmadmire.com CNAME .
 first-investcapital.com CNAME .
 *.first-investcapital.com CNAME .
 firstmoebelshop.com CNAME .
@@ -6881,6 +6895,8 @@ free-maket.com CNAME .
 *.free-maket.com CNAME .
 freeacy.com CNAME .
 *.freeacy.com CNAME .
+freeseem.com CNAME .
+*.freeseem.com CNAME .
 freesmarttools.com CNAME .
 *.freesmarttools.com CNAME .
 freeworkhub.com CNAME .
@@ -7181,6 +7197,8 @@ geld-ausleihen.com CNAME .
 *.geld-ausleihen.com CNAME .
 geldway.com CNAME .
 *.geldway.com CNAME .
+gelmalls.com CNAME .
+*.gelmalls.com CNAME .
 gemhearingaids.com CNAME .
 *.gemhearingaids.com CNAME .
 gemoneo.com CNAME .
@@ -7619,6 +7637,8 @@ gourmandebusy.com CNAME .
 *.gourmandebusy.com CNAME .
 gourmetecke.com CNAME .
 *.gourmetecke.com CNAME .
+govern1.com CNAME .
+*.govern1.com CNAME .
 gpslocatorphone.com CNAME .
 *.gpslocatorphone.com CNAME .
 gpt-definity.com CNAME .
@@ -8495,6 +8515,8 @@ huck24.com CNAME .
 *.huck24.com CNAME .
 hudyrc.com CNAME .
 *.hudyrc.com CNAME .
+hugetsky.com CNAME .
+*.hugetsky.com CNAME .
 hugopdgr.com CNAME .
 *.hugopdgr.com CNAME .
 huisdecoratie-nl.com CNAME .
@@ -8793,6 +8815,8 @@ intelilawllp.com CNAME .
 *.intelilawllp.com CNAME .
 intellisynex.com CNAME .
 *.intellisynex.com CNAME .
+intentionalk.com CNAME .
+*.intentionalk.com CNAME .
 inter-investissement-holding.com CNAME .
 *.inter-investissement-holding.com CNAME .
 interactionm.com CNAME .
@@ -10003,6 +10027,8 @@ lockwoodinv.com CNAME .
 *.lockwoodinv.com CNAME .
 locmyparcel.com CNAME .
 *.locmyparcel.com CNAME .
+locomotivey.com CNAME .
+*.locomotivey.com CNAME .
 lodiac.com CNAME .
 *.lodiac.com CNAME .
 lodischuhedeutschland.com CNAME .
@@ -11739,6 +11765,8 @@ obroker.com CNAME .
 *.obroker.com CNAME .
 occasionak.com CNAME .
 *.occasionak.com CNAME .
+occasionk.com CNAME .
+*.occasionk.com CNAME .
 ochsner-agrarhandel.com CNAME .
 *.ochsner-agrarhandel.com CNAME .
 octa-trade.com CNAME .
@@ -15601,6 +15629,8 @@ thorogooddeutschland.com CNAME .
 *.thorogooddeutschland.com CNAME .
 thorogoodfrance.com CNAME .
 *.thorogoodfrance.com CNAME .
+thresholdi.com CNAME .
+*.thresholdi.com CNAME .
 thrillsnew.com CNAME .
 *.thrillsnew.com CNAME .
 throughouty.com CNAME .
@@ -16687,8 +16717,6 @@ viva-markets.com CNAME .
 *.viva-markets.com CNAME .
 viva-stores.com CNAME .
 *.viva-stores.com CNAME .
-vivaiacollection.com CNAME .
-*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -24501,6 +24529,8 @@ cles-du-patrimoine.fr CNAME .
 *.cles-du-patrimoine.fr CNAME .
 diamsinvest.fr CNAME .
 *.diamsinvest.fr CNAME .
+elansyvor.fr CNAME .
+*.elansyvor.fr CNAME .
 elecmassage.fr CNAME .
 *.elecmassage.fr CNAME .
 endrix-pat.fr CNAME .
@@ -25145,8 +25175,6 @@ europe-pharm.net CNAME .
 *.europe-pharm.net CNAME .
 europeanpharm.net CNAME .
 *.europeanpharm.net CNAME .
-excelia.net CNAME .
-*.excelia.net CNAME .
 familiarm.net CNAME .
 *.familiarm.net CNAME .
 fantomfx.net CNAME .
@@ -25511,6 +25539,8 @@ sanuksuomi.net CNAME .
 *.sanuksuomi.net CNAME .
 saycom.net CNAME .
 *.saycom.net CNAME .
+sblt.net CNAME .
+*.sblt.net CNAME .
 sendrasuomi.net CNAME .
 *.sendrasuomi.net CNAME .
 servicepharmaceutique.net CNAME .

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 Jul 2025 20:19 UTC
-# Version: 2025.0726.2019.54
+# Last modified: 30 Jul 2025 16:10 UTC
+# Version: 2025.0730.1610.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1465
+# Number of entries: 1464
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -268,7 +268,6 @@
 *.ddnsgeek.com
 *.ddnsguru.com
 *.ddnsking.com
-*.ddnslive.com
 *.ddnss.ch
 *.ddnss.de
 *.ddnss.eu

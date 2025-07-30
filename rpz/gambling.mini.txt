@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753862700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753891500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jul 2025 08:05 UTC
-; Version: 2025.0730.0805.39
+; Last modified: 30 Jul 2025 16:05 UTC
+; Version: 2025.0730.1605.49
 ; Syntax: RPZ
-; Number of entries: 115682
+; Number of entries: 115546
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -807,6 +807,8 @@ yourcasinos.art CNAME .
 *.7xm.asia CNAME .
 8xbetvn.asia CNAME .
 *.8xbetvn.asia CNAME .
+aa888.asia CNAME .
+*.aa888.asia CNAME .
 agenpokeronline.asia CNAME .
 *.agenpokeronline.asia CNAME .
 banca30.asia CNAME .
@@ -5521,8 +5523,6 @@ uonoslots.cash CNAME .
 *.655bet.casino CNAME .
 6686.casino CNAME .
 *.6686.casino CNAME .
-6686vn.casino CNAME .
-*.6686vn.casino CNAME .
 6789vip.casino CNAME .
 *.6789vip.casino CNAME .
 69-bet.casino CNAME .
@@ -18309,10 +18309,6 @@ asstook.68winapi.com CNAME .
 *.asstook.68winapi.com CNAME .
 asstook.68winbin.com CNAME .
 *.asstook.68winbin.com CNAME .
-andcniw86.68wincdn.com CNAME .
-*.andcniw86.68wincdn.com CNAME .
-assoniw86.68winoss.com CNAME .
-*.assoniw86.68winoss.com CNAME .
 images.6929183.com CNAME .
 *.images.6929183.com CNAME .
 69779mm.com CNAME .
@@ -18369,10 +18365,6 @@ images.6929183.com CNAME .
 *.6betslots.com CNAME .
 6ff4.com CNAME .
 *.6ff4.com CNAME .
-assoff6.6ffokk.com CNAME .
-*.assoff6.6ffokk.com CNAME .
-ossoff6.6ffokk.com CNAME .
-*.ossoff6.6ffokk.com CNAME .
 6gbet.com CNAME .
 *.6gbet.com CNAME .
 6gbet1.com CNAME .
@@ -19359,10 +19351,6 @@ ossoff6.6ffokk.com CNAME .
 *.888win6.com CNAME .
 888winbets.com CNAME .
 *.888winbets.com CNAME .
-cdn.888zfym.com CNAME .
-*.cdn.888zfym.com CNAME .
-pv9g7x12i.888zfym.com CNAME .
-*.pv9g7x12i.888zfym.com CNAME .
 8899betslot.com CNAME .
 *.8899betslot.com CNAME .
 8899betslots.com CNAME .
@@ -21633,10 +21621,6 @@ avantgardecasino2.com CNAME .
 *.avantgardecasino2.com CNAME .
 avantgardecasinoau.com CNAME .
 *.avantgardecasinoau.com CNAME .
-cdn.avcjtodj.com CNAME .
-*.cdn.avcjtodj.com CNAME .
-cdn65.avcjtodj.com CNAME .
-*.cdn65.avcjtodj.com CNAME .
 avenhou.com CNAME .
 *.avenhou.com CNAME .
 aviamasters-casino-demo.com CNAME .
@@ -39921,6 +39905,8 @@ khd10.com CNAME .
 *.khd10.com CNAME .
 khelchamps.com CNAME .
 *.khelchamps.com CNAME .
+khelo24bet.com CNAME .
+*.khelo24bet.com CNAME .
 khelostar.com CNAME .
 *.khelostar.com CNAME .
 khelraja.com CNAME .
@@ -43455,8 +43441,6 @@ mgmconnecticut.com CNAME .
 *.mgmconnecticut.com CNAME .
 mgmgrand.com CNAME .
 *.mgmgrand.com CNAME .
-mgmgrandexhibitorservices.com CNAME .
-*.mgmgrandexhibitorservices.com CNAME .
 mgmgrandvegas.com CNAME .
 *.mgmgrandvegas.com CNAME .
 mgmmacau.com CNAME .
@@ -53611,8 +53595,6 @@ socialslotsquad.com CNAME .
 *.socialslotsquad.com CNAME .
 socpublic.com CNAME .
 *.socpublic.com CNAME .
-upload.sodo121.com CNAME .
-*.upload.sodo121.com CNAME .
 soencasino5.com CNAME .
 *.soencasino5.com CNAME .
 soencasino6.com CNAME .
@@ -58205,6 +58187,8 @@ voxcasinoplayde.com CNAME .
 *.voxcasinoplayde.com CNAME .
 voxcasinoplayde-16.com CNAME .
 *.voxcasinoplayde-16.com CNAME .
+voy-bagpipespg.com CNAME .
+*.voy-bagpipespg.com CNAME .
 voy-balloonspg.com CNAME .
 *.voy-balloonspg.com CNAME .
 voy-billowpg.com CNAME .
@@ -62911,12 +62895,12 @@ giantgoldrhino188.fun CNAME .
 *.giantgoldrhino188.fun CNAME .
 gocasino.fun CNAME .
 *.gocasino.fun CNAME .
-gokil.fun CNAME .
-*.gokil.fun CNAME .
 gold-casino-vmq.fun CNAME .
 *.gold-casino-vmq.fun CNAME .
 grandfinity.fun CNAME .
 *.grandfinity.fun CNAME .
+h22.fun CNAME .
+*.h22.fun CNAME .
 hello88c.fun CNAME .
 *.hello88c.fun CNAME .
 iasia88.fun CNAME .
@@ -65165,8 +65149,6 @@ aicasino.info CNAME .
 *.aicasino.info CNAME .
 aidano.info CNAME .
 *.aidano.info CNAME .
-ajio.info CNAME .
-*.ajio.info CNAME .
 alev-casino-giris.info CNAME .
 *.alev-casino-giris.info CNAME .
 alexis77.info CNAME .
@@ -65775,8 +65757,6 @@ onlinegamblings.info CNAME .
 *.onlinegamblings.info CNAME .
 oshi-casino.info CNAME .
 *.oshi-casino.info CNAME .
-oylinki.info CNAME .
-*.oylinki.info CNAME .
 pacpoker.info CNAME .
 *.pacpoker.info CNAME .
 pafikabsemarang.info CNAME .
@@ -75721,8 +75701,6 @@ luckybirdcasino24.online CNAME .
 *.luckybirdcasino24.online CNAME .
 luckystarcasino.online CNAME .
 *.luckystarcasino.online CNAME .
-luckywins88rd.online CNAME .
-*.luckywins88rd.online CNAME .
 luga-casino.online CNAME .
 *.luga-casino.online CNAME .
 lumislots.online CNAME .
@@ -80913,6 +80891,8 @@ casinoonline.com.ph CNAME .
 *.casinoonline.com.ph CNAME .
 casinoplus.com.ph CNAME .
 *.casinoplus.com.ph CNAME .
+gojackpot.com.ph CNAME .
+*.gojackpot.com.ph CNAME .
 inplay.com.ph CNAME .
 *.inplay.com.ph CNAME .
 jili93.com.ph CNAME .
@@ -90109,8 +90089,6 @@ rabona-casino.space CNAME .
 *.rabona-casino.space CNAME .
 rausblackcasino777c.space CNAME .
 *.rausblackcasino777c.space CNAME .
-refpabmflm.space CNAME .
-*.refpabmflm.space CNAME .
 rgopkwin.space CNAME .
 *.rgopkwin.space CNAME .
 rhvegascasino777jpvs.space CNAME .
@@ -91867,40 +91845,16 @@ casinoguide.tokyo CNAME .
 *.1xlite-973337.top CNAME .
 1xlite-979203.top CNAME .
 *.1xlite-979203.top CNAME .
-1xslots-008.top CNAME .
-*.1xslots-008.top CNAME .
-1xslots-062.top CNAME .
-*.1xslots-062.top CNAME .
-1xslots-102.top CNAME .
-*.1xslots-102.top CNAME .
 1xslots-126.top CNAME .
 *.1xslots-126.top CNAME .
-1xslots-308.top CNAME .
-*.1xslots-308.top CNAME .
-1xslots-328.top CNAME .
-*.1xslots-328.top CNAME .
 1xslots-3342.top CNAME .
 *.1xslots-3342.top CNAME .
 1xslots-362.top CNAME .
 *.1xslots-362.top CNAME .
-1xslots-384.top CNAME .
-*.1xslots-384.top CNAME .
 1xslots-417.top CNAME .
 *.1xslots-417.top CNAME .
-1xslots-419.top CNAME .
-*.1xslots-419.top CNAME .
-1xslots-583.top CNAME .
-*.1xslots-583.top CNAME .
 1xslots-596.top CNAME .
 *.1xslots-596.top CNAME .
-1xslots-633.top CNAME .
-*.1xslots-633.top CNAME .
-1xslots-829.top CNAME .
-*.1xslots-829.top CNAME .
-1xslots-872.top CNAME .
-*.1xslots-872.top CNAME .
-1xslots-932.top CNAME .
-*.1xslots-932.top CNAME .
 1xslots-aab2.top CNAME .
 *.1xslots-aab2.top CNAME .
 1xslots-aac2.top CNAME .
@@ -91911,22 +91865,14 @@ casinoguide.tokyo CNAME .
 *.1xslots-aae3.top CNAME .
 1xslots-aaf2.top CNAME .
 *.1xslots-aaf2.top CNAME .
-1xslots-asr.top CNAME .
-*.1xslots-asr.top CNAME .
 1xslots-b30.top CNAME .
 *.1xslots-b30.top CNAME .
 1xslots-bbm.top CNAME .
 *.1xslots-bbm.top CNAME .
-1xslots-bnx.top CNAME .
-*.1xslots-bnx.top CNAME .
-1xslots-boz.top CNAME .
-*.1xslots-boz.top CNAME .
 1xslots-bsl.top CNAME .
 *.1xslots-bsl.top CNAME .
 1xslots-bsy.top CNAME .
 *.1xslots-bsy.top CNAME .
-1xslots-buo.top CNAME .
-*.1xslots-buo.top CNAME .
 1xslots-caa13.top CNAME .
 *.1xslots-caa13.top CNAME .
 1xslots-cac3.top CNAME .
@@ -91935,10 +91881,6 @@ casinoguide.tokyo CNAME .
 *.1xslots-casino-dxa.top CNAME .
 1xslots-casino-uqo.top CNAME .
 *.1xslots-casino-uqo.top CNAME .
-1xslots-cii.top CNAME .
-*.1xslots-cii.top CNAME .
-1xslots-clr.top CNAME .
-*.1xslots-clr.top CNAME .
 1xslots-co.top CNAME .
 *.1xslots-co.top CNAME .
 1xslots-cp.top CNAME .
@@ -91957,14 +91899,8 @@ casinoguide.tokyo CNAME .
 *.1xslots-cu.top CNAME .
 1xslots-cw.top CNAME .
 *.1xslots-cw.top CNAME .
-1xslots-cxs.top CNAME .
-*.1xslots-cxs.top CNAME .
 1xslots-cy.top CNAME .
 *.1xslots-cy.top CNAME .
-1xslots-cyg.top CNAME .
-*.1xslots-cyg.top CNAME .
-1xslots-dyr.top CNAME .
-*.1xslots-dyr.top CNAME .
 1xslots-ea31.top CNAME .
 *.1xslots-ea31.top CNAME .
 1xslots-ea32.top CNAME .
@@ -91975,28 +91911,12 @@ casinoguide.tokyo CNAME .
 *.1xslots-eh38.top CNAME .
 1xslots-eoc10.top CNAME .
 *.1xslots-eoc10.top CNAME .
-1xslots-fbu.top CNAME .
-*.1xslots-fbu.top CNAME .
 1xslots-ffc9.top CNAME .
 *.1xslots-ffc9.top CNAME .
-1xslots-fnm.top CNAME .
-*.1xslots-fnm.top CNAME .
 1xslots-fvj.top CNAME .
 *.1xslots-fvj.top CNAME .
-1xslots-fwt.top CNAME .
-*.1xslots-fwt.top CNAME .
-1xslots-fxy.top CNAME .
-*.1xslots-fxy.top CNAME .
-1xslots-hkp.top CNAME .
-*.1xslots-hkp.top CNAME .
-1xslots-htz.top CNAME .
-*.1xslots-htz.top CNAME .
 1xslots-huj.top CNAME .
 *.1xslots-huj.top CNAME .
-1xslots-idn.top CNAME .
-*.1xslots-idn.top CNAME .
-1xslots-ifi.top CNAME .
-*.1xslots-ifi.top CNAME .
 1xslots-jim.top CNAME .
 *.1xslots-jim.top CNAME .
 1xslots-jnv.top CNAME .
@@ -92015,30 +91935,14 @@ casinoguide.tokyo CNAME .
 *.1xslots-ku.top CNAME .
 1xslots-kyj.top CNAME .
 *.1xslots-kyj.top CNAME .
-1xslots-loa.top CNAME .
-*.1xslots-loa.top CNAME .
 1xslots-luo.top CNAME .
 *.1xslots-luo.top CNAME .
-1xslots-mda.top CNAME .
-*.1xslots-mda.top CNAME .
 1xslots-mtw.top CNAME .
 *.1xslots-mtw.top CNAME .
-1xslots-mxz.top CNAME .
-*.1xslots-mxz.top CNAME .
 1xslots-npe.top CNAME .
 *.1xslots-npe.top CNAME .
-1xslots-ogn.top CNAME .
-*.1xslots-ogn.top CNAME .
-1xslots-oib.top CNAME .
-*.1xslots-oib.top CNAME .
-1xslots-pfr.top CNAME .
-*.1xslots-pfr.top CNAME .
 1xslots-puu.top CNAME .
 *.1xslots-puu.top CNAME .
-1xslots-pxr.top CNAME .
-*.1xslots-pxr.top CNAME .
-1xslots-pzs.top CNAME .
-*.1xslots-pzs.top CNAME .
 1xslots-rio.top CNAME .
 *.1xslots-rio.top CNAME .
 1xslots-sbh10.top CNAME .
@@ -92049,44 +91953,20 @@ casinoguide.tokyo CNAME .
 *.1xslots-slots10.top CNAME .
 1xslots-spinfortune.top CNAME .
 *.1xslots-spinfortune.top CNAME .
-1xslots-tlc.top CNAME .
-*.1xslots-tlc.top CNAME .
 1xslots-tly.top CNAME .
 *.1xslots-tly.top CNAME .
 1xslots-ufb.top CNAME .
 *.1xslots-ufb.top CNAME .
-1xslots-ugj.top CNAME .
-*.1xslots-ugj.top CNAME .
-1xslots-ukd.top CNAME .
-*.1xslots-ukd.top CNAME .
 1xslots-upj.top CNAME .
 *.1xslots-upj.top CNAME .
-1xslots-upw.top CNAME .
-*.1xslots-upw.top CNAME .
 1xslots-vdh.top CNAME .
 *.1xslots-vdh.top CNAME .
 1xslots-vmj.top CNAME .
 *.1xslots-vmj.top CNAME .
-1xslots-vwy.top CNAME .
-*.1xslots-vwy.top CNAME .
 1xslots-wfg.top CNAME .
 *.1xslots-wfg.top CNAME .
-1xslots-wfi.top CNAME .
-*.1xslots-wfi.top CNAME .
-1xslots-wxt.top CNAME .
-*.1xslots-wxt.top CNAME .
-1xslots-xed.top CNAME .
-*.1xslots-xed.top CNAME .
-1xslots-xva.top CNAME .
-*.1xslots-xva.top CNAME .
-1xslots-ybu.top CNAME .
-*.1xslots-ybu.top CNAME .
-1xslots-yii.top CNAME .
-*.1xslots-yii.top CNAME .
 1xslots-yjp.top CNAME .
 *.1xslots-yjp.top CNAME .
-1xslots-ylp.top CNAME .
-*.1xslots-ylp.top CNAME .
 1xslots-zkm.top CNAME .
 *.1xslots-zkm.top CNAME .
 1xslots-zo.top CNAME .
@@ -92095,8 +91975,6 @@ casinoguide.tokyo CNAME .
 *.1xslots-zq.top CNAME .
 1xslots-zr.top CNAME .
 *.1xslots-zr.top CNAME .
-1xslots-zup.top CNAME .
-*.1xslots-zup.top CNAME .
 1xslots-zy.top CNAME .
 *.1xslots-zy.top CNAME .
 1xslots111.top CNAME .
@@ -99847,12 +99725,6 @@ skybetcasino-pt.top CNAME .
 *.skybetcasino-pt.top CNAME .
 slot838toto.top CNAME .
 *.slot838toto.top CNAME .
-cdn.slot8888.top CNAME .
-*.cdn.slot8888.top CNAME .
-cdnapiif.slot8888.top CNAME .
-*.cdnapiif.slot8888.top CNAME .
-cdnapiif.slot88888.top CNAME .
-*.cdnapiif.slot88888.top CNAME .
 slotozal-casino-dxa.top CNAME .
 *.slotozal-casino-dxa.top CNAME .
 slots-empire.top CNAME .
@@ -103769,8 +103641,6 @@ krikyacasino.vip CNAME .
 *.krikyacasino.vip CNAME .
 kudapoker.vip CNAME .
 *.kudapoker.vip CNAME .
-kuvip.vip CNAME .
-*.kuvip.vip CNAME .
 l444casino.vip CNAME .
 *.l444casino.vip CNAME .
 laoyazy.vip CNAME .
@@ -104139,8 +104009,6 @@ cs2.vodka CNAME .
 *.cs2.vodka CNAME .
 jopa.vodka CNAME .
 *.jopa.vodka CNAME .
-penis.vodka CNAME .
-*.penis.vodka CNAME .
 188bet.vote CNAME .
 *.188bet.vote CNAME .
 poker.voto CNAME .
@@ -108745,8 +108613,6 @@ gitcasino.xyz CNAME .
 *.gitcasino.xyz CNAME .
 gl4d.xyz CNAME .
 *.gl4d.xyz CNAME .
-gleto138.xyz CNAME .
-*.gleto138.xyz CNAME .
 glory-casino2.xyz CNAME .
 *.glory-casino2.xyz CNAME .
 gmslotsg.xyz CNAME .
@@ -110771,8 +110637,6 @@ mahjongwinpesg.xyz CNAME .
 *.mahjongwinpesg.xyz CNAME .
 mahkota183p.xyz CNAME .
 *.mahkota183p.xyz CNAME .
-mahkota778.xyz CNAME .
-*.mahkota778.xyz CNAME .
 mahong777.xyz CNAME .
 *.mahong777.xyz CNAME .
 mailobruce.xyz CNAME .
