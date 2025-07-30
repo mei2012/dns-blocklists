@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jul 2025 14:40 UTC
-# Version: 2025.0729.1440.55
+# Last modified: 29 Jul 2025 22:38 UTC
+# Version: 2025.0729.2238.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14437
+# Number of entries: 14438
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -5885,6 +5885,7 @@ local=/heizoel-held.com/
 local=/heizoel-jetzt.de/
 local=/heizoel-portal.de/
 local=/heizoel-premium.de/
+local=/heizoel-rabatt.de/
 local=/heizoel-schnell.com/
 local=/heizoel-solutions.net/
 local=/heizoel-station.com/
