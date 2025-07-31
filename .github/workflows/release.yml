@@ -2,103 +2,73 @@ name: Release
 
 on:
   schedule:
-    - cron: "15 5 */3 * *"
-  push:
-    branches:
-      - main
+    - cron: '15 5 */3 * *'
+  workflow_dispatch:
 
-permissions:
-  actions: write
-  contents: write
-  issues: write
-  
 jobs:
-  release:
+  sync:
     runs-on: ubuntu-latest
-    #if: contains(github.event.head_commit.message, 'release')
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          repository: "hagezi/dns-blocklists"
-          ref: "main"
-          
-      - name: Generate release tag
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 10000
+
+      - name: Configure git
         run: |
-          repo_version=$(TZ=Asia/Bangkok date +'%Y.%m.%d.%I%M%p')
-          echo "release_tag=$repo_version" >> $GITHUB_ENV
-          
-      - name: Generate issue list
-        run: echo "issue_list=$(gh issue list -l fixed-pending-release  | cut -f1 | sed 's/^/#/' | sed 's/$/ /' | tr -d '\n\t\r')" >> $GITHUB_ENV
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-          
-      - name: Create release
-        uses: ncipollo/release-action@v1.18.0
-        with:
-          tag: ${{ env.release_tag }}
-          name: ${{ env.release_tag }}
-          body: ${{ env.issue_list }}
-          
-  purge:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Determine URLs to purge
-        id: purge_urls
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Add upstream remote
         run: |
-          baseUrl="https://cdn.jsdelivr.net/gh/${{ github.repository }}@latest"
-          urls=""
-          for f in `find adblock controld dnsmasq domains hosts ips pac rpz wildcard -name "*.txt" -o -name "*.pac" -o -name "*.json" -type f`; do
-            urls+="${baseUrl}/${f},"
-          done
-          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
-      - name: Purge CDN cache
-        uses: egad13/purge-jsdelivr-cache@v1.1.0
-        with:
-          url: ${{ steps.purge_urls.outputs.urls }}
-    needs: release
+          git remote add upstream https://github.com/hagezi/dns-blocklists.git
+          git fetch upstream
 
-  close-issues:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Comment and close fixed issues
-        uses: gcampbell-msft/fixed-pending-release@main
-        with:
-          token: ${{ github.token }}
-          label: fixed-pending-release
-          removeLabel: true
-          applyToAll: true
-          message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
-    needs: release
+      - name: Store locally deleted files
+        run: |
+          # Create a list of files that exist in upstream but not in our fork
+          git diff --name-status upstream/main...HEAD | grep '^D' | cut -f2 > .deleted-files || true
 
+          if [ -s .deleted-files ]; then
+            echo "Files deleted in fork:"
+            cat .deleted-files
+          fi
 
-  stale:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: DeMoorJasper/stale@v2.0.1
-      with:
-        repo-token: ${{ github.token }}
-        stale-message: 'This issue has been inactive for 5 days. Please add a comment to keep it open. Otherwise, it will be closed in 2 days.'
-        days-before-stale: 5
-        days-before-close: 2
-        stale-label: 'no-issue-activity'
-    needs: release
-        
-  release-cleanup:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Delete old releases
-        uses: sgpublic/delete-release-action@v1.2
-        with:
-          release-drop: true
-          release-keep-count: 5
-          release-drop-tag: true
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-    needs: release
+      - name: Merge upstream changes
+        run: |
+          git checkout main
+
+          # Merge upstream changes
+          git merge upstream/main --no-edit --allow-unrelated-histories || {
+            # If merge fails, try to resolve
+            echo "Merge conflict detected, attempting resolution..."
+            git status
+          }
+
+      - name: Restore deleted files
+        run: |
+          # Remove files that were deleted in our fork but added back by merge
+          if [ -f .deleted-files ]; then
+            while IFS= read -r file; do
+              if [ -f "$file" ]; then
+                echo "Removing re-added file: $file"
+                git rm -f "$file" 2>/dev/null || true
+              fi
+            done < .deleted-files
+
+            # Stage the deletions
+            if ! git diff --staged --quiet; then
+              git commit -m "Preserve local deletions after upstream merge"
+            fi
+          fi
+
+          # Clean up
+          rm -f .deleted-files
+
+      - name: Push changes
+        run: |
+          git push origin main
     
   workflow-cleanup:
     runs-on: ubuntu-latest
@@ -108,6 +78,6 @@ jobs:
         with:
           token: ${{ github.token }}
           repository: ${{ github.repository }}
-          retain_days: 1
-          keep_minimum_runs: 0
-    needs: [release, close-issues, release-cleanup]
+          retain_days: 30
+          keep_minimum_runs: 6
+    
