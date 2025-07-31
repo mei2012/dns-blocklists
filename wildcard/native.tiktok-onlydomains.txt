@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 22 Jul 2025 15:37 UTC
-# Version: 2025.0722.1537.57
+# Last modified: 25 Jul 2025 23:09 UTC
+# Version: 2025.0725.2309.00
 # Syntax: Domains (without subdomains)
-# Number of entries: 320
+# Number of entries: 322
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -73,6 +73,9 @@ pc-mon.snssdk.com
 sdfp.snssdk.com
 tbm.snssdk.com
 temai.snssdk.com
+tnc3-aliec2.snssdk.com
+tnc3-alisc1.snssdk.com
+tnc3-bjlgy.snssdk.com
 tobapplog.snssdk.com
 toblog.snssdk.com
 tsearch.snssdk.com
@@ -325,7 +328,6 @@ location.tiktokw.us
 mcs.tiktokw.us
 mcs-ie.tiktokw.eu
 mcs-ie2.tiktokw.eu
-mcs-ttp2.tiktokw.us
 mssdk.tiktokw.eu
 mssdk.tiktokw.us
 h4g3z1-native.tiktok.web.app

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 08:08 UTC
-# Version: 2025.0725.0808.58
+# Last modified: 31 Jul 2025 00:10 UTC
+# Version: 2025.0731.0010.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1448
+# Number of entries: 1451
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -238,7 +238,6 @@ local=/cloudflare-gateway.com/
 local=/api.cloudflareclient.com/
 local=/cloudflareresolve.com/
 local=/voyage-s01.cloudku.technology/
-local=/adguard.cloudmini.net/
 local=/dns-fr-psv1.cloudsides.com/
 local=/dns.cloudtrust.solutions/
 local=/ca.doh.cloudveil.org/
@@ -350,6 +349,7 @@ local=/dns.dns-over-https.com/
 local=/dns0.eu/
 local=/doh.dns4all.eu/
 local=/dns4me.net/
+local=/dnsbunker.org/
 local=/ns1.recursive.dnsbycomodo.com/
 local=/ns2.recursive.dnsbycomodo.com/
 local=/2.dnscrypt-cert.shield-2.dnsbycomodo.com/
@@ -485,7 +485,6 @@ local=/doh.sb/
 local=/doh.xyz/
 local=/doh.domreg.lt/
 local=/takhtakh.domyah.net/
-local=/dns.dooks.uk/
 local=/dot.pub/
 local=/ns1.dotls.org/
 local=/dns.dotnet.win/
@@ -503,8 +502,6 @@ local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
-local=/resolver1.dyndnsinternetguide.com/
-local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/dnscache.e-utp.net/
 local=/adguard.easez.net/
@@ -910,7 +907,6 @@ local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
-local=/doh-ca.naftalie.net/
 local=/najiakeji.top/
 local=/dns.nako.kr/
 local=/www.chungocoai.name.vn/
@@ -926,7 +922,6 @@ local=/de-fra-w-p-1.nashkan.net/
 local=/de-fsn-w-p-1.nashkan.net/
 local=/fi-hel-w-f-2.nashkan.net/
 local=/fr-gra-w-p-1.nashkan.net/
-local=/gb-cov-w-f-1.nashkan.net/
 local=/gb-cov-w-p-1.nashkan.net/
 local=/gb-lon-w-f-1.nashkan.net/
 local=/gb-lon-w-p-1.nashkan.net/
@@ -977,7 +972,14 @@ local=/doh-random-upstream.nicolas-dorriere.fr/
 local=/nicsezcheckfbi.gov/
 local=/dns1.nielsdb.be/
 local=/dns.ningkelle.id/
-local=/dns.nixnet.xyz/
+local=/adblock.any.dns.nixnet.xyz/
+local=/uncensored.any.dns.nixnet.xyz/
+local=/adblock.lux1.dns.nixnet.xyz/
+local=/uncensored.lux1.dns.nixnet.xyz/
+local=/adblock.lv1.dns.nixnet.xyz/
+local=/uncensored.lv1.dns.nixnet.xyz/
+local=/adblock.ny1.dns.nixnet.xyz/
+local=/uncensored.ny1.dns.nixnet.xyz/
 local=/lux1.nixnet.xyz/
 local=/lv1.nixnet.xyz/
 local=/ny1.nixnet.xyz/
@@ -1026,8 +1028,7 @@ local=/kr1.ooroot.com/
 local=/kr2.ooroot.com/
 local=/sg2.ooroot.com/
 local=/tw2.ooroot.com/
-local=/ada.openbld.net/
-local=/ric.openbld.net/
+local=/openbld.net/
 local=/dns.opendns.com/
 local=/2.dnscrypt-cert.opendns.com/
 local=/doh.opendns.com/
@@ -1443,9 +1444,11 @@ local=/lion.yazilimatolye.com/
 local=/ychen.cf/
 local=/ychen.gq/
 local=/sg.yepdns.com/
+local=/net01.youcef.io/
 local=/your-dns.run/
 local=/yovbak.com/
 local=/dns.yuu-g.net/
+local=/yuvelirtut.website/
 local=/adg.yybyy.wiki/
 local=/dns.daemon.za.net/
 local=/adguard.zachitect.com/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 08:08 UTC
-# Version: 2025.0725.0808.58
+# Last modified: 31 Jul 2025 00:10 UTC
+# Version: 2025.0731.0010.27
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1609
+# Number of entries: 1608
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -294,7 +294,6 @@
 0.0.0.0 api.cloudflareclient.com
 0.0.0.0 cloudflareresolve.com
 0.0.0.0 voyage-s01.cloudku.technology
-0.0.0.0 adguard.cloudmini.net
 0.0.0.0 dns-fr-psv1.cloudsides.com
 0.0.0.0 dns.cloudtrust.solutions
 0.0.0.0 ca.doh.cloudveil.org
@@ -438,6 +437,9 @@
 0.0.0.0 uk01.dns4me.net
 0.0.0.0 us01.dns4me.net
 0.0.0.0 us02.dns4me.net
+0.0.0.0 dnsbunker.org
+0.0.0.0 alpha.dnsbunker.org
+0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -594,7 +596,6 @@
 0.0.0.0 uk-lon.doh.sb
 0.0.0.0 doh.domreg.lt
 0.0.0.0 takhtakh.domyah.net
-0.0.0.0 dns.dooks.uk
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
@@ -612,8 +613,6 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
-0.0.0.0 resolver1.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -1033,7 +1032,6 @@
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
-0.0.0.0 doh-ca.naftalie.net
 0.0.0.0 najiakeji.top
 0.0.0.0 dns.nako.kr
 0.0.0.0 www.chungocoai.name.vn
@@ -1049,7 +1047,6 @@
 0.0.0.0 de-fsn-w-p-1.nashkan.net
 0.0.0.0 fi-hel-w-f-2.nashkan.net
 0.0.0.0 fr-gra-w-p-1.nashkan.net
-0.0.0.0 gb-cov-w-f-1.nashkan.net
 0.0.0.0 gb-cov-w-p-1.nashkan.net
 0.0.0.0 gb-lon-w-f-1.nashkan.net
 0.0.0.0 gb-lon-w-p-1.nashkan.net
@@ -1104,7 +1101,6 @@
 0.0.0.0 dns1.nielsdb.be
 0.0.0.0 dns.ningkelle.id
 0.0.0.0 family.dns.ningkelle.id
-0.0.0.0 dns.nixnet.xyz
 0.0.0.0 adblock.any.dns.nixnet.xyz
 0.0.0.0 uncensored.any.dns.nixnet.xyz
 0.0.0.0 adblock.lux1.dns.nixnet.xyz
@@ -1164,6 +1160,7 @@
 0.0.0.0 kr2.ooroot.com
 0.0.0.0 sg2.ooroot.com
 0.0.0.0 tw2.ooroot.com
+0.0.0.0 openbld.net
 0.0.0.0 ada.openbld.net
 0.0.0.0 ric.openbld.net
 0.0.0.0 dns.opendns.com
@@ -1604,9 +1601,11 @@
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 sg.yepdns.com
+0.0.0.0 net01.youcef.io
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 dns.yuu-g.net
+0.0.0.0 yuvelirtut.website
 0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 adguard.zachitect.com

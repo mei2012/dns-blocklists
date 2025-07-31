@@ -1,5 +1,8 @@
 # Domains to be added only to the ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/6851
+geoip.cdn.arkadiumhosted.com
+
 # https://github.com/hagezi/dns-blocklists/issues/5809
 graph.m-freeway.com
 

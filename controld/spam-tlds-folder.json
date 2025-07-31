@@ -855,6 +855,13 @@
       }
     },
     {
+      "PK": "*.how",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.icu",
       "action": {
         "do": 0,
@@ -1108,6 +1115,13 @@
     },
     {
       "PK": "*.mov",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.my",
       "action": {
         "do": 0,
         "status": 1
@@ -1605,6 +1619,13 @@
     },
     {
       "PK": "*.surf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.sx",
       "action": {
         "do": 0,
         "status": 1
