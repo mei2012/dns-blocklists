@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Jul 2025 06:40 UTC
-# Version: 2025.0729.0640.20
+# Last modified: 30 Jul 2025 22:40 UTC
+# Version: 2025.0730.2240.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5154
+# Number of entries: 5156
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1997,6 +1997,7 @@ local=/imdb.to/
 local=/imo.cx/
 local=/in.gl/
 local=/in.mt/
+local=/vdp.in.net/
 local=/incab.us/
 local=/incl.live/
 local=/inclusivetravelwithnikki.com/
@@ -5074,6 +5075,7 @@ local=/z20.su/
 local=/z23.ru/
 local=/z9.fr/
 local=/za2.us/
+local=/2b1s.zacharyhurdle.com/
 local=/zak.by/
 local=/zap.buzz/
 local=/zap-onlisd.live/

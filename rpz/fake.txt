@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753886400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753915080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jul 2025 14:40 UTC
-; Version: 2025.0730.1440.13
+; Last modified: 30 Jul 2025 22:38 UTC
+; Version: 2025.0730.2238.59
 ; Syntax: RPZ
-; Number of entries: 28906
+; Number of entries: 28912
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -6753,6 +6753,8 @@ flowoon.com CNAME .
 *.flowoon.com CNAME .
 fluctuatek.com CNAME .
 *.fluctuatek.com CNAME .
+flwzen.com CNAME .
+*.flwzen.com CNAME .
 flyfishing-sale.com CNAME .
 *.flyfishing-sale.com CNAME .
 flylondonshoesus.com CNAME .
@@ -7449,6 +7451,8 @@ gimbowl.com CNAME .
 *.gimbowl.com CNAME .
 gjlol.com CNAME .
 *.gjlol.com CNAME .
+gjseep.com CNAME .
+*.gjseep.com CNAME .
 glacierbayshop.com CNAME .
 *.glacierbayshop.com CNAME .
 glaciva-de.com CNAME .
@@ -18909,6 +18913,8 @@ derkatzenshop.de CNAME .
 *.derkatzenshop.de CNAME .
 dermodemacher.de CNAME .
 *.dermodemacher.de CNAME .
+dero-tech.de CNAME .
+*.dero-tech.de CNAME .
 dervolatil.de CNAME .
 *.dervolatil.de CNAME .
 desklampzzi.de CNAME .

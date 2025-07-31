@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753862760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753920300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jul 2025 08:06 UTC
-; Version: 2025.0730.0806.05
+; Last modified: 31 Jul 2025 00:05 UTC
+; Version: 2025.0731.0005.43
 ; Syntax: RPZ
-; Number of entries: 20362
+; Number of entries: 20372
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9095,8 +9095,8 @@ getmodapks.in CNAME .
 *.getmodapks.in CNAME .
 gogoanime.in CNAME .
 *.gogoanime.in CNAME .
-torrent.hificode.in CNAME .
-*.torrent.hificode.in CNAME .
+hificode.in CNAME .
+*.hificode.in CNAME .
 tracker.hifimarket.in CNAME .
 *.tracker.hifimarket.in CNAME .
 ilgeniodellostreaming.in CNAME .
@@ -9437,6 +9437,8 @@ stafaband.info CNAME .
 *.stafaband.info CNAME .
 streamingcommunity.info CNAME .
 *.streamingcommunity.info CNAME .
+streamingcommunityz.info CNAME .
+*.streamingcommunityz.info CNAME .
 surrealmoviez.info CNAME .
 *.surrealmoviez.info CNAME .
 swatchseries.info CNAME .
@@ -12763,6 +12765,8 @@ panda-streaming.net CNAME .
 *.panda-streaming.net CNAME .
 passion-musique.net CNAME .
 *.passion-musique.net CNAME .
+passpulse.net CNAME .
+*.passpulse.net CNAME .
 passwordscity.net CNAME .
 *.passwordscity.net CNAME .
 pdf-giant.net CNAME .
@@ -13937,6 +13941,8 @@ zeflix.online CNAME .
 *.zeflix.online CNAME .
 zlibrarya.online CNAME .
 *.zlibrarya.online CNAME .
+tracker.zupix.online CNAME .
+*.tracker.zupix.online CNAME .
 0123moviesfree.org CNAME .
 *.0123moviesfree.org CNAME .
 1-thepiratebay.org CNAME .
@@ -17335,6 +17341,8 @@ altadefinizione.soy CNAME .
 *.altadefinizione.soy CNAME .
 eurostreaming.soy CNAME .
 *.eurostreaming.soy CNAME .
+allevertakstream.space CNAME .
+*.allevertakstream.space CNAME .
 bananas.space CNAME .
 *.bananas.space CNAME .
 best4stremio.space CNAME .
@@ -17419,6 +17427,8 @@ eurostreaming.store CNAME .
 *.eurostreaming.store CNAME .
 guardaserie.store CNAME .
 *.guardaserie.store CNAME .
+tracker.healthcareindia.store CNAME .
+*.tracker.healthcareindia.store CNAME .
 lookmovie.store CNAME .
 *.lookmovie.store CNAME .
 mypanlss.store CNAME .

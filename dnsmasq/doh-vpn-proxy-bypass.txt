@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 Jul 2025 16:11 UTC
-# Version: 2025.0730.1611.35
+# Last modified: 31 Jul 2025 00:10 UTC
+# Version: 2025.0731.0010.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5023
+# Number of entries: 5024
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -2642,6 +2642,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
