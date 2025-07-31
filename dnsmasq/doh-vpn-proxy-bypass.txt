@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 00:10 UTC
-# Version: 2025.0731.0010.54
+# Last modified: 31 Jul 2025 08:13 UTC
+# Version: 2025.0731.0813.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5024
+# Number of entries: 5026
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -924,6 +924,7 @@ local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
 local=/6922.yugadiluitel.com.np/
+local=/dns.comeonjames.club/
 local=/dns.comff.net/
 local=/commonapp.college/
 local=/commons.host/
@@ -2647,6 +2648,7 @@ local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
 local=/study.sci.nabim.com/
+local=/doh-ca.naftalie.net/
 local=/najiakeji.top/
 local=/dns.nako.kr/
 local=/www.chungocoai.name.vn/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753848060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753949640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's The World's Most Abused TLDs
@@ -13,10 +13,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 Jul 2025 04:01 UTC
-; Version: 2025.0730.0401.14
+; Last modified: 31 Jul 2025 08:14 UTC
+; Version: 2025.0731.0814.03
 ; Syntax: RPZ
-; Number of latin TLDs: 140/274
+; Number of latin TLDs: 139/274
 ;
 *.actor CNAME .
 *.apartments CNAME .
@@ -79,7 +79,6 @@ $TTL 300
 *.green CNAME .
 *.hair CNAME .
 *.haus CNAME .
-*.how CNAME .
 *.international CNAME .
 *.irish CNAME .
 *.jewelry CNAME .

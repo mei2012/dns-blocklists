@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753920600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1753949580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Jul 2025 00:10 UTC
-; Version: 2025.0731.0010.54
+; Last modified: 31 Jul 2025 08:13 UTC
+; Version: 2025.0731.0813.16
 ; Syntax: RPZ
-; Number of entries: 10048
+; Number of entries: 10052
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -774,6 +774,8 @@ dns-2.wil.cloud CNAME .
 *.dns-2.wil.cloud CNAME .
 wyx.cloud CNAME .
 *.wyx.cloud CNAME .
+dns.comeonjames.club CNAME .
+*.dns.comeonjames.club CNAME .
 adguard.ef67daisuki.club CNAME .
 *.adguard.ef67daisuki.club CNAME .
 hostless.club CNAME .
@@ -7110,6 +7112,8 @@ myturtle.net CNAME .
 *.myturtle.net CNAME .
 mywebproxy.net CNAME .
 *.mywebproxy.net CNAME .
+doh-ca.naftalie.net CNAME .
+*.doh-ca.naftalie.net CNAME .
 ae-fuj-w-p-1.nashkan.net CNAME .
 *.ae-fuj-w-p-1.nashkan.net CNAME .
 ae-fuj-w-p-2.nashkan.net CNAME .

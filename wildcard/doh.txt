@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 00:10 UTC
-# Version: 2025.0731.0010.27
+# Last modified: 31 Jul 2025 08:12 UTC
+# Version: 2025.0731.0812.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1451
+# Number of entries: 1453
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -268,6 +268,7 @@
 *.dns.weixin.qq.com.cn
 *.dns.redhosting.com.ar
 *.doh.viatech.com.tw
+*.dns.comeonjames.club
 *.dns.comff.net
 *.commons.host
 *.comss.one
@@ -907,6 +908,7 @@
 *.dns.mzrme.cn
 *.n0.eu
 *.dns.n23.io
+*.doh-ca.naftalie.net
 *.najiakeji.top
 *.dns.nako.kr
 *.www.chungocoai.name.vn

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 00:10 UTC
-# Version: 2025.0731.0010.54
+# Last modified: 31 Jul 2025 08:13 UTC
+# Version: 2025.0731.0813.16
 # Syntax: Domains (without subdomains)
-# Number of entries: 5024
+# Number of entries: 5026
 #
 003153.xyz
 ns.00dani.me
@@ -924,6 +924,7 @@ surfshark.com.au
 unblock-proxy.com.de
 doh.viatech.com.tw
 6922.yugadiluitel.com.np
+dns.comeonjames.club
 dns.comff.net
 commonapp.college
 commons.host
@@ -2647,6 +2648,7 @@ dns.mzrme.cn
 n0.eu
 dns.n23.io
 study.sci.nabim.com
+doh-ca.naftalie.net
 najiakeji.top
 dns.nako.kr
 www.chungocoai.name.vn
