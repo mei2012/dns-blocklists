@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 08:10 UTC
-# Version: 2025.0801.0810.31
+# Last modified: 01 Aug 2025 12:21 UTC
+# Version: 2025.0801.1221.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5299
+# Number of entries: 5296
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -106,7 +106,6 @@ local=/dns.3wv.de/
 local=/3x.nz/
 local=/dns.4-the.win/
 local=/notfound-google.404.mn/
-local=/study.404.mn/
 local=/doh.42l.fr/
 local=/bannana.web-doge.42web.io/
 local=/46sdzf3zdg1dxg2.us/
@@ -117,7 +116,6 @@ local=/4proxy.de/
 local=/4youproxyweb.com/
 local=/alidns.51top.info/
 local=/dns.52306.org/
-local=/www-vpn.52oupa.com/
 local=/57824.com/
 local=/family.5ososea.com/
 local=/kids.5ososea.com/
@@ -1324,6 +1322,7 @@ local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
+local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1365,7 +1364,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1517,12 +1515,12 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
 local=/flashput.net/
 local=/flashputon.net/
+local=/doh.flashstart.com/
 local=/flashvpn.li/
 local=/dns.flatuslifir.is/
 local=/abdulv2.flazzard.com/
@@ -2642,7 +2640,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -4272,7 +4269,7 @@ local=/fb90d67e62e07ca6733db0f5aa8b7d21d0d8ff3b-m.proxy2.startpage.com/
 local=/febe5370b59886c31e893e3d5cb00d8ceec56c69-m.proxy2.startpage.com/
 local=/session.proxy2.startpage.com/
 local=/130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com/
-local=/proxy5.startpage.com/
+local=/ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/

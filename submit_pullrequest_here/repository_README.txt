@@ -2,6 +2,8 @@
 
 ## :zap: DNS Blocklists - For a better internet!
 
+<p align="left"><img width="20%" alt="HaGeZi DNS Blocklists" src="https://github.com/user-attachments/assets/1fb8b23c-2c45-43e2-8266-84c897ac5b3b" /></p>
+
 ### Made with :heartbeat: for a safer and cleaner internet! It always seems impossible until it’s done.
 
 Privacy is not a crime, protect yourself. Privacy matters. Privacy is what allows us to determine who we are and who we want to be :bangbang:

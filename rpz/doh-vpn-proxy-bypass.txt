@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754035800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754050860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 08:10 UTC
-; Version: 2025.0801.0810.31
+; Last modified: 01 Aug 2025 12:21 UTC
+; Version: 2025.0801.1221.03
 ; Syntax: RPZ
-; Number of entries: 10598
+; Number of entries: 10592
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -970,8 +970,6 @@ onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com CNAME .
 *.4everproxy.com CNAME .
 4youproxyweb.com CNAME .
 *.4youproxyweb.com CNAME .
-www-vpn.52oupa.com CNAME .
-*.www-vpn.52oupa.com CNAME .
 57824.com CNAME .
 *.57824.com CNAME .
 family.5ososea.com CNAME .
@@ -1702,8 +1700,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -1786,6 +1782,8 @@ fixproxy.com CNAME .
 *.fixproxy.com CNAME .
 flashpull.com CNAME .
 *.flashpull.com CNAME .
+doh.flashstart.com CNAME .
+*.doh.flashstart.com CNAME .
 abdulv2.flazzard.com CNAME .
 *.abdulv2.flazzard.com CNAME .
 flowvpn.com CNAME .
@@ -2650,8 +2648,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4374,8 +4370,8 @@ session.proxy2.startpage.com CNAME .
 *.session.proxy2.startpage.com CNAME .
 130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
 *.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
-proxy5.startpage.com CNAME .
-*.proxy5.startpage.com CNAME .
+ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com CNAME .
+*.ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
@@ -6914,8 +6910,6 @@ dns.stvsk.ml CNAME .
 *.dns.stvsk.ml CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
-study.404.mn CNAME .
-*.study.404.mn CNAME .
 bookpog.bad.mn CNAME .
 *.bookpog.bad.mn CNAME .
 westhamforever.bad.mn CNAME .
@@ -7386,6 +7380,8 @@ watch-dexter.or-you-now.donciccio.net CNAME .
 *.watch-dexter.or-you-now.donciccio.net CNAME .
 duba.net CNAME .
 *.duba.net CNAME .
+gustamadh.dynv6.net CNAME .
+*.gustamadh.dynv6.net CNAME .
 sagamihara.dynv6.net CNAME .
 *.sagamihara.dynv6.net CNAME .
 t9rke-5zq1m.dynv6.net CNAME .
@@ -9748,8 +9744,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
