@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 08:12 UTC
-# Version: 2025.0731.0812.52
+# Last modified: 01 Aug 2025 00:14 UTC
+# Version: 2025.0801.0014.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1453
+# Number of entries: 1450
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -426,7 +426,6 @@
 *.slc01.dnscry.pt
 *.sof01.dnscry.pt
 *.sto01.dnscry.pt
-*.syd01.dnscry.pt
 *.syd02.dnscry.pt
 *.tbs01.dnscry.pt
 *.tll01.dnscry.pt
@@ -513,7 +512,6 @@
 *.dns.editechstudio.com
 *.dns.tuna.tsinghua.edu.cn
 *.adguard.ef67daisuki.club
-*.dns.efficientdocuments.com
 *.hole.elbschloss.xyz
 *.dns.elemental.software
 *.eliatofani.ovh
@@ -904,7 +902,6 @@
 *.blackhole.myon.lu
 *.area51.mywire.org
 *.fwgw.orangepipc.mywire.org
-*.dns.mzjtechnology.com
 *.dns.mzrme.cn
 *.n0.eu
 *.dns.n23.io

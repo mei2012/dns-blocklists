@@ -51,8 +51,8 @@ See also: [Which sources are used for the lists and how are the lists compiled o
 |:--------|---:|:------:|:-----:|:----:|:----:|:---:|:------:|:----------:|:----:|:----:|
 | :green_book:[Light](#light)             | light_dh<br>light_cp     |  |   |   | :green_circle:  |  | |  :yellow_square: | | |
 | :blue_book:[Normal](#normal)       | multi_dh<br>multi_cp     |  |   | :green_circle: | :green_circle: |  | :yellow_square: | :yellow_square: | :yellow_square: | |
-| :ledger:[Pro](#pro)              | pro_dh<br>pro_cp         |  | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
-| :orange_book:[Pro++](#proplus)    | proplus_dh<br>proplus_cp | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
+| :ledger:[Pro](#pro)              | pro_dh<br>pro_cp         |  | :green_circle: | :green_circle: | :green_circle: | | :yellow_square: | :yellow_square: | :yellow_square: | :green_circle: |
+| :orange_book:[Pro++](#proplus)    | proplus_dh<br>proplus_cp | :green_circle: | :green_circle: | :green_circle: | :green_circle: | |:yellow_square: | :yellow_square: | :green_circle: | :green_circle: |
 | :closed_book:[Ultimate](#ultimate)    | ultimate_dh<br>ultimate_cp | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :green_circle: | :yellow_square: | :green_circle: | :green_circle: | :green_circle: |
 
 :green_circle: contains the list named in the column caption
@@ -792,9 +792,9 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 [DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with the native Tracker lists and TIF blocklist.
 
-| Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
-|:-----------|:---------------|:------------------|:-----------|
-| Pro plus + Native Tracker + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 87.106.108.91<br>87.106.32.13<br>2a01:239:295:e800::1<br>2a01:239:290:e700::1 |
+| Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | 
+|:-----------|:---------------|:------------------|
+| Pro plus + Native Tracker + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 00:05 UTC
-# Version: 2025.0731.0005.43
+# Last modified: 01 Aug 2025 00:09 UTC
+# Version: 2025.0801.0009.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10186
+# Number of entries: 10192
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -167,6 +167,7 @@ local=/1377x.is/
 local=/141jav.com/
 local=/147job.com/
 local=/16mag.net/
+local=/1cinevood.kim/
 local=/1clickdown.com/
 local=/1ddl.org/
 local=/1fbdown.net/
@@ -1901,6 +1902,7 @@ local=/cinemahdv2.io/
 local=/cinemaindo.net/
 local=/cinemalibero.cafe/
 local=/cinemalux.cfd/
+local=/cinemalux.cyou/
 local=/cinemalux.icu/
 local=/cinemamovies.pl/
 local=/cinemanija.com/
@@ -3725,6 +3727,7 @@ local=/fulldownloads.com/
 local=/fullfileaccess.com/
 local=/fullfilmstream.co/
 local=/fullfilmstream.net/
+local=/fullhdfilmizlesene.pw/
 local=/fulllengthaudiobooks.net/
 local=/fullmoviefilm.org/
 local=/fullmoviehd4k.com/
@@ -5092,6 +5095,8 @@ local=/libertyvf.org/
 local=/libgen.gs/
 local=/libgen.is/
 local=/libgen.li/
+local=/libgen.me/
+local=/libgen.pw/
 local=/libgen.rs/
 local=/libgen.st/
 local=/boards.libre.io/
@@ -9546,6 +9551,7 @@ local=/vootbd.live/
 local=/vorek.co/
 local=/vorek.pl/
 local=/vortexnetwork.org/
+local=/vost.pw/
 local=/vostfr.stream/
 local=/vostfree.cx/
 local=/vostfree.online/

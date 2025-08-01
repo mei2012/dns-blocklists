@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1753920300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754006940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Jul 2025 00:05 UTC
-; Version: 2025.0731.0005.43
+; Last modified: 01 Aug 2025 00:09 UTC
+; Version: 2025.0801.0009.06
 ; Syntax: RPZ
-; Number of entries: 20372
+; Number of entries: 20384
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7803,6 +7803,8 @@ altadefinizione.cyou CNAME .
 *.altadefinizione.cyou CNAME .
 cineblog01.cyou CNAME .
 *.cineblog01.cyou CNAME .
+cinemalux.cyou CNAME .
+*.cinemalux.cyou CNAME .
 cinevood.cyou CNAME .
 *.cinevood.cyou CNAME .
 eurostreaming.cyou CNAME .
@@ -10005,6 +10007,8 @@ megatorrents.kg CNAME .
 *.megatorrents.kg CNAME .
 rapidleech2011.eu.ki CNAME .
 *.rapidleech2011.eu.ki CNAME .
+1cinevood.kim CNAME .
+*.1cinevood.kim CNAME .
 altadefinizione.kim CNAME .
 *.altadefinizione.kim CNAME .
 gomovies.kim CNAME .
@@ -10943,6 +10947,8 @@ leaker.me CNAME .
 *.leaker.me CNAME .
 learnbits.me CNAME .
 *.learnbits.me CNAME .
+libgen.me CNAME .
+*.libgen.me CNAME .
 tracker.lintk.me CNAME .
 *.tracker.lintk.me CNAME .
 livetv705.me CNAME .
@@ -16123,6 +16129,8 @@ filmxy.pw CNAME .
 *.filmxy.pw CNAME .
 fk9.pw CNAME .
 *.fk9.pw CNAME .
+fullhdfilmizlesene.pw CNAME .
+*.fullhdfilmizlesene.pw CNAME .
 funxd.pw CNAME .
 *.funxd.pw CNAME .
 gktorrent.pw CNAME .
@@ -16139,6 +16147,8 @@ home.kray.pw CNAME .
 *.home.kray.pw CNAME .
 leechinghell.pw CNAME .
 *.leechinghell.pw CNAME .
+libgen.pw CNAME .
+*.libgen.pw CNAME .
 m4ufree.pw CNAME .
 *.m4ufree.pw CNAME .
 megakino.pw CNAME .
@@ -16169,6 +16179,8 @@ unblocked.pw CNAME .
 *.unblocked.pw CNAME .
 usenet-4all.pw CNAME .
 *.usenet-4all.pw CNAME .
+vost.pw CNAME .
+*.vost.pw CNAME .
 wiflix.pw CNAME .
 *.wiflix.pw CNAME .
 wtfnzb.pw CNAME .
