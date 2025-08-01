@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754050860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754064660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 12:21 UTC
-; Version: 2025.0801.1221.03
+; Last modified: 01 Aug 2025 16:11 UTC
+; Version: 2025.0801.1611.26
 ; Syntax: RPZ
 ; Number of entries: 10592
 ;
@@ -608,8 +608,6 @@ adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
 *.onion.city CNAME .
-s.abl.cl CNAME .
-*.s.abl.cl CNAME .
 i-hate-link-leakers-cyptopia-made-this.adaptor.cl CNAME .
 *.i-hate-link-leakers-cyptopia-made-this.adaptor.cl CNAME .
 schoolsucks.adaptor.cl CNAME .
@@ -1700,6 +1698,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2648,6 +2648,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -8528,14 +8530,10 @@ ns1.dotls.org CNAME .
 *.ns1.dotls.org CNAME .
 bitly-galatikx.duckdns.org CNAME .
 *.bitly-galatikx.duckdns.org CNAME .
-home27.duckdns.org CNAME .
-*.home27.duckdns.org CNAME .
 huawaakiskokoa.duckdns.org CNAME .
 *.huawaakiskokoa.duckdns.org CNAME .
 jurre-home.duckdns.org CNAME .
 *.jurre-home.duckdns.org CNAME .
-krtekvpn.duckdns.org CNAME .
-*.krtekvpn.duckdns.org CNAME .
 osefcorp.duckdns.org CNAME .
 *.osefcorp.duckdns.org CNAME .
 punono.duckdns.org CNAME .
@@ -9744,6 +9742,8 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

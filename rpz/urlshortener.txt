@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754045040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754059260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 10:44 UTC
-; Version: 2025.0801.1044.31
+; Last modified: 01 Aug 2025 14:41 UTC
+; Version: 2025.0801.1441.41
 ; Syntax: RPZ
-; Number of entries: 10308
+; Number of entries: 10286
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1578,8 +1578,6 @@ go.9nl.com CNAME .
 *.go.9nl.com CNAME .
 9oz.com CNAME .
 *.9oz.com CNAME .
-aawwj.com CNAME .
-*.aawwj.com CNAME .
 abbrr.com CNAME .
 *.abbrr.com CNAME .
 aboutmywebsite.com CNAME .
@@ -5384,8 +5382,6 @@ shorturl.kg CNAME .
 *.1mm.kr CNAME .
 acg.kr CNAME .
 *.acg.kr CNAME .
-adx.kr CNAME .
-*.adx.kr CNAME .
 asq.kr CNAME .
 *.asq.kr CNAME .
 bitly.kr CNAME .
@@ -5604,14 +5600,6 @@ zdrive.li CNAME .
 *.zdrive.li CNAME .
 zxc.li CNAME .
 *.zxc.li CNAME .
-a101indirimleriaktuel.life CNAME .
-*.a101indirimleriaktuel.life CNAME .
-addict-tt27.life CNAME .
-*.addict-tt27.life CNAME .
-adrians-guzman-81.life CNAME .
-*.adrians-guzman-81.life CNAME .
-adult-haem-home.life CNAME .
-*.adult-haem-home.life CNAME .
 afb88.life CNAME .
 *.afb88.life CNAME .
 ai-beast-online.life CNAME .
@@ -6242,12 +6230,6 @@ zuplo.link CNAME .
 *.zuplo.link CNAME .
 3xs.live CNAME .
 *.3xs.live CNAME .
-abasaras.live CNAME .
-*.abasaras.live CNAME .
-account-verification-man-seeking-man-mps.live CNAME .
-*.account-verification-man-seeking-man-mps.live CNAME .
-adeolasagay.live CNAME .
-*.adeolasagay.live CNAME .
 agen303.live CNAME .
 *.agen303.live CNAME .
 alias.live CNAME .
@@ -8826,8 +8808,6 @@ vena.sh CNAME .
 *.vena.sh CNAME .
 yau.sh CNAME .
 *.yau.sh CNAME .
-8a6rh.shop CNAME .
-*.8a6rh.shop CNAME .
 indahnyaberbagi.shop CNAME .
 *.indahnyaberbagi.shop CNAME .
 linkgacorr88.shop CNAME .
@@ -9146,8 +9126,6 @@ vi.tc CNAME .
 *.vi.tc CNAME .
 ws.tc CNAME .
 *.ws.tc CNAME .
-a1b.team CNAME .
-*.a1b.team CNAME .
 antinawala.team CNAME .
 *.antinawala.team CNAME .
 bitly.team CNAME .

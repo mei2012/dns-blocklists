@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754044920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754059140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 10:42 UTC
-; Version: 2025.0801.1042.42
+; Last modified: 01 Aug 2025 14:39 UTC
+; Version: 2025.0801.1439.51
 ; Syntax: RPZ
-; Number of entries: 28988
+; Number of entries: 29002
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1827,8 +1827,6 @@ actiondogsupplies.com CNAME .
 *.actiondogsupplies.com CNAME .
 active-21.com CNAME .
 *.active-21.com CNAME .
-active-fine.com CNAME .
-*.active-fine.com CNAME .
 active-homes.com CNAME .
 *.active-homes.com CNAME .
 activearly.com CNAME .
@@ -1869,8 +1867,6 @@ adidaszagreb.com CNAME .
 *.adidaszagreb.com CNAME .
 adihilfe.com CNAME .
 *.adihilfe.com CNAME .
-adjoinacord.com CNAME .
-*.adjoinacord.com CNAME .
 adjoningtem.com CNAME .
 *.adjoningtem.com CNAME .
 admiral-markets.com CNAME .
@@ -5063,6 +5059,8 @@ decisionw.com CNAME .
 *.decisionw.com CNAME .
 deckcalmn.com CNAME .
 *.deckcalmn.com CNAME .
+decookware.com CNAME .
+*.decookware.com CNAME .
 decoratetheroom.com CNAME .
 *.decoratetheroom.com CNAME .
 decoration-house.com CNAME .
@@ -6949,6 +6947,8 @@ friluftsrabatt.com CNAME .
 *.friluftsrabatt.com CNAME .
 friluftsshopde.com CNAME .
 *.friluftsshopde.com CNAME .
+friluftswear.com CNAME .
+*.friluftswear.com CNAME .
 fritzbox-versandhandel.com CNAME .
 *.fritzbox-versandhandel.com CNAME .
 frmusicland.com CNAME .
@@ -11833,6 +11833,8 @@ offhomedecor.com CNAME .
 *.offhomedecor.com CNAME .
 officeboxonline.com CNAME .
 *.officeboxonline.com CNAME .
+officesuppliedirect.com CNAME .
+*.officesuppliedirect.com CNAME .
 officesuppliesmaster.com CNAME .
 *.officesuppliesmaster.com CNAME .
 slimvitaxdietgummies.officialdealsite.com CNAME .
@@ -15765,6 +15767,8 @@ tonies-sonderangebot.com CNAME .
 *.tonies-sonderangebot.com CNAME .
 tonies-spezialangebot.com CNAME .
 *.tonies-spezialangebot.com CNAME .
+toniesboutiquen.com CNAME .
+*.toniesboutiquen.com CNAME .
 toniesverkaufe.com CNAME .
 *.toniesverkaufe.com CNAME .
 tooeut.com CNAME .
@@ -16655,6 +16659,8 @@ viagrainaustralia.com CNAME .
 *.viagrainaustralia.com CNAME .
 vialine-pharma-fr.com CNAME .
 *.vialine-pharma-fr.com CNAME .
+viare-brooklyn.com CNAME .
+*.viare-brooklyn.com CNAME .
 viareum-consulting.com CNAME .
 *.viareum-consulting.com CNAME .
 viarla.com CNAME .
@@ -26325,8 +26331,6 @@ ab-foliendesign.shop CNAME .
 *.ab-foliendesign.shop CNAME .
 abigailholman.shop CNAME .
 *.abigailholman.shop CNAME .
-acmejoyde.shop CNAME .
-*.acmejoyde.shop CNAME .
 adventure-rauch.shop CNAME .
 *.adventure-rauch.shop CNAME .
 aest-stores.shop CNAME .
@@ -26359,6 +26363,8 @@ alldiamondpaintingde.shop CNAME .
 *.alldiamondpaintingde.shop CNAME .
 alldiamondpaintingdeeu.shop CNAME .
 *.alldiamondpaintingdeeu.shop CNAME .
+allmeinasiashopeur.shop CNAME .
+*.allmeinasiashopeur.shop CNAME .
 alonzorozier.shop CNAME .
 *.alonzorozier.shop CNAME .
 am-dessous.shop CNAME .
@@ -27853,6 +27859,8 @@ spielzeugopa.shop CNAME .
 *.spielzeugopa.shop CNAME .
 sportkluftshopava.shop CNAME .
 *.sportkluftshopava.shop CNAME .
+sportkluftshopeu.shop CNAME .
+*.sportkluftshopeu.shop CNAME .
 sportscar-unit.shop CNAME .
 *.sportscar-unit.shop CNAME .
 spreewaldkiste.shop CNAME .
@@ -27867,6 +27875,8 @@ stana-berlin.shop CNAME .
 *.stana-berlin.shop CNAME .
 startrendy.shop CNAME .
 *.startrendy.shop CNAME .
+steiffen.shop CNAME .
+*.steiffen.shop CNAME .
 stellaesvara.shop CNAME .
 *.stellaesvara.shop CNAME .
 stephandoleschal.shop CNAME .
@@ -28131,10 +28141,14 @@ wimpanistaeu.shop CNAME .
 *.wimpanistaeu.shop CNAME .
 windelwissendeava.shop CNAME .
 *.windelwissendeava.shop CNAME .
+wodnationgearava.shop CNAME .
+*.wodnationgearava.shop CNAME .
 wohnideebilder.shop CNAME .
 *.wohnideebilder.shop CNAME .
 wolframsshop.shop CNAME .
 *.wolframsshop.shop CNAME .
+wonea.shop CNAME .
+*.wonea.shop CNAME .
 woofstuffde.shop CNAME .
 *.woofstuffde.shop CNAME .
 workstatt.shop CNAME .
