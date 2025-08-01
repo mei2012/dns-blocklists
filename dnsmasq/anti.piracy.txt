@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 16:06 UTC
-# Version: 2025.0801.1606.07
+# Last modified: 01 Aug 2025 20:13 UTC
+# Version: 2025.0801.2013.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10188
+# Number of entries: 10180
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -530,7 +530,6 @@ local=/alltube.pl/
 local=/alltube.tv/
 local=/alltube-tv.pl/
 local=/alluc.org/
-local=/alluc.uno/
 local=/allwrestling.live/
 local=/allyoulike.org/
 local=/alphabetagamer.com/
@@ -731,7 +730,6 @@ local=/animeflv.cc/
 local=/animeflv.la/
 local=/animeflv.net/
 local=/animeflv.ru/
-local=/animeflv1.com/
 local=/animeflvnet.com/
 local=/animeforever.org/
 local=/animefox.org/
@@ -763,7 +761,6 @@ local=/animenosub.to/
 local=/animeon.club/
 local=/animeout.xyz/
 local=/animeow.me/
-local=/animeowl.me/
 local=/animepace.si/
 local=/animepahe.com/
 local=/animepahe.org/
@@ -776,7 +773,6 @@ local=/animerush.tv/
 local=/animes.so/
 local=/torrents.animes-bg.com/
 local=/animes-fuki.com/
-local=/animesgratisbr.com/
 local=/animeshow.tv/
 local=/animesim.com/
 local=/animesimple.com/
@@ -836,7 +832,6 @@ local=/anosbd.com/
 local=/ansktracker.net/
 local=/antbd.com/
 local=/antbd.net/
-local=/antenasport.site/
 local=/antenasports.ru/
 local=/antennasport.ru/
 local=/tracker.anthelion.me/
@@ -849,7 +844,6 @@ local=/anzaq.com/
 local=/anzfile.net/
 local=/aostv.app/
 local=/aovivo.pro/
-local=/aovivotv.xyz/
 local=/apebox.tv/
 local=/apk-mod.net/
 local=/apk-store.org/
@@ -1013,7 +1007,6 @@ local=/atarimania.com/
 local=/atdhe.pro/
 local=/atlas-pro.tv/
 local=/atlaspro.tv/
-local=/atom-stresser.com/
 local=/atopgames.com/
 local=/atorrents.com/
 local=/atrasisclash.net/
@@ -1043,7 +1036,6 @@ local=/audionews.ru/
 local=/audiop2p.com/
 local=/audiostuff.ro/
 local=/aurastresser.com/
-local=/aurora-raws.com/
 local=/autocadbmjes.com/
 local=/autocadbmsa.com/
 local=/autocadbnaqk.com/

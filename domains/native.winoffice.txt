@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 25 Jul 2025 23:07 UTC
-# Version: 2025.0725.2307.31
+# Last modified: 01 Aug 2025 18:59 UTC
+# Version: 2025.0801.1859.02
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 914
+# Number of entries: 917
 #
 c-bingapis-com.dual-a-0034.a-msedge.net
 measure.office.com.akamaized.net
@@ -16,6 +16,7 @@ upload2.fp.measure.office.com.akamaized.net
 in.applicationinsights.azure.com.albertk12.org
 ukwest-0.in.applicationinsights.azure.com.albertk12.org
 in.appcenter.ms
+ingest.appcenter.ms
 js.cdn.applicationinsights.io
 js0.cdn.applicationinsights.io
 js1.cdn.applicationinsights.io
@@ -278,6 +279,7 @@ sandbox.ads.microsoft.com
 api.sandbox.ads.microsoft.com
 smetric.ads.microsoft.com
 status.ads.microsoft.com
+support.ads.microsoft.com
 tip.ads.microsoft.com
 api.tip.ads.microsoft.com
 ucm.ads.microsoft.com
@@ -314,6 +316,7 @@ server7.pipe.aria.microsoft.com
 server8.pipe.aria.microsoft.com
 tb.pipe.aria.microsoft.com
 us.pipe.aria.microsoft.com
+collector.azure.microsoft.cloud
 collector.azure.microsoft.scloud
 azurewatson.microsoft.com
 azurewatsontest.microsoft.com

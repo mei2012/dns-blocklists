@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754064360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754079180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 16:06 UTC
-; Version: 2025.0801.1606.07
+; Last modified: 01 Aug 2025 20:13 UTC
+; Version: 2025.0801.2013.20
 ; Syntax: RPZ
-; Number of entries: 20376
+; Number of entries: 20360
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2395,8 +2395,6 @@ animeclipse.com CNAME .
 *.animeclipse.com CNAME .
 animedao.com CNAME .
 *.animedao.com CNAME .
-animeflv1.com CNAME .
-*.animeflv1.com CNAME .
 animeflvnet.com CNAME .
 *.animeflvnet.com CNAME .
 animehd47.com CNAME .
@@ -2423,8 +2421,6 @@ torrents.animes-bg.com CNAME .
 *.torrents.animes-bg.com CNAME .
 animes-fuki.com CNAME .
 *.animes-fuki.com CNAME .
-animesgratisbr.com CNAME .
-*.animesgratisbr.com CNAME .
 animesim.com CNAME .
 *.animesim.com CNAME .
 animesimple.com CNAME .
@@ -2633,8 +2629,6 @@ at4re.com CNAME .
 *.at4re.com CNAME .
 atarimania.com CNAME .
 *.atarimania.com CNAME .
-atom-stresser.com CNAME .
-*.atom-stresser.com CNAME .
 atopgames.com CNAME .
 *.atopgames.com CNAME .
 atorrents.com CNAME .
@@ -2655,8 +2649,6 @@ audiop2p.com CNAME .
 *.audiop2p.com CNAME .
 aurastresser.com CNAME .
 *.aurastresser.com CNAME .
-aurora-raws.com CNAME .
-*.aurora-raws.com CNAME .
 autocadbmjes.com CNAME .
 *.autocadbmjes.com CNAME .
 autocadbmsa.com CNAME .
@@ -10773,8 +10765,6 @@ anime8.me CNAME .
 *.anime8.me CNAME .
 animeow.me CNAME .
 *.animeow.me CNAME .
-animeowl.me CNAME .
-*.animeowl.me CNAME .
 animetorrents.me CNAME .
 *.animetorrents.me CNAME .
 aniwatch.me CNAME .
@@ -17155,8 +17145,6 @@ altadefinizione01.site CNAME .
 *.altadefinizione01.site CNAME .
 ambassadorddl.site CNAME .
 *.ambassadorddl.site CNAME .
-antenasport.site CNAME .
-*.antenasport.site CNAME .
 awtdg.site CNAME .
 *.awtdg.site CNAME .
 crackhub.site CNAME .
@@ -19205,8 +19193,6 @@ unblockpirate.uk CNAME .
 *.unblockpirate.uk CNAME .
 123movie.uno CNAME .
 *.123movie.uno CNAME .
-alluc.uno CNAME .
-*.alluc.uno CNAME .
 cb01.uno CNAME .
 *.cb01.uno CNAME .
 cuevana.uno CNAME .
@@ -20033,8 +20019,6 @@ animeout.xyz CNAME .
 *.animeout.xyz CNAME .
 animestotais.xyz CNAME .
 *.animestotais.xyz CNAME .
-aovivotv.xyz CNAME .
-*.aovivotv.xyz CNAME .
 arrr.xyz CNAME .
 *.arrr.xyz CNAME .
 asger.xyz CNAME .

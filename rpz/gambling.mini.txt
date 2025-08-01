@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754064300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754079120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 16:05 UTC
-; Version: 2025.0801.1605.35
+; Last modified: 01 Aug 2025 20:12 UTC
+; Version: 2025.0801.2012.54
 ; Syntax: RPZ
-; Number of entries: 121616
+; Number of entries: 121538
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -6275,18 +6275,8 @@ arkada495.casino CNAME .
 *.arkada495.casino CNAME .
 arkada530.casino CNAME .
 *.arkada530.casino CNAME .
-arkada562.casino CNAME .
-*.arkada562.casino CNAME .
-arkada564.casino CNAME .
-*.arkada564.casino CNAME .
 arkada565.casino CNAME .
 *.arkada565.casino CNAME .
-arkada566.casino CNAME .
-*.arkada566.casino CNAME .
-arkada567.casino CNAME .
-*.arkada567.casino CNAME .
-arkada568.casino CNAME .
-*.arkada568.casino CNAME .
 arkada5858.casino CNAME .
 *.arkada5858.casino CNAME .
 arkada596.casino CNAME .
@@ -21753,8 +21743,6 @@ aiyourcasino.com CNAME .
 *.aiyourcasino.com CNAME .
 aiyourpoker.com CNAME .
 *.aiyourpoker.com CNAME .
-ajbellworldchampionships.com CNAME .
-*.ajbellworldchampionships.com CNAME .
 akakbets.com CNAME .
 *.akakbets.com CNAME .
 akaknavi.com CNAME .
@@ -21787,10 +21775,6 @@ aladins-casinos.com CNAME .
 *.aladins-casinos.com CNAME .
 aladinscasino.com CNAME .
 *.aladinscasino.com CNAME .
-alamedanyc.com CNAME .
-*.alamedanyc.com CNAME .
-alanahenderson.com CNAME .
-*.alanahenderson.com CNAME .
 alanbase.com CNAME .
 *.alanbase.com CNAME .
 alano-bets.com CNAME .
@@ -21813,8 +21797,6 @@ albertaonlinecasino.com CNAME .
 *.albertaonlinecasino.com CNAME .
 alderneygambling.com CNAME .
 *.alderneygambling.com CNAME .
-alefbetsoft.com CNAME .
-*.alefbetsoft.com CNAME .
 aleksagajic.com CNAME .
 *.aleksagajic.com CNAME .
 alev-casino.com CNAME .
@@ -21853,10 +21835,6 @@ alfcasino-gr.com CNAME .
 *.alfcasino-gr.com CNAME .
 algeriaupdate.com CNAME .
 *.algeriaupdate.com CNAME .
-algeriepyrenees.com CNAME .
-*.algeriepyrenees.com CNAME .
-algo-casino.com CNAME .
-*.algo-casino.com CNAME .
 algorithmcasino.com CNAME .
 *.algorithmcasino.com CNAME .
 alicantecasino.com CNAME .
@@ -22033,12 +22011,6 @@ alternatifkudabet1.com CNAME .
 *.alternatifkudabet1.com CNAME .
 altgambler.com CNAME .
 *.altgambler.com CNAME .
-altin-casino050.com CNAME .
-*.altin-casino050.com CNAME .
-altin-casino051.com CNAME .
-*.altin-casino051.com CNAME .
-altin-casino070.com CNAME .
-*.altin-casino070.com CNAME .
 altissimo-music.com CNAME .
 *.altissimo-music.com CNAME .
 altohk.com CNAME .
@@ -22055,8 +22027,6 @@ am-casino.com CNAME .
 *.am-casino.com CNAME .
 amadopg.com CNAME .
 *.amadopg.com CNAME .
-amanpokeronline77.com CNAME .
-*.amanpokeronline77.com CNAME .
 amapsindi.com CNAME .
 *.amapsindi.com CNAME .
 amarkets.com CNAME .
@@ -22213,12 +22183,8 @@ anekaslots69.com CNAME .
 *.anekaslots69.com CNAME .
 anepiceducation.com CNAME .
 *.anepiceducation.com CNAME .
-angamingnews.com CNAME .
-*.angamingnews.com CNAME .
 angels-casino.com CNAME .
 *.angels-casino.com CNAME .
-angkaoreo5d.com CNAME .
-*.angkaoreo5d.com CNAME .
 angkasaqq.com CNAME .
 *.angkasaqq.com CNAME .
 angkorvoyages.com CNAME .
@@ -22349,8 +22315,6 @@ applebet365.com CNAME .
 *.applebet365.com CNAME .
 appliancemasterca.com CNAME .
 *.appliancemasterca.com CNAME .
-appliedbets.com CNAME .
-*.appliedbets.com CNAME .
 approyalxcasino.com CNAME .
 *.approyalxcasino.com CNAME .
 apps54.com CNAME .
@@ -22445,8 +22409,6 @@ arcadacasino221.com CNAME .
 *.arcadacasino221.com CNAME .
 arcanebet.com CNAME .
 *.arcanebet.com CNAME .
-arcasinotop.com CNAME .
-*.arcasinotop.com CNAME .
 arclubpoker.com CNAME .
 *.arclubpoker.com CNAME .
 arcoiris777pg.com CNAME .
@@ -22459,8 +22421,6 @@ ardentecasinoit.com CNAME .
 *.ardentecasinoit.com CNAME .
 ardpros.com CNAME .
 *.ardpros.com CNAME .
-ardwheels.com CNAME .
-*.ardwheels.com CNAME .
 area188official.com CNAME .
 *.area188official.com CNAME .
 areataruhan.com CNAME .
@@ -22539,8 +22499,6 @@ arkadacasinos.com CNAME .
 *.arkadacasinos.com CNAME .
 arkadacasinozerkalo.com CNAME .
 *.arkadacasinozerkalo.com CNAME .
-arkadelphianews.com CNAME .
-*.arkadelphianews.com CNAME .
 arkadium.com CNAME .
 *.arkadium.com CNAME .
 arksstechnologies.com CNAME .
@@ -22607,8 +22565,6 @@ ashibetsu-wagokoro.com CNAME .
 *.ashibetsu-wagokoro.com CNAME .
 asiacity138.com CNAME .
 *.asiacity138.com CNAME .
-asiagol17.com CNAME .
-*.asiagol17.com CNAME .
 asiancasinocentral.com CNAME .
 *.asiancasinocentral.com CNAME .
 asiancasinoslots.com CNAME .
@@ -22619,8 +22575,6 @@ asiankitchentpa.com CNAME .
 *.asiankitchentpa.com CNAME .
 asianpokerdewi.com CNAME .
 *.asianpokerdewi.com CNAME .
-asiatogel881.com CNAME .
-*.asiatogel881.com CNAME .
 asiatopslots.com CNAME .
 *.asiatopslots.com CNAME .
 asicasinos.com CNAME .
@@ -73173,8 +73127,6 @@ art-casino.net CNAME .
 *.art-casino.net CNAME .
 artemisbetgiris.net CNAME .
 *.artemisbetgiris.net CNAME .
-artrates.net CNAME .
-*.artrates.net CNAME .
 asia126.net CNAME .
 *.asia126.net CNAME .
 asia128pastijp.net CNAME .
@@ -85473,8 +85425,6 @@ mostbet-casino.pk CNAME .
 *.7playcasino.pl CNAME .
 aibets.pl CNAME .
 *.aibets.pl CNAME .
-allright-casino-bonus.pl CNAME .
-*.allright-casino-bonus.pl CNAME .
 allrightcasinos.pl CNAME .
 *.allrightcasinos.pl CNAME .
 azur-slots.pl CNAME .
@@ -87291,8 +87241,6 @@ solverde.pt CNAME .
 *.6686.pw CNAME .
 7casino-bonus-promo.pw CNAME .
 *.7casino-bonus-promo.pw CNAME .
-agensbobetcasino.pw CNAME .
-*.agensbobetcasino.pw CNAME .
 atcasino.pw CNAME .
 *.atcasino.pw CNAME .
 blackjackaibot.pw CNAME .
@@ -92533,8 +92481,6 @@ arunaslots33.site CNAME .
 *.arunaslots33.site CNAME .
 arwahjoy.site CNAME .
 *.arwahjoy.site CNAME .
-asiaplay168.site CNAME .
-*.asiaplay168.site CNAME .
 atendimento24h.site CNAME .
 *.atendimento24h.site CNAME .
 auluckycasino.site CNAME .
@@ -97327,16 +97273,12 @@ art-solcasino7.top CNAME .
 *.art-solcasino7.top CNAME .
 asikslot.top CNAME .
 *.asikslot.top CNAME .
-asyabahis-canli-casino.top CNAME .
-*.asyabahis-canli-casino.top CNAME .
 atlanticcitycasino.top CNAME .
 *.atlanticcitycasino.top CNAME .
 atlantis-casino.top CNAME .
 *.atlantis-casino.top CNAME .
 atlantiscasino-hu.top CNAME .
 *.atlantiscasino-hu.top CNAME .
-atlasbet-canli-casino.top CNAME .
-*.atlasbet-canli-casino.top CNAME .
 auf-1000casino.top CNAME .
 *.auf-1000casino.top CNAME .
 auf3366casino.top CNAME .
@@ -108891,8 +108833,6 @@ allcasino1.vip CNAME .
 *.allcasino1.vip CNAME .
 amorjogar.vip CNAME .
 *.amorjogar.vip CNAME .
-angkasa138.vip CNAME .
-*.angkasa138.vip CNAME .
 angkasa88.vip CNAME .
 *.angkasa88.vip CNAME .
 apollopg.vip CNAME .
@@ -111387,8 +111327,6 @@ afslotmewah.xyz CNAME .
 *.afslotmewah.xyz CNAME .
 afslott.xyz CNAME .
 *.afslott.xyz CNAME .
-ag77-rtp.xyz CNAME .
-*.ag77-rtp.xyz CNAME .
 agaklaen.xyz CNAME .
 *.agaklaen.xyz CNAME .
 agen-bikinkaya.xyz CNAME .
@@ -111423,14 +111361,8 @@ ageneuro2020.xyz CNAME .
 *.ageneuro2020.xyz CNAME .
 agengameonline.xyz CNAME .
 *.agengameonline.xyz CNAME .
-agenkilat-linkbaru.xyz CNAME .
-*.agenkilat-linkbaru.xyz CNAME .
 agenmenangbayar.xyz CNAME .
 *.agenmenangbayar.xyz CNAME .
-agenpialaeuro2024.xyz CNAME .
-*.agenpialaeuro2024.xyz CNAME .
-agenresmislot88.xyz CNAME .
-*.agenresmislot88.xyz CNAME .
 agensamurai188.xyz CNAME .
 *.agensamurai188.xyz CNAME .
 agenshibatoto.xyz CNAME .
@@ -111575,12 +111507,8 @@ alterpug.xyz CNAME .
 *.alterpug.xyz CNAME .
 altmulaibola.xyz CNAME .
 *.altmulaibola.xyz CNAME .
-amanjumpa.xyz CNAME .
-*.amanjumpa.xyz CNAME .
 amaraslots.xyz CNAME .
 *.amaraslots.xyz CNAME .
-amarta99-ai.xyz CNAME .
-*.amarta99-ai.xyz CNAME .
 amarta99-hb.xyz CNAME .
 *.amarta99-hb.xyz CNAME .
 amazingcircus.xyz CNAME .
@@ -111617,8 +111545,6 @@ amp-kopi77.xyz CNAME .
 *.amp-kopi77.xyz CNAME .
 amp-lgaa.xyz CNAME .
 *.amp-lgaa.xyz CNAME .
-amp-robusta.xyz CNAME .
-*.amp-robusta.xyz CNAME .
 amp-togel-jackpot.xyz CNAME .
 *.amp-togel-jackpot.xyz CNAME .
 ampampjago.xyz CNAME .
@@ -111811,8 +111737,6 @@ aquaripple.xyz CNAME .
 *.aquaripple.xyz CNAME .
 arab138hu.xyz CNAME .
 *.arab138hu.xyz CNAME .
-arab138new.xyz CNAME .
-*.arab138new.xyz CNAME .
 arab138top.xyz CNAME .
 *.arab138top.xyz CNAME .
 araslot500.xyz CNAME .
@@ -111977,8 +111901,6 @@ auragacor-slot88.xyz CNAME .
 *.auragacor-slot88.xyz CNAME .
 auroratotosatu-amp.xyz CNAME .
 *.auroratotosatu-amp.xyz CNAME .
-auroratotosatuamp.xyz CNAME .
-*.auroratotosatuamp.xyz CNAME .
 aussie-play-casino.xyz CNAME .
 *.aussie-play-casino.xyz CNAME .
 aussietopcasinos.xyz CNAME .

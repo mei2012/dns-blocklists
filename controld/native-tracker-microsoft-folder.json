@@ -911,6 +911,13 @@
       }
     },
     {
+      "PK": "collector.azure.microsoft.cloud",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "collector.azure.microsoft.scloud",
       "action": {
         "do": 0,
@@ -1472,6 +1479,13 @@
     },
     {
       "PK": "inference-location-livenet.trafficmanager.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "ingest.appcenter.ms",
       "action": {
         "do": 0,
         "status": 1

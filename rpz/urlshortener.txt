@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754059260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754073840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 14:41 UTC
-; Version: 2025.0801.1441.41
+; Last modified: 01 Aug 2025 18:44 UTC
+; Version: 2025.0801.1844.57
 ; Syntax: RPZ
-; Number of entries: 10286
+; Number of entries: 10254
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1610,8 +1610,6 @@ agileurbia.com CNAME .
 *.agileurbia.com CNAME .
 agphosting.com CNAME .
 *.agphosting.com CNAME .
-ahgzp.com CNAME .
-*.ahgzp.com CNAME .
 aiecj2.com CNAME .
 *.aiecj2.com CNAME .
 ajher.com CNAME .
@@ -1628,8 +1626,6 @@ allamericanpatriots.com CNAME .
 *.allamericanpatriots.com CNAME .
 alolink.com CNAME .
 *.alolink.com CNAME .
-alpinedatalake.com CNAME .
-*.alpinedatalake.com CNAME .
 alturl.com CNAME .
 *.alturl.com CNAME .
 amzn.com CNAME .
@@ -1654,16 +1650,10 @@ atmlb.com CNAME .
 *.atmlb.com CNAME .
 audiof.com CNAME .
 *.audiof.com CNAME .
-aupvhn.com CNAME .
-*.aupvhn.com CNAME .
 aveerro.com CNAME .
 *.aveerro.com CNAME .
 awwurl.com CNAME .
 *.awwurl.com CNAME .
-aypkl.com CNAME .
-*.aypkl.com CNAME .
-ayzyu.com CNAME .
-*.ayzyu.com CNAME .
 azipurl.com CNAME .
 *.azipurl.com CNAME .
 b1url.com CNAME .
@@ -4600,8 +4590,6 @@ go.zordo.in CNAME .
 *.7link.info CNAME .
 aarp.info CNAME .
 *.aarp.info CNAME .
-apeltravel.info CNAME .
-*.apeltravel.info CNAME .
 go.appsscript.info CNAME .
 *.go.appsscript.info CNAME .
 aresgacor.info CNAME .
@@ -5602,14 +5590,8 @@ zxc.li CNAME .
 *.zxc.li CNAME .
 afb88.life CNAME .
 *.afb88.life CNAME .
-ai-beast-online.life CNAME .
-*.ai-beast-online.life CNAME .
-alex-test-1.life CNAME .
-*.alex-test-1.life CNAME .
 aozczwj.life CNAME .
 *.aozczwj.life CNAME .
-azov.life CNAME .
-*.azov.life CNAME .
 bchf.life CNAME .
 *.bchf.life CNAME .
 bee-kz.life CNAME .
@@ -6230,16 +6212,12 @@ zuplo.link CNAME .
 *.zuplo.link CNAME .
 3xs.live CNAME .
 *.3xs.live CNAME .
-agen303.live CNAME .
-*.agen303.live CNAME .
 alias.live CNAME .
 *.alias.live CNAME .
 alongno1.live CNAME .
 *.alongno1.live CNAME .
 apply-here.live CNAME .
 *.apply-here.live CNAME .
-appusps.live CNAME .
-*.appusps.live CNAME .
 ar-technology.live CNAME .
 *.ar-technology.live CNAME .
 arclight.live CNAME .
@@ -9450,10 +9428,6 @@ videos.pbi.tools CNAME .
 *.videos.pbi.tools CNAME .
 1link.top CNAME .
 *.1link.top CNAME .
-aghq.top CNAME .
-*.aghq.top CNAME .
-anvcc.top CNAME .
-*.anvcc.top CNAME .
 bitcoinshortener.top CNAME .
 *.bitcoinshortener.top CNAME .
 biturl.top CNAME .
@@ -10194,12 +10168,6 @@ wf0.xin CNAME .
 *.7894.xyz CNAME .
 accommodatingly.xyz CNAME .
 *.accommodatingly.xyz CNAME .
-answ.xyz CNAME .
-*.answ.xyz CNAME .
-atualizefacil.xyz CNAME .
-*.atualizefacil.xyz CNAME .
-atualizeja.xyz CNAME .
-*.atualizeja.xyz CNAME .
 bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 cropped.xyz CNAME .
