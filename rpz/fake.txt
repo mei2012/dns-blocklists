@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754001600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754030460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 Jul 2025 22:40 UTC
-; Version: 2025.0731.2240.09
+; Last modified: 01 Aug 2025 06:41 UTC
+; Version: 2025.0801.0641.14
 ; Syntax: RPZ
-; Number of entries: 28994
+; Number of entries: 29004
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1649,8 +1649,6 @@ yeezys.co CNAME .
 *.01broker.com CNAME .
 01crypto.com CNAME .
 *.01crypto.com CNAME .
-10legend.com CNAME .
-*.10legend.com CNAME .
 11trikots.com CNAME .
 *.11trikots.com CNAME .
 1875-financeinvest.com CNAME .
@@ -1675,8 +1673,6 @@ eoutlet.2023shoponline.com CNAME .
 *.24-modellstore.com CNAME .
 247-healthstore.com CNAME .
 *.247-healthstore.com CNAME .
-247safegenerics.com CNAME .
-*.247safegenerics.com CNAME .
 24apothecary.com CNAME .
 *.24apothecary.com CNAME .
 24builds.com CNAME .
@@ -6007,6 +6003,8 @@ ereka-versand.com CNAME .
 *.ereka-versand.com CNAME .
 erektionspillen.com CNAME .
 *.erektionspillen.com CNAME .
+ergobackpacks.com CNAME .
+*.ergobackpacks.com CNAME .
 erinnersegel.com CNAME .
 *.erinnersegel.com CNAME .
 erlei-versand.com CNAME .
@@ -6321,6 +6319,8 @@ fahrrad-versand.com CNAME .
 *.fahrrad-versand.com CNAME .
 fahrraddeneurabatt.com CNAME .
 *.fahrraddeneurabatt.com CNAME .
+fahrradergeschaft.com CNAME .
+*.fahrradergeschaft.com CNAME .
 fahrradgps-shop.com CNAME .
 *.fahrradgps-shop.com CNAME .
 fahrradhelden.com CNAME .
@@ -8453,6 +8453,8 @@ horizon-patrimoine.com CNAME .
 *.horizon-patrimoine.com CNAME .
 horizonhobbyeu.com CNAME .
 *.horizonhobbyeu.com CNAME .
+horizons28.com CNAME .
+*.horizons28.com CNAME .
 horizontaln.com CNAME .
 *.horizontaln.com CNAME .
 horngrant.com CNAME .
@@ -8955,6 +8957,8 @@ teufel.discounts.it.com CNAME .
 *.teufel.discounts.it.com CNAME .
 euvivosale.it.com CNAME .
 *.euvivosale.it.com CNAME .
+shopsasfinag.it.com CNAME .
+*.shopsasfinag.it.com CNAME .
 itagprotracker.com CNAME .
 *.itagprotracker.com CNAME .
 itcfx.com CNAME .
@@ -11341,6 +11345,8 @@ wolovos.myshopify.com CNAME .
 *.wolovos.myshopify.com CNAME .
 674985034.myshoplaza.com CNAME .
 *.674985034.myshoplaza.com CNAME .
+gigasport8.myshoplaza.com CNAME .
+*.gigasport8.myshoplaza.com CNAME .
 goldengoose-austria.myshoplaza.com CNAME .
 *.goldengoose-austria.myshoplaza.com CNAME .
 kaufuniversum.myshoplaza.com CNAME .
@@ -15651,6 +15657,8 @@ theworldaccessories.com CNAME .
 *.theworldaccessories.com CNAME .
 thinkcarde.com CNAME .
 *.thinkcarde.com CNAME .
+thomannonlinestore.com CNAME .
+*.thomannonlinestore.com CNAME .
 thomascarolyn.com CNAME .
 *.thomascarolyn.com CNAME .
 thomaswalderberlin.com CNAME .
@@ -26283,8 +26291,6 @@ amerytoywelpen.pw CNAME .
 *.amerytoywelpen.pw CNAME .
 l6shop.pw CNAME .
 *.l6shop.pw CNAME .
-eoutlet.2022factorysale.ru CNAME .
-*.eoutlet.2022factorysale.ru CNAME .
 aaaclothing.ru CNAME .
 *.aaaclothing.ru CNAME .
 auditstandart.ru CNAME .
@@ -26569,6 +26575,8 @@ bookspot.shop CNAME .
 *.bookspot.shop CNAME .
 bookssale.shop CNAME .
 *.bookssale.shop CNAME .
+bovse.shop CNAME .
+*.bovse.shop CNAME .
 branditurner.shop CNAME .
 *.branditurner.shop CNAME .
 breezekiss.shop CNAME .
@@ -27627,6 +27635,8 @@ polskashop24.shop CNAME .
 *.polskashop24.shop CNAME .
 poolladen.shop CNAME .
 *.poolladen.shop CNAME .
+eu.popomartvip.shop CNAME .
+*.eu.popomartvip.shop CNAME .
 potflourride.shop CNAME .
 *.potflourride.shop CNAME .
 praktiker-baumarkt.shop CNAME .

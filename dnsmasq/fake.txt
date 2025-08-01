@@ -4,15 +4,14 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 22:40 UTC
-# Version: 2025.0731.2240.09
+# Last modified: 01 Aug 2025 06:41 UTC
+# Version: 2025.0801.0641.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14497
+# Number of entries: 14502
 #
 local=/01broker.com/
 local=/01crypto.com/
 local=/1001clothing.eu/
-local=/10legend.com/
 local=/11trikots.com/
 local=/123tierbedarf.de/
 local=/1875-financeinvest.com/
@@ -25,7 +24,6 @@ local=/1preis.com/
 local=/1rx-pharmacy.com/
 local=/1ticketmarket.com/
 local=/200pills.com/
-local=/eoutlet.2022factorysale.ru/
 local=/eoutlet.2023shoponline.com/
 local=/20mg-tadalafil-cheapest-price.com/
 local=/24-modellstore.com/
@@ -33,7 +31,6 @@ local=/247-healthstore.com/
 local=/247blue.de/
 local=/247onlinemeds.net/
 local=/247pharm.net/
-local=/247safegenerics.com/
 local=/24apothecary.com/
 local=/24builds.com/
 local=/24hr-premiumpricepills.com/
@@ -1799,6 +1796,7 @@ local=/boutik-zurich.com/
 local=/boutique-model-store.com/
 local=/boutique-spielzeug.com/
 local=/boutiquethebody.com/
+local=/bovse.shop/
 local=/boweholz.com/
 local=/boxcomedy.com/
 local=/boxed-memories.us/
@@ -3987,6 +3985,7 @@ local=/erektile-apotheke24.de/
 local=/erektionspillen.com/
 local=/erektionspillen.online/
 local=/ergeb-nisse.de/
+local=/ergobackpacks.com/
 local=/erika-taschen.de/
 local=/erinnersegel.com/
 local=/erlei-versand.com/
@@ -4251,6 +4250,7 @@ local=/fahrrad-versand.com/
 local=/fahrrad-zubehor.de/
 local=/fahrradcheck24.de/
 local=/fahrraddeneurabatt.com/
+local=/fahrradergeschaft.com/
 local=/fahrradgps-shop.com/
 local=/fahrradhandel-ahrens.de/
 local=/fahrradhandel-behrendt.de/
@@ -6206,6 +6206,7 @@ local=/hoppylu.com/
 local=/horizon-patrimoine.com/
 local=/horizonhobbyeu.com/
 local=/horizoninvestment.ch/
+local=/horizons28.com/
 local=/horizontaln.com/
 local=/hormanns24.de/
 local=/hormans.de/
@@ -6672,6 +6673,7 @@ local=/isosmart.de/
 local=/isotrader.cc/
 local=/teufel.discounts.it.com/
 local=/euvivosale.it.com/
+local=/shopsasfinag.it.com/
 local=/it-con.org/
 local=/itagprotracker.com/
 local=/itapellets.de/
@@ -8993,6 +8995,7 @@ local=/waldundfeld.myshopify.com/
 local=/weilco.myshopify.com/
 local=/wolovos.myshopify.com/
 local=/674985034.myshoplaza.com/
+local=/gigasport8.myshoplaza.com/
 local=/goldengoose-austria.myshoplaza.com/
 local=/kaufuniversum.myshoplaza.com/
 local=/on3.myshoplaza.com/
@@ -10204,6 +10207,7 @@ local=/popmartgreece.com/
 local=/popmarts.pro/
 local=/popmarts.vip/
 local=/popmenshoe.com/
+local=/eu.popomartvip.shop/
 local=/popoutdoorshoe.com/
 local=/popskishop.com/
 local=/popsnowsports.com/
@@ -12756,6 +12760,7 @@ local=/thirdoflifede.shop/
 local=/thk-elektro24.de/
 local=/thl-handel.de/
 local=/thmbrennholz.at/
+local=/thomannonlinestore.com/
 local=/thomannz.shop/
 local=/thomas-electronic.shop/
 local=/thomascarolyn.com/

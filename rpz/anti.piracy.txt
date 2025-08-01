@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754006940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754035500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 00:09 UTC
-; Version: 2025.0801.0009.06
+; Last modified: 01 Aug 2025 08:05 UTC
+; Version: 2025.0801.0805.09
 ; Syntax: RPZ
-; Number of entries: 20384
+; Number of entries: 20378
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7751,8 +7751,6 @@ streamingcommunity.credit CNAME .
 *.streamingcommunity.credit CNAME .
 crichd.cricket CNAME .
 *.crichd.cricket CNAME .
-p2p.0g.cx CNAME .
-*.p2p.0g.cx CNAME .
 allin1.cx CNAME .
 *.allin1.cx CNAME .
 altadefinizione.cx CNAME .
@@ -11491,8 +11489,6 @@ planetdl.0fees.net CNAME .
 *.123moviestv.net CNAME .
 16mag.net CNAME .
 *.16mag.net CNAME .
-1fbdown.net CNAME .
-*.1fbdown.net CNAME .
 1gabba.net CNAME .
 *.1gabba.net CNAME .
 2torrentz.net CNAME .
@@ -20015,8 +20011,6 @@ atrack-asia-s1.114913.xyz CNAME .
 *.123movieonline.xyz CNAME .
 1337xto.xyz CNAME .
 *.1337xto.xyz CNAME .
-1qwebplay.xyz CNAME .
-*.1qwebplay.xyz CNAME .
 t.213891.xyz CNAME .
 *.t.213891.xyz CNAME .
 23movies.xyz CNAME .

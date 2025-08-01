@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 00:09 UTC
-# Version: 2025.0801.0009.06
+# Last modified: 01 Aug 2025 08:05 UTC
+# Version: 2025.0801.0805.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10192
+# Number of entries: 10189
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -28,7 +28,6 @@ local=/0dayhome.net/
 local=/hichemtigsetorgy.0fees.net/
 local=/planetdl.0fees.net/
 local=/0ffbug.tv/
-local=/p2p.0g.cx/
 local=/0mag.net/
 local=/0magnet.com/
 local=/0second.com/
@@ -170,7 +169,6 @@ local=/16mag.net/
 local=/1cinevood.kim/
 local=/1clickdown.com/
 local=/1ddl.org/
-local=/1fbdown.net/
 local=/1fichier.com/
 local=/1flix.to/
 local=/1gabba.net/
@@ -191,7 +189,6 @@ local=/1movietv.com/
 local=/supaflix.1mt.top/
 local=/supaflix-series.1mt.top/
 local=/1nd.hu/
-local=/1qwebplay.xyz/
 local=/1stream.top/
 local=/1street.ru/
 local=/1tamilblasters.how/
