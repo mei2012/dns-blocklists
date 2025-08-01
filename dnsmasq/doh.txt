@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Jul 2025 00:10 UTC
-# Version: 2025.0731.0010.27
+# Last modified: 01 Aug 2025 00:14 UTC
+# Version: 2025.0801.0014.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1451
+# Number of entries: 1450
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -268,6 +268,7 @@ local=/dns.netraptor.com.au/
 local=/dns.weixin.qq.com.cn/
 local=/dns.redhosting.com.ar/
 local=/doh.viatech.com.tw/
+local=/dns.comeonjames.club/
 local=/dns.comff.net/
 local=/commons.host/
 local=/comss.one/
@@ -425,7 +426,6 @@ local=/sjc01.dnscry.pt/
 local=/slc01.dnscry.pt/
 local=/sof01.dnscry.pt/
 local=/sto01.dnscry.pt/
-local=/syd01.dnscry.pt/
 local=/syd02.dnscry.pt/
 local=/tbs01.dnscry.pt/
 local=/tll01.dnscry.pt/
@@ -512,7 +512,6 @@ local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/dns.tuna.tsinghua.edu.cn/
 local=/adguard.ef67daisuki.club/
-local=/dns.efficientdocuments.com/
 local=/hole.elbschloss.xyz/
 local=/dns.elemental.software/
 local=/eliatofani.ovh/
@@ -903,10 +902,10 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
+local=/doh-ca.naftalie.net/
 local=/najiakeji.top/
 local=/dns.nako.kr/
 local=/www.chungocoai.name.vn/
