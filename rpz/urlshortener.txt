@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754073840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754089260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 18:44 UTC
-; Version: 2025.0801.1844.57
+; Last modified: 01 Aug 2025 23:01 UTC
+; Version: 2025.0801.2301.07
 ; Syntax: RPZ
-; Number of entries: 10254
+; Number of entries: 10208
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1674,10 +1674,6 @@ on.bcg.com CNAME .
 *.on.bcg.com CNAME .
 bd-fw.com CNAME .
 *.bd-fw.com CNAME .
-bddugi.com CNAME .
-*.bddugi.com CNAME .
-bdtvzl.com CNAME .
-*.bdtvzl.com CNAME .
 beautyfitnesshealth.com CNAME .
 *.beautyfitnesshealth.com CNAME .
 bee1s.com CNAME .
@@ -1722,8 +1718,6 @@ blltly.com CNAME .
 *.blltly.com CNAME .
 ro.blox.com CNAME .
 *.ro.blox.com CNAME .
-blrqfe.com CNAME .
-*.blrqfe.com CNAME .
 blyto.com CNAME .
 *.blyto.com CNAME .
 bnetwhk.com CNAME .
@@ -1738,8 +1732,6 @@ botemoda.com CNAME .
 *.botemoda.com CNAME .
 on.bp.com CNAME .
 *.on.bp.com CNAME .
-bpdmv.com CNAME .
-*.bpdmv.com CNAME .
 brisktopia.com CNAME .
 *.brisktopia.com CNAME .
 briurl.com CNAME .
@@ -1760,8 +1752,6 @@ burnurl.com CNAME .
 *.burnurl.com CNAME .
 buybitcoinsworldwide.com CNAME .
 *.buybitcoinsworldwide.com CNAME .
-bwrmp.com CNAME .
-*.bwrmp.com CNAME .
 cactusskyonline.com CNAME .
 *.cactusskyonline.com CNAME .
 candicegilmerauthor.com CNAME .
@@ -3458,8 +3448,6 @@ url.sae.digital CNAME .
 *.url.sae.digital CNAME .
 lnk.direct CNAME .
 *.lnk.direct CNAME .
-brandedstoragereview.directory CNAME .
-*.brandedstoragereview.directory CNAME .
 directorytechstoragepoint.directory CNAME .
 *.directorytechstoragepoint.directory CNAME .
 vineland.dj CNAME .
@@ -5596,28 +5584,14 @@ bchf.life CNAME .
 *.bchf.life CNAME .
 bee-kz.life CNAME .
 *.bee-kz.life CNAME .
-bees-fumb-lin-tumblers.life CNAME .
-*.bees-fumb-lin-tumblers.life CNAME .
 binancetransactionf077171f1gl1od17ro1asecure.life CNAME .
 *.binancetransactionf077171f1gl1od17ro1asecure.life CNAME .
-boa5s.life CNAME .
-*.boa5s.life CNAME .
 bopvu.life CNAME .
 *.bopvu.life CNAME .
 bose.life CNAME .
 *.bose.life CNAME .
 bravos.life CNAME .
 *.bravos.life CNAME .
-briidge.life CNAME .
-*.briidge.life CNAME .
-brucezielke.life CNAME .
-*.brucezielke.life CNAME .
-burma123.life CNAME .
-*.burma123.life CNAME .
-burma77.life CNAME .
-*.burma77.life CNAME .
-c-dot-da-plug.life CNAME .
-*.c-dot-da-plug.life CNAME .
 c-hud-aixxx.life CNAME .
 *.c-hud-aixxx.life CNAME .
 camillalaprincessagroup.life CNAME .
@@ -6224,16 +6198,8 @@ arclight.live CNAME .
 *.arclight.live CNAME .
 autolink.live CNAME .
 *.autolink.live CNAME .
-barbenady.live CNAME .
-*.barbenady.live CNAME .
-barbieclothingcloset.live CNAME .
-*.barbieclothingcloset.live CNAME .
-bibomart.live CNAME .
-*.bibomart.live CNAME .
 bit24.live CNAME .
 *.bit24.live CNAME .
-black-panther.live CNAME .
-*.black-panther.live CNAME .
 carters-the-best-2012.live CNAME .
 *.carters-the-best-2012.live CNAME .
 cartersthebest2012.live CNAME .
@@ -6860,8 +6826,6 @@ bfol.me CNAME .
 *.bfol.me CNAME .
 bg4.me CNAME .
 *.bg4.me CNAME .
-bitfly.me CNAME .
-*.bitfly.me CNAME .
 blinko.me CNAME .
 *.blinko.me CNAME .
 bloat.me CNAME .
@@ -7910,8 +7874,6 @@ tinylink.onl CNAME .
 *.tinylink.onl CNAME .
 bolstr.online CNAME .
 *.bolstr.online CNAME .
-buzzao.online CNAME .
-*.buzzao.online CNAME .
 dinzzvpn.online CNAME .
 *.dinzzvpn.online CNAME .
 dn303.online CNAME .
@@ -8648,10 +8610,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-bpzvx.sbs CNAME .
-*.bpzvx.sbs CNAME .
-bzfhq.sbs CNAME .
-*.bzfhq.sbs CNAME .
 dswiw.sbs CNAME .
 *.dswiw.sbs CNAME .
 fdkmx.sbs CNAME .
@@ -9432,8 +9390,6 @@ bitcoinshortener.top CNAME .
 *.bitcoinshortener.top CNAME .
 biturl.top CNAME .
 *.biturl.top CNAME .
-blyxg.top CNAME .
-*.blyxg.top CNAME .
 cjiy.top CNAME .
 *.cjiy.top CNAME .
 cplay.top CNAME .
@@ -9704,8 +9660,6 @@ beeb.us CNAME .
 *.beeb.us CNAME .
 bitnew.us CNAME .
 *.bitnew.us CNAME .
-bn8.us CNAME .
-*.bn8.us CNAME .
 bofh.us CNAME .
 *.bofh.us CNAME .
 butt-link.us CNAME .

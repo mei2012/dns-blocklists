@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754079180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754089260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 20:13 UTC
-; Version: 2025.0801.2013.20
+; Last modified: 01 Aug 2025 23:01 UTC
+; Version: 2025.0801.2301.30
 ; Syntax: RPZ
-; Number of entries: 20360
+; Number of entries: 20352
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3017,8 +3017,6 @@ boot4free.com CNAME .
 *.boot4free.com CNAME .
 bootytape.com CNAME .
 *.bootytape.com CNAME .
-bootytorrents.com CNAME .
-*.bootytorrents.com CNAME .
 botstress.com CNAME .
 *.botstress.com CNAME .
 boxingstreams100.com CNAME .
@@ -17797,12 +17795,8 @@ avistaz.to CNAME .
 *.avistaz.to CNAME .
 azm.to CNAME .
 *.azm.to CNAME .
-bflix.to CNAME .
-*.bflix.to CNAME .
 bingewatch.to CNAME .
 *.bingewatch.to CNAME .
-bitreactor.to CNAME .
-*.bitreactor.to CNAME .
 bitsearch.to CNAME .
 *.bitsearch.to CNAME .
 blockbuster.to CNAME .
@@ -18577,8 +18571,6 @@ bein-live.tv CNAME .
 *.bein-live.tv CNAME .
 biggapan.tv CNAME .
 *.biggapan.tv CNAME .
-blackwave.tv CNAME .
-*.blackwave.tv CNAME .
 bocian.tv CNAME .
 *.bocian.tv CNAME .
 buffstreams.tv CNAME .

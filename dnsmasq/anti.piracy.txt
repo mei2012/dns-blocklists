@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 20:13 UTC
-# Version: 2025.0801.2013.20
+# Last modified: 01 Aug 2025 23:01 UTC
+# Version: 2025.0801.2301.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10180
+# Number of entries: 10176
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1198,7 +1198,6 @@ local=/beyondhd.xyz/
 local=/bflix.ac/
 local=/bflix.bz/
 local=/bflix.gg/
-local=/bflix.to/
 local=/bflixmovies.me/
 local=/bflixto.me/
 local=/bgtop.net/
@@ -1266,7 +1265,6 @@ local=/bitnetbd.com/
 local=/bitnova.info/
 local=/bitoogle.com/
 local=/bitport.io/
-local=/bitreactor.to/
 local=/bitru.org/
 local=/bitsearch.to/
 local=/bitseduce.com/
@@ -1312,7 +1310,6 @@ local=/blackspigot.com/
 local=/blacktiesports.net/
 local=/blacktorrent.ru/
 local=/tracker.blackunicorn.xyz/
-local=/blackwave.tv/
 local=/blackz.ro/
 local=/blitzwarez.net/
 local=/blockbuster.to/
@@ -1463,7 +1460,6 @@ local=/booter.vip/
 local=/bootylounge.org/
 local=/bootyou.net/
 local=/bootytape.com/
-local=/bootytorrents.com/
 local=/labs.boramalper.org/
 local=/bossbd.live/
 local=/bossbd.net/
