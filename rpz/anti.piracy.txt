@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754089260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754121960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 23:01 UTC
-; Version: 2025.0801.2301.30
+; Last modified: 02 Aug 2025 08:06 UTC
+; Version: 2025.0802.0806.48
 ; Syntax: RPZ
-; Number of entries: 20352
+; Number of entries: 20310
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -747,8 +747,6 @@ kkiste.boats CNAME .
 *.kkiste.boats CNAME .
 streamingcommunityz.boats CNAME .
 *.streamingcommunityz.boats CNAME .
-cineblog01.bond CNAME .
-*.cineblog01.bond CNAME .
 guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
 mrunblock.bond CNAME .
@@ -3123,8 +3121,6 @@ ccracks.com CNAME .
 *.ccracks.com CNAME .
 cdkeysgames.com CNAME .
 *.cdkeysgames.com CNAME .
-cdromance.com CNAME .
-*.cdromance.com CNAME .
 celerystresser.com CNAME .
 *.celerystresser.com CNAME .
 cg-gamespc.com CNAME .
@@ -3247,8 +3243,6 @@ couchtuner0.com CNAME .
 *.couchtuner0.com CNAME .
 cpasbien.com CNAME .
 *.cpasbien.com CNAME .
-cpleft.com CNAME .
-*.cpleft.com CNAME .
 crack-cd.com CNAME .
 *.crack-cd.com CNAME .
 crack4patch.com CNAME .
@@ -9065,8 +9059,6 @@ apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
 apkpure.co.in CNAME .
 *.apkpure.co.in CNAME .
-onstream.com.in CNAME .
-*.onstream.com.in CNAME .
 comix-load.in CNAME .
 *.comix-load.in CNAME .
 crystal-warez.in CNAME .
@@ -9917,8 +9909,6 @@ cb01.it CNAME .
 *.cb01.it CNAME .
 cineblog01.it CNAME .
 *.cineblog01.it CNAME .
-cinemagratis.it CNAME .
-*.cinemagratis.it CNAME .
 dfox.it CNAME .
 *.dfox.it CNAME .
 direttagol.it CNAME .
@@ -11259,8 +11249,6 @@ cb01.mobi CNAME .
 *.cb01.mobi CNAME .
 cmovies.mobi CNAME .
 *.cmovies.mobi CNAME .
-crichd.mobi CNAME .
-*.crichd.mobi CNAME .
 cuevana3.mobi CNAME .
 *.cuevana3.mobi CNAME .
 dramaqu.mobi CNAME .
@@ -11849,8 +11837,6 @@ c1anime.net CNAME .
 *.c1anime.net CNAME .
 rsweb.cachefly.net CNAME .
 *.rsweb.cachefly.net CNAME .
-cainsoffering.net CNAME .
-*.cainsoffering.net CNAME .
 candybd.net CNAME .
 *.candybd.net CNAME .
 carapax.net CNAME .
@@ -11887,8 +11873,6 @@ cinemagratis.net CNAME .
 *.cinemagratis.net CNAME .
 cinemaindo.net CNAME .
 *.cinemaindo.net CNAME .
-cinemathek.net CNAME .
-*.cinemathek.net CNAME .
 cinematik.net CNAME .
 *.cinematik.net CNAME .
 circleftp.net CNAME .
@@ -13703,8 +13687,6 @@ asmr.one CNAME .
 *.asmr.one CNAME .
 bstsrs.one CNAME .
 *.bstsrs.one CNAME .
-cdnz.one CNAME .
-*.cdnz.one CNAME .
 cineblog01.one CNAME .
 *.cineblog01.one CNAME .
 cmovies.one CNAME .
@@ -14189,8 +14171,6 @@ cddownloadeasy.org CNAME .
 *.cddownloadeasy.org CNAME .
 cddownloadfree.org CNAME .
 *.cddownloadfree.org CNAME .
-cdromance.org CNAME .
-*.cdromance.org CNAME .
 certcommunity.org CNAME .
 *.certcommunity.org CNAME .
 cestpasbien.org CNAME .
@@ -16187,22 +16167,6 @@ cb01.racing CNAME .
 *.cb01.racing CNAME .
 altadefinizione.re CNAME .
 *.altadefinizione.re CNAME .
-eztv.d4.re CNAME .
-*.eztv.d4.re CNAME .
-idope.d4.re CNAME .
-*.idope.d4.re CNAME .
-rarbg.d4.re CNAME .
-*.rarbg.d4.re CNAME .
-thepiratebay.d4.re CNAME .
-*.thepiratebay.d4.re CNAME .
-torlock2.d4.re CNAME .
-*.torlock2.d4.re CNAME .
-torrentdownloads.d4.re CNAME .
-*.torrentdownloads.d4.re CNAME .
-torrentz2.d4.re CNAME .
-*.torrentz2.d4.re CNAME .
-yts.d4.re CNAME .
-*.yts.d4.re CNAME .
 dood.re CNAME .
 *.dood.re CNAME .
 eztv.re CNAME .
@@ -16545,8 +16509,6 @@ carsvin.ru CNAME .
 *.carsvin.ru CNAME .
 casacinema.ru CNAME .
 *.casacinema.ru CNAME .
-cataz.ru CNAME .
-*.cataz.ru CNAME .
 ch3oh.ru CNAME .
 *.ch3oh.ru CNAME .
 kissanime.com.ru CNAME .
@@ -17501,8 +17463,6 @@ putlocker.style CNAME .
 *.putlocker.style CNAME .
 123moviesgo.su CNAME .
 *.123moviesgo.su CNAME .
-catflix.su CNAME .
-*.catflix.su CNAME .
 exsite.su CNAME .
 *.exsite.su CNAME .
 flixtor.su CNAME .
@@ -19443,8 +19403,6 @@ bmovies.vip CNAME .
 *.bmovies.vip CNAME .
 booter.vip CNAME .
 *.booter.vip CNAME .
-cb01.vip CNAME .
-*.cb01.vip CNAME .
 cmovies.vip CNAME .
 *.cmovies.vip CNAME .
 cmovieshd.vip CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754089140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754122320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 22:59 UTC
-; Version: 2025.0801.2259.44
+; Last modified: 02 Aug 2025 08:12 UTC
+; Version: 2025.0802.0812.09
 ; Syntax: RPZ
-; Number of entries: 10618
+; Number of entries: 10592
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -460,8 +460,6 @@ rfastvpn.co.cc CNAME .
 *.rfastvpn.co.cc CNAME .
 secvpnproxy.co.cc CNAME .
 *.secvpnproxy.co.cc CNAME .
-surfvpn.co.cc CNAME .
-*.surfvpn.co.cc CNAME .
 vpn-proxies.co.cc CNAME .
 *.vpn-proxies.co.cc CNAME .
 vpn-services.co.cc CNAME .
@@ -472,8 +470,6 @@ vpnguide.co.cc CNAME .
 *.vpnguide.co.cc CNAME .
 vpnmailvista.co.cc CNAME .
 *.vpnmailvista.co.cc CNAME .
-vpnofanti.co.cc CNAME .
-*.vpnofanti.co.cc CNAME .
 vpnoffice.co.cc CNAME .
 *.vpnoffice.co.cc CNAME .
 4y5t.coke0.cc CNAME .
@@ -1388,8 +1384,6 @@ changemyip.com CNAME .
 *.changemyip.com CNAME .
 gooberman123.com.chickenkiller.com CNAME .
 *.gooberman123.com.chickenkiller.com CNAME .
-ilikefeet.chickenkiller.com CNAME .
-*.ilikefeet.chickenkiller.com CNAME .
 jordanmadethis.chickenkiller.com CNAME .
 *.jordanmadethis.chickenkiller.com CNAME .
 freedns.kiuo-utopias.chickenkiller.com CNAME .
@@ -1418,8 +1412,6 @@ cienen.com CNAME .
 *.cienen.com CNAME .
 doh.cippapp.com CNAME .
 *.doh.cippapp.com CNAME .
-circoscampus.circosdesigns.com CNAME .
-*.circoscampus.circosdesigns.com CNAME .
 mus.cisco.com CNAME .
 *.mus.cisco.com CNAME .
 ciscossh.com CNAME .
@@ -1470,8 +1462,6 @@ confirmedvpn.com CNAME .
 *.confirmedvpn.com CNAME .
 connectionvpn.com CNAME .
 *.connectionvpn.com CNAME .
-connorarebisexual.connorliam.com CNAME .
-*.connorarebisexual.connorliam.com CNAME .
 contassh.com CNAME .
 *.contassh.com CNAME .
 contentabc.com CNAME .
@@ -1486,8 +1476,6 @@ dns.cooluc.com CNAME .
 *.dns.cooluc.com CNAME .
 corecloak.com CNAME .
 *.corecloak.com CNAME .
-real.coremindx.com CNAME .
-*.real.coremindx.com CNAME .
 coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
@@ -7374,8 +7362,6 @@ dot.cox.net CNAME .
 *.dot.cox.net CNAME .
 dohdot.coxlab.net CNAME .
 *.dohdot.coxlab.net CNAME .
-createssh.net CNAME .
-*.createssh.net CNAME .
 croxyproxy.net CNAME .
 *.croxyproxy.net CNAME .
 dns.crystalyx.net CNAME .
@@ -8282,16 +8268,10 @@ yug-has-a-big-butt.faizinternational.com.np CNAME .
 *.yug-has-a-big-butt.faizinternational.com.np CNAME .
 auditing.lepetitprince.com.np CNAME .
 *.auditing.lepetitprince.com.np CNAME .
-use.purplefolder.com.np CNAME .
-*.use.purplefolder.com.np CNAME .
 nya.qualitypaperindustries.com.np CNAME .
 *.nya.qualitypaperindustries.com.np CNAME .
-cloudbarfbagisback.saugatnepal.com.np CNAME .
-*.cloudbarfbagisback.saugatnepal.com.np CNAME .
 mathvideos.sharmaraju.com.np CNAME .
 *.mathvideos.sharmaraju.com.np CNAME .
-6922.yugadiluitel.com.np CNAME .
-*.6922.yugadiluitel.com.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
 monkeydoo.hardsoft.nu CNAME .
@@ -8512,8 +8492,6 @@ catdns.org CNAME .
 *.catdns.org CNAME .
 cfdjb.org CNAME .
 *.cfdjb.org CNAME .
-ishowspeed.chrishow.org CNAME .
-*.ishowspeed.chrishow.org CNAME .
 cleanbrowsing.org CNAME .
 *.cleanbrowsing.org CNAME .
 ca.doh.cloudveil.org CNAME .
@@ -9496,6 +9474,8 @@ lawless-zone.v6.rocks CNAME .
 *.lawless-zone.v6.rocks CNAME .
 unblockit.rsvp CNAME .
 *.unblockit.rsvp CNAME .
+ad.anym0re.ru CNAME .
+*.ad.anym0re.ru CNAME .
 bi-tree.ru CNAME .
 *.bi-tree.ru CNAME .
 ukvpns.blogspot.ru CNAME .
@@ -9770,8 +9750,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .
@@ -10298,8 +10276,6 @@ unblockproxy.win CNAME .
 *.unblockproxy.win CNAME .
 worldwideproxy4u.win CNAME .
 *.worldwideproxy4u.win CNAME .
-salyte.cassidycamp.work CNAME .
-*.salyte.cassidycamp.work CNAME .
 dns.huseynov.work CNAME .
 *.dns.huseynov.work CNAME .
 nocensor.work CNAME .
@@ -10336,8 +10312,6 @@ xite.ws CNAME .
 *.xite.ws CNAME .
 bypassed.wtf CNAME .
 *.bypassed.wtf CNAME .
-creatine.wtf CNAME .
-*.creatine.wtf CNAME .
 proxy.facil.wtf CNAME .
 *.proxy.facil.wtf CNAME .
 www-proxy.facil.wtf CNAME .

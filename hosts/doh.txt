@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 23:00 UTC
-# Version: 2025.0801.2300.14
+# Last modified: 02 Aug 2025 08:11 UTC
+# Version: 2025.0802.0811.47
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1610
 #
@@ -125,6 +125,7 @@
 0.0.0.0 doh.angry.im
 0.0.0.0 dns.anon.no
 0.0.0.0 secure.anudeep.me
+0.0.0.0 ad.anym0re.ru
 0.0.0.0 doh.apad.pro
 0.0.0.0 ag.apollohct.com
 0.0.0.0 doh.dns.apple.com
@@ -667,7 +668,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net

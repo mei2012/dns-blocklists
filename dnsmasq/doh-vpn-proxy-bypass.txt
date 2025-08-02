@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 22:59 UTC
-# Version: 2025.0801.2259.44
+# Last modified: 02 Aug 2025 08:12 UTC
+# Version: 2025.0802.0812.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5309
+# Number of entries: 5296
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -304,6 +304,7 @@ local=/secure.anudeep.me/
 local=/anura.pro/
 local=/adbox-v10.any64.de/
 local=/anyip.io/
+local=/ad.anym0re.ru/
 local=/vocab.real.anynall.com/
 local=/doh.apad.pro/
 local=/aplusvpn.com/
@@ -601,7 +602,6 @@ local=/help.cartes.cl/
 local=/zscaler.casarosalba.com/
 local=/casinovpn.com/
 local=/dns.caspervk.net/
-local=/salyte.cassidycamp.work/
 local=/theory.topic.cassidyd.com/
 local=/suh.casucha.cl/
 local=/catch.gift/
@@ -634,7 +634,6 @@ local=/dns.charraud.eu/
 local=/ougonokaze.cheftayebeh.ir/
 local=/dns.chenu.ch/
 local=/gooberman123.com.chickenkiller.com/
-local=/ilikefeet.chickenkiller.com/
 local=/jordanmadethis.chickenkiller.com/
 local=/freedns.kiuo-utopias.chickenkiller.com/
 local=/mathhomeworkplus.chickenkiller.com/
@@ -646,7 +645,6 @@ local=/dns.chilimac.net/
 local=/imisstheoldkanye.chillcrew.net/
 local=/justbuiltdifferent.chillcrew.net/
 local=/chillglobal.com/
-local=/ishowspeed.chrishow.org/
 local=/dns.christerwaren.fi/
 local=/dns.christian.moe/
 local=/christophbrem.com/
@@ -663,7 +661,6 @@ local=/kusogakill.cinedemedianoche.cl/
 local=/doh.cippapp.com/
 local=/canadianshield.cira.ca/
 local=/dns.circl.lu/
-local=/circoscampus.circosdesigns.com/
 local=/circumvent.it/
 local=/mus.cisco.com/
 local=/ciscossh.com/
@@ -828,7 +825,6 @@ local=/sbdns.co.in/
 local=/secvpnproxy.co.cc/
 local=/dns.spil.co.id/
 local=/surfshark.co.za/
-local=/surfvpn.co.cc/
 local=/uk-proxy.co.uk/
 local=/unblocksites.co.uk/
 local=/academy.velolife.co.za/
@@ -838,7 +834,6 @@ local=/vpncompare.co.uk/
 local=/vpncrmerp.co.cc/
 local=/vpnguide.co.cc/
 local=/vpnmailvista.co.cc/
-local=/vpnofanti.co.cc/
 local=/vpnoffice.co.cc/
 local=/webproxy.co.at/
 local=/agh.workfordemo.co.in/
@@ -894,20 +889,17 @@ local=/proxy-service.com.de/
 local=/proxy-site.com.de/
 local=/proxyweb.com.es/
 local=/purevpn.com.tw/
-local=/use.purplefolder.com.np/
 local=/dns.weixin.qq.com.cn/
 local=/nya.qualitypaperindustries.com.np/
 local=/dns.redhosting.com.ar/
 local=/chat-isinterstellargood.safira.com.my/
 local=/core.atom.san-ss.com.ar/
-local=/cloudbarfbagisback.saugatnepal.com.np/
 local=/mathvideos.sharmaraju.com.np/
 local=/visit.sistemasplenario.com.ar/
 local=/doge.sundblad.com.ar/
 local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
-local=/6922.yugadiluitel.com.np/
 local=/dns.comeonjames.club/
 local=/dns.comff.net/
 local=/commonapp.college/
@@ -925,7 +917,6 @@ local=/concitedll.conifera.cl/
 local=/dns1.conne.net/
 local=/dns.connect.fail/
 local=/connectionvpn.com/
-local=/connorarebisexual.connorliam.com/
 local=/constitutional.design/
 local=/contassh.com/
 local=/contentabc.com/
@@ -939,7 +930,6 @@ local=/coproxy.io/
 local=/proxysluts.coral-shop.ro/
 local=/corecloak.com/
 local=/core.mind.corega.ro/
-local=/real.coremindx.com/
 local=/doh.cornes.me/
 local=/corsproxy.io/
 local=/cosmohacker.space/
@@ -961,8 +951,6 @@ local=/crazyfastrace.lol/
 local=/crazyproxy.org/
 local=/crazysurfer.info/
 local=/createssh.com/
-local=/createssh.net/
-local=/creatine.wtf/
 local=/criarssh.com/
 local=/crownproxy.com/
 local=/croxy.network/
@@ -1501,7 +1489,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 23:01 UTC
-# Version: 2025.0801.2301.30
+# Last modified: 02 Aug 2025 08:06 UTC
+# Version: 2025.0802.0806.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10176
+# Number of entries: 10155
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1591,7 +1591,6 @@ local=/c4crack.com/
 local=/c4cracksoftware.com/
 local=/rsweb.cachefly.net/
 local=/cafehulu.com/
-local=/cainsoffering.net/
 local=/calcio.la/
 local=/calcio.ws/
 local=/calibrecompanion.co/
@@ -1647,9 +1646,7 @@ local=/casacinema.ws/
 local=/casanovax.com/
 local=/castradio.net/
 local=/casualgamers.club/
-local=/cataz.ru/
 local=/cataz.to/
-local=/catflix.su/
 local=/catherinemacivor.com/
 local=/cb01.ac/
 local=/cb01.app/
@@ -1735,7 +1732,6 @@ local=/cb01.vacations/
 local=/cb01.vet/
 local=/cb01.vg/
 local=/cb01.video/
-local=/cb01.vip/
 local=/cb01.wales/
 local=/cb01.webcam/
 local=/cb01.wiki/
@@ -1756,9 +1752,6 @@ local=/cddownloadfree.org/
 local=/cdkeysgames.com/
 local=/cdn99.tv/
 local=/cdnstreame.net/
-local=/cdnz.one/
-local=/cdromance.com/
-local=/cdromance.org/
 local=/celerystresser.com/
 local=/central-torrent.eu/
 local=/certcommunity.org/
@@ -1807,7 +1800,6 @@ local=/cineblog01.bid/
 local=/cineblog01.bike/
 local=/cineblog01.biz/
 local=/cineblog01.boats/
-local=/cineblog01.bond/
 local=/cineblog01.boo/
 local=/cineblog01.casa/
 local=/cineblog01.cc/
@@ -1874,7 +1866,6 @@ local=/tracker.cinemageddon.net/
 local=/cinemagratis.co/
 local=/cinemagratis.com/
 local=/cinemagratis.fm/
-local=/cinemagratis.it/
 local=/cinemagratis.link/
 local=/cinemagratis.net/
 local=/cinemagratis.online/
@@ -1891,7 +1882,6 @@ local=/cinemalux.icu/
 local=/cinemamovies.pl/
 local=/cinemanija.com/
 local=/cinemastore.hu/
-local=/cinemathek.net/
 local=/cinematik.net/
 local=/cinemaunlocked.com/
 local=/cinemay.in/
@@ -2032,7 +2022,6 @@ local=/nis.com.bd/
 local=/tracker.novage.com.ua/
 local=/nowhdtime.com.bd/
 local=/smtp-relay.odysseylabel.com.au/
-local=/onstream.com.in/
 local=/www.opnsports.com.pk/
 local=/r1a.com.pl/
 local=/salamonline.com.bd/
@@ -2126,7 +2115,6 @@ local=/cpasbien-torrents.fr/
 local=/cpasbien3.pro/
 local=/cpasbientorrent.fr/
 local=/cpasmieux.lol/
-local=/cpleft.com/
 local=/cpturbo.org/
 local=/crack.ms/
 local=/crack-cd.com/
@@ -2213,7 +2201,6 @@ local=/crichd.at/
 local=/crichd.cricket/
 local=/crichd.info/
 local=/crichd.li/
-local=/crichd.mobi/
 local=/crichd.sc/
 local=/crichd.stream/
 local=/crichd.sx/
@@ -2300,14 +2287,6 @@ local=/torrents.czteam.ro/
 local=/cztorrent.net/
 local=/d-addicts.com/
 local=/d123movies.to/
-local=/eztv.d4.re/
-local=/idope.d4.re/
-local=/rarbg.d4.re/
-local=/thepiratebay.d4.re/
-local=/torlock2.d4.re/
-local=/torrentdownloads.d4.re/
-local=/torrentz2.d4.re/
-local=/yts.d4.re/
 local=/d4download.com/
 local=/bingoportal.da.ru/
 local=/daddylivehd1.click/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754089260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754116920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Aug 2025 23:01 UTC
-; Version: 2025.0801.2301.07
+; Last modified: 02 Aug 2025 06:42 UTC
+; Version: 2025.0802.0642.52
 ; Syntax: RPZ
-; Number of entries: 10208
+; Number of entries: 10156
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1080,8 +1080,6 @@ cnet.co CNAME .
 *.cnet.co CNAME .
 cnvrge.co CNAME .
 *.cnvrge.co CNAME .
-vm88.com.co CNAME .
-*.vm88.com.co CNAME .
 cplink.co CNAME .
 *.cplink.co CNAME .
 crdrv.co CNAME .
@@ -1770,8 +1768,6 @@ cb.com CNAME .
 *.cb.com CNAME .
 cbshort.com CNAME .
 *.cbshort.com CNAME .
-cdpoju.com CNAME .
-*.cdpoju.com CNAME .
 cesinthi.com CNAME .
 *.cesinthi.com CNAME .
 change-erp.com CNAME .
@@ -1808,14 +1804,10 @@ kutt.comodo.com CNAME .
 *.kutt.comodo.com CNAME .
 consiseurl.com CNAME .
 *.consiseurl.com CNAME .
-consultant828.com CNAME .
-*.consultant828.com CNAME .
 coopurl.com CNAME .
 *.coopurl.com CNAME .
 url.coronassh.com CNAME .
 *.url.coronassh.com CNAME .
-cqhjbt.com CNAME .
-*.cqhjbt.com CNAME .
 crypsante.com CNAME .
 *.crypsante.com CNAME .
 csnode.com CNAME .
@@ -1836,10 +1828,6 @@ cuturl.com CNAME .
 *.cuturl.com CNAME .
 go.cwtv.com CNAME .
 *.go.cwtv.com CNAME .
-cyizs.com CNAME .
-*.cyizs.com CNAME .
-cyngfs.com CNAME .
-*.cyngfs.com CNAME .
 datalotrk.com CNAME .
 *.datalotrk.com CNAME .
 dataurbia.com CNAME .
@@ -4596,10 +4584,6 @@ coinpr.info CNAME .
 *.coinpr.info CNAME .
 cookcenter.info CNAME .
 *.cookcenter.info CNAME .
-csgy.info CNAME .
-*.csgy.info CNAME .
-cupoms.info CNAME .
-*.cupoms.info CNAME .
 detoxgold.info CNAME .
 *.detoxgold.info CNAME .
 dl-protect.info CNAME .
@@ -5594,26 +5578,10 @@ bravos.life CNAME .
 *.bravos.life CNAME .
 c-hud-aixxx.life CNAME .
 *.c-hud-aixxx.life CNAME .
-camillalaprincessagroup.life CNAME .
-*.camillalaprincessagroup.life CNAME .
-cartersthegolden2012.life CNAME .
-*.cartersthegolden2012.life CNAME .
-cdotdaplug.life CNAME .
-*.cdotdaplug.life CNAME .
-ceci-ana-jada-271928.life CNAME .
-*.ceci-ana-jada-271928.life CNAME .
-charleseski.life CNAME .
-*.charleseski.life CNAME .
-chekc.life CNAME .
-*.chekc.life CNAME .
 chudaixxx.life CNAME .
 *.chudaixxx.life CNAME .
 cib-tea.life CNAME .
 *.cib-tea.life CNAME .
-coach-robin.life CNAME .
-*.coach-robin.life CNAME .
-cor236kofc.life CNAME .
-*.cor236kofc.life CNAME .
 cry-pto.life CNAME .
 *.cry-pto.life CNAME .
 cuoinamdiedm.life CNAME .
@@ -6200,24 +6168,8 @@ autolink.live CNAME .
 *.autolink.live CNAME .
 bit24.live CNAME .
 *.bit24.live CNAME .
-carters-the-best-2012.live CNAME .
-*.carters-the-best-2012.live CNAME .
-cartersthebest2012.live CNAME .
-*.cartersthebest2012.live CNAME .
-chantucker53.live CNAME .
-*.chantucker53.live CNAME .
-clicktosee.live CNAME .
-*.clicktosee.live CNAME .
 clotplaynews.live CNAME .
 *.clotplaynews.live CNAME .
-cloudlettings.live CNAME .
-*.cloudlettings.live CNAME .
-coinbasesupports.live CNAME .
-*.coinbasesupports.live CNAME .
-cooldaddy4yatwo.live CNAME .
-*.cooldaddy4yatwo.live CNAME .
-culture1.live CNAME .
-*.culture1.live CNAME .
 cut.live CNAME .
 *.cut.live CNAME .
 daftarhoki.live CNAME .
@@ -9390,8 +9342,6 @@ bitcoinshortener.top CNAME .
 *.bitcoinshortener.top CNAME .
 biturl.top CNAME .
 *.biturl.top CNAME .
-cjiy.top CNAME .
-*.cjiy.top CNAME .
 cplay.top CNAME .
 *.cplay.top CNAME .
 dbccx.top CNAME .
@@ -9940,8 +9890,6 @@ d.looks.wang CNAME .
 *.d.looks.wang CNAME .
 fb.watch CNAME .
 *.fb.watch CNAME .
-cryptoguide.website CNAME .
-*.cryptoguide.website CNAME .
 livebetter.website CNAME .
 *.livebetter.website CNAME .
 loginsaja.website CNAME .

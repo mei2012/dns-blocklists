@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Aug 2025 23:00 UTC
-# Version: 2025.0801.2300.14
+# Last modified: 02 Aug 2025 08:11 UTC
+# Version: 2025.0802.0811.47
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1453
 #
@@ -94,6 +94,7 @@ local=/dns.andrewnw.xyz/
 local=/doh.angry.im/
 local=/dns.anon.no/
 local=/secure.anudeep.me/
+local=/ad.anym0re.ru/
 local=/doh.apad.pro/
 local=/ag.apollohct.com/
 local=/doh.dns.apple.com/
@@ -556,7 +557,6 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
-local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
