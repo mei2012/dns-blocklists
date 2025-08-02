@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Aug 2025 08:11 UTC
-! Version: 2025.0802.0811.47
+! Last modified: 02 Aug 2025 20:12 UTC
+! Version: 2025.0802.2012.13
 ! Syntax: AdBlock
-! Number of entries: 1453
+! Number of entries: 1451
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -74,7 +74,6 @@
 ||dns-unfiltered.adguard.com^
 ||adguard-dns.com^
 ||dns.adrianlam.com^
-||aerodrorne.vip^
 ||affcdn.net^
 ||shield.afixer.app^
 ||ahadns.net^
@@ -905,7 +904,6 @@
 ||blackhole.myon.lu^
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
-||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
