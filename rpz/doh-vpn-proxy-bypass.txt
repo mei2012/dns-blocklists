@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754237160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754252520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 16:06 UTC
-; Version: 2025.0803.1606.35
+; Last modified: 03 Aug 2025 20:22 UTC
+; Version: 2025.0803.2022.47
 ; Syntax: RPZ
-; Number of entries: 10480
+; Number of entries: 10464
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1650,6 +1650,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2854,8 +2856,6 @@ mind.gov.ping24.com CNAME .
 *.mind.gov.ping24.com CNAME .
 pingproxy.com CNAME .
 *.pingproxy.com CNAME .
-pirataproxy.com CNAME .
-*.pirataproxy.com CNAME .
 pixelprivacy.com CNAME .
 *.pixelprivacy.com CNAME .
 pixolium.com CNAME .
@@ -2972,10 +2972,6 @@ proxy0101.com CNAME .
 *.proxy0101.com CNAME .
 proxy2link.com CNAME .
 *.proxy2link.com CNAME .
-proxy2you.com CNAME .
-*.proxy2you.com CNAME .
-proxy4down.com CNAME .
-*.proxy4down.com CNAME .
 proxy62.com CNAME .
 *.proxy62.com CNAME .
 proxyarab.com CNAME .
@@ -3030,10 +3026,6 @@ proxypirates.com CNAME .
 *.proxypirates.com CNAME .
 proxypx.com CNAME .
 *.proxypx.com CNAME .
-proxyrooms.com CNAME .
-*.proxyrooms.com CNAME .
-proxyscope.com CNAME .
-*.proxyscope.com CNAME .
 proxyscrape.com CNAME .
 *.proxyscrape.com CNAME .
 proxyserver.com CNAME .
@@ -5984,8 +5976,6 @@ mywebproxy.in CNAME .
 *.mywebproxy.in CNAME .
 proxite.in CNAME .
 *.proxite.in CNAME .
-proxyhub.in CNAME .
-*.proxyhub.in CNAME .
 sitenable.in CNAME .
 *.sitenable.in CNAME .
 dns.skrep.in CNAME .
@@ -6178,8 +6168,6 @@ proxybrowse.info CNAME .
 *.proxybrowse.info CNAME .
 proxyelite.info CNAME .
 *.proxyelite.info CNAME .
-proxygogo.info CNAME .
-*.proxygogo.info CNAME .
 proxyprivate.info CNAME .
 *.proxyprivate.info CNAME .
 proxysan.info CNAME .
@@ -10138,10 +10126,6 @@ www.chungocoai.name.vn CNAME .
 *.www.chungocoai.name.vn CNAME .
 adguard.quydang.name.vn CNAME .
 *.adguard.quydang.name.vn CNAME .
-studyguidehistory.qlbv.vn CNAME .
-*.studyguidehistory.qlbv.vn CNAME .
-veryhotmoms.qlbv.vn CNAME .
-*.veryhotmoms.qlbv.vn CNAME .
 gcpsk12.k.vu CNAME .
 *.gcpsk12.k.vu CNAME .
 uto1.k.vu CNAME .

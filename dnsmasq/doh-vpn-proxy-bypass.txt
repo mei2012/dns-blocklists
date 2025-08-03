@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Aug 2025 16:06 UTC
-# Version: 2025.0803.1606.35
+# Last modified: 03 Aug 2025 20:22 UTC
+# Version: 2025.0803.2022.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5240
+# Number of entries: 5232
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1330,6 +1330,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -2988,7 +2989,6 @@ local=/mind.gov.ping24.com/
 local=/pingproxy.com/
 local=/pinkproxy.xyz/
 local=/piraproxy.org/
-local=/pirataproxy.com/
 local=/piratebayproxy.co/
 local=/education.pitlobra.ro/
 local=/study.pitlobra.ro/
@@ -3171,8 +3171,6 @@ local=/proxy-works.com/
 local=/proxy-youtube.com/
 local=/proxy0101.com/
 local=/proxy2link.com/
-local=/proxy2you.com/
-local=/proxy4down.com/
 local=/proxy4free.me/
 local=/proxy62.com/
 local=/proxy7.club/
@@ -3205,10 +3203,8 @@ local=/proxyfort.com/
 local=/proxyfree.org/
 local=/proxygate.com/
 local=/proxygizlen.com/
-local=/proxygogo.info/
 local=/proxygratis.id/
 local=/proxyhash.net/
-local=/proxyhub.in/
 local=/proxyisp.com/
 local=/proxyist.com/
 local=/proxyium.com/
@@ -3232,10 +3228,8 @@ local=/proxyprivate.info/
 local=/proxyproxy.net/
 local=/proxypx.com/
 local=/proxypy.org/
-local=/proxyrooms.com/
 local=/proxyroxy.net/
 local=/proxysan.info/
-local=/proxyscope.com/
 local=/proxyscrape.com/
 local=/proxyserver.buzz/
 local=/proxyserver.com/
@@ -3296,8 +3290,6 @@ local=/at.pzhg.me/
 local=/vpsus3.pzhg.me/
 local=/qaiik.info/
 local=/doh.qis.io/
-local=/studyguidehistory.qlbv.vn/
-local=/veryhotmoms.qlbv.vn/
 local=/ns1.qquack.org/
 local=/dns.qrtz.club/
 local=/hostdare.qtxd.net/

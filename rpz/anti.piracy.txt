@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754236860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754252160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 16:01 UTC
-; Version: 2025.0803.1601.04
+; Last modified: 03 Aug 2025 20:16 UTC
+; Version: 2025.0803.2016.59
 ; Syntax: RPZ
-; Number of entries: 20136
+; Number of entries: 20168
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -307,6 +307,8 @@ tracker.army CNAME .
 *.tracker.army CNAME .
 123unblock.art CNAME .
 *.123unblock.art CNAME .
+egydead.art CNAME .
+*.egydead.art CNAME .
 indiaboat.art CNAME .
 *.indiaboat.art CNAME .
 lookmovie.art CNAME .
@@ -863,6 +865,8 @@ vipbox.bz CNAME .
 *.vipbox.bz CNAME .
 tvnihon.dragoneye.ca CNAME .
 *.tvnihon.dragoneye.ca CNAME .
+egydead.ca CNAME .
+*.egydead.ca CNAME .
 filmstreaming.ca CNAME .
 *.filmstreaming.ca CNAME .
 respawn.ca CNAME .
@@ -885,6 +889,8 @@ fmovies.cafe CNAME .
 *.fmovies.cafe CNAME .
 www1.putlockers.cafe CNAME .
 *.www1.putlockers.cafe CNAME .
+egydead.cam CNAME .
+*.egydead.cam CNAME .
 film-streaming-ita.cam CNAME .
 *.film-streaming-ita.cam CNAME .
 french-stream.cam CNAME .
@@ -1315,6 +1321,8 @@ speed.cd CNAME .
 *.speed.cd CNAME .
 what.cd CNAME .
 *.what.cd CNAME .
+egydead.center CNAME .
+*.egydead.center CNAME .
 filmpertutti.center CNAME .
 *.filmpertutti.center CNAME .
 indoxxi.center CNAME .
@@ -8337,10 +8345,6 @@ gomovies123.fi CNAME .
 *.gomovies123.fi CNAME .
 katmoviehd.fi CNAME .
 *.katmoviehd.fi CNAME .
-pirateproxy.fi CNAME .
-*.pirateproxy.fi CNAME .
-proxyproxy.fi CNAME .
-*.proxyproxy.fi CNAME .
 streameast.fi CNAME .
 *.streameast.fi CNAME .
 yggtorrent.fi CNAME .
@@ -8579,6 +8583,8 @@ ddnbd.fun CNAME .
 *.ddnbd.fun CNAME .
 duboku.fun CNAME .
 *.duboku.fun CNAME .
+egydead.fun CNAME .
+*.egydead.fun CNAME .
 ffmovie.fun CNAME .
 *.ffmovie.fun CNAME .
 filmix.fun CNAME .
@@ -8623,6 +8629,8 @@ altadefinizione.futbol CNAME .
 *.altadefinizione.futbol CNAME .
 altadefinizione01.fyi CNAME .
 *.altadefinizione01.fyi CNAME .
+egydead.fyi CNAME .
+*.egydead.fyi CNAME .
 kinox.fyi CNAME .
 *.kinox.fyi CNAME .
 lookmovie.fyi CNAME .
@@ -9167,6 +9175,8 @@ fightingmagic.edwardk.info CNAME .
 *.fightingmagic.edwardk.info CNAME .
 iscariote.edwardk.info CNAME .
 *.iscariote.edwardk.info CNAME .
+egydead.info CNAME .
+*.egydead.info CNAME .
 erai-raws.info CNAME .
 *.erai-raws.info CNAME .
 eurostreaming.info CNAME .
@@ -9417,6 +9427,8 @@ tracker.baka.ink CNAME .
 *.tracker.baka.ink CNAME .
 cineblog01.ink CNAME .
 *.cineblog01.ink CNAME .
+egydead.ink CNAME .
+*.egydead.ink CNAME .
 eurostreaming.ink CNAME .
 *.eurostreaming.ink CNAME .
 futemax.ink CNAME .
@@ -9801,8 +9813,6 @@ u4.trakx.crim.ist CNAME .
 *.u4.trakx.crim.ist CNAME .
 ilgeniodellostreaming.ist CNAME .
 *.ilgeniodellostreaming.ist CNAME .
-putlockertv.ist CNAME .
-*.putlockertv.ist CNAME .
 yifytv.unblckd.ist CNAME .
 *.yifytv.unblckd.ist CNAME .
 putlocker.unblocked.ist CNAME .
@@ -10175,6 +10185,8 @@ dramaqu.live CNAME .
 *.dramaqu.live CNAME .
 ebox.live CNAME .
 *.ebox.live CNAME .
+egydead.live CNAME .
+*.egydead.live CNAME .
 elkoora.live CNAME .
 *.elkoora.live CNAME .
 eurostreaming.live CNAME .
@@ -10757,6 +10769,8 @@ dup3.me CNAME .
 *.dup3.me CNAME .
 ee3.me CNAME .
 *.ee3.me CNAME .
+egydead.me CNAME .
+*.egydead.me CNAME .
 emuparadise.me CNAME .
 *.emuparadise.me CNAME .
 epider.me CNAME .
@@ -12719,8 +12733,6 @@ pretome.net CNAME .
 *.pretome.net CNAME .
 pretorians.net CNAME .
 *.pretorians.net CNAME .
-procracks.net CNAME .
-*.procracks.net CNAME .
 propernoun.net CNAME .
 *.propernoun.net CNAME .
 proxyindex.net CNAME .
@@ -13615,8 +13627,6 @@ libertyland.one CNAME .
 *.libertyland.one CNAME .
 moviesjoy.one CNAME .
 *.moviesjoy.one CNAME .
-piratbaytpb.one CNAME .
-*.piratbaytpb.one CNAME .
 piratebay.one CNAME .
 *.piratebay.one CNAME .
 pubfilm.one CNAME .
@@ -13655,6 +13665,8 @@ wawacity.one CNAME .
 *.0123movie.onl CNAME .
 dunia21.onl CNAME .
 *.dunia21.onl CNAME .
+egydead.onl CNAME .
+*.egydead.onl CNAME .
 guardaserie.onl CNAME .
 *.guardaserie.onl CNAME .
 megakino.onl CNAME .
@@ -14263,6 +14275,8 @@ ebook-hunter.org CNAME .
 *.ebook-hunter.org CNAME .
 ebook-planete.org CNAME .
 *.ebook-planete.org CNAME .
+egydead.org CNAME .
+*.egydead.org CNAME .
 ehtracker.org CNAME .
 *.ehtracker.org CNAME .
 elsewhere.org CNAME .
@@ -14553,6 +14567,8 @@ kaztorka.org CNAME .
 *.kaztorka.org CNAME .
 kcnawatch.org CNAME .
 *.kcnawatch.org CNAME .
+khmermovie168.org CNAME .
+*.khmermovie168.org CNAME .
 kickass2.org CNAME .
 *.kickass2.org CNAME .
 kinoclub.org CNAME .
@@ -15827,6 +15843,8 @@ defcon.pro CNAME .
 *.defcon.pro CNAME .
 dreamsite.pro CNAME .
 *.dreamsite.pro CNAME .
+egydead.pro CNAME .
+*.egydead.pro CNAME .
 europixhd.pro CNAME .
 *.europixhd.pro CNAME .
 eurostreaming.pro CNAME .
@@ -16731,6 +16749,8 @@ putlocker.sb CNAME .
 *.123moviefree.sbs CNAME .
 cb01.sbs CNAME .
 *.cb01.sbs CNAME .
+egydeadw.sbs CNAME .
+*.egydeadw.sbs CNAME .
 eurostreaming.sbs CNAME .
 *.eurostreaming.sbs CNAME .
 filmstreaming.sbs CNAME .
@@ -16925,6 +16945,8 @@ zeegwet.shop CNAME .
 *.123movie.show CNAME .
 couchtuner.show CNAME .
 *.couchtuner.show CNAME .
+egydead.show CNAME .
+*.egydead.show CNAME .
 eurostreaming.show CNAME .
 *.eurostreaming.show CNAME .
 megakino.show CNAME .
@@ -16985,6 +17007,8 @@ dodi-repacks.site CNAME .
 *.dodi-repacks.site CNAME .
 dramaqu.site CNAME .
 *.dramaqu.site CNAME .
+egydead.site CNAME .
+*.egydead.site CNAME .
 elamigos.site CNAME .
 *.elamigos.site CNAME .
 europixhd.site CNAME .
@@ -17183,6 +17207,8 @@ comicaso.space CNAME .
 *.comicaso.space CNAME .
 couchtuner.space CNAME .
 *.couchtuner.space CNAME .
+egydead.space CNAME .
+*.egydead.space CNAME .
 eurostreaming.space CNAME .
 *.eurostreaming.space CNAME .
 kinox.filmi.space CNAME .
@@ -18129,6 +18155,8 @@ doubledouble.top CNAME .
 *.doubledouble.top CNAME .
 drakula.top CNAME .
 *.drakula.top CNAME .
+egydead.top CNAME .
+*.egydead.top CNAME .
 europixhd.top CNAME .
 *.europixhd.top CNAME .
 eurostreaming.top CNAME .
@@ -19199,6 +19227,8 @@ cmovies.video CNAME .
 *.cmovies.video CNAME .
 cuevana3.video CNAME .
 *.cuevana3.video CNAME .
+egydead.video CNAME .
+*.egydead.video CNAME .
 filmstreaming.video CNAME .
 *.filmstreaming.video CNAME .
 guardaserie.video CNAME .
@@ -19341,6 +19371,8 @@ best-movies.watch CNAME .
 *.best-movies.watch CNAME .
 cineblog01.watch CNAME .
 *.cineblog01.watch CNAME .
+egydead.watch CNAME .
+*.egydead.watch CNAME .
 filmstreaming.watch CNAME .
 *.filmstreaming.watch CNAME .
 guardaserie.watch CNAME .
@@ -19477,6 +19509,8 @@ cb01.world CNAME .
 *.cb01.world CNAME .
 docspedia.world CNAME .
 *.docspedia.world CNAME .
+egydead.world CNAME .
+*.egydead.world CNAME .
 fdown.world CNAME .
 *.fdown.world CNAME .
 filmpertutti.world CNAME .
@@ -19991,8 +20025,6 @@ thepiratebay-org.proxydude.xyz CNAME .
 *.thepiratebay-org.proxydude.xyz CNAME .
 psarips.xyz CNAME .
 *.psarips.xyz CNAME .
-publictracker.xyz CNAME .
-*.publictracker.xyz CNAME .
 putlockerfull.xyz CNAME .
 *.putlockerfull.xyz CNAME .
 quest4play.xyz CNAME .

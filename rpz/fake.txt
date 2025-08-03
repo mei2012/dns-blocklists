@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754231940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754246400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 14:39 UTC
-; Version: 2025.0803.1439.05
+; Last modified: 03 Aug 2025 18:40 UTC
+; Version: 2025.0803.1840.55
 ; Syntax: RPZ
-; Number of entries: 28100
+; Number of entries: 28058
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -12297,8 +12297,6 @@ pitvipersunglassesnz.com CNAME .
 *.pitvipersunglassesnz.com CNAME .
 piufashionlook.com CNAME .
 *.piufashionlook.com CNAME .
-pksideshop.com CNAME .
-*.pksideshop.com CNAME .
 placequatorze.com CNAME .
 *.placequatorze.com CNAME .
 plantonsale.com CNAME .
@@ -12345,8 +12343,6 @@ pleaserssuomi.com CNAME .
 *.pleaserssuomi.com CNAME .
 pleasersuomi.com CNAME .
 *.pleasersuomi.com CNAME .
-plettner-consulting.com CNAME .
-*.plettner-consulting.com CNAME .
 plibean.com CNAME .
 *.plibean.com CNAME .
 pliken.com CNAME .
@@ -12573,20 +12569,12 @@ procedenciapecas.com CNAME .
 *.procedenciapecas.com CNAME .
 procknationdashcam.com CNAME .
 *.procknationdashcam.com CNAME .
-procyclesite.com CNAME .
-*.procyclesite.com CNAME .
 productioy.com CNAME .
 *.productioy.com CNAME .
 productsfabric.com CNAME .
 *.productsfabric.com CNAME .
 produit-structure.com CNAME .
 *.produit-structure.com CNAME .
-produktretter.com CNAME .
-*.produktretter.com CNAME .
-produkttester-anmeldung.com CNAME .
-*.produkttester-anmeldung.com CNAME .
-proevery.com CNAME .
-*.proevery.com CNAME .
 profi-rasenmaher.com CNAME .
 *.profi-rasenmaher.com CNAME .
 proficienct.com CNAME .
@@ -12707,8 +12695,6 @@ qgripsearwax.com CNAME .
 *.qgripsearwax.com CNAME .
 qihaobuy.com CNAME .
 *.qihaobuy.com CNAME .
-qiotltd.com CNAME .
-*.qiotltd.com CNAME .
 qlepy.com CNAME .
 *.qlepy.com CNAME .
 qolasam.com CNAME .
@@ -12753,14 +12739,10 @@ quickiex.com CNAME .
 *.quickiex.com CNAME .
 quiksilveraustria.com CNAME .
 *.quiksilveraustria.com CNAME .
-quinvexcapital.com CNAME .
-*.quinvexcapital.com CNAME .
 quotationi.com CNAME .
 *.quotationi.com CNAME .
 qwinout.com CNAME .
 *.qwinout.com CNAME .
-qxequitytrade.com CNAME .
-*.qxequitytrade.com CNAME .
 qyfgjd.com CNAME .
 *.qyfgjd.com CNAME .
 r7-bike.com CNAME .
@@ -12797,8 +12779,6 @@ radzeit.com CNAME .
 *.radzeit.com CNAME .
 radzenter.com CNAME .
 *.radzenter.com CNAME .
-raffaellaterni.com CNAME .
-*.raffaellaterni.com CNAME .
 ragwearaustria.com CNAME .
 *.ragwearaustria.com CNAME .
 rajputemporium.com CNAME .
@@ -21979,8 +21959,6 @@ produceshop.de CNAME .
 *.produceshop.de CNAME .
 profibikes.de CNAME .
 *.profibikes.de CNAME .
-pronutrition.de CNAME .
-*.pronutrition.de CNAME .
 protectgreen.de CNAME .
 *.protectgreen.de CNAME .
 proveri.de CNAME .
@@ -24997,8 +24975,6 @@ pillstock.net CNAME .
 *.pillstock.net CNAME .
 planetoption.net CNAME .
 *.planetoption.net CNAME .
-png-group.net CNAME .
-*.png-group.net CNAME .
 fr.puprime.net CNAME .
 *.fr.puprime.net CNAME .
 purprints.net CNAME .
@@ -25215,8 +25191,6 @@ zinsprofi.net CNAME .
 *.zinsprofi.net CNAME .
 ccmedia.news CNAME .
 *.ccmedia.news CNAME .
-postcard.news CNAME .
-*.postcard.news CNAME .
 billigerversand.nl CNAME .
 *.billigerversand.nl CNAME .
 bitcoinsinvestment.nl CNAME .
@@ -25417,6 +25391,8 @@ shop16330.associazionechien.org CNAME .
 *.shop16330.associazionechien.org CNAME .
 ataspec.org CNAME .
 *.ataspec.org CNAME .
+febink.atlantaair.org CNAME .
+*.febink.atlantaair.org CNAME .
 autoteilepreisvergleich.org CNAME .
 *.autoteilepreisvergleich.org CNAME .
 awccanadianpharmacy.org CNAME .
@@ -26723,28 +26699,18 @@ pincmcrelli.shop CNAME .
 *.pincmcrelli.shop CNAME .
 pixelsale.shop CNAME .
 *.pixelsale.shop CNAME .
-plastikhosende.shop CNAME .
-*.plastikhosende.shop CNAME .
 playstationstore.shop CNAME .
 *.playstationstore.shop CNAME .
 plikeysm.shop CNAME .
 *.plikeysm.shop CNAME .
-pmdsuo.shop CNAME .
-*.pmdsuo.shop CNAME .
 pocofficial.shop CNAME .
 *.pocofficial.shop CNAME .
 point-x.shop CNAME .
 *.point-x.shop CNAME .
-pokeotade.shop CNAME .
-*.pokeotade.shop CNAME .
-polskashop24.shop CNAME .
-*.polskashop24.shop CNAME .
 poolladen.shop CNAME .
 *.poolladen.shop CNAME .
 eu.popomartvip.shop CNAME .
 *.eu.popomartvip.shop CNAME .
-potflourride.shop CNAME .
-*.potflourride.shop CNAME .
 praktiker-baumarkt.shop CNAME .
 *.praktiker-baumarkt.shop CNAME .
 premierneu.shop CNAME .
@@ -26759,8 +26725,6 @@ primesupply.shop CNAME .
 *.primesupply.shop CNAME .
 printerellaeu.shop CNAME .
 *.printerellaeu.shop CNAME .
-privana.shop CNAME .
-*.privana.shop CNAME .
 privanaeu.shop CNAME .
 *.privanaeu.shop CNAME .
 promo-handel-gmbh.shop CNAME .
@@ -26769,8 +26733,6 @@ protechnik.shop CNAME .
 *.protechnik.shop CNAME .
 pulsero.shop CNAME .
 *.pulsero.shop CNAME .
-puppyrope.shop CNAME .
-*.puppyrope.shop CNAME .
 purrkit.shop CNAME .
 *.purrkit.shop CNAME .
 pvqkcuin.shop CNAME .
@@ -26789,8 +26751,6 @@ quartier97.shop CNAME .
 *.quartier97.shop CNAME .
 quozia.shop CNAME .
 *.quozia.shop CNAME .
-raddaempferklinik.shop CNAME .
-*.raddaempferklinik.shop CNAME .
 raeuberundkomplizeneur.shop CNAME .
 *.raeuberundkomplizeneur.shop CNAME .
 ratinghero24.shop CNAME .
@@ -27541,8 +27501,6 @@ phontix.store CNAME .
 *.phontix.store CNAME .
 pkm.store CNAME .
 *.pkm.store CNAME .
-primeclubs.store CNAME .
-*.primeclubs.store CNAME .
 primehouse.store CNAME .
 *.primehouse.store CNAME .
 puffercase.store CNAME .

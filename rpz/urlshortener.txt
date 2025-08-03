@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754232000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754246520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 14:40 UTC
-; Version: 2025.0803.1440.57
+; Last modified: 03 Aug 2025 18:42 UTC
+; Version: 2025.0803.1842.48
 ; Syntax: RPZ
-; Number of entries: 9764
+; Number of entries: 9734
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2380,8 +2380,6 @@ short.php8developer.com CNAME .
 *.short.php8developer.com CNAME .
 pladollmo.com CNAME .
 *.pladollmo.com CNAME .
-planningwithszenee.com CNAME .
-*.planningwithszenee.com CNAME .
 poeurl.com CNAME .
 *.poeurl.com CNAME .
 poprl.com CNAME .
@@ -2404,8 +2402,6 @@ qicute.com CNAME .
 *.qicute.com CNAME .
 jobs.qjobsindia.com CNAME .
 *.jobs.qjobsindia.com CNAME .
-qowrk.com CNAME .
-*.qowrk.com CNAME .
 qr-code-generator.com CNAME .
 *.qr-code-generator.com CNAME .
 qr-in.com CNAME .
@@ -2430,8 +2426,6 @@ raceclip.com CNAME .
 *.raceclip.com CNAME .
 rainonit.com CNAME .
 *.rainonit.com CNAME .
-rakaug.com CNAME .
-*.rakaug.com CNAME .
 qs.rams-app.com CNAME .
 *.qs.rams-app.com CNAME .
 rantenah.com CNAME .
@@ -4554,8 +4548,6 @@ nftchampions.info CNAME .
 *.nftchampions.info CNAME .
 pldthome.info CNAME .
 *.pldthome.info CNAME .
-prince-0210th-akur.info CNAME .
-*.prince-0210th-akur.info CNAME .
 sdafasf.info CNAME .
 *.sdafasf.info CNAME .
 shgy.info CNAME .
@@ -5504,8 +5496,6 @@ myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 noicindya.life CNAME .
 *.noicindya.life CNAME .
-qcutul2702.life CNAME .
-*.qcutul2702.life CNAME .
 redditp2pcredit.life CNAME .
 *.redditp2pcredit.life CNAME .
 redditsp2pcredit.life CNAME .
@@ -5766,8 +5756,6 @@ pieceof.link CNAME .
 *.pieceof.link CNAME .
 pixel.link CNAME .
 *.pixel.link CNAME .
-pixly.link CNAME .
-*.pixly.link CNAME .
 premex.link CNAME .
 *.premex.link CNAME .
 putar.link CNAME .
@@ -5998,18 +5986,6 @@ nowtrade.live CNAME .
 *.nowtrade.live CNAME .
 onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
-portall2024pr.live CNAME .
-*.portall2024pr.live CNAME .
-ppslots.live CNAME .
-*.ppslots.live CNAME .
-premierbet.live CNAME .
-*.premierbet.live CNAME .
-princessbabybratx.live CNAME .
-*.princessbabybratx.live CNAME .
-psychic-shiva-ram.live CNAME .
-*.psychic-shiva-ram.live CNAME .
-ramcourier.live CNAME .
-*.ramcourier.live CNAME .
 rbhouse.live CNAME .
 *.rbhouse.live CNAME .
 rcsurvey.live CNAME .
@@ -8220,10 +8196,6 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 lgay.sbs CNAME .
 *.lgay.sbs CNAME .
-prcgg.sbs CNAME .
-*.prcgg.sbs CNAME .
-qwjbc.sbs CNAME .
-*.qwjbc.sbs CNAME .
 szjrw.sbs CNAME .
 *.szjrw.sbs CNAME .
 vsucs.sbs CNAME .
@@ -8510,8 +8482,6 @@ jacesantiago.space CNAME .
 *.jacesantiago.space CNAME .
 link.space CNAME .
 *.link.space CNAME .
-prokura.space CNAME .
-*.prokura.space CNAME .
 mou.sr CNAME .
 *.mou.sr CNAME .
 spn.sr CNAME .
