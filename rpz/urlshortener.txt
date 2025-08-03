@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754174520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754188860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Aug 2025 22:42 UTC
-; Version: 2025.0802.2242.05
+; Last modified: 03 Aug 2025 02:41 UTC
+; Version: 2025.0803.0241.47
 ; Syntax: RPZ
-; Number of entries: 9972
+; Number of entries: 9920
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -380,8 +380,6 @@ ylink.bid CNAME .
 *.ylink.bid CNAME .
 420.bio CNAME .
 *.420.bio CNAME .
-jenoriana.bio CNAME .
-*.jenoriana.bio CNAME .
 keepo.bio CNAME .
 *.keepo.bio CNAME .
 myown.bio CNAME .
@@ -2088,12 +2086,8 @@ itvty.com CNAME .
 *.itvty.com CNAME .
 jaglil.com CNAME .
 *.jaglil.com CNAME .
-jddbo.com CNAME .
-*.jddbo.com CNAME .
 jellyurl.com CNAME .
 *.jellyurl.com CNAME .
-jftvd.com CNAME .
-*.jftvd.com CNAME .
 jijr.com CNAME .
 *.jijr.com CNAME .
 jiourl.com CNAME .
@@ -2106,16 +2100,12 @@ joturl.com CNAME .
 *.joturl.com CNAME .
 jrnybzn.com CNAME .
 *.jrnybzn.com CNAME .
-jynjdg.com CNAME .
-*.jynjdg.com CNAME .
 kabuzzle.com CNAME .
 *.kabuzzle.com CNAME .
 kaitect.com CNAME .
 *.kaitect.com CNAME .
 katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
-kcbxo.com CNAME .
-*.kcbxo.com CNAME .
 keckcntr.com CNAME .
 *.keckcntr.com CNAME .
 kereta-vip.com CNAME .
@@ -4556,20 +4546,10 @@ iplogger.info CNAME .
 *.iplogger.info CNAME .
 itdad.info CNAME .
 *.itdad.info CNAME .
-jamaica-applicants.info CNAME .
-*.jamaica-applicants.info CNAME .
 join-id.info CNAME .
 *.join-id.info CNAME .
-kharyona.info CNAME .
-*.kharyona.info CNAME .
-kojj.info CNAME .
-*.kojj.info CNAME .
-kulturaff.info CNAME .
-*.kulturaff.info CNAME .
 kyaa.info CNAME .
 *.kyaa.info CNAME .
-lameutefrance.info CNAME .
-*.lameutefrance.info CNAME .
 lihat.info CNAME .
 *.lihat.info CNAME .
 linkedinjobmkt.info CNAME .
@@ -5534,26 +5514,10 @@ insdr.life CNAME .
 *.insdr.life CNAME .
 instagramaf.life CNAME .
 *.instagramaf.life CNAME .
-istiqomahisti7.life CNAME .
-*.istiqomahisti7.life CNAME .
 iyc.life CNAME .
 *.iyc.life CNAME .
-jilislots.life CNAME .
-*.jilislots.life CNAME .
-josue-p-ellis-co.life CNAME .
-*.josue-p-ellis-co.life CNAME .
-kaggi-karr.life CNAME .
-*.kaggi-karr.life CNAME .
-kaleysupport.life CNAME .
-*.kaleysupport.life CNAME .
-kapten69.life CNAME .
-*.kapten69.life CNAME .
-karisaathman346.life CNAME .
-*.karisaathman346.life CNAME .
 kerang.life CNAME .
 *.kerang.life CNAME .
-kuykendall-lauren.life CNAME .
-*.kuykendall-lauren.life CNAME .
 lillebrordahlstrom.life CNAME .
 *.lillebrordahlstrom.life CNAME .
 linelive.life CNAME .
@@ -6082,20 +6046,12 @@ gskvn.live CNAME .
 *.gskvn.live CNAME .
 hoaminh.live CNAME .
 *.hoaminh.live CNAME .
-isot2024.live CNAME .
-*.isot2024.live CNAME .
-jacobgb334inc.live CNAME .
-*.jacobgb334inc.live CNAME .
 jamesastaten.live CNAME .
 *.jamesastaten.live CNAME .
 jxxl.live CNAME .
 *.jxxl.live CNAME .
 kajtech.live CNAME .
 *.kajtech.live CNAME .
-karaoke4kids.live CNAME .
-*.karaoke4kids.live CNAME .
-kolstadhandball.live CNAME .
-*.kolstadhandball.live CNAME .
 lilyfreeonlyfans.live CNAME .
 *.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
@@ -8402,8 +8358,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-khpsn.sbs CNAME .
-*.khpsn.sbs CNAME .
 lgay.sbs CNAME .
 *.lgay.sbs CNAME .
 lieva.sbs CNAME .
@@ -9174,10 +9128,6 @@ cplay.top CNAME .
 *.cplay.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
-itdmusic.top CNAME .
-*.itdmusic.top CNAME .
-kagk.top CNAME .
-*.kagk.top CNAME .
 linkgrab.top CNAME .
 *.linkgrab.top CNAME .
 maxwin.top CNAME .
@@ -9480,8 +9430,6 @@ kask.us CNAME .
 *.kask.us CNAME .
 kjd.us CNAME .
 *.kjd.us CNAME .
-kristal777.us CNAME .
-*.kristal777.us CNAME .
 lltxt.us CNAME .
 *.lltxt.us CNAME .
 lohud.us CNAME .

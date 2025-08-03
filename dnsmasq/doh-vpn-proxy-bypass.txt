@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Aug 2025 00:06 UTC
-# Version: 2025.0803.0006.00
+# Last modified: 03 Aug 2025 04:16 UTC
+# Version: 2025.0803.0416.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5277
+# Number of entries: 5273
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1477,6 +1477,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2169,7 +2170,6 @@ local=/katonetwork.com/
 local=/kavkaz.monster/
 local=/dns.kawa.tf/
 local=/base.train.kdits.ca/
-local=/ram.kdot.cam/
 local=/dns.kebree.fr/
 local=/keenow.com/
 local=/keepanonymous.com/
@@ -2196,20 +2196,17 @@ local=/howto.piano.kiptrak.com/
 local=/dns1.klcd.eu/
 local=/dns2.klcd.eu/
 local=/klcknerrip.com/
-local=/anarchychessbetterthenregularchess.kmodem.org/
 local=/login.knr.cl/
 local=/knvpn.net/
 local=/ko-18948-tr.xyz/
 local=/www-proxy.kokecoco.me/
 local=/hr.komor.bid/
 local=/adguard.konikoni428.com/
-local=/bak2skewl.konpan.ch/
 local=/www-proxy.konstl01.xyz/
 local=/doh.kooman.org/
 local=/korzhov.dev/
 local=/dns.kosan.moe/
 local=/www-pro.kosite.net/
-local=/nexo.koti.cf/
 local=/koxy.de/
 local=/atomic-silverfish-hegrigg-01e75fa6.koyeb.app/
 local=/horrible-mala-mapmath-8d242314.koyeb.app/
@@ -2252,7 +2249,6 @@ local=/lantern.io/
 local=/bensmells.laoxz.cn/
 local=/ik-heet-henk.laptopy.nl/
 local=/largero.com/
-local=/thisforcinco.larrondoinstalaciones.cl/
 local=/dns.lars-lehmann.net/
 local=/larva.app/
 local=/dns.lashes-brow.ru/

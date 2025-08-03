@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754179200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754194200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 00:00 UTC
-; Version: 2025.0803.0000.40
+; Last modified: 03 Aug 2025 04:10 UTC
+; Version: 2025.0803.0410.50
 ; Syntax: RPZ
-; Number of entries: 20240
+; Number of entries: 20228
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -14589,8 +14589,6 @@ iplusfree.org CNAME .
 *.iplusfree.org CNAME .
 tracker.ipv6tracker.org CNAME .
 *.tracker.ipv6tracker.org CNAME .
-israbox-music.org CNAME .
-*.israbox-music.org CNAME .
 italia-film.org CNAME .
 *.italia-film.org CNAME .
 itmn.org CNAME .
@@ -17209,8 +17207,6 @@ cmovies.so CNAME .
 *.cmovies.so CNAME .
 gogoanime.so CNAME .
 *.gogoanime.so CNAME .
-kickass.so CNAME .
-*.kickass.so CNAME .
 limetorrents.so CNAME .
 *.limetorrents.so CNAME .
 onstream.so CNAME .
@@ -17587,10 +17583,6 @@ tracker.dix.tf CNAME .
 *.tracker.dix.tf CNAME .
 eztv.tf CNAME .
 *.eztv.tf CNAME .
-eztv.k8.tf CNAME .
-*.eztv.k8.tf CNAME .
-torrentz2.k8.tf CNAME .
-*.torrentz2.k8.tf CNAME .
 piratebayproxy.tf CNAME .
 *.piratebayproxy.tf CNAME .
 pirateproxy.tf CNAME .
@@ -18625,8 +18617,6 @@ journeyman.tv CNAME .
 *.journeyman.tv CNAME .
 juraganfilm.tv CNAME .
 *.juraganfilm.tv CNAME .
-k-streaming.tv CNAME .
-*.k-streaming.tv CNAME .
 kinomix.tv CNAME .
 *.kinomix.tv CNAME .
 kinox.tv CNAME .
@@ -20013,8 +20003,6 @@ jhalmuri.xyz CNAME .
 *.jhalmuri.xyz CNAME .
 juraganfilm.xyz CNAME .
 *.juraganfilm.xyz CNAME .
-ben.kerbertools.xyz CNAME .
-*.ben.kerbertools.xyz CNAME .
 kickass2.xyz CNAME .
 *.kickass2.xyz CNAME .
 kipflix.xyz CNAME .
