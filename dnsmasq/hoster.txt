@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Aug 2025 06:41 UTC
-# Version: 2025.0803.0641.08
+# Last modified: 03 Aug 2025 10:40 UTC
+# Version: 2025.0803.1040.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2131
+# Number of entries: 2130
 #
 local=/000a.de/
 local=/000free.us/
@@ -1381,7 +1381,6 @@ local=/middletownsd.org/
 local=/mihanblog.com/
 local=/mindmix.ru/
 local=/mindnmagick.com/
-local=/misoya.shop/
 local=/mit-wenig-geld.de/
 local=/mixh.jp/
 local=/mizum.site/

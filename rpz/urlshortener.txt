@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754203260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754217660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 06:41 UTC
-; Version: 2025.0803.0641.32
+; Last modified: 03 Aug 2025 10:41 UTC
+; Version: 2025.0803.1041.11
 ; Syntax: RPZ
-; Number of entries: 9866
+; Number of entries: 9804
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2268,8 +2268,6 @@ mmbr4d.com CNAME .
 *.mmbr4d.com CNAME .
 mmo-it.com CNAME .
 *.mmo-it.com CNAME .
-mmwzvo.com CNAME .
-*.mmwzvo.com CNAME .
 mntrmeme.com CNAME .
 *.mntrmeme.com CNAME .
 mondoagram.com CNAME .
@@ -2292,12 +2290,8 @@ murl.com CNAME .
 *.murl.com CNAME .
 t.musixmatch.com CNAME .
 *.t.musixmatch.com CNAME .
-mxccfs.com CNAME .
-*.mxccfs.com CNAME .
 myanlink.com CNAME .
 *.myanlink.com CNAME .
-myjj789.com CNAME .
-*.myjj789.com CNAME .
 mylinksentry.com CNAME .
 *.mylinksentry.com CNAME .
 mypoya.com CNAME .
@@ -2306,8 +2300,6 @@ myshorturls.com CNAME .
 *.myshorturls.com CNAME .
 mysurl.com CNAME .
 *.mysurl.com CNAME .
-myvdcc.com CNAME .
-*.myvdcc.com CNAME .
 name.com CNAME .
 *.name.com CNAME .
 narrowurl.com CNAME .
@@ -2334,8 +2326,6 @@ ngrid.com CNAME .
 *.ngrid.com CNAME .
 nipnit.com CNAME .
 *.nipnit.com CNAME .
-nktcx.com CNAME .
-*.nktcx.com CNAME .
 notlong.com CNAME .
 *.notlong.com CNAME .
 nrvdi.com CNAME .
@@ -4096,8 +4086,6 @@ cbnet.my.id CNAME .
 *.cbnet.my.id CNAME .
 rcx.my.id CNAME .
 *.rcx.my.id CNAME .
-shortpastebin.my.id CNAME .
-*.shortpastebin.my.id CNAME .
 unp.my.id CNAME .
 *.unp.my.id CNAME .
 projects.id CNAME .
@@ -4552,18 +4540,12 @@ masuk-id.info CNAME .
 *.masuk-id.info CNAME .
 menangbola77.info CNAME .
 *.menangbola77.info CNAME .
-miss-m-216.info CNAME .
-*.miss-m-216.info CNAME .
 mojidul24.info CNAME .
 *.mojidul24.info CNAME .
-monidentie.info CNAME .
-*.monidentie.info CNAME .
 morimo.info CNAME .
 *.morimo.info CNAME .
 mycts.info CNAME .
 *.mycts.info CNAME .
-mygresham.info CNAME .
-*.mygresham.info CNAME .
 myikoniq.info CNAME .
 *.myikoniq.info CNAME .
 mymole.info CNAME .
@@ -4578,8 +4560,6 @@ newss.info CNAME .
 *.newss.info CNAME .
 nftchampions.info CNAME .
 *.nftchampions.info CNAME .
-niit-mts.info CNAME .
-*.niit-mts.info CNAME .
 pbzl.info CNAME .
 *.pbzl.info CNAME .
 pldthome.info CNAME .
@@ -5510,22 +5490,6 @@ mainaku.life CNAME .
 *.mainaku.life CNAME .
 matten1.life CNAME .
 *.matten1.life CNAME .
-mhmt01777.life CNAME .
-*.mhmt01777.life CNAME .
-mhsta.life CNAME .
-*.mhsta.life CNAME .
-miguel-castillo-a-59.life CNAME .
-*.miguel-castillo-a-59.life CNAME .
-miguelcastilloa59club.life CNAME .
-*.miguelcastilloa59club.life CNAME .
-mkish1950.life CNAME .
-*.mkish1950.life CNAME .
-mo-lane-jerry-20.life CNAME .
-*.mo-lane-jerry-20.life CNAME .
-mom-one-z-1991.life CNAME .
-*.mom-one-z-1991.life CNAME .
-momonez1991site.life CNAME .
-*.momonez1991site.life CNAME .
 monghaiba.life CNAME .
 *.monghaiba.life CNAME .
 monghaihai.life CNAME .
@@ -5546,20 +5510,8 @@ mute-fill-mood.life CNAME .
 *.mute-fill-mood.life CNAME .
 my-gay.life CNAME .
 *.my-gay.life CNAME .
-mycecianajada271928.life CNAME .
-*.mycecianajada271928.life CNAME .
 myfreesex.life CNAME .
 *.myfreesex.life CNAME .
-mysales.life CNAME .
-*.mysales.life CNAME .
-mytinycheck9.life CNAME .
-*.mytinycheck9.life CNAME .
-mytoluwalemi.life CNAME .
-*.mytoluwalemi.life CNAME .
-newcecianajada271928.life CNAME .
-*.newcecianajada271928.life CNAME .
-nikoroli.life CNAME .
-*.nikoroli.life CNAME .
 noicindya.life CNAME .
 *.noicindya.life CNAME .
 nusukservics.life CNAME .
@@ -6040,14 +5992,8 @@ mattes.live CNAME .
 *.mattes.live CNAME .
 meliodaslonesita.live CNAME .
 *.meliodaslonesita.live CNAME .
-mikepir84.live CNAME .
-*.mikepir84.live CNAME .
 mmccwilson.live CNAME .
 *.mmccwilson.live CNAME .
-mmk999.live CNAME .
-*.mmk999.live CNAME .
-momonez1991.live CNAME .
-*.momonez1991.live CNAME .
 monghaibon.live CNAME .
 *.monghaibon.live CNAME .
 monghaimuoi.live CNAME .
@@ -6058,14 +6004,8 @@ mongmuoibon.live CNAME .
 *.mongmuoibon.live CNAME .
 mongmuoitam.live CNAME .
 *.mongmuoitam.live CNAME .
-motphimz.live CNAME .
-*.motphimz.live CNAME .
-my-club.live CNAME .
-*.my-club.live CNAME .
 my-google.live CNAME .
 *.my-google.live CNAME .
-myautotrading.live CNAME .
-*.myautotrading.live CNAME .
 mysexychat.live CNAME .
 *.mysexychat.live CNAME .
 nefeli.live CNAME .
@@ -8312,8 +8252,6 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 lgay.sbs CNAME .
 *.lgay.sbs CNAME .
-noeuz.sbs CNAME .
-*.noeuz.sbs CNAME .
 ozkyx.sbs CNAME .
 *.ozkyx.sbs CNAME .
 pggms.sbs CNAME .

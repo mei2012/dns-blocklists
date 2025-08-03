@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Aug 2025 08:05 UTC
-# Version: 2025.0803.0805.07
+# Last modified: 03 Aug 2025 12:05 UTC
+# Version: 2025.0803.1205.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10106
+# Number of entries: 10098
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -5488,7 +5488,6 @@ local=/mma-tracker.net/
 local=/mma-tracker.org/
 local=/mmastreams.cc/
 local=/mmosite.com/
-local=/mmoviesjoy.com/
 local=/mmult.ru/
 local=/mo9999.net/
 local=/mob.org/
@@ -5502,7 +5501,6 @@ local=/mobtvseries.net/
 local=/mod-yolo.com/
 local=/modapkcloud.com/
 local=/modapkdown.com/
-local=/modapp.org/
 local=/modcombo.com/
 local=/modded-1.com/
 local=/moddedguru.com/
@@ -5560,7 +5558,6 @@ local=/moonline.tv/
 local=/moonline.ws/
 local=/mooslo.com/
 local=/moovbob.com/
-local=/tracker.morethantv.me/
 local=/moriyashrine.org/
 local=/morpheustvhd.com/
 local=/wg.mortis.me/
@@ -5594,7 +5591,6 @@ local=/moviebazar.net/
 local=/moviebb.net/
 local=/moviebeamz.com/
 local=/movieblogarea.com/
-local=/db1.moviebox.com/
 local=/movieboxbd.com/
 local=/moviedom.live/
 local=/moviedream.ws/
@@ -5721,7 +5717,6 @@ local=/mp3-juice.org/
 local=/mp3-juices.net/
 local=/mp3-juices.ws/
 local=/mp3000.net/
-local=/mp3box.to/
 local=/mp3db.pro/
 local=/mp3fast.online/
 local=/mp3flac.site/
@@ -5780,7 +5775,6 @@ local=/multicanais.com/
 local=/multicanais.fans/
 local=/multicanais.in/
 local=/multicanais.live/
-local=/multicanais.today/
 local=/multicanaishd.online/
 local=/mults.info/
 local=/munki.org/
@@ -5971,7 +5965,6 @@ local=/tracker.netmap.top/
 local=/netmatrixbd.com/
 local=/netmirror.my/
 local=/netmovies.to/
-local=/netnaija.xyz/
 local=/netonlinebd.com/
 local=/netplayz.ru/
 local=/netplusbd.com/
@@ -6114,7 +6107,6 @@ local=/htz3.noho.st/
 local=/canardscitrons.nohost.me/
 local=/ssb14.nohost.me/
 local=/nolatapers.org/
-local=/nomat.fun/
 local=/noobsubs.com/
 local=/nopay.info/
 local=/nopaystation.com/

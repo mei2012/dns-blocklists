@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754203260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754217600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 06:41 UTC
-; Version: 2025.0803.0641.08
+; Last modified: 03 Aug 2025 10:40 UTC
+; Version: 2025.0803.1040.46
 ; Syntax: RPZ
-; Number of entries: 4262
+; Number of entries: 4260
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -3949,8 +3949,6 @@ mapsweight.shop CNAME .
 *.mapsweight.shop CNAME .
 menstudent.shop CNAME .
 *.menstudent.shop CNAME .
-misoya.shop CNAME .
-*.misoya.shop CNAME .
 nikoha.shop CNAME .
 *.nikoha.shop CNAME .
 nokojp.shop CNAME .
