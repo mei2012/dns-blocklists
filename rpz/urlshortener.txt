@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754160120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754174520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Aug 2025 18:42 UTC
-; Version: 2025.0802.1842.43
+; Last modified: 02 Aug 2025 22:42 UTC
+; Version: 2025.0802.2242.05
 ; Syntax: RPZ
-; Number of entries: 9998
+; Number of entries: 9972
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2022,8 +2022,6 @@ view.helpline-app.com CNAME .
 *.view.helpline-app.com CNAME .
 shorrtener.herokuapp.com CNAME .
 *.shorrtener.herokuapp.com CNAME .
-herramientasecommerce.com CNAME .
-*.herramientasecommerce.com CNAME .
 hicider.com CNAME .
 *.hicider.com CNAME .
 hideuri.com CNAME .
@@ -2060,8 +2058,6 @@ iembelleze.com CNAME .
 *.iembelleze.com CNAME .
 ihnpo.com CNAME .
 *.ihnpo.com CNAME .
-inclusivetravelwithnikki.com CNAME .
-*.inclusivetravelwithnikki.com CNAME .
 indvix.com CNAME .
 *.indvix.com CNAME .
 infy.com CNAME .
@@ -4546,10 +4542,6 @@ gallerylink.info CNAME .
 *.gallerylink.info CNAME .
 gtrv.info CNAME .
 *.gtrv.info CNAME .
-hellraisers.info CNAME .
-*.hellraisers.info CNAME .
-hem-ant-tra-thor-5.info CNAME .
-*.hem-ant-tra-thor-5.info CNAME .
 hotlinkto.info CNAME .
 *.hotlinkto.info CNAME .
 hqstreams7.info CNAME .
@@ -6088,18 +6080,8 @@ groupsexting.live CNAME .
 *.groupsexting.live CNAME .
 gskvn.live CNAME .
 *.gskvn.live CNAME .
-henesyphotos.live CNAME .
-*.henesyphotos.live CNAME .
 hoaminh.live CNAME .
 *.hoaminh.live CNAME .
-hobbyajans.live CNAME .
-*.hobbyajans.live CNAME .
-i-am-here.live CNAME .
-*.i-am-here.live CNAME .
-igotthejuices.live CNAME .
-*.igotthejuices.live CNAME .
-incl.live CNAME .
-*.incl.live CNAME .
 isot2024.live CNAME .
 *.isot2024.live CNAME .
 jacobgb334inc.live CNAME .
@@ -8420,8 +8402,6 @@ ll.sa CNAME .
 *.ll.sa CNAME .
 vi.sa CNAME .
 *.vi.sa CNAME .
-ilofi.sbs CNAME .
-*.ilofi.sbs CNAME .
 khpsn.sbs CNAME .
 *.khpsn.sbs CNAME .
 lgay.sbs CNAME .
@@ -8600,8 +8580,6 @@ empukjeru.site CNAME .
 *.empukjeru.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
-infs.site CNAME .
-*.infs.site CNAME .
 justreleased.site CNAME .
 *.justreleased.site CNAME .
 kisaca.site CNAME .
@@ -9196,8 +9174,6 @@ cplay.top CNAME .
 *.cplay.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
-hjseq.top CNAME .
-*.hjseq.top CNAME .
 itdmusic.top CNAME .
 *.itdmusic.top CNAME .
 kagk.top CNAME .
@@ -9932,8 +9908,6 @@ hoholah.xyz CNAME .
 *.hoholah.xyz CNAME .
 icux.xyz CNAME .
 *.icux.xyz CNAME .
-induknaga.xyz CNAME .
-*.induknaga.xyz CNAME .
 jaygo.xyz CNAME .
 *.jaygo.xyz CNAME .
 kingurl.xyz CNAME .

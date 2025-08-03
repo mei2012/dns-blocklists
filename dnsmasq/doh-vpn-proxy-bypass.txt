@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Aug 2025 20:12 UTC
-# Version: 2025.0802.2012.38
+# Last modified: 03 Aug 2025 00:06 UTC
+# Version: 2025.0803.0006.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5278
+# Number of entries: 5277
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1331,6 +1331,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1808,7 +1809,6 @@ local=/heroproxy.com/
 local=/httpdns-push.heytapmobile.com/
 local=/hiddendigital.info/
 local=/hiddendragon.site/
-local=/hiddenproxy.net/
 local=/hide.me/
 local=/hide.mn/
 local=/hide-me.org/
@@ -1879,7 +1879,6 @@ local=/holavpnworld.com/
 local=/holax.io/
 local=/hi.hollandweather.net/
 local=/beta.holyunblocker.org/
-local=/kyrgyzstan-travel.home.kg/
 local=/home-server.store/
 local=/zone.homebrewer.org/
 local=/tests.debate.homebrewology.org/
@@ -1969,7 +1968,6 @@ local=/heb1.ignorelist.com/
 local=/subscribe-to-vcsa.ignorelist.com/
 local=/test52139.ignorelist.com/
 local=/worldbookonline.ignorelist.com/
-local=/youreagoodmanarthurmorgan.ignorelist.com/
 local=/dns.ihaveacloud.com/
 local=/hellotaka.iiiii.info/
 local=/iij.jp/
@@ -2597,6 +2595,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

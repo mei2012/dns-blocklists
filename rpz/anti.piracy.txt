@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754165220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754179200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Aug 2025 20:07 UTC
-; Version: 2025.0802.2007.14
+; Last modified: 03 Aug 2025 00:00 UTC
+; Version: 2025.0803.0000.40
 ; Syntax: RPZ
-; Number of entries: 20258
+; Number of entries: 20240
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -787,8 +787,6 @@ guardaserie.builders CNAME .
 *.4kfilm.buzz CNAME .
 5movies.buzz CNAME .
 *.5movies.buzz CNAME .
-ilgeniodellostreaming.buzz CNAME .
-*.ilgeniodellostreaming.buzz CNAME .
 limetorrents.buzz CNAME .
 *.limetorrents.buzz CNAME .
 lookmovie.buzz CNAME .
@@ -4419,8 +4417,6 @@ torrents.hikarinokiseki.com CNAME .
 *.torrents.hikarinokiseki.com CNAME .
 histreaming.com CNAME .
 *.histreaming.com CNAME .
-hit2k.com CNAME .
-*.hit2k.com CNAME .
 hit4k.com CNAME .
 *.hit4k.com CNAME .
 hitboss.com CNAME .
@@ -4463,8 +4459,6 @@ howtechismade.com CNAME .
 *.howtechismade.com CNAME .
 hqanime4arab.com CNAME .
 *.hqanime4arab.com CNAME .
-httpbd.com CNAME .
-*.httpbd.com CNAME .
 hurawatch.com CNAME .
 *.hurawatch.com CNAME .
 hydrahd.com CNAME .
@@ -8215,8 +8209,6 @@ hdme.eu CNAME .
 *.hdme.eu CNAME .
 hdonline.eu CNAME .
 *.hdonline.eu CNAME .
-ilgeniodellostreaming.eu CNAME .
-*.ilgeniodellostreaming.eu CNAME .
 indep.eu CNAME .
 *.indep.eu CNAME .
 47.ip-51-68-199.eu CNAME .
@@ -8801,8 +8793,6 @@ filmpertutti.group CNAME .
 *.filmpertutti.group CNAME .
 ilgeniodellostreaming.group CNAME .
 *.ilgeniodellostreaming.group CNAME .
-hianime.gs CNAME .
-*.hianime.gs CNAME .
 libgen.gs CNAME .
 *.libgen.gs CNAME .
 123movies.guide CNAME .
@@ -15941,8 +15931,6 @@ hesgoal.pro CNAME .
 *.hesgoal.pro CNAME .
 hitsports.pro CNAME .
 *.hitsports.pro CNAME .
-ilgeniodellostreaming.pro CNAME .
-*.ilgeniodellostreaming.pro CNAME .
 juraganfilm.pro CNAME .
 *.juraganfilm.pro CNAME .
 keygens.pro CNAME .
@@ -17559,8 +17547,6 @@ streamkiste.taxi CNAME .
 *.streamkiste.taxi CNAME .
 cineblog01.team CNAME .
 *.cineblog01.team CNAME .
-ilgeniodellostreaming.team CNAME .
-*.ilgeniodellostreaming.team CNAME .
 megakino.team CNAME .
 *.megakino.team CNAME .
 serienjunkies.team CNAME .
@@ -18367,8 +18353,6 @@ tracker.4.babico.name.tr CNAME .
 *.tracker.4.babico.name.tr CNAME .
 tracker.babico.name.tr CNAME .
 *.tracker.babico.name.tr CNAME .
-ilgeniodellostreaming.trade CNAME .
-*.ilgeniodellostreaming.trade CNAME .
 h4.trakx.nibba.trade CNAME .
 *.h4.trakx.nibba.trade CNAME .
 pirate.trade CNAME .
@@ -18609,8 +18593,6 @@ hdtodaytv.tv CNAME .
 *.hdtodaytv.tv CNAME .
 hdwatch.tv CNAME .
 *.hdwatch.tv CNAME .
-hejo.tv CNAME .
-*.hejo.tv CNAME .
 hentaiwatch.tv CNAME .
 *.hentaiwatch.tv CNAME .
 hidraplay.tv CNAME .
