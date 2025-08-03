@@ -1400,6 +1400,13 @@
       }
     },
     {
+      "PK": "disney.asia",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.diy",
       "action": {
         "do": 0,
@@ -4882,6 +4889,13 @@
       "PK": "*.shop",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "shopdisney.asia",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
