@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Aug 2025 12:11 UTC
-# Version: 2025.0803.1211.05
+# Last modified: 03 Aug 2025 16:06 UTC
+# Version: 2025.0803.1606.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5251
+# Number of entries: 5240
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1289,7 +1289,6 @@ local=/dvprovider.icu/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
 local=/adbox-v9.dynipv6.de/
-local=/gustamadh.dynv6.net/
 local=/sagamihara.dynv6.net/
 local=/t9rke-5zq1m.dynv6.net/
 local=/dns.dynx.pro/
@@ -1331,7 +1330,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1477,6 +1475,7 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2582,6 +2581,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2738,7 +2738,6 @@ local=/nice.noviolencia.ar/
 local=/poiuytrewq.novipro.ca/
 local=/nowcache.com/
 local=/nowhiteflags.xyz/
-local=/noyourmean.xyz/
 local=/dns.npe.bz/
 local=/dns.npsolution.it/
 local=/nqma.net/
@@ -2779,7 +2778,6 @@ local=/oceanbrowser.co/
 local=/octohide.com/
 local=/octovpn.net/
 local=/dns.odinpl.com/
-local=/peepeepod.odoobooks.com/
 local=/oeck.com/
 local=/dns.ofdoom.net/
 local=/sleepykirby.ofmdirect.com/
@@ -2794,7 +2792,6 @@ local=/skills.field.cftc-devoteam.one.pl/
 local=/one.one.one.one/
 local=/doh.onedns.net/
 local=/doh-pure.onedns.net/
-local=/onedown.info/
 local=/oneproxy.biz/
 local=/oneproxy.xyz/
 local=/onestreaming.org/
@@ -2826,8 +2823,6 @@ local=/fun.onlytruelegendscanseethe.pics/
 local=/espanolmath.ontariobsd.net/
 local=/onweb.info/
 local=/onyx7.com/
-local=/benmani2341shark.oops.wtf/
-local=/brocanyoustopaskingforlinks.oops.wtf/
 local=/rammerhead.oops.wtf/
 local=/uhm.sorry.oops.wtf/
 local=/hk2.ooroot.com/
@@ -2837,7 +2832,6 @@ local=/kr2.ooroot.com/
 local=/sg2.ooroot.com/
 local=/tw2.ooroot.com/
 local=/jdsiojjifjis.oovb.com/
-local=/zxyp.04.open-window.de/
 local=/openbld.net/
 local=/dns.opendns.com/
 local=/2.dnscrypt-cert.opendns.com/
@@ -2891,7 +2885,6 @@ local=/osqcsmm.shop/
 local=/this.is.for.lightspeedpal.ostrovsky.sk/
 local=/thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk/
 local=/topic.idea.ottosulbmec.com/
-local=/ourproxy.net/
 local=/dns.ours.luxe/
 local=/dns.ourvau.lt/
 local=/proxy.outred.dev/
@@ -2932,7 +2925,6 @@ local=/dns-ovh.panszelescik.pl/
 local=/pantavv.xyz/
 local=/pantoto.xyz/
 local=/panzend.xyz/
-local=/use.paper.is/
 local=/papervpn.info/
 local=/paradise-human.shop/
 local=/dns.pari.network/
@@ -2967,16 +2959,13 @@ local=/personaly.click/
 local=/dns.pesaventofilippo.com/
 local=/pesemes.ir/
 local=/dns.petqa.ru/
-local=/by-itrsa.pettica.com/
 local=/adguard.pggns.de/
 local=/phantompeer.com/
 local=/dns.phillipjberry.net/
-local=/falcs.photo-frame.com/
 local=/gojoiscoolbutweird.photo-frame.com/
 local=/photonsecure.com/
 local=/phpbido.com/
 local=/phproxysite.com/
-local=/malachi.is.dumb.physiosagart.de/
 local=/doh.centraleu.pi-dns.com/
 local=/dot.centraleu.pi-dns.com/
 local=/doh.pi-dns.com/

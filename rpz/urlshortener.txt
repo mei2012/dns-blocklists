@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754217660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754232000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 10:41 UTC
-; Version: 2025.0803.1041.11
+; Last modified: 03 Aug 2025 14:40 UTC
+; Version: 2025.0803.1440.57
 ; Syntax: RPZ
-; Number of entries: 9804
+; Number of entries: 9764
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2328,8 +2328,6 @@ nipnit.com CNAME .
 *.nipnit.com CNAME .
 notlong.com CNAME .
 *.notlong.com CNAME .
-nrvdi.com CNAME .
-*.nrvdi.com CNAME .
 ntap.com CNAME .
 *.ntap.com CNAME .
 nullrefer.com CNAME .
@@ -2338,8 +2336,6 @@ nw5g.com CNAME .
 *.nw5g.com CNAME .
 nwspprs.com CNAME .
 *.nwspprs.com CNAME .
-nxgtm.com CNAME .
-*.nxgtm.com CNAME .
 ok2.com CNAME .
 *.ok2.com CNAME .
 okebio.com CNAME .
@@ -2348,12 +2344,8 @@ onion.com CNAME .
 *.onion.com CNAME .
 opent2.com CNAME .
 *.opent2.com CNAME .
-opportunityonlinebusiness.com CNAME .
-*.opportunityonlinebusiness.com CNAME .
 oslash.com CNAME .
 *.oslash.com CNAME .
-ouvpg.com CNAME .
-*.ouvpg.com CNAME .
 paperspeedy.com CNAME .
 *.paperspeedy.com CNAME .
 particulier-connexion.com CNAME .
@@ -4560,8 +4552,6 @@ newss.info CNAME .
 *.newss.info CNAME .
 nftchampions.info CNAME .
 *.nftchampions.info CNAME .
-pbzl.info CNAME .
-*.pbzl.info CNAME .
 pldthome.info CNAME .
 *.pldthome.info CNAME .
 prince-0210th-akur.info CNAME .
@@ -5514,18 +5504,6 @@ myfreesex.life CNAME .
 *.myfreesex.life CNAME .
 noicindya.life CNAME .
 *.noicindya.life CNAME .
-nusukservics.life CNAME .
-*.nusukservics.life CNAME .
-nxc.life CNAME .
-*.nxc.life CNAME .
-ogle-wolfe.life CNAME .
-*.ogle-wolfe.life CNAME .
-onlinekassirjessica.life CNAME .
-*.onlinekassirjessica.life CNAME .
-partyspecial.life CNAME .
-*.partyspecial.life CNAME .
-pav-lobe-z-rod-ny-8611.life CNAME .
-*.pav-lobe-z-rod-ny-8611.life CNAME .
 qcutul2702.life CNAME .
 *.qcutul2702.life CNAME .
 redditp2pcredit.life CNAME .
@@ -6018,18 +5996,8 @@ nofnec.live CNAME .
 *.nofnec.live CNAME .
 nowtrade.live CNAME .
 *.nowtrade.live CNAME .
-nusukservics.live CNAME .
-*.nusukservics.live CNAME .
-ocaslots.live CNAME .
-*.ocaslots.live CNAME .
-omedia.live CNAME .
-*.omedia.live CNAME .
-onlineclothes.live CNAME .
-*.onlineclothes.live CNAME .
 onlyfansclub.live CNAME .
 *.onlyfansclub.live CNAME .
-petterihollander.live CNAME .
-*.petterihollander.live CNAME .
 portall2024pr.live CNAME .
 *.portall2024pr.live CNAME .
 ppslots.live CNAME .
@@ -8252,10 +8220,6 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 lgay.sbs CNAME .
 *.lgay.sbs CNAME .
-ozkyx.sbs CNAME .
-*.ozkyx.sbs CNAME .
-pggms.sbs CNAME .
-*.pggms.sbs CNAME .
 prcgg.sbs CNAME .
 *.prcgg.sbs CNAME .
 qwjbc.sbs CNAME .
@@ -8436,8 +8400,6 @@ maha77.site CNAME .
 *.maha77.site CNAME .
 mst.site CNAME .
 *.mst.site CNAME .
-paids.site CNAME .
-*.paids.site CNAME .
 play-app.site CNAME .
 *.play-app.site CNAME .
 promo-visits.site CNAME .
@@ -9022,8 +8984,6 @@ mylinks.top CNAME .
 *.mylinks.top CNAME .
 nwo-s.top CNAME .
 *.nwo-s.top CNAME .
-ospug.top CNAME .
-*.ospug.top CNAME .
 pastihoki.top CNAME .
 *.pastihoki.top CNAME .
 pokoknya.top CNAME .

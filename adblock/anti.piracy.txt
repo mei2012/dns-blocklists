@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 03 Aug 2025 12:05 UTC
-! Version: 2025.0803.1205.54
+! Last modified: 03 Aug 2025 16:01 UTC
+! Version: 2025.0803.1601.04
 ! Syntax: AdBlock
-! Number of entries: 10098
+! Number of entries: 10068
 !
 ||0123456789nonexistent.com^
 ||0123movie.net^
@@ -32,7 +32,6 @@
 ||0mag.net^
 ||0magnet.com^
 ||0second.com^
-||tracker.0x7c0.com^
 ||weedy.1.vg^
 ||1-2-3movies.com^
 ||1-thepiratebay.org^
@@ -211,7 +210,6 @@
 ||24h.tv^
 ||24urban.com^
 ||24warez.ru^
-||2600.com^
 ||266528.xyz^
 ||2bbit.com^
 ||2bcalvi.com^
@@ -1491,7 +1489,6 @@
 ||broadcasthe.net^
 ||brocoflix.com^
 ||brokensilenze.net^
-||brokenstones.is^
 ||brokenstones.me^
 ||tracker.brokenstones.club^
 ||brothers-of-usenet.net^
@@ -2376,7 +2373,6 @@
 ||tracker.ddunlimited.net^
 ||ddwarez.com^
 ||deadfrog.us^
-||tracker.deadorbit.nl^
 ||fe.dealclub.de^
 ||deamonbytes.net^
 ||deathlord.eu^
@@ -2442,9 +2438,6 @@
 ||dfox.it^
 ||mixes.dfx.at^
 ||tr-rh-zhuqiy.dgj055.icu^
-||tr-zhuqiy-1.dgj055.icu^
-||tr-zhuqiy-2.dgj055.icu^
-||tracker-zhuqiy.dgj055.icu^
 ||trl-zhuqiy.dgj055.icu^
 ||tracker.zhuqiy.dgj055.icu^
 ||dhakadownload.com^
@@ -2692,7 +2685,6 @@
 ||duckwad.net^
 ||dudestream.com^
 ||dummipedia.org^
-||tracker.dump.cl^
 ||dunia21.app^
 ||dunia21.bid^
 ||dunia21.cc^
@@ -3812,7 +3804,6 @@
 ||getapk.app^
 ||getcomics.info^
 ||getcomics.org^
-||ip.getcrazy.me^
 ||getfreegames.net^
 ||getgamez.net^
 ||getintopc.com^
@@ -3834,7 +3825,6 @@
 ||ghatailonline.net^
 ||sparkle.ghostchu-services.top^
 ||tracker.ghostchu-services.top^
-||utracker.ghostchu-services.top^
 ||media.ghurionline.com^
 ||giardiniblog.it^
 ||gid-online.ru^
@@ -4340,7 +4330,6 @@
 ||hyperproxy.net^
 ||hypertor.com^
 ||hypertorrent.com^
-||torrent.i.ng^
 ||i-b.co^
 ||i123movies.club^
 ||i1apk.com^
@@ -4546,7 +4535,6 @@
 ||irwarez.com^
 ||isitdownyet.com^
 ||islamictorrents.net^
-||ismaarino.com^
 ||isohunt.app^
 ||isohunt.ch^
 ||isohunt.com^
@@ -4681,7 +4669,6 @@
 ||juraganfilm.vip^
 ||juraganfilm.xyz^
 ||jurnal-portal.ru^
-||ttracker.just-h.party^
 ||justdubs.org^
 ||justinwb.com^
 ||tracker.justseed.it^
@@ -4891,7 +4878,6 @@
 ||kludd.com^
 ||kmnbd.net^
 ||kmsautoplus.su^
-||tracker.home.kmzs123.cn^
 ||tracker.kmzs123.cn^
 ||tracker.kmzs123.top^
 ||knaben.eu^
@@ -5792,7 +5778,6 @@
 ||muxiv.com^
 ||mvgroup.org^
 ||mxroom.com^
-||tracker.itscraftsoftware.my.id^
 ||my-123movies.com^
 ||my-cinema.net^
 ||my-free-mp3.cc^
@@ -6145,12 +6130,8 @@
 ||nsaneforums.com^
 ||nsmbhd.net^
 ||nstress.com^
-||reisub.nsupdate.info^
 ||nsw2u.com^
-||nsw2u.in^
-||nsw2u.net^
 ||nsw2u.org^
-||nsw2u.xyz^
 ||nswdb.com^
 ||nswgame.com^
 ||nsxafiliados.com^
@@ -6199,7 +6180,6 @@
 ||nfo.nydus.org^
 ||top.nydus.org^
 ||u.nydus.org^
-||nzb.cat^
 ||nzb.cc^
 ||nzb.is^
 ||nzb.su^
@@ -6302,7 +6282,6 @@
 ||online-tv.ws^
 ||online24fullmovies.com^
 ||onlineflix.stream^
-||onlinekora-tv.com^
 ||onlybestmovie.com^
 ||onlytorrents.com^
 ||onnosomoy.com^
@@ -6318,13 +6297,11 @@
 ||open.cd^
 ||tracker.open-internet.nl^
 ||openbittorrent.com^
-||tracker.openbtba.com^
 ||openclip.info^
 ||openload.co^
 ||openloadfreetv.me^
 ||openloadmov.com^
 ||openloadmov.net^
-||openloadmovie.org^
 ||openloadmovie.ws^
 ||openloadmovies.ac^
 ||openloadmovies.bz^
@@ -6426,14 +6403,12 @@
 ||pahe.ink^
 ||pahe.li^
 ||pahe.ph^
-||paidmovies.com^
 ||paitara.com^
 ||pallok.com^
 ||panda.cd^
 ||panda-streaming.net^
 ||pandacd.io^
 ||pandaclubbd.com^
-||pandopuntokualda.com^
 ||pandoworld.cn^
 ||pangzitv.com^
 ||panoric.com^
@@ -6453,10 +6428,8 @@
 ||partidosenvivo.gratis^
 ||partis.si^
 ||passion-musique.net^
-||passpulse.net^
 ||passthepopcorn.me^
 ||passthepopcorn.org^
-||passwordscity.net^
 ||patalpuri.com^
 ||tpb.patatje.eu^
 ||patchfree.com^
@@ -8829,7 +8802,6 @@
 ||tpbproxy.online^
 ||tpbproxy.xyz^
 ||tpbproxypirate.com^
-||trackarr.org^
 ||tracker.army^
 ||tracker.bz^
 ||tracker.cl^
@@ -9230,7 +9202,6 @@
 ||uppit.com^
 ||vidics.uproxy2.biz^
 ||upstore.net^
-||0205.uptm.ch^
 ||uptobox.com^
 ||mp3juices-app.en.uptodown.com^
 ||popcorn-time.en.uptodown.com^
@@ -9809,7 +9780,6 @@
 ||xmovies8.si^
 ||xn--80a4b.com^
 ||xn--950bz4kqroyzjblb.com^
-||tracker.xn--djrq4gl4hvoi.top^
 ||xn--firstrowsport-8xe.eu^
 ||budvartrekker.xn-s.eu^
 ||hd-hu.xn-s.eu^

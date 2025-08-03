@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754217540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754231940 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 10:39 UTC
-; Version: 2025.0803.1039.16
+; Last modified: 03 Aug 2025 14:39 UTC
+; Version: 2025.0803.1439.05
 ; Syntax: RPZ
-; Number of entries: 28150
+; Number of entries: 28100
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1551,8 +1551,6 @@ neuleben.co CNAME .
 *.neuleben.co CNAME .
 nrgbinary.co CNAME .
 *.nrgbinary.co CNAME .
-nuloo.co CNAME .
-*.nuloo.co CNAME .
 officialyamato.co CNAME .
 *.officialyamato.co CNAME .
 on-on.co CNAME .
@@ -11457,8 +11455,6 @@ oesterreichischeapotheke.com CNAME .
 *.oesterreichischeapotheke.com CNAME .
 oestfundpro.com CNAME .
 *.oestfundpro.com CNAME .
-ofenbrnholz.com CNAME .
-*.ofenbrnholz.com CNAME .
 ofendeutschland.com CNAME .
 *.ofendeutschland.com CNAME .
 ofenzaubeer.com CNAME .
@@ -11473,8 +11469,6 @@ offer-baseball.com CNAME .
 *.offer-baseball.com CNAME .
 offerpaint.com CNAME .
 *.offerpaint.com CNAME .
-offerpajamas.com CNAME .
-*.offerpajamas.com CNAME .
 offerstylehome.com CNAME .
 *.offerstylehome.com CNAME .
 offertopshop.com CNAME .
@@ -11523,8 +11517,6 @@ okboptions.com CNAME .
 *.okboptions.com CNAME .
 okjordans.com CNAME .
 *.okjordans.com CNAME .
-olafmetzler.com CNAME .
-*.olafmetzler.com CNAME .
 olakredit.com CNAME .
 *.olakredit.com CNAME .
 olavita-shop.com CNAME .
@@ -11577,8 +11569,6 @@ oncloudxoutletmall.com CNAME .
 *.oncloudxoutletmall.com CNAME .
 one-fashions.com CNAME .
 *.one-fashions.com CNAME .
-one-mediatop01.com CNAME .
-*.one-mediatop01.com CNAME .
 oneafteranoth.com CNAME .
 *.oneafteranoth.com CNAME .
 onecozyday.com CNAME .
@@ -11595,8 +11585,6 @@ onex-corporation.com CNAME .
 *.onex-corporation.com CNAME .
 onex-trade.com CNAME .
 *.onex-trade.com CNAME .
-onfashionshoes.com CNAME .
-*.onfashionshoes.com CNAME .
 onfinery.com CNAME .
 *.onfinery.com CNAME .
 onitsukatigervogue.com CNAME .
@@ -11681,14 +11669,10 @@ onsalesunbeds.com CNAME .
 *.onsalesunbeds.com CNAME .
 onschuhefabrikverkaufschweiz.com CNAME .
 *.onschuhefabrikverkaufschweiz.com CNAME .
-onschuhen.com CNAME .
-*.onschuhen.com CNAME .
 onschuheschweiz.com CNAME .
 *.onschuheschweiz.com CNAME .
 onschuheschweizoutlet.com CNAME .
 *.onschuheschweizoutlet.com CNAME .
-onshoes-eu.com CNAME .
-*.onshoes-eu.com CNAME .
 more2water.onshopbase.com CNAME .
 *.more2water.onshopbase.com CNAME .
 onthonehand.com CNAME .
@@ -11955,8 +11939,6 @@ overseask.com CNAME .
 *.overseask.com CNAME .
 overthecounterstore.com CNAME .
 *.overthecounterstore.com CNAME .
-overtickets.com CNAME .
-*.overtickets.com CNAME .
 overtoyarea.com CNAME .
 *.overtoyarea.com CNAME .
 ovrtkbndit.com CNAME .
@@ -11983,8 +11965,6 @@ ozpillsdirect.com CNAME .
 *.ozpillsdirect.com CNAME .
 packclopenburg.com CNAME .
 *.packclopenburg.com CNAME .
-packingbagsshop.com CNAME .
-*.packingbagsshop.com CNAME .
 packlogistic.com CNAME .
 *.packlogistic.com CNAME .
 paganidesignstore.com CNAME .
@@ -12069,8 +12049,6 @@ patrimoinesolution.com CNAME .
 *.patrimoinesolution.com CNAME .
 patrioticy.com CNAME .
 *.patrioticy.com CNAME .
-patriziabeni.com CNAME .
-*.patriziabeni.com CNAME .
 paulinasinger.com CNAME .
 *.paulinasinger.com CNAME .
 pavelaholz.com CNAME .
@@ -12081,8 +12059,6 @@ pawshoebox.com CNAME .
 *.pawshoebox.com CNAME .
 payforweal.com CNAME .
 *.payforweal.com CNAME .
-peacevulture.com CNAME .
-*.peacevulture.com CNAME .
 peachbruh.com CNAME .
 *.peachbruh.com CNAME .
 peachossom.com CNAME .
@@ -12093,16 +12069,12 @@ peactop.com CNAME .
 *.peactop.com CNAME .
 peaktoolhub.com CNAME .
 *.peaktoolhub.com CNAME .
-peanther.com CNAME .
-*.peanther.com CNAME .
 peapepper.com CNAME .
 *.peapepper.com CNAME .
 peapodvine.com CNAME .
 *.peapodvine.com CNAME .
 pearsist.com CNAME .
 *.pearsist.com CNAME .
-pearubly.com CNAME .
-*.pearubly.com CNAME .
 pecasbavoso.com CNAME .
 *.pecasbavoso.com CNAME .
 pecasbr.com CNAME .
@@ -17239,8 +17211,6 @@ heimwuq.einfachykfe.cyou CNAME .
 *.heimwuq.einfachykfe.cyou CNAME .
 lebenlh.klaryqx.cyou CNAME .
 *.lebenlh.klaryqx.cyou CNAME .
-dachvr.okologischrlw.cyou CNAME .
-*.dachvr.okologischrlw.cyou CNAME .
 sicherxe.reinowu.cyou CNAME .
 *.sicherxe.reinowu.cyou CNAME .
 klarkwvk.stildahh.cyou CNAME .
@@ -21615,8 +21585,6 @@ nova-dusseldorf.de CNAME .
 *.nova-dusseldorf.de CNAME .
 nova-mia.de CNAME .
 *.nova-mia.de CNAME .
-novadeal.de CNAME .
-*.novadeal.de CNAME .
 novamoda.de CNAME .
 *.novamoda.de CNAME .
 novana-berlin.de CNAME .
@@ -21675,8 +21643,6 @@ ogbonistore.de CNAME .
 *.ogbonistore.de CNAME .
 oglus.de CNAME .
 *.oglus.de CNAME .
-ohlemann-handel.de CNAME .
-*.ohlemann-handel.de CNAME .
 ohpollydeutschland.de CNAME .
 *.ohpollydeutschland.de CNAME .
 ohr-freund.de CNAME .
@@ -21685,8 +21651,6 @@ oil-direkt.de CNAME .
 *.oil-direkt.de CNAME .
 oildirekt24.de CNAME .
 *.oildirekt24.de CNAME .
-oilparadies.de CNAME .
-*.oilparadies.de CNAME .
 ojoro-tech.de CNAME .
 *.ojoro-tech.de CNAME .
 okbon.de CNAME .
@@ -21699,8 +21663,6 @@ olangsdeutschland.de CNAME .
 *.olangsdeutschland.de CNAME .
 olanzas.de CNAME .
 *.olanzas.de CNAME .
-olemusik-shop.de CNAME .
-*.olemusik-shop.de CNAME .
 oliver-schwarzer-shop.de CNAME .
 *.oliver-schwarzer-shop.de CNAME .
 oliviamoreau.de CNAME .
@@ -21763,8 +21725,6 @@ orba-handel24.de CNAME .
 *.orba-handel24.de CNAME .
 orba24.de CNAME .
 *.orba24.de CNAME .
-ordernow24.de CNAME .
-*.ordernow24.de CNAME .
 oreahome.de CNAME .
 *.oreahome.de CNAME .
 orizo.de CNAME .
@@ -24107,8 +24067,6 @@ evli.fr CNAME .
 *.evli.fr CNAME .
 foxrm.fr CNAME .
 *.foxrm.fr CNAME .
-fulcio.fr CNAME .
-*.fulcio.fr CNAME .
 golddinar.fr CNAME .
 *.golddinar.fr CNAME .
 guidimo.fr CNAME .
@@ -25103,6 +25061,8 @@ shopping-paradise.net CNAME .
 *.shopping-paradise.net CNAME .
 shuitterlily.net CNAME .
 *.shuitterlily.net CNAME .
+simplecircle.net CNAME .
+*.simplecircle.net CNAME .
 simplejuicing.net CNAME .
 *.simplejuicing.net CNAME .
 skillfin.net CNAME .
@@ -26697,12 +26657,8 @@ not-bad.shop CNAME .
 *.not-bad.shop CNAME .
 nrlrqk.shop CNAME .
 *.nrlrqk.shop CNAME .
-nucosmetic.shop CNAME .
-*.nucosmetic.shop CNAME .
 obmxaofp.shop CNAME .
 *.obmxaofp.shop CNAME .
-obstkistefreiburg.shop CNAME .
-*.obstkistefreiburg.shop CNAME .
 officialrebrand.shop CNAME .
 *.officialrebrand.shop CNAME .
 offizielleprodukte.shop CNAME .
@@ -26719,8 +26675,6 @@ on-schuhe-de.shop CNAME .
 *.on-schuhe-de.shop CNAME .
 on-shoes.shop CNAME .
 *.on-shoes.shop CNAME .
-onedaybaby.shop CNAME .
-*.onedaybaby.shop CNAME .
 online-tonies.shop CNAME .
 *.online-tonies.shop CNAME .
 onschuhe.shop CNAME .
@@ -26761,8 +26715,6 @@ pdfadm.shop CNAME .
 *.pdfadm.shop CNAME .
 pellethaus.shop CNAME .
 *.pellethaus.shop CNAME .
-penoblode.shop CNAME .
-*.penoblode.shop CNAME .
 perfectaccessories.shop CNAME .
 *.perfectaccessories.shop CNAME .
 perfectcess.shop CNAME .
@@ -28117,8 +28069,6 @@ norion.xyz CNAME .
 *.norion.xyz CNAME .
 offershop.xyz CNAME .
 *.offershop.xyz CNAME .
-offrodaa.xyz CNAME .
-*.offrodaa.xyz CNAME .
 operar.xyz CNAME .
 *.operar.xyz CNAME .
 part-time-work-de.xyz CNAME .
