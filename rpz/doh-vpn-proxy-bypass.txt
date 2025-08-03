@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754194560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754208600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 04:16 UTC
-; Version: 2025.0803.0416.34
+; Last modified: 03 Aug 2025 08:10 UTC
+; Version: 2025.0803.0810.25
 ; Syntax: RPZ
-; Number of entries: 10546
+; Number of entries: 10538
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -4368,8 +4368,8 @@ session.proxy2.startpage.com CNAME .
 *.session.proxy2.startpage.com CNAME .
 130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
 *.130cded769c522b8823d0d34396610028b81d81c-m.proxy3.startpage.com CNAME .
-ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com CNAME .
-*.ad358984a6276ee8fc201301947ea8f271328624-m.proxy5.startpage.com CNAME .
+proxy5.startpage.com CNAME .
+*.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
@@ -6542,10 +6542,6 @@ pleaseworkughhfd.dob.jp CNAME .
 *.pleaseworkughhfd.dob.jp CNAME .
 iij.jp CNAME .
 *.iij.jp CNAME .
-kenkyu.luhu.jp CNAME .
-*.kenkyu.luhu.jp CNAME .
-scrsa.luhu.jp CNAME .
-*.scrsa.luhu.jp CNAME .
 lumes.jp CNAME .
 *.lumes.jp CNAME .
 surfshark.jp CNAME .
@@ -8668,8 +8664,6 @@ doh.phdns5.lonet.org CNAME .
 *.doh.phdns5.lonet.org CNAME .
 edu.loskks.org CNAME .
 *.edu.loskks.org CNAME .
-banana123.macao.org CNAME .
-*.banana123.macao.org CNAME .
 wiki.manica.org CNAME .
 *.wiki.manica.org CNAME .
 matterhero.org CNAME .
@@ -9704,8 +9698,6 @@ home-server.store CNAME .
 *.home-server.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 edu.info.east-kazakhstan.su CNAME .

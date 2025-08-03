@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754188860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754203260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Aug 2025 02:41 UTC
-; Version: 2025.0803.0241.47
+; Last modified: 03 Aug 2025 06:41 UTC
+; Version: 2025.0803.0641.32
 ; Syntax: RPZ
-; Number of entries: 9920
+; Number of entries: 9866
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2202,22 +2202,16 @@ lit-url.com CNAME .
 *.lit-url.com CNAME .
 littlelnk.com CNAME .
 *.littlelnk.com CNAME .
-lkysrw.com CNAME .
-*.lkysrw.com CNAME .
 llclick.com CNAME .
 *.llclick.com CNAME .
 lnkiy.com CNAME .
 *.lnkiy.com CNAME .
 lnkshk.com CNAME .
 *.lnkshk.com CNAME .
-loasj.com CNAME .
-*.loasj.com CNAME .
 logincuan1.com CNAME .
 *.logincuan1.com CNAME .
 logincuan2.com CNAME .
 *.logincuan2.com CNAME .
-lomuhm.com CNAME .
-*.lomuhm.com CNAME .
 looktiny.com CNAME .
 *.looktiny.com CNAME .
 on.louisvuitton.com CNAME .
@@ -2228,18 +2222,12 @@ lvfst.com CNAME .
 *.lvfst.com CNAME .
 lvvk.com CNAME .
 *.lvvk.com CNAME .
-lxddck.com CNAME .
-*.lxddck.com CNAME .
 lyksoomu.com CNAME .
 *.lyksoomu.com CNAME .
-lyreck.com CNAME .
-*.lyreck.com CNAME .
 lz.com CNAME .
 *.lz.com CNAME .
 mangotwo.com CNAME .
 *.mangotwo.com CNAME .
-manyi3dcreations.com CNAME .
-*.manyi3dcreations.com CNAME .
 marketclan.com CNAME .
 *.marketclan.com CNAME .
 marveliness.com CNAME .
@@ -2256,8 +2244,6 @@ maxurlz.com CNAME .
 *.maxurlz.com CNAME .
 mayaediciones.com CNAME .
 *.mayaediciones.com CNAME .
-mdklt.com CNAME .
-*.mdklt.com CNAME .
 mdmblz.com CNAME .
 *.mdmblz.com CNAME .
 me-qr.com CNAME .
@@ -4564,8 +4550,6 @@ maper.info CNAME .
 *.maper.info CNAME .
 masuk-id.info CNAME .
 *.masuk-id.info CNAME .
-meg-e-sdi.info CNAME .
-*.meg-e-sdi.info CNAME .
 menangbola77.info CNAME .
 *.menangbola77.info CNAME .
 miss-m-216.info CNAME .
@@ -5518,20 +5502,10 @@ iyc.life CNAME .
 *.iyc.life CNAME .
 kerang.life CNAME .
 *.kerang.life CNAME .
-lillebrordahlstrom.life CNAME .
-*.lillebrordahlstrom.life CNAME .
 linelive.life CNAME .
 *.linelive.life CNAME .
-littlecheck9.life CNAME .
-*.littlecheck9.life CNAME .
-littlehedgehogs.life CNAME .
-*.littlehedgehogs.life CNAME .
 livesport88.life CNAME .
 *.livesport88.life CNAME .
-madondressokwanda2.life CNAME .
-*.madondressokwanda2.life CNAME .
-mahse.life CNAME .
-*.mahse.life CNAME .
 mainaku.life CNAME .
 *.mainaku.life CNAME .
 matten1.life CNAME .
@@ -5822,8 +5796,6 @@ macau123.link CNAME .
 *.macau123.link CNAME .
 maejo.link CNAME .
 *.maejo.link CNAME .
-mampir.link CNAME .
-*.mampir.link CNAME .
 minify.link CNAME .
 *.minify.link CNAME .
 modash.link CNAME .
@@ -6056,30 +6028,16 @@ lilyfreeonlyfans.live CNAME .
 *.lilyfreeonlyfans.live CNAME .
 limiteds.live CNAME .
 *.limiteds.live CNAME .
-linkedinbraniluca.live CNAME .
-*.linkedinbraniluca.live CNAME .
-linkedins.live CNAME .
-*.linkedins.live CNAME .
 linkins.live CNAME .
 *.linkins.live CNAME .
 linkmpomax.live CNAME .
 *.linkmpomax.live CNAME .
 linkotw.live CNAME .
 *.linkotw.live CNAME .
-listaderoger.live CNAME .
-*.listaderoger.live CNAME .
 loaynwfv2.live CNAME .
 *.loaynwfv2.live CNAME .
-mahse.live CNAME .
-*.mahse.live CNAME .
-mailisa.live CNAME .
-*.mailisa.live CNAME .
 mattes.live CNAME .
 *.mattes.live CNAME .
-megawatts.live CNAME .
-*.megawatts.live CNAME .
-meinor.live CNAME .
-*.meinor.live CNAME .
 meliodaslonesita.live CNAME .
 *.meliodaslonesita.live CNAME .
 mikepir84.live CNAME .
@@ -7298,8 +7256,6 @@ link3s.net CNAME .
 *.link3s.net CNAME .
 link4.net CNAME .
 *.link4.net CNAME .
-linkifly.net CNAME .
-*.linkifly.net CNAME .
 linkit.net CNAME .
 *.linkit.net CNAME .
 linksfire.net CNAME .
@@ -7628,10 +7584,6 @@ dn303.online CNAME .
 *.dn303.online CNAME .
 jagoan-hosting.online CNAME .
 *.jagoan-hosting.online CNAME .
-linkshortner.online CNAME .
-*.linkshortner.online CNAME .
-liverpooldescarga.online CNAME .
-*.liverpooldescarga.online CNAME .
 medusa88.online CNAME .
 *.medusa88.online CNAME .
 mjp88.online CNAME .
@@ -8360,8 +8312,6 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 lgay.sbs CNAME .
 *.lgay.sbs CNAME .
-lieva.sbs CNAME .
-*.lieva.sbs CNAME .
 noeuz.sbs CNAME .
 *.noeuz.sbs CNAME .
 ozkyx.sbs CNAME .
@@ -8544,8 +8494,6 @@ linkjitu.site CNAME .
 *.linkjitu.site CNAME .
 linktop.site CNAME .
 *.linktop.site CNAME .
-lyreck.site CNAME .
-*.lyreck.site CNAME .
 maha77.site CNAME .
 *.maha77.site CNAME .
 mst.site CNAME .
@@ -9128,8 +9076,6 @@ cplay.top CNAME .
 *.cplay.top CNAME .
 et2.top CNAME .
 *.et2.top CNAME .
-linkgrab.top CNAME .
-*.linkgrab.top CNAME .
 maxwin.top CNAME .
 *.maxwin.top CNAME .
 mineurl.top CNAME .
