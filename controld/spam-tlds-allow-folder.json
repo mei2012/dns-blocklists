@@ -8,6 +8,13 @@
   },
   "rules": [
     {
+      "PK": "10gen.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "11ts.shop",
       "action": {
         "do": 1,
@@ -1066,6 +1073,13 @@
     },
     {
       "PK": "endoflife.date",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "eneba.games",
       "action": {
         "do": 1,
         "status": 1
