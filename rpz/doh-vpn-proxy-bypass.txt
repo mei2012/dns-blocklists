@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754294940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754337780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Aug 2025 08:09 UTC
-; Version: 2025.0804.0809.32
+; Last modified: 04 Aug 2025 20:03 UTC
+; Version: 2025.0804.2003.56
 ; Syntax: RPZ
-; Number of entries: 10412
+; Number of entries: 10360
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -352,8 +352,6 @@ unblockedsite.biz CNAME .
 *.unblockedsite.biz CNAME .
 unblocksite.biz CNAME .
 *.unblocksite.biz CNAME .
-unblockweb.biz CNAME .
-*.unblockweb.biz CNAME .
 4287613382.uncork.biz CNAME .
 *.4287613382.uncork.biz CNAME .
 food.uncork.biz CNAME .
@@ -492,6 +490,8 @@ proxy.cc CNAME .
 *.proxy.cc CNAME .
 proxysite.cc CNAME .
 *.proxysite.cc CNAME .
+resolve2.r9x.cc CNAME .
+*.resolve2.r9x.cc CNAME .
 seedboxes.cc CNAME .
 *.seedboxes.cc CNAME .
 bring-your-own.sinewave.cc CNAME .
@@ -682,14 +682,10 @@ mathsfun.undergames.cl CNAME .
 *.mathsfun.undergames.cl CNAME .
 block.undo.cl CNAME .
 *.block.undo.cl CNAME .
-use.visitame.cl CNAME .
-*.use.visitame.cl CNAME .
 shop.woodworker.cl CNAME .
 *.shop.woodworker.cl CNAME .
 hailey-complex.xst.cl CNAME .
 *.hailey-complex.xst.cl CNAME .
-kofi-was-here-noob.xst.cl CNAME .
-*.kofi-was-here-noob.xst.cl CNAME .
 baconmania.click CNAME .
 *.baconmania.click CNAME .
 farewellkou.click CNAME .
@@ -814,8 +810,6 @@ scienceforkids.saahee.cn CNAME .
 *.scienceforkids.saahee.cn CNAME .
 ik-heet-henk.xiayu7.cn CNAME .
 *.ik-heet-henk.xiayu7.cn CNAME .
-suhdihlightspeed.xiayu7.cn CNAME .
-*.suhdihlightspeed.xiayu7.cn CNAME .
 dns.zzuhacker.cn CNAME .
 *.dns.zzuhacker.cn CNAME .
 astrovpn.co CNAME .
@@ -4620,8 +4614,6 @@ dns.umbrella.com CNAME .
 *.dns.umbrella.com CNAME .
 doh.umbrella.com CNAME .
 *.doh.umbrella.com CNAME .
-unbl0ck3d.com CNAME .
-*.unbl0ck3d.com CNAME .
 unblock-it.com CNAME .
 *.unblock-it.com CNAME .
 unblock-proxy.com CNAME .
@@ -4644,24 +4636,16 @@ unblockadultsites.com CNAME .
 *.unblockadultsites.com CNAME .
 unblockandsurf.com CNAME .
 *.unblockandsurf.com CNAME .
-unblockanime.com CNAME .
-*.unblockanime.com CNAME .
 unblockanything.com CNAME .
 *.unblockanything.com CNAME .
-unblockdirect.com CNAME .
-*.unblockdirect.com CNAME .
 unblocked4.com CNAME .
 *.unblocked4.com CNAME .
 unblocked5.com CNAME .
 *.unblocked5.com CNAME .
-unblockedarabic.com CNAME .
-*.unblockedarabic.com CNAME .
 unblockedbay.com CNAME .
 *.unblockedbay.com CNAME .
 unblockedme.com CNAME .
 *.unblockedme.com CNAME .
-unblockedrussian.com CNAME .
-*.unblockedrussian.com CNAME .
 unblockedscene.com CNAME .
 *.unblockedscene.com CNAME .
 unblockedschool.com CNAME .
@@ -4734,8 +4718,6 @@ uswebproxy.com CNAME .
 *.uswebproxy.com CNAME .
 utopianpal.com CNAME .
 *.utopianpal.com CNAME .
-willitwork.utrealestatedreamteam.com CNAME .
-*.willitwork.utrealestatedreamteam.com CNAME .
 doh.valscosmos.com CNAME .
 *.doh.valscosmos.com CNAME .
 vectroproxy.com CNAME .
@@ -5020,8 +5002,6 @@ lion.yazilimatolye.com CNAME .
 *.lion.yazilimatolye.com CNAME .
 yd6n63ptky.com CNAME .
 *.yd6n63ptky.com CNAME .
-yellowshiitake.com CNAME .
-*.yellowshiitake.com CNAME .
 sg.yepdns.com CNAME .
 *.sg.yepdns.com CNAME .
 yogavpn.com CNAME .
@@ -5062,8 +5042,6 @@ zend2.com CNAME .
 *.zend2.com CNAME .
 zendproxy.com CNAME .
 *.zendproxy.com CNAME .
-utopia.music.zenfitness.com CNAME .
-*.utopia.music.zenfitness.com CNAME .
 zenmate.com CNAME .
 *.zenmate.com CNAME .
 zenrows.com CNAME .
@@ -5614,8 +5592,6 @@ ns.trcnet.fi CNAME .
 *.ns.trcnet.fi CNAME .
 brockwiresvslinewize.yiff.fi CNAME .
 *.brockwiresvslinewize.yiff.fi CNAME .
-inter.yiff.fi CNAME .
-*.inter.yiff.fi CNAME .
 unblocked.foo CNAME .
 *.unblocked.foo CNAME .
 unblockit.foo CNAME .
@@ -5720,8 +5696,6 @@ wild-moon-986.sz.games CNAME .
 *.wild-moon-986.sz.games CNAME .
 proxy.gd CNAME .
 *.proxy.gd CNAME .
-dididoitright.wiki.gd CNAME .
-*.dididoitright.wiki.gd CNAME .
 hellotaka.wiki.gd CNAME .
 *.hellotaka.wiki.gd CNAME .
 doh.futa.gg CNAME .
@@ -6216,10 +6190,6 @@ vpnfree.info CNAME .
 *.vpnfree.info CNAME .
 webypass.info CNAME .
 *.webypass.info CNAME .
-wildproxy.info CNAME .
-*.wildproxy.info CNAME .
-use.winterhouse.info CNAME .
-*.use.winterhouse.info CNAME .
 ylink.info CNAME .
 *.ylink.info CNAME .
 yourinternetproxy.info CNAME .
@@ -6496,8 +6466,6 @@ adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 dns.nako.kr CNAME .
 *.dns.nako.kr CNAME .
-lanschool.leno.vopros.kz CNAME .
-*.lanschool.leno.vopros.kz CNAME .
 huieurammarda.allez.la CNAME .
 *.huieurammarda.allez.la CNAME .
 njal.la CNAME .
@@ -6618,8 +6586,6 @@ dns.ourvau.lt CNAME .
 *.dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 *.dns.redvau.lt CNAME .
-rileythetopg.vr.lt CNAME .
-*.rileythetopg.vr.lt CNAME .
 mabuktogel.ltd CNAME .
 *.mabuktogel.ltd CNAME .
 sink.nolo.ltd CNAME .
@@ -6946,6 +6912,8 @@ affcdn.net CNAME .
 *.affcdn.net CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
+adguard.ajinga.net CNAME .
+*.adguard.ajinga.net CNAME .
 akunssh.net CNAME .
 *.akunssh.net CNAME .
 doh.amonsul.net CNAME .
@@ -7942,12 +7910,6 @@ unblockblocked.net CNAME .
 *.unblockblocked.net CNAME .
 unblocked2.net CNAME .
 *.unblocked2.net CNAME .
-unblocked4u.net CNAME .
-*.unblocked4u.net CNAME .
-unblockedbook.net CNAME .
-*.unblockedbook.net CNAME .
-unblockedmusic.net CNAME .
-*.unblockedmusic.net CNAME .
 unblockedonline.net CNAME .
 *.unblockedonline.net CNAME .
 unblockedsite.net CNAME .
@@ -8002,8 +7964,6 @@ websiteproxy.net CNAME .
 *.websiteproxy.net CNAME .
 websiteunblock.net CNAME .
 *.websiteunblock.net CNAME .
-webunblock.net CNAME .
-*.webunblock.net CNAME .
 doh.wewitro.net CNAME .
 *.doh.wewitro.net CNAME .
 whatsonthebox.net CNAME .
@@ -8812,16 +8772,10 @@ unblockableproxy.org CNAME .
 *.unblockableproxy.org CNAME .
 unblocked2.org CNAME .
 *.unblocked2.org CNAME .
-unblocked4u.org CNAME .
-*.unblocked4u.org CNAME .
 unblockedsites.org CNAME .
 *.unblockedsites.org CNAME .
-unblockedstream.org CNAME .
-*.unblockedstream.org CNAME .
 unblockedstreaming.org CNAME .
 *.unblockedstreaming.org CNAME .
-unblockedusa.org CNAME .
-*.unblockedusa.org CNAME .
 unblocksite.org CNAME .
 *.unblocksite.org CNAME .
 unblocksites.org CNAME .
@@ -9320,8 +9274,6 @@ anothaone.softify-link.ro CNAME .
 *.anothaone.softify-link.ro CNAME .
 zdn.ro CNAME .
 *.zdn.ro CNAME .
-cheifsarebad.zenrelax.ro CNAME .
-*.cheifsarebad.zenrelax.ro CNAME .
 croxy.rocks CNAME .
 *.croxy.rocks CNAME .
 croxyproxy.rocks CNAME .
@@ -10044,12 +9996,8 @@ greenbeandean.hs.vc CNAME .
 *.greenbeandean.hs.vc CNAME .
 bighawk.webs.vc CNAME .
 *.bighawk.webs.vc CNAME .
-higuysfr.webs.vc CNAME .
-*.higuysfr.webs.vc CNAME .
 rammerhead2121.webs.vc CNAME .
 *.rammerhead2121.webs.vc CNAME .
-stemprivate4.webs.vc CNAME .
-*.stemprivate4.webs.vc CNAME .
 proxysite.video CNAME .
 *.proxysite.video CNAME .
 unblockyoutube.video CNAME .

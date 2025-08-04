@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754294640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754337480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Aug 2025 08:04 UTC
-; Version: 2025.0804.0804.15
+; Last modified: 04 Aug 2025 19:58 UTC
+; Version: 2025.0804.1958.46
 ; Syntax: RPZ
-; Number of entries: 20134
+; Number of entries: 20106
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -91,8 +91,6 @@ boerse.ai CNAME .
 *.boerse.ai CNAME .
 snapins.ai CNAME .
 *.snapins.ai CNAME .
-yts.ai CNAME .
-*.yts.ai CNAME .
 alice.al CNAME .
 *.alice.al CNAME .
 altadefinizione.al CNAME .
@@ -703,8 +701,6 @@ webstresser.biz CNAME .
 *.webstresser.biz CNAME .
 zdig1.biz CNAME .
 *.zdig1.biz CNAME .
-zetorrents.biz CNAME .
-*.zetorrents.biz CNAME .
 filmpertutti.black CNAME .
 *.filmpertutti.black CNAME .
 guardaserie.black CNAME .
@@ -941,6 +937,8 @@ nyaa.pantsu.cat CNAME .
 *.nyaa.pantsu.cat CNAME .
 sukebei.pantsu.cat CNAME .
 *.sukebei.pantsu.cat CNAME .
+topmovies.cat CNAME .
+*.topmovies.cat CNAME .
 uhdmovies.cat CNAME .
 *.uhdmovies.cat CNAME .
 newalbumreleases.unblockit.cat CNAME .
@@ -7137,8 +7135,6 @@ vdomela.com CNAME .
 *.vdomela.com CNAME .
 vdos-s.com CNAME .
 *.vdos-s.com CNAME .
-vedigratis.com CNAME .
-*.vedigratis.com CNAME .
 vegamovies6.com CNAME .
 *.vegamovies6.com CNAME .
 veoble.com CNAME .
@@ -7239,8 +7235,6 @@ warez-files.com CNAME .
 *.warez-files.com CNAME .
 warez-host.com CNAME .
 *.warez-host.com CNAME .
-warez-serbia.com CNAME .
-*.warez-serbia.com CNAME .
 warezaccess.com CNAME .
 *.warezaccess.com CNAME .
 warezbox.com CNAME .
@@ -7285,8 +7279,6 @@ wareztorrent.com CNAME .
 *.wareztorrent.com CNAME .
 warezwitch.com CNAME .
 *.warezwitch.com CNAME .
-warezworm.com CNAME .
-*.warezworm.com CNAME .
 warezws.com CNAME .
 *.warezws.com CNAME .
 warindustries.com CNAME .
@@ -7305,8 +7297,6 @@ watchliveall.com CNAME .
 *.watchliveall.com CNAME .
 watchraw.com CNAME .
 *.watchraw.com CNAME .
-watchsomuch.com CNAME .
-*.watchsomuch.com CNAME .
 watchsomuchtorrents.com CNAME .
 *.watchsomuchtorrents.com CNAME .
 wayupload.com CNAME .
@@ -7711,8 +7701,6 @@ streamcloud.cx CNAME .
 *.streamcloud.cx CNAME .
 thepiratebay.cx CNAME .
 *.thepiratebay.cx CNAME .
-vide.cx CNAME .
-*.vide.cx CNAME .
 videothek.cx CNAME .
 *.videothek.cx CNAME .
 vostfree.cx CNAME .
@@ -7979,8 +7967,6 @@ streamingcommunity.dev CNAME .
 *.streamingcommunity.dev CNAME .
 newalbumreleases.unblockit.dev CNAME .
 *.newalbumreleases.unblockit.dev CNAME .
-videq.dev CNAME .
-*.videq.dev CNAME .
 tracker.webtorrent.dev CNAME .
 *.tracker.webtorrent.dev CNAME .
 drive.massgravel.workers.dev CNAME .
@@ -8841,8 +8827,6 @@ torrentek.hu CNAME .
 *.torrentek.hu CNAME .
 uid.hu CNAME .
 *.uid.hu CNAME .
-nox.warez.hu CNAME .
-*.nox.warez.hu CNAME .
 xider.hu CNAME .
 *.xider.hu CNAME .
 ztracker.hu CNAME .
@@ -9065,8 +9049,6 @@ tvseries.in CNAME .
 *.tvseries.in CNAME .
 utorrentz2.in CNAME .
 *.utorrentz2.in CNAME .
-videospider.in CNAME .
-*.videospider.in CNAME .
 vumoo.in CNAME .
 *.vumoo.in CNAME .
 watchwrestling.in CNAME .
@@ -9985,8 +9967,6 @@ hds.lc CNAME .
 *.hds.lc CNAME .
 sanet.lc CNAME .
 *.sanet.lc CNAME .
-unblocked.lc CNAME .
-*.unblocked.lc CNAME .
 vipbox.lc CNAME .
 *.vipbox.lc CNAME .
 vipleague.lc CNAME .
@@ -13273,8 +13253,6 @@ waplog.net CNAME .
 *.waplog.net CNAME .
 wareza.net CNAME .
 *.wareza.net CNAME .
-warezcrack.net CNAME .
-*.warezcrack.net CNAME .
 wareziens.net CNAME .
 *.wareziens.net CNAME .
 warezload.net CNAME .
@@ -13789,8 +13767,6 @@ unbl0ck.online CNAME .
 *.unbl0ck.online CNAME .
 soccerstreams.unblockedstream.online CNAME .
 *.soccerstreams.unblockedstream.online CNAME .
-viperplay.online CNAME .
-*.viperplay.online CNAME .
 voirfilmstreaming.online CNAME .
 *.voirfilmstreaming.online CNAME .
 vostfree.online CNAME .
@@ -16059,8 +16035,6 @@ tpb.re CNAME .
 *.tpb.re CNAME .
 ygg.re CNAME .
 *.ygg.re CNAME .
-yts.re CNAME .
-*.yts.re CNAME .
 cb01.recipes CNAME .
 *.cb01.recipes CNAME .
 btkitty.red CNAME .
@@ -20087,8 +20061,6 @@ xstress.xyz CNAME .
 *.xstress.xyz CNAME .
 yifymovies.xyz CNAME .
 *.yifymovies.xyz CNAME .
-yoxplay.xyz CNAME .
-*.yoxplay.xyz CNAME .
 ytstvmovies.xyz CNAME .
 *.ytstvmovies.xyz CNAME .
 tracker.zaluan.xyz CNAME .

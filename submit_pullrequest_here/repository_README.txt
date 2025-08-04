@@ -792,11 +792,11 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 #### :department_store: **DNSBunker (Germany) - free** <a name="schonetdns"></a>
 
-[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with the native Tracker lists and TIF blocklist.
+[DNSBunker (Germany)](https://dnsbunker.org/) uses my Multi Pro++ in combination with my TIF blocklist.
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | 
 |:-----------|:---------------|:------------------|
-| Pro plus + Native Tracker + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 
+| Pro plus + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 
