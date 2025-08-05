@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754394840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754409180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Aug 2025 11:54 UTC
-; Version: 2025.0805.1154.13
+; Last modified: 05 Aug 2025 15:53 UTC
+; Version: 2025.0805.1553.11
 ; Syntax: RPZ
-; Number of entries: 161110
+; Number of entries: 161104
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -34401,8 +34401,6 @@ bcgame-bcallloop-mirror1.com CNAME .
 *.bcgame-bcallloop-mirror1.com CNAME .
 bcgame-crypto-casino.com CNAME .
 *.bcgame-crypto-casino.com CNAME .
-bcgame43.com CNAME .
-*.bcgame43.com CNAME .
 bcigra.com CNAME .
 *.bcigra.com CNAME .
 bckbet01.com CNAME .
@@ -74217,8 +74215,6 @@ qslotslot.com CNAME .
 *.qslotslot.com CNAME .
 oss-bw18.qtmlive.com CNAME .
 *.oss-bw18.qtmlive.com CNAME .
-quacauvong.com CNAME .
-*.quacauvong.com CNAME .
 quadcasino.com CNAME .
 *.quadcasino.com CNAME .
 qualitycasinoscompare.com CNAME .
@@ -110629,8 +110625,6 @@ slotonlineterpercaya.online CNAME .
 *.slotonlineterpercaya.online CNAME .
 slotozalcasinoz.online CNAME .
 *.slotozalcasinoz.online CNAME .
-slotrtp.online CNAME .
-*.slotrtp.online CNAME .
 slots-by.online CNAME .
 *.slots-by.online CNAME .
 slots-cm.online CNAME .

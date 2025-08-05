@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Aug 2025 11:56 UTC
-# Version: 2025.0805.1156.05
+# Last modified: 05 Aug 2025 15:55 UTC
+# Version: 2025.0805.1555.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 52658
+# Number of entries: 52657
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -7287,7 +7287,6 @@ local=/bcgame.sk/
 local=/bcgame.top/
 local=/bcgame-bcallloop-mirror1.com/
 local=/bcgame-crypto-casino.com/
-local=/bcgame43.com/
 local=/bcgamecasino.ch/
 local=/bcgamecasino-tr.top/
 local=/bcgamecasino-vn.top/
