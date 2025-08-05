@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754375880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754390400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Aug 2025 06:38 UTC
-; Version: 2025.0805.0638.49
+; Last modified: 05 Aug 2025 10:40 UTC
+; Version: 2025.0805.1040.46
 ; Syntax: RPZ
-; Number of entries: 27720
+; Number of entries: 27730
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -2067,6 +2067,8 @@ alpineskiequipment.com CNAME .
 *.alpineskiequipment.com CNAME .
 alpionki.com CNAME .
 *.alpionki.com CNAME .
+alternatef.com CNAME .
+*.alternatef.com CNAME .
 alternatei.com CNAME .
 *.alternatei.com CNAME .
 alternative-markets.com CNAME .
@@ -4339,6 +4341,8 @@ clivechristianuk.com CNAME .
 *.clivechristianuk.com CNAME .
 clivemignon.com CNAME .
 *.clivemignon.com CNAME .
+cllusatoam.com CNAME .
+*.cllusatoam.com CNAME .
 clockwisek.com CNAME .
 *.clockwisek.com CNAME .
 clok-en.com CNAME .
@@ -4625,8 +4629,6 @@ coyojo.com CNAME .
 *.coyojo.com CNAME .
 cozyfishing.com CNAME .
 *.cozyfishing.com CNAME .
-cozyhoome.com CNAME .
-*.cozyhoome.com CNAME .
 cozysleepzone.com CNAME .
 *.cozysleepzone.com CNAME .
 cpket.com CNAME .
@@ -4661,8 +4663,6 @@ crfp8-carrefour.com CNAME .
 *.crfp8-carrefour.com CNAME .
 criffincloset.com CNAME .
 *.criffincloset.com CNAME .
-criteheading.com CNAME .
-*.criteheading.com CNAME .
 crivasa.com CNAME .
 *.crivasa.com CNAME .
 crnstore.com CNAME .
@@ -5055,6 +5055,8 @@ deregresoalafuente.com CNAME .
 *.deregresoalafuente.com CNAME .
 derimoservices.com CNAME .
 *.derimoservices.com CNAME .
+derivainasm.com CNAME .
+*.derivainasm.com CNAME .
 dermao.com CNAME .
 *.dermao.com CNAME .
 dertagesspiegel.com CNAME .
@@ -5439,6 +5441,8 @@ dualsuns.com CNAME .
 *.dualsuns.com CNAME .
 duavital.com CNAME .
 *.duavital.com CNAME .
+dubaihoteluae.com CNAME .
+*.dubaihoteluae.com CNAME .
 duftspraysale.com CNAME .
 *.duftspraysale.com CNAME .
 dulontransport.com CNAME .
@@ -11073,6 +11077,8 @@ nbynicole.com CNAME .
 *.nbynicole.com CNAME .
 ncases.com CNAME .
 *.ncases.com CNAME .
+ndfinitee.com CNAME .
+*.ndfinitee.com CNAME .
 necessityi.com CNAME .
 *.necessityi.com CNAME .
 necessoul.com CNAME .
@@ -16243,6 +16249,8 @@ viva-markets.com CNAME .
 *.viva-markets.com CNAME .
 viva-stores.com CNAME .
 *.viva-stores.com CNAME .
+vivaiacollection.com CNAME .
+*.vivaiacollection.com CNAME .
 vivaiaschuhe.com CNAME .
 *.vivaiaschuhe.com CNAME .
 vivaiaschweiz.com CNAME .
@@ -27045,6 +27053,8 @@ casaamarela.store CNAME .
 *.casaamarela.store CNAME .
 cavella.store CNAME .
 *.cavella.store CNAME .
+cleancorner.store CNAME .
+*.cleancorner.store CNAME .
 comfy-bra.store CNAME .
 *.comfy-bra.store CNAME .
 creworks.store CNAME .
