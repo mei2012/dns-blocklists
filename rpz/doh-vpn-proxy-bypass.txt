@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754352120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754380680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Aug 2025 00:02 UTC
-; Version: 2025.0805.0002.53
+; Last modified: 05 Aug 2025 07:58 UTC
+; Version: 2025.0805.0758.36
 ; Syntax: RPZ
-; Number of entries: 10364
+; Number of entries: 10370
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -1634,6 +1634,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2570,6 +2572,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -7658,6 +7662,8 @@ rpz-public-resolver1.rrdns.pch.net CNAME .
 *.rpz-public-resolver1.rrdns.pch.net CNAME .
 school.pepikutan.net CNAME .
 *.school.pepikutan.net CNAME .
+dns.pernika.net CNAME .
+*.dns.pernika.net CNAME .
 darya.persiannit.net CNAME .
 *.darya.persiannit.net CNAME .
 dns.phillipjberry.net CNAME .
