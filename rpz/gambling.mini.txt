@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754438040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754452320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Aug 2025 23:54 UTC
-; Version: 2025.0805.2354.15
+; Last modified: 06 Aug 2025 03:52 UTC
+; Version: 2025.0806.0352.08
 ; Syntax: RPZ
-; Number of entries: 105312
+; Number of entries: 105286
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -17289,6 +17289,8 @@ images.6929183.com CNAME .
 *.888game27.com CNAME .
 888game51.com CNAME .
 *.888game51.com CNAME .
+888games.com CNAME .
+*.888games.com CNAME .
 888hot.com CNAME .
 *.888hot.com CNAME .
 888hotbets.com CNAME .
@@ -27769,8 +27771,6 @@ cendanabet.com CNAME .
 *.cendanabet.com CNAME .
 centrebet.com CNAME .
 *.centrebet.com CNAME .
-ceocus.com CNAME .
-*.ceocus.com CNAME .
 cepatsbo88.com CNAME .
 *.cepatsbo88.com CNAME .
 cerestvnoticias.com CNAME .
@@ -30511,6 +30511,8 @@ exoangin.com CNAME .
 *.exoangin.com CNAME .
 exofficio.com CNAME .
 *.exofficio.com CNAME .
+exomira9.com CNAME .
+*.exomira9.com CNAME .
 expekt.com CNAME .
 *.expekt.com CNAME .
 expertcasinosfr.com CNAME .
@@ -32299,8 +32301,6 @@ getdown247.com CNAME .
 *.getdown247.com CNAME .
 getfliff.com CNAME .
 *.getfliff.com CNAME .
-getggbet.com CNAME .
-*.getggbet.com CNAME .
 gethelpnowmc.com CNAME .
 *.gethelpnowmc.com CNAME .
 gethertosayyes.com CNAME .
@@ -32355,8 +32355,6 @@ ggbet24.com CNAME .
 *.ggbet24.com CNAME .
 ggbetaff.com CNAME .
 *.ggbetaff.com CNAME .
-ggbetstar.com CNAME .
-*.ggbetstar.com CNAME .
 ggdrop.com CNAME .
 *.ggdrop.com CNAME .
 ggg6732.com CNAME .
@@ -37705,8 +37703,6 @@ luckyasscasino.com CNAME .
 *.luckyasscasino.com CNAME .
 luckybarcasino.com CNAME .
 *.luckybarcasino.com CNAME .
-luckybet.com CNAME .
-*.luckybet.com CNAME .
 luckybet777my.com CNAME .
 *.luckybet777my.com CNAME .
 luckybetasia1.com CNAME .
@@ -39593,8 +39589,6 @@ mobilecasino-freespins.com CNAME .
 *.mobilecasino-freespins.com CNAME .
 mobilecasino88.com CNAME .
 *.mobilecasino88.com CNAME .
-mobilecasinolab.com CNAME .
-*.mobilecasinolab.com CNAME .
 mobilecasinoparty.com CNAME .
 *.mobilecasinoparty.com CNAME .
 mobilecasinoslot.com CNAME .
@@ -40601,8 +40595,6 @@ netbetslot.com CNAME .
 *.netbetslot.com CNAME .
 netbetsmetaverse.com CNAME .
 *.netbetsmetaverse.com CNAME .
-netcasinofreespins.com CNAME .
-*.netcasinofreespins.com CNAME .
 netcasinoplay.com CNAME .
 *.netcasinoplay.com CNAME .
 netent.com CNAME .
@@ -45103,8 +45095,6 @@ q999bets.com CNAME .
 *.q999bets.com CNAME .
 q99bets.com CNAME .
 *.q99bets.com CNAME .
-qacss.com CNAME .
-*.qacss.com CNAME .
 qaiscasino.com CNAME .
 *.qaiscasino.com CNAME .
 qamoc.com CNAME .
@@ -45835,8 +45825,6 @@ richcasino.com CNAME .
 *.richcasino.com CNAME .
 richcasinoau.com CNAME .
 *.richcasinoau.com CNAME .
-riches-games.com CNAME .
-*.riches-games.com CNAME .
 richpalms.com CNAME .
 *.richpalms.com CNAME .
 richpalmspromo.com CNAME .
@@ -46825,8 +46813,6 @@ sbfplay99.com CNAME .
 *.sbfplay99.com CNAME .
 sbfplay99casino.com CNAME .
 *.sbfplay99casino.com CNAME .
-sbobaik.com CNAME .
-*.sbobaik.com CNAME .
 sbobanyak.com CNAME .
 *.sbobanyak.com CNAME .
 sbobet.com CNAME .
@@ -46859,12 +46845,8 @@ sbogogo.com CNAME .
 *.sbogogo.com CNAME .
 sbohijau.com CNAME .
 *.sbohijau.com CNAME .
-sbonao.com CNAME .
-*.sbonao.com CNAME .
 sbonhacai.com CNAME .
 *.sbonhacai.com CNAME .
-sbosenang.com CNAME .
-*.sbosenang.com CNAME .
 sbotogel4d.com CNAME .
 *.sbotogel4d.com CNAME .
 sbotop.com CNAME .
@@ -46971,12 +46953,8 @@ sekawanbetsport.com CNAME .
 *.sekawanbetsport.com CNAME .
 sekintoto.com CNAME .
 *.sekintoto.com CNAME .
-sekoteng.com CNAME .
-*.sekoteng.com CNAME .
 selalutaman.com CNAME .
 *.selalutaman.com CNAME .
-selametan.com CNAME .
-*.selametan.com CNAME .
 selatan888.com CNAME .
 *.selatan888.com CNAME .
 seleccionuruguayadefutbol.com CNAME .
@@ -61317,8 +61295,6 @@ zeus007.link CNAME .
 *.zeus007.link CNAME .
 1win-giris-casino.live CNAME .
 *.1win-giris-casino.live CNAME .
-1xbet-online.live CNAME .
-*.1xbet-online.live CNAME .
 1xbet-site.live CNAME .
 *.1xbet-site.live CNAME .
 2mb.live CNAME .
@@ -94837,8 +94813,6 @@ betsayavip.works CNAME .
 *.betsayavip.works CNAME .
 sv388.works CNAME .
 *.sv388.works CNAME .
-1x-bet93432.world CNAME .
-*.1x-bet93432.world CNAME .
 7bit-casino.world CNAME .
 *.7bit-casino.world CNAME .
 7kcasinobonus.world CNAME .
