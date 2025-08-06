@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754452620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754467620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Aug 2025 03:57 UTC
-; Version: 2025.0806.0357.43
+; Last modified: 06 Aug 2025 08:07 UTC
+; Version: 2025.0806.0807.50
 ; Syntax: RPZ
-; Number of entries: 10440
+; Number of entries: 10436
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2592,8 +2592,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -7796,8 +7794,6 @@ mahiro-9.1project.r-o-o-t.net CNAME .
 *.mahiro-9.1project.r-o-o-t.net CNAME .
 resolver.r0cket.net CNAME .
 *.resolver.r0cket.net CNAME .
-rapidproxy.net CNAME .
-*.rapidproxy.net CNAME .
 applet.redragon.net CNAME .
 *.applet.redragon.net CNAME .
 education.redragon.net CNAME .
