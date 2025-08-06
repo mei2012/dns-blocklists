@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Aug 2025 16:02 UTC
-# Version: 2025.0806.1602.43
+# Last modified: 06 Aug 2025 20:05 UTC
+# Version: 2025.0806.2005.43
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1437
+# Number of entries: 1448
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -495,6 +495,12 @@ local=/droyd.top/
 local=/doh.dscloud.me/
 local=/agh.dshubham.xyz/
 local=/home27.duckdns.org/
+local=/jurre-home.duckdns.org/
+local=/krtekvpn.duckdns.org/
+local=/osefcorp.duckdns.org/
+local=/punono.duckdns.org/
+local=/tuandns.duckdns.org/
+local=/tungdnsne.duckdns.org/
 local=/dukun.de/
 local=/dns.dyn1.de/
 local=/ueni.dyndns.org/
@@ -552,6 +558,7 @@ local=/dot.ffmuc.net/
 local=/dns.ffnw.de/
 local=/fidelius.top/
 local=/dns.filipccz.eu/
+local=/dns.fizz.studio/
 local=/doh.flashstart.com/
 local=/dns.flatuslifir.is/
 local=/dns.flightspace.net/
@@ -577,6 +584,7 @@ local=/dns.futuredns.me/
 local=/cluster-0.gac.edu/
 local=/cluster-1.gac.edu/
 local=/dns.gamban.com/
+local=/adguard.gambini.org/
 local=/dns.beta.gandi.net/
 local=/gclouddns.com/
 local=/adg.geili.me/
@@ -898,6 +906,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -1117,6 +1126,7 @@ local=/hungary.privacy-dns.pw/
 local=/las-vegas.privacy-dns.pw/
 local=/luxembourg.privacy-dns.pw/
 local=/romania.privacy-dns.pw/
+local=/dns.privado.ovh/
 local=/orpi.privado.ovh/
 local=/de.dns.privex.io/
 local=/nl.dns.privex.io/
@@ -1170,6 +1180,7 @@ local=/dns.reitmeier.me/
 local=/renardbleu.dev/
 local=/dns.renardyre.com/
 local=/dns.repinger.com/
+local=/dns.repressoh.it/
 local=/dnspub.restena.lu/
 local=/dns.retakecs.com/
 local=/rethinkdns.com/
