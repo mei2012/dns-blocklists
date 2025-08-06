@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754467200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754481360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - medium version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Aug 2025 08:00 UTC
-; Version: 2025.0806.0800.33
+; Last modified: 06 Aug 2025 11:56 UTC
+; Version: 2025.0806.1156.59
 ; Syntax: RPZ
-; Number of entries: 160234
+; Number of entries: 160228
 ;
 1xbet.ac CNAME .
 *.1xbet.ac CNAME .
@@ -48769,8 +48769,6 @@ emirbet.com CNAME .
 *.emirbet.com CNAME .
 emojino.com CNAME .
 *.emojino.com CNAME .
-emojino-casino.com CNAME .
-*.emojino-casino.com CNAME .
 emonetofu.com CNAME .
 *.emonetofu.com CNAME .
 empire777bonus.com CNAME .
@@ -56929,8 +56927,6 @@ indosgaa.com CNAME .
 *.indosgaa.com CNAME .
 indowlatoto4d.com CNAME .
 *.indowlatoto4d.com CNAME .
-indrabetfortrading.com CNAME .
-*.indrabetfortrading.com CNAME .
 indslots-app.com CNAME .
 *.indslots-app.com CNAME .
 indslotsapp.com CNAME .
@@ -62783,8 +62779,6 @@ luxrybets168.com CNAME .
 *.luxrybets168.com CNAME .
 luxuriosecasinowelt.com CNAME .
 *.luxuriosecasinowelt.com CNAME .
-luxury-casino-canada.com CNAME .
-*.luxury-casino-canada.com CNAME .
 luxury12asik.com CNAME .
 *.luxury12asik.com CNAME .
 luxury12tampan.com CNAME .
@@ -100655,8 +100649,6 @@ win55.mobi CNAME .
 *.win55.mobi CNAME .
 x8.mobi CNAME .
 *.x8.mobi CNAME .
-poker.moda CNAME .
-*.poker.moda CNAME .
 oploverz.moe CNAME .
 *.oploverz.moe CNAME .
 debet.moi CNAME .
@@ -132601,6 +132593,8 @@ adz58win.top CNAME .
 *.adz58win.top CNAME .
 aff1xstavka.top CNAME .
 *.aff1xstavka.top CNAME .
+affpa.top CNAME .
+*.affpa.top CNAME .
 afterpaycasino-nl.top CNAME .
 *.afterpaycasino-nl.top CNAME .
 agenpoker99.top CNAME .

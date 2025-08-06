@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754467320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754481480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Aug 2025 08:02 UTC
-; Version: 2025.0806.0802.13
+; Last modified: 06 Aug 2025 11:58 UTC
+; Version: 2025.0806.1158.49
 ; Syntax: RPZ
-; Number of entries: 104364
+; Number of entries: 104336
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -16019,10 +16019,6 @@ images.6440949940.com CNAME .
 *.68win26.com CNAME .
 asstook.68winapi.com CNAME .
 *.asstook.68winapi.com CNAME .
-asstook.68winbin.com CNAME .
-*.asstook.68winbin.com CNAME .
-andcniw86.68wincdn.com CNAME .
-*.andcniw86.68wincdn.com CNAME .
 assoniw86.68winoss.com CNAME .
 *.assoniw86.68winoss.com CNAME .
 68xslots.com CNAME .
@@ -17039,10 +17035,6 @@ images.6929183.com CNAME .
 *.888winbets.com CNAME .
 888wincasino8.com CNAME .
 *.888wincasino8.com CNAME .
-cdn.888zfym.com CNAME .
-*.cdn.888zfym.com CNAME .
-pv9g7x12i.888zfym.com CNAME .
-*.pv9g7x12i.888zfym.com CNAME .
 8897bets.com CNAME .
 *.8897bets.com CNAME .
 8899betslot.com CNAME .
@@ -18781,8 +18773,6 @@ argentinastakecasino.com CNAME .
 *.argentinastakecasino.com CNAME .
 argentmania.com CNAME .
 *.argentmania.com CNAME .
-ariaexhibitorservices.com CNAME .
-*.ariaexhibitorservices.com CNAME .
 arionplay.com CNAME .
 *.arionplay.com CNAME .
 arionplay888.com CNAME .
@@ -19105,10 +19095,6 @@ avantgardecasino-au.com CNAME .
 *.avantgardecasino-au.com CNAME .
 avantgardecasinoau.com CNAME .
 *.avantgardecasinoau.com CNAME .
-cdn.avcjtodj.com CNAME .
-*.cdn.avcjtodj.com CNAME .
-cdn65.avcjtodj.com CNAME .
-*.cdn65.avcjtodj.com CNAME .
 avenhou.com CNAME .
 *.avenhou.com CNAME .
 averageguyslots.com CNAME .
@@ -29707,8 +29693,6 @@ emiratescasinoonline.com CNAME .
 *.emiratescasinoonline.com CNAME .
 emirbet.com CNAME .
 *.emirbet.com CNAME .
-emojino-casino.com CNAME .
-*.emojino-casino.com CNAME .
 empire777vn.com CNAME .
 *.empire777vn.com CNAME .
 empirecitycasino.com CNAME .
@@ -34063,8 +34047,6 @@ indosbotop.com CNAME .
 *.indosbotop.com CNAME .
 indowlatoto4d.com CNAME .
 *.indowlatoto4d.com CNAME .
-indrabetfortrading.com CNAME .
-*.indrabetfortrading.com CNAME .
 indslots-app.com CNAME .
 *.indslots-app.com CNAME .
 indslotsoffical.com CNAME .
@@ -37441,8 +37423,6 @@ luxo777.com CNAME .
 *.luxo777.com CNAME .
 luxuriosecasinowelt.com CNAME .
 *.luxuriosecasinowelt.com CNAME .
-luxury-casino-canada.com CNAME .
-*.luxury-casino-canada.com CNAME .
 luxurycasino.com CNAME .
 *.luxurycasino.com CNAME .
 luxurycasino-uk.com CNAME .
@@ -44921,8 +44901,6 @@ refpanjoke.com CNAME .
 *.refpanjoke.com CNAME .
 refuelcasino.com CNAME .
 *.refuelcasino.com CNAME .
-regal33.com CNAME .
-*.regal33.com CNAME .
 regentplay.com CNAME .
 *.regentplay.com CNAME .
 registration-1xbet-casino.com CNAME .
@@ -58843,10 +58821,6 @@ topvieclam.info CNAME .
 *.topvieclam.info CNAME .
 tototube.info CNAME .
 *.tototube.info CNAME .
-apirvp4.traskiprik.info CNAME .
-*.apirvp4.traskiprik.info CNAME .
-apirvp6.traskiprik.info CNAME .
-*.apirvp6.traskiprik.info CNAME .
 tri3pokerwin.info CNAME .
 *.tri3pokerwin.info CNAME .
 tripokerplay.info CNAME .
@@ -61419,8 +61393,6 @@ vave.mobi CNAME .
 *.vave.mobi CNAME .
 x8.mobi CNAME .
 *.x8.mobi CNAME .
-poker.moda CNAME .
-*.poker.moda CNAME .
 oploverz.moe CNAME .
 *.oploverz.moe CNAME .
 789win1.mom CNAME .
@@ -69433,6 +69405,10 @@ cobber-casino.org CNAME .
 *.cobber-casino.org CNAME .
 cobbercasino.org CNAME .
 *.cobbercasino.org CNAME .
+ipv4.colgagnez.org CNAME .
+*.ipv4.colgagnez.org CNAME .
+ipv6.colgagnez.org CNAME .
+*.ipv6.colgagnez.org CNAME .
 colombiamobilization.org CNAME .
 *.colombiamobilization.org CNAME .
 colourcitydragons.org CNAME .
@@ -82543,6 +82519,8 @@ admiralx-slots.top CNAME .
 *.admiralx-slots.top CNAME .
 adz58win.top CNAME .
 *.adz58win.top CNAME .
+affpa.top CNAME .
+*.affpa.top CNAME .
 agenpoker99.top CNAME .
 *.agenpoker99.top CNAME .
 ajaibslotstrbaik88.top CNAME .
@@ -89481,12 +89459,6 @@ skybetcasino.top CNAME .
 *.skybetcasino.top CNAME .
 skybetcasino-pt.top CNAME .
 *.skybetcasino-pt.top CNAME .
-cdn.slot8888.top CNAME .
-*.cdn.slot8888.top CNAME .
-cdnapiif.slot8888.top CNAME .
-*.cdnapiif.slot8888.top CNAME .
-cdnapiif.slot88888.top CNAME .
-*.cdnapiif.slot88888.top CNAME .
 slotozal-casino-dxa.top CNAME .
 *.slotozal-casino-dxa.top CNAME .
 slotozal-games-casino-1.top CNAME .
