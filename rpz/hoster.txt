@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754333100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754433660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Aug 2025 18:45 UTC
-; Version: 2025.0804.1845.41
+; Last modified: 05 Aug 2025 22:41 UTC
+; Version: 2025.0805.2241.00
 ; Syntax: RPZ
-; Number of entries: 4244
+; Number of entries: 4250
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2289,6 +2289,8 @@ suchtis.de CNAME .
 *.suchtis.de CNAME .
 te4m.de CNAME .
 *.te4m.de CNAME .
+technetbloggers.de CNAME .
+*.technetbloggers.de CNAME .
 ucoz.de CNAME .
 *.ucoz.de CNAME .
 verkniffen.de CNAME .
@@ -3269,6 +3271,8 @@ macao.net CNAME .
 *.macao.net CNAME .
 mastertopforum.net CNAME .
 *.mastertopforum.net CNAME .
+mdwrite.net CNAME .
+*.mdwrite.net CNAME .
 megabyet.net CNAME .
 *.megabyet.net CNAME .
 mydiscussion.net CNAME .
@@ -3325,6 +3329,8 @@ tearosediner.net CNAME .
 *.tearosediner.net CNAME .
 telepacific.net CNAME .
 *.telepacific.net CNAME .
+thoughtlanes.net CNAME .
+*.thoughtlanes.net CNAME .
 timeblog.net CNAME .
 *.timeblog.net CNAME .
 totalh.net CNAME .

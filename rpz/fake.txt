@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754419080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754433540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Aug 2025 18:38 UTC
-; Version: 2025.0805.1838.50
+; Last modified: 05 Aug 2025 22:39 UTC
+; Version: 2025.0805.2239.19
 ; Syntax: RPZ
-; Number of entries: 27778
+; Number of entries: 27798
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4527,6 +4527,8 @@ conservatione.com CNAME .
 *.conservatione.com CNAME .
 consistorkred.com CNAME .
 *.consistorkred.com CNAME .
+conspeco.com CNAME .
+*.conspeco.com CNAME .
 constanip.com CNAME .
 *.constanip.com CNAME .
 constantunion.com CNAME .
@@ -5549,6 +5551,8 @@ eco-crypto.com CNAME .
 *.eco-crypto.com CNAME .
 ecogisolaire.com CNAME .
 *.ecogisolaire.com CNAME .
+ecomaher.com CNAME .
+*.ecomaher.com CNAME .
 economicp.com CNAME .
 *.economicp.com CNAME .
 economicq.com CNAME .
@@ -6211,6 +6215,8 @@ fahrradzubehorschritte.com CNAME .
 *.fahrradzubehorschritte.com CNAME .
 fahrradzubehorverkauf.com CNAME .
 *.fahrradzubehorverkauf.com CNAME .
+fahrsuron.com CNAME .
+*.fahrsuron.com CNAME .
 failux.com CNAME .
 *.failux.com CNAME .
 fairfaction.com CNAME .
@@ -6563,6 +6569,8 @@ flavourg.com CNAME .
 *.flavourg.com CNAME .
 fleshjacket.com CNAME .
 *.fleshjacket.com CNAME .
+fleuropdeutschland.com CNAME .
+*.fleuropdeutschland.com CNAME .
 flexibleluxury.com CNAME .
 *.flexibleluxury.com CNAME .
 flexioptions.com CNAME .
@@ -12965,6 +12973,8 @@ remainderk.com CNAME .
 *.remainderk.com CNAME .
 reminora.com CNAME .
 *.reminora.com CNAME .
+remorcas.com CNAME .
+*.remorcas.com CNAME .
 remorquesdunords.com CNAME .
 *.remorquesdunords.com CNAME .
 remote-arbeiten.com CNAME .
@@ -18075,6 +18085,8 @@ chaps-herrenmode.de CNAME .
 *.chaps-herrenmode.de CNAME .
 cheapcharly.de CNAME .
 *.cheapcharly.de CNAME .
+chefthermomix.de CNAME .
+*.chefthermomix.de CNAME .
 chemnitzer-handelshaus.de CNAME .
 *.chemnitzer-handelshaus.de CNAME .
 chh-transport.de CNAME .
@@ -24001,6 +24013,8 @@ todayoffer.info CNAME .
 *.todayoffer.info CNAME .
 topalis-kyc-gmbh.info CNAME .
 *.topalis-kyc-gmbh.info CNAME .
+tribepop.info CNAME .
+*.tribepop.info CNAME .
 xmkkan.info CNAME .
 *.xmkkan.info CNAME .
 deinheimhandwerk.crqdkg.ink CNAME .
@@ -24343,6 +24357,8 @@ anhanger.net CNAME .
 *.anhanger.net CNAME .
 apotheke-schweiz.net CNAME .
 *.apotheke-schweiz.net CNAME .
+app-alpha.net CNAME .
+*.app-alpha.net CNAME .
 arbeitskleidung-shop.net CNAME .
 *.arbeitskleidung-shop.net CNAME .
 auroxtrade.net CNAME .
@@ -25801,6 +25817,8 @@ cnncklcscwicz.shop CNAME .
 *.cnncklcscwicz.shop CNAME .
 codysocks.shop CNAME .
 *.codysocks.shop CNAME .
+cokimnsi.shop CNAME .
+*.cokimnsi.shop CNAME .
 comfypjs.shop CNAME .
 *.comfypjs.shop CNAME .
 containercompany.shop CNAME .
@@ -26107,6 +26125,8 @@ henworld.shop CNAME .
 *.henworld.shop CNAME .
 herbinosdeeur.shop CNAME .
 *.herbinosdeeur.shop CNAME .
+hermesfod.shop CNAME .
+*.hermesfod.shop CNAME .
 herzbegehrtduesseldorfava.shop CNAME .
 *.herzbegehrtduesseldorfava.shop CNAME .
 hfbyy.shop CNAME .
