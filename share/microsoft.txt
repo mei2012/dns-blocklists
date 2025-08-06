@@ -118,3 +118,11 @@ in.events.data.trafficmanager.net
 jp.events.data.trafficmanager.net
 uk.events.data.trafficmanager.net
 us.events.data.trafficmanager.net
+
+# Used to collect telemetry and diagnostic data from browsers, including Microsoft Edge and other Microsoft services.
+# Prevents the download of the Visual Studio Installer:
+# https://visualstudio.microsoft.com/de/downloads/?cid=learn-onpage-download-install-visual-studio-page-cta
+browser.events.data.microsoft.com
+# CNAMES
+browser.events.data.trafficmanager.net
+onedscolprdcus13.centralus.cloudapp.azure.com
