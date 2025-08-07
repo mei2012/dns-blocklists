@@ -73,7 +73,7 @@ jobs:
       - name: relabel
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.PAT }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const labelToFind = 'scheduled-next-release';
             const labelToAdd = 'fixed-pending-release';
