@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754452320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754553720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Aug 2025 03:52 UTC
-; Version: 2025.0806.0352.32
+; Last modified: 07 Aug 2025 08:02 UTC
+; Version: 2025.0807.0802.18
 ; Syntax: RPZ
-; Number of entries: 20110
+; Number of entries: 20114
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -13643,6 +13643,8 @@ putlockertv.onl CNAME .
 *.putlockertv.onl CNAME .
 newalbumreleases.unblockit.onl CNAME .
 *.newalbumreleases.unblockit.onl CNAME .
+0123movie.online CNAME .
+*.0123movie.online CNAME .
 123movies.online CNAME .
 *.123movies.online CNAME .
 123moviesme.online CNAME .
@@ -17235,6 +17237,8 @@ toparena.store CNAME .
 *.toparena.store CNAME .
 0123movie.stream CNAME .
 *.0123movie.stream CNAME .
+01streaming.stream CNAME .
+*.01streaming.stream CNAME .
 bdiptv.stream CNAME .
 *.bdiptv.stream CNAME .
 cricfree.stream CNAME .

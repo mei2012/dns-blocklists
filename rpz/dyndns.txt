@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754337780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754553960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Aug 2025 20:03 UTC
-; Version: 2025.0804.2003.05
+; Last modified: 07 Aug 2025 08:06 UTC
+; Version: 2025.0807.0806.55
 ; Syntax: RPZ
-; Number of entries: 2924
+; Number of entries: 2926
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1593,6 +1593,8 @@ dyn.columbia.edu CNAME .
 *.dyn.columbia.edu CNAME .
 leitud.ee CNAME .
 *.leitud.ee CNAME .
+10x.es CNAME .
+*.10x.es CNAME .
 colegiotorrevilano.es CNAME .
 *.colegiotorrevilano.es CNAME .
 ddnss.eu CNAME .

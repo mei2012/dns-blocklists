@@ -4,14 +4,15 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Aug 2025 03:52 UTC
-# Version: 2025.0806.0352.32
+# Last modified: 07 Aug 2025 08:02 UTC
+# Version: 2025.0807.0802.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10055
+# Number of entries: 10057
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
 local=/0123movie.onl/
+local=/0123movie.online/
 local=/0123movie.stream/
 local=/0123movie.ws/
 local=/0123movies.com/
@@ -19,6 +20,7 @@ local=/0123movies.live/
 local=/0123movies.one/
 local=/0123moviesfree.org/
 local=/01streaming.click/
+local=/01streaming.stream/
 local=/01streaming.tv/
 local=/037hdmovie.com/
 local=/0902797.xyz/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 03:58 UTC
-# Version: 2025.0807.0358.48
+# Last modified: 07 Aug 2025 08:07 UTC
+# Version: 2025.0807.0807.18
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1603
+# Number of entries: 1600
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -605,10 +605,6 @@
 0.0.0.0 droyd.top
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
-0.0.0.0 home27.duckdns.org
-0.0.0.0 jurre-home.duckdns.org
-0.0.0.0 krtekvpn.duckdns.org
-0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
@@ -669,6 +665,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
@@ -1030,6 +1027,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1315,7 +1313,6 @@
 0.0.0.0 renardbleu.dev
 0.0.0.0 dns.renardyre.com
 0.0.0.0 dns.repinger.com
-0.0.0.0 dns.repressoh.it
 0.0.0.0 dnspub.restena.lu
 0.0.0.0 dns.retakecs.com
 0.0.0.0 rethinkdns.com
