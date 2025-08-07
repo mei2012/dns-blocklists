@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 08:07 UTC
-# Version: 2025.0807.0807.41
+# Last modified: 07 Aug 2025 16:06 UTC
+# Version: 2025.0807.1606.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5229
+# Number of entries: 5232
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -225,6 +225,7 @@ local=/work.excel.albacetediario.com/
 local=/dns.albony.xyz/
 local=/sybau.alcrb.ru/
 local=/aldhaferi.store/
+local=/dnsnl.alekberg.net/
 local=/search.alemanaactiva.cl/
 local=/class.craft.alerteqa.com/
 local=/alhapi.com/
@@ -270,6 +271,7 @@ local=/ananoos.com/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
 local=/angle.goal.andrewshomelabs.com/
+local=/androvpn.com/
 local=/doh.angry.im/
 local=/animeproxy.net/
 local=/aniscartujo.com/
@@ -1280,6 +1282,10 @@ local=/agh.dshubham.xyz/
 local=/duapps.com/
 local=/duba.net/
 local=/bitly-galatikx.duckdns.org/
+local=/home27.duckdns.org/
+local=/jurre-home.duckdns.org/
+local=/krtekvpn.duckdns.org/
+local=/osefcorp.duckdns.org/
 local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
@@ -1337,6 +1343,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1484,7 +1491,6 @@ local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/chart.books.fivepals.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2597,7 +2603,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3396,6 +3401,7 @@ local=/renardbleu.dev/
 local=/dns.renardyre.com/
 local=/dns.repinger.com/
 local=/repocket.co/
+local=/dns.repressoh.it/
 local=/restaurantgift.us/
 local=/dnspub.restena.lu/
 local=/dns.retakecs.com/
@@ -4506,9 +4512,6 @@ local=/linewize.tradekinginternational.com/
 local=/trafflink.xyz/
 local=/traffmonetizer.com/
 local=/bio.goal.trans.am/
-local=/resolv1.trash.net/
-local=/resolv2.trash.net/
-local=/resolv3.trash.net/
 local=/travelvpn.net/
 local=/ns.trcnet.fi/
 local=/consumervpn.trendmicro.com/

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 08:02 UTC
-# Version: 2025.0807.0802.18
+# Last modified: 07 Aug 2025 16:01 UTC
+# Version: 2025.0807.1601.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10057
+# Number of entries: 10080
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -331,6 +331,7 @@ local=/tracker1.520.jp/
 local=/tracker.52pt.site/
 local=/admin.52ywp.com/
 local=/54new.com/
+local=/5mins.shop/
 local=/5movierulz.vc/
 local=/5movies.buzz/
 local=/5movies.cloud/
@@ -500,6 +501,7 @@ local=/alldebrid.fr/
 local=/alldebrid.it/
 local=/alldj.org/
 local=/alleenretail.org/
+local=/allesanddro.de/
 local=/allesender.de/
 local=/allevertakstream.space/
 local=/allfreeapk.com/
@@ -631,6 +633,7 @@ local=/altadefinizione01.app/
 local=/altadefinizione01.bet/
 local=/altadefinizione01.boutique/
 local=/altadefinizione01.cc/
+local=/altadefinizione01.click/
 local=/altadefinizione01.cloud/
 local=/altadefinizione01.com/
 local=/altadefinizione01.email/
@@ -769,6 +772,7 @@ local=/animepahe.ru/
 local=/animepill.com/
 local=/animeplex.fun/
 local=/animeram.cc/
+local=/tc.animereactor.ru/
 local=/animerealms.org/
 local=/animerush.tv/
 local=/animes.so/
@@ -929,6 +933,7 @@ local=/appsitory.com/
 local=/academic-p2p.appspot.com/
 local=/carbon-bonsai-621.appspot.com/
 local=/cernet-tracker.appspot.com/
+local=/appstoreforpc.com/
 local=/appstorrent.ru/
 local=/apptaca.com/
 local=/apptracker.org/
@@ -1030,13 +1035,16 @@ local=/audiobookbay.net/
 local=/audiobookbay.nl/
 local=/audiobookbay.se/
 local=/audiobookol.com/
+local=/audiobooks.cloud/
 local=/audiobooksbee.com/
 local=/audiobookss.com/
 local=/audionews.org/
 local=/audionews.ru/
 local=/audiop2p.com/
 local=/audiostuff.ro/
+local=/audiotracer.com/
 local=/aurastresser.com/
+local=/auratorrent.pl/
 local=/autocadbmjes.com/
 local=/autocadbmsa.com/
 local=/autocadbnaqk.com/
@@ -1439,6 +1447,7 @@ local=/bomplay.com/
 local=/bondhuitbd.com/
 local=/bonoov.fr/
 local=/bonsaihd.live/
+local=/bt.bontal.net/
 local=/tracker.bontal.net/
 local=/bookaudiobook.net/
 local=/bookaura.top/
@@ -2288,6 +2297,7 @@ local=/cytu.be/
 local=/torrents.czteam.ro/
 local=/cztorrent.net/
 local=/d-addicts.com/
+local=/d0000d.com/
 local=/d123movies.to/
 local=/d4download.com/
 local=/bingoportal.da.ru/
@@ -2532,6 +2542,8 @@ local=/tracker.dnlab.net/
 local=/valakas.rollo.dnsabr.com/
 local=/jungleland.dnsalias.com/
 local=/cine.do.am/
+local=/do0od.com/
+local=/do7go.com/
 local=/doc-doc.ru/
 local=/docer.pl/
 local=/doci.pl/
@@ -2553,12 +2565,23 @@ local=/donkey.to/
 local=/dontorrent.org/
 local=/dontorrents.com/
 local=/dontorrents.org/
+local=/dood.cx/
 local=/dood.la/
+local=/dood.pm/
 local=/dood.re/
+local=/dood.sh/
+local=/dood.so/
 local=/dood.to/
+local=/dood.watch/
+local=/dood.wf/
+local=/dood.ws/
+local=/dood.yt/
 local=/doodcdn.com/
+local=/doods.pro/
 local=/doodstream.com/
 local=/tr.doogh.club/
+local=/dooodster.com/
+local=/dooood.com/
 local=/doopes.com/
 local=/dopebox.cc/
 local=/dopebox.net/
