@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 22:43 UTC
-# Version: 2025.0807.2243.37
+# Last modified: 08 Aug 2025 06:58 UTC
+# Version: 2025.0808.0658.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4741
+# Number of entries: 4745
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1168,6 +1168,7 @@ local=/dly.es/
 local=/dmdi.pl/
 local=/dmprd.com/
 local=/dmreg.co/
+local=/dmvrenew.com/
 local=/dn303.online/
 local=/dna360.tw/
 local=/do.co/
@@ -1255,6 +1256,7 @@ local=/easyurl.net/
 local=/easyurl.site/
 local=/ebay.to/
 local=/ebbco.ir/
+local=/ebooktruyen.info/
 local=/eclip.se/
 local=/econ.st/
 local=/ecra.se/
@@ -1342,6 +1344,7 @@ local=/eyq.me/
 local=/ez1.cc/
 local=/ezbz.me/
 local=/ezc.vc/
+local=/ezclick.me/
 local=/ezexzo.link/
 local=/ezstat.ru/
 local=/ezurl.co/
@@ -1450,6 +1453,7 @@ local=/fts.ms/
 local=/fumacrom.com/
 local=/fund.school/
 local=/funurl.com/
+local=/fur.ly/
 local=/furl.in/
 local=/fvglvsex.lol/
 local=/fvrr.co/

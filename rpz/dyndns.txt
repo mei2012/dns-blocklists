@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754611740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754641140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 08 Aug 2025 00:09 UTC
-; Version: 2025.0808.0009.11
+; Last modified: 08 Aug 2025 08:19 UTC
+; Version: 2025.0808.0819.24
 ; Syntax: RPZ
-; Number of entries: 2930
+; Number of entries: 2936
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -579,6 +579,8 @@ echoparklake.com CNAME .
 *.echoparklake.com CNAME .
 effers.com CNAME .
 *.effers.com CNAME .
+eiresol.com CNAME .
+*.eiresol.com CNAME .
 elchemi.com CNAME .
 *.elchemi.com CNAME .
 empresastaylor.com CNAME .
@@ -2353,6 +2355,8 @@ dhis.org CNAME .
 *.dhis.org CNAME .
 dhs.org CNAME .
 *.dhs.org CNAME .
+diyplans.org CNAME .
+*.diyplans.org CNAME .
 dnsalias.org CNAME .
 *.dnsalias.org CNAME .
 dnsdojo.org CNAME .
@@ -2417,6 +2421,8 @@ f3322.org CNAME .
 *.f3322.org CNAME .
 fairuse.org CNAME .
 *.fairuse.org CNAME .
+fatdiary.org CNAME .
+*.fatdiary.org CNAME .
 flnet.org CNAME .
 *.flnet.org CNAME .
 freeddns.org CNAME .

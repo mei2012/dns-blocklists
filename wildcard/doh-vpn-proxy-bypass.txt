@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 00:09 UTC
-# Version: 2025.0808.0009.58
+# Last modified: 08 Aug 2025 08:20 UTC
+# Version: 2025.0808.0820.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 5239
+# Number of entries: 5243
 #
 *.003153.xyz
 *.ns.00dani.me
@@ -1056,6 +1056,7 @@
 *.deep-henchman-excuse.cfd
 *.deepwebvpn.net
 *.doh.defaultroutes.de
+*.colson.defcon-industries.com
 *.wutidontunderstand.defdc.com
 *.defencevpn.com
 *.defilter.us
@@ -1124,6 +1125,7 @@
 *.doh.dns4all.eu
 *.dns4me.net
 *.aroeuyo.dns64.de
+*.dns8.org
 *.dnsbunker.org
 *.ns1.recursive.dnsbycomodo.com
 *.ns2.recursive.dnsbycomodo.com
@@ -1288,6 +1290,7 @@
 *.duba.net
 *.bitly-galatikx.duckdns.org
 *.home27.duckdns.org
+*.huawaakiskokoa.duckdns.org
 *.jurre-home.duckdns.org
 *.krtekvpn.duckdns.org
 *.osefcorp.duckdns.org
@@ -1305,6 +1308,7 @@
 *.dvprovider.icu
 *.dns.dyn1.de
 *.ueni.dyndns.org
+*.resolver2.dyndnsinternetguide.com
 *.adbox-v9.dynipv6.de
 *.gustamadh.dynv6.net
 *.sagamihara.dynv6.net
@@ -1526,6 +1530,7 @@
 *.rf4.forestberrypi.com
 *.www-rf4.forestberrypi.com
 *.forestvpn.com
+*.proxy.forkbomb.xyz
 *.www-proxy.formen.cc
 *.fortniters.info
 *.forwardproxie.com
@@ -1815,7 +1820,6 @@
 *.query.hdns.io
 *.ordns.he.net
 *.headproxy.com
-*.us-ny-alula.heliumcloud.cc
 *.sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 *.sage.skills.hellasinside.com
 *.dns.hellozhao.com

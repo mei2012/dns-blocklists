@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 00:09 UTC
-# Version: 2025.0808.0009.34
+# Last modified: 08 Aug 2025 08:19 UTC
+# Version: 2025.0808.0819.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1604
+# Number of entries: 1605
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -441,6 +441,7 @@
 0.0.0.0 uk01.dns4me.net
 0.0.0.0 us01.dns4me.net
 0.0.0.0 us02.dns4me.net
+0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
 0.0.0.0 alpha.dnsbunker.org
 0.0.0.0 bravo.dnsbunker.org
@@ -616,6 +617,7 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
@@ -741,7 +743,6 @@
 0.0.0.0 adguard.hartley.cloud
 0.0.0.0 query.hdns.io
 0.0.0.0 ordns.he.net
-0.0.0.0 us-ny-alula.heliumcloud.cc
 0.0.0.0 dns.hellozhao.com
 0.0.0.0 dns.henek.ovh
 0.0.0.0 httpdns-push.heytapmobile.com

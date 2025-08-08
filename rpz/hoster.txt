@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754577720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754636220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Aug 2025 14:42 UTC
-; Version: 2025.0807.1442.00
+; Last modified: 08 Aug 2025 06:57 UTC
+; Version: 2025.0808.0657.34
 ; Syntax: RPZ
-; Number of entries: 4254
+; Number of entries: 4274
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -609,6 +609,8 @@ blogars.com CNAME .
 *.blogars.com CNAME .
 blogblog.com CNAME .
 *.blogblog.com CNAME .
+blogbus.com CNAME .
+*.blogbus.com CNAME .
 blogcdn.com CNAME .
 *.blogcdn.com CNAME .
 blogchaat.com CNAME .
@@ -957,6 +959,8 @@ eazylaunch.com CNAME .
 *.eazylaunch.com CNAME .
 eb2a.com CNAME .
 *.eb2a.com CNAME .
+eblogmall.com CNAME .
+*.eblogmall.com CNAME .
 ecardalert.com CNAME .
 *.ecardalert.com CNAME .
 ecomplanet.com CNAME .
@@ -1377,6 +1381,8 @@ look4blog.com CNAME .
 *.look4blog.com CNAME .
 losblogos.com CNAME .
 *.losblogos.com CNAME .
+lovestoblog.com CNAME .
+*.lovestoblog.com CNAME .
 lowescouponn.com CNAME .
 *.lowescouponn.com CNAME .
 loxblog.com CNAME .
@@ -1981,6 +1987,8 @@ blogspot.com.cy CNAME .
 *.blogspot.com.cy CNAME .
 blog.cz CNAME .
 *.blog.cz CNAME .
+bloger.cz CNAME .
+*.bloger.cz CNAME .
 blogspot.cz CNAME .
 *.blogspot.cz CNAME .
 bluefile.cz CNAME .
@@ -2317,6 +2325,8 @@ zustimmen.de CNAME .
 *.zustimmen.de CNAME .
 zx9.de CNAME .
 *.zx9.de CNAME .
+bearblog.dev CNAME .
+*.bearblog.dev CNAME .
 deno.dev CNAME .
 *.deno.dev CNAME .
 hashnode.dev CNAME .
@@ -2793,6 +2803,14 @@ webflow.io CNAME .
 *.webflow.io CNAME .
 wixstudio.io CNAME .
 *.wixstudio.io CNAME .
+arvandblog.ir CNAME .
+*.arvandblog.ir CNAME .
+asblog.ir CNAME .
+*.asblog.ir CNAME .
+asrblog.ir CNAME .
+*.asrblog.ir CNAME .
+atrinblog.ir CNAME .
+*.atrinblog.ir CNAME .
 avablog.ir CNAME .
 *.avablog.ir CNAME .
 blog.ir CNAME .
@@ -3351,6 +3369,8 @@ untergrund.net CNAME .
 *.untergrund.net CNAME .
 uzblog.net CNAME .
 *.uzblog.net CNAME .
+vefblog.net CNAME .
+*.vefblog.net CNAME .
 vmn.net CNAME .
 *.vmn.net CNAME .
 vollidiot.net CNAME .
