@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Aug 2025 22:41 UTC
-# Version: 2025.0805.2241.00
+# Last modified: 07 Aug 2025 14:42 UTC
+# Version: 2025.0807.1442.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2125
+# Number of entries: 2127
 #
 local=/000a.de/
 local=/000free.us/
@@ -60,6 +60,7 @@ local=/100webspace.com/
 local=/100webspace.net/
 local=/100ws.com/
 local=/10gbfreehost.com/
+local=/10h.us/
 local=/110mb.com/
 local=/111mb.de/
 local=/114.at/
@@ -411,6 +412,7 @@ local=/bloggadores.com/
 local=/bloggang.com/
 local=/bloggazza.com/
 local=/bloggazzo.com/
+local=/blogger-news.net/
 local=/bloggerbags.com/
 local=/bloggerchest.com/
 local=/bloggersdelight.dk/

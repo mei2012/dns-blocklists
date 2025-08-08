@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 03:59 UTC
-# Version: 2025.0807.0359.19
+# Last modified: 08 Aug 2025 00:09 UTC
+# Version: 2025.0808.0009.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5232
+# Number of entries: 5239
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -225,6 +225,7 @@ local=/work.excel.albacetediario.com/
 local=/dns.albony.xyz/
 local=/sybau.alcrb.ru/
 local=/aldhaferi.store/
+local=/dnsnl.alekberg.net/
 local=/search.alemanaactiva.cl/
 local=/class.craft.alerteqa.com/
 local=/alhapi.com/
@@ -270,6 +271,7 @@ local=/ananoos.com/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
 local=/angle.goal.andrewshomelabs.com/
+local=/androvpn.com/
 local=/doh.angry.im/
 local=/animeproxy.net/
 local=/aniscartujo.com/
@@ -650,6 +652,7 @@ local=/dns.chilimac.net/
 local=/imisstheoldkanye.chillcrew.net/
 local=/justbuiltdifferent.chillcrew.net/
 local=/chillglobal.com/
+local=/chinagrows.com/
 local=/dns.christerwaren.fi/
 local=/dns.christian.moe/
 local=/christophbrem.com/
@@ -676,6 +679,7 @@ local=/dns.clanto.cloud/
 local=/classicpen.us/
 local=/cleanbrowsing.org/
 local=/clearvpn.com/
+local=/clickapp.info/
 local=/clickwork7secure.com/
 local=/procedures.clientview.com/
 local=/cloaker.ca/
@@ -831,6 +835,7 @@ local=/sbdns.co.in/
 local=/secvpnproxy.co.cc/
 local=/dns.spil.co.id/
 local=/surfshark.co.za/
+local=/surfvpn.co.cc/
 local=/uk-proxy.co.uk/
 local=/unblocksites.co.uk/
 local=/academy.velolife.co.za/
@@ -840,6 +845,7 @@ local=/vpncompare.co.uk/
 local=/vpncrmerp.co.cc/
 local=/vpnguide.co.cc/
 local=/vpnmailvista.co.cc/
+local=/vpnofanti.co.cc/
 local=/vpnoffice.co.cc/
 local=/webproxy.co.at/
 local=/agh.workfordemo.co.in/
@@ -908,6 +914,7 @@ local=/doge.sundblad.com.ar/
 local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
+local=/webproxy.com.de/
 local=/dns.comeonjames.club/
 local=/dns.comff.net/
 local=/commonapp.college/
