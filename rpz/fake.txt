@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754577600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754606460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Aug 2025 14:40 UTC
-; Version: 2025.0807.1440.28
+; Last modified: 07 Aug 2025 22:41 UTC
+; Version: 2025.0807.2241.37
 ; Syntax: RPZ
-; Number of entries: 27958
+; Number of entries: 27988
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -163,6 +163,8 @@ bognerosterreich.at CNAME .
 *.bognerosterreich.at CNAME .
 bozok.at CNAME .
 *.bozok.at CNAME .
+brain-train.at CNAME .
+*.brain-train.at CNAME .
 brennholz-world.at CNAME .
 *.brennholz-world.at CNAME .
 brooks-osterreich.at CNAME .
@@ -2689,8 +2691,6 @@ axiogenesis.com CNAME .
 *.axiogenesis.com CNAME .
 axismakup.com CNAME .
 *.axismakup.com CNAME .
-axl-staking.com CNAME .
-*.axl-staking.com CNAME .
 axnam.com CNAME .
 *.axnam.com CNAME .
 axonrcparts.com CNAME .
@@ -3547,6 +3547,8 @@ bn-paris.com CNAME .
 *.bn-paris.com CNAME .
 bncopfs.com CNAME .
 *.bncopfs.com CNAME .
+bnesmartrecruits.com CNAME .
+*.bnesmartrecruits.com CNAME .
 bnp-otc.com CNAME .
 *.bnp-otc.com CNAME .
 bnpfx.com CNAME .
@@ -3599,6 +3601,8 @@ bonnieandbloom.com CNAME .
 *.bonnieandbloom.com CNAME .
 bonsaiexperte.com CNAME .
 *.bonsaiexperte.com CNAME .
+boohoo-shop.com CNAME .
+*.boohoo-shop.com CNAME .
 boomaya.com CNAME .
 *.boomaya.com CNAME .
 booster-lastminute.com CNAME .
@@ -4135,6 +4139,8 @@ cavissimo.com CNAME .
 *.cavissimo.com CNAME .
 cb-sport.com CNAME .
 *.cb-sport.com CNAME .
+cbhandlife.com CNAME .
+*.cbhandlife.com CNAME .
 cbleurope.com CNAME .
 *.cbleurope.com CNAME .
 cbsstyles.com CNAME .
@@ -4183,6 +4189,8 @@ cfhomepillow.com CNAME .
 *.cfhomepillow.com CNAME .
 cfxmarkets.com CNAME .
 *.cfxmarkets.com CNAME .
+cfxshop.com CNAME .
+*.cfxshop.com CNAME .
 cgctv.com CNAME .
 *.cgctv.com CNAME .
 chamberm.com CNAME .
@@ -4431,6 +4439,8 @@ account.cmagruppe.com CNAME .
 *.account.cmagruppe.com CNAME .
 cmchbhopal.com CNAME .
 *.cmchbhopal.com CNAME .
+cmsmanutention.com CNAME .
+*.cmsmanutention.com CNAME .
 cnbiochemicals.com CNAME .
 *.cnbiochemicals.com CNAME .
 cnnworldtoday.com CNAME .
@@ -4553,6 +4563,8 @@ compreimagazine.com CNAME .
 *.compreimagazine.com CNAME .
 comptntistur.com CNAME .
 *.comptntistur.com CNAME .
+conawaydrums.com CNAME .
+*.conawaydrums.com CNAME .
 conceptionp.com CNAME .
 *.conceptionp.com CNAME .
 condutbarn.com CNAME .
@@ -10259,8 +10271,6 @@ marketct.com CNAME .
 *.marketct.com CNAME .
 marketgiants.com CNAME .
 *.marketgiants.com CNAME .
-markethasbro.com CNAME .
-*.markethasbro.com CNAME .
 marketoptions.com CNAME .
 *.marketoptions.com CNAME .
 marketplacetopshop.com CNAME .
@@ -10951,8 +10961,6 @@ myfaifo.com CNAME .
 *.myfaifo.com CNAME .
 myfaktory.com CNAME .
 *.myfaktory.com CNAME .
-myflorascan.com CNAME .
-*.myflorascan.com CNAME .
 mygamesstore.com CNAME .
 *.mygamesstore.com CNAME .
 myhouselooks.com CNAME .
@@ -18011,6 +18019,8 @@ brain-base.de CNAME .
 *.brain-base.de CNAME .
 brandenburger-garten.de CNAME .
 *.brandenburger-garten.de CNAME .
+brandschutzfachbuero-engler.de CNAME .
+*.brandschutzfachbuero-engler.de CNAME .
 brandt-belle.de CNAME .
 *.brandt-belle.de CNAME .
 brandup-grade.de CNAME .
@@ -18187,6 +18197,8 @@ casaecorte24.de CNAME .
 *.casaecorte24.de CNAME .
 casira.de CNAME .
 *.casira.de CNAME .
+casiva.de CNAME .
+*.casiva.de CNAME .
 castolonios.de CNAME .
 *.castolonios.de CNAME .
 catalia.de CNAME .
@@ -18211,6 +18223,8 @@ celinoe.de CNAME .
 *.celinoe.de CNAME .
 celmak.de CNAME .
 *.celmak.de CNAME .
+center-staubsauger.de CNAME .
+*.center-staubsauger.de CNAME .
 cervus-bike.de CNAME .
 *.cervus-bike.de CNAME .
 chacosdeutschland.de CNAME .
@@ -24555,6 +24569,8 @@ bsc-network.net CNAME .
 *.bsc-network.net CNAME .
 btceprex.net CNAME .
 *.btceprex.net CNAME .
+budgethardware.net CNAME .
+*.budgethardware.net CNAME .
 bullbit.net CNAME .
 *.bullbit.net CNAME .
 bycicle.net CNAME .
@@ -25575,6 +25591,8 @@ aybl.pl CNAME .
 *.aybl.pl CNAME .
 baseballoutlet.pl CNAME .
 *.baseballoutlet.pl CNAME .
+butyveja.pl CNAME .
+*.butyveja.pl CNAME .
 cp24.pl CNAME .
 *.cp24.pl CNAME .
 ctbike.pl CNAME .
@@ -25703,6 +25721,8 @@ celago.se CNAME .
 *.celago.se CNAME .
 collectory.se CNAME .
 *.collectory.se CNAME .
+gabor.com.se CNAME .
+*.gabor.com.se CNAME .
 sovkonc.ept.se CNAME .
 *.sovkonc.ept.se CNAME .
 gustamoda.se CNAME .
@@ -27179,6 +27199,8 @@ ziyarafashion.shop CNAME .
 *.ziyarafashion.shop CNAME .
 zwatch-italy.shop CNAME .
 *.zwatch-italy.shop CNAME .
+blueribbon.site CNAME .
+*.blueribbon.site CNAME .
 buy-pills.site CNAME .
 *.buy-pills.site CNAME .
 buy-viagra.site CNAME .
@@ -27279,6 +27301,8 @@ casaamarela.store CNAME .
 *.casaamarela.store CNAME .
 cavella.store CNAME .
 *.cavella.store CNAME .
+cazadecorbrasil.store CNAME .
+*.cazadecorbrasil.store CNAME .
 cleancorner.store CNAME .
 *.cleancorner.store CNAME .
 comfy-bra.store CNAME .
@@ -27537,6 +27561,8 @@ bestpharmstore.top CNAME .
 *.bestpharmstore.top CNAME .
 bloak.top CNAME .
 *.bloak.top CNAME .
+cabelloafro.top CNAME .
+*.cabelloafro.top CNAME .
 hausler.casaify.top CNAME .
 *.hausler.casaify.top CNAME .
 caterpillar-nederland.top CNAME .
@@ -27733,6 +27759,8 @@ homegymsupply.co.uk CNAME .
 *.homegymsupply.co.uk CNAME .
 labubu.co.uk CNAME .
 *.labubu.co.uk CNAME .
+lavenie.co.uk CNAME .
+*.lavenie.co.uk CNAME .
 leathershire.co.uk CNAME .
 *.leathershire.co.uk CNAME .
 luxeparfum.co.uk CNAME .
@@ -27965,6 +27993,8 @@ drscholls.co.za CNAME .
 *.drscholls.co.za CNAME .
 duneshoesouthafrica.co.za CNAME .
 *.duneshoesouthafrica.co.za CNAME .
+onitsukasouthafrica.co.za CNAME .
+*.onitsukasouthafrica.co.za CNAME .
 prettylittlething.co.za CNAME .
 *.prettylittlething.co.za CNAME .
 tom-ford.co.za CNAME .

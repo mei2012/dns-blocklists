@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754582760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754611740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Aug 2025 16:06 UTC
-; Version: 2025.0807.1606.57
+; Last modified: 08 Aug 2025 00:09 UTC
+; Version: 2025.0808.0009.58
 ; Syntax: RPZ
-; Number of entries: 10464
+; Number of entries: 10478
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -460,6 +460,8 @@ rfastvpn.co.cc CNAME .
 *.rfastvpn.co.cc CNAME .
 secvpnproxy.co.cc CNAME .
 *.secvpnproxy.co.cc CNAME .
+surfvpn.co.cc CNAME .
+*.surfvpn.co.cc CNAME .
 vpn-proxies.co.cc CNAME .
 *.vpn-proxies.co.cc CNAME .
 vpn-services.co.cc CNAME .
@@ -470,6 +472,8 @@ vpnguide.co.cc CNAME .
 *.vpnguide.co.cc CNAME .
 vpnmailvista.co.cc CNAME .
 *.vpnmailvista.co.cc CNAME .
+vpnofanti.co.cc CNAME .
+*.vpnofanti.co.cc CNAME .
 vpnoffice.co.cc CNAME .
 *.vpnoffice.co.cc CNAME .
 4y5t.coke0.cc CNAME .
@@ -1398,6 +1402,8 @@ whydidiask.chickenkiller.com CNAME .
 *.whydidiask.chickenkiller.com CNAME .
 chillglobal.com CNAME .
 *.chillglobal.com CNAME .
+chinagrows.com CNAME .
+*.chinagrows.com CNAME .
 christophbrem.com CNAME .
 *.christophbrem.com CNAME .
 dns.chriswservers.com CNAME .
@@ -1664,8 +1670,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -5198,6 +5202,8 @@ proxy-site.com.de CNAME .
 *.proxy-site.com.de CNAME .
 unblock-proxy.com.de CNAME .
 *.unblock-proxy.com.de CNAME .
+webproxy.com.de CNAME .
+*.webproxy.com.de CNAME .
 dns.csa-rz.de CNAME .
 *.dns.csa-rz.de CNAME .
 dns.csaonline.de CNAME .
@@ -6030,6 +6036,8 @@ use.bsfa.info CNAME .
 *.use.bsfa.info CNAME .
 canadaproxy.info CNAME .
 *.canadaproxy.info CNAME .
+clickapp.info CNAME .
+*.clickapp.info CNAME .
 coinsite.info CNAME .
 *.coinsite.info CNAME .
 coinweb.info CNAME .
@@ -7954,6 +7962,12 @@ torservers.net CNAME .
 *.torservers.net CNAME .
 touchvpn.net CNAME .
 *.touchvpn.net CNAME .
+resolv1.trash.net CNAME .
+*.resolv1.trash.net CNAME .
+resolv2.trash.net CNAME .
+*.resolv2.trash.net CNAME .
+resolv3.trash.net CNAME .
+*.resolv3.trash.net CNAME .
 travelvpn.net CNAME .
 *.travelvpn.net CNAME .
 tri-dns.net CNAME .

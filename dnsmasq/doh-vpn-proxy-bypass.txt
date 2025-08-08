@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Aug 2025 16:06 UTC
-# Version: 2025.0807.1606.57
+# Last modified: 08 Aug 2025 00:09 UTC
+# Version: 2025.0808.0009.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5232
+# Number of entries: 5239
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -652,6 +652,7 @@ local=/dns.chilimac.net/
 local=/imisstheoldkanye.chillcrew.net/
 local=/justbuiltdifferent.chillcrew.net/
 local=/chillglobal.com/
+local=/chinagrows.com/
 local=/dns.christerwaren.fi/
 local=/dns.christian.moe/
 local=/christophbrem.com/
@@ -678,6 +679,7 @@ local=/dns.clanto.cloud/
 local=/classicpen.us/
 local=/cleanbrowsing.org/
 local=/clearvpn.com/
+local=/clickapp.info/
 local=/clickwork7secure.com/
 local=/procedures.clientview.com/
 local=/cloaker.ca/
@@ -833,6 +835,7 @@ local=/sbdns.co.in/
 local=/secvpnproxy.co.cc/
 local=/dns.spil.co.id/
 local=/surfshark.co.za/
+local=/surfvpn.co.cc/
 local=/uk-proxy.co.uk/
 local=/unblocksites.co.uk/
 local=/academy.velolife.co.za/
@@ -842,6 +845,7 @@ local=/vpncompare.co.uk/
 local=/vpncrmerp.co.cc/
 local=/vpnguide.co.cc/
 local=/vpnmailvista.co.cc/
+local=/vpnofanti.co.cc/
 local=/vpnoffice.co.cc/
 local=/webproxy.co.at/
 local=/agh.workfordemo.co.in/
@@ -910,6 +914,7 @@ local=/doge.sundblad.com.ar/
 local=/surfshark.com.au/
 local=/unblock-proxy.com.de/
 local=/doh.viatech.com.tw/
+local=/webproxy.com.de/
 local=/dns.comeonjames.club/
 local=/dns.comff.net/
 local=/commonapp.college/
@@ -1343,7 +1348,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -4512,6 +4516,9 @@ local=/linewize.tradekinginternational.com/
 local=/trafflink.xyz/
 local=/traffmonetizer.com/
 local=/bio.goal.trans.am/
+local=/resolv1.trash.net/
+local=/resolv2.trash.net/
+local=/resolv3.trash.net/
 local=/travelvpn.net/
 local=/ns.trcnet.fi/
 local=/consumervpn.trendmicro.com/

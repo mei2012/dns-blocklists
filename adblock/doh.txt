@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Aug 2025 16:06 UTC
-! Version: 2025.0807.1606.35
+! Last modified: 08 Aug 2025 00:09 UTC
+! Version: 2025.0808.0009.34
 ! Syntax: AdBlock
-! Number of entries: 1445
+! Number of entries: 1447
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -517,7 +517,6 @@
 ||dns.editechstudio.com^
 ||dns.tuna.tsinghua.edu.cn^
 ||adguard.ef67daisuki.club^
-||dns.efficientdocuments.com^
 ||hole.elbschloss.xyz^
 ||dns.elemental.software^
 ||eliatofani.ovh^
@@ -1348,6 +1347,9 @@
 ||nsc.torgues.net^
 ||doh.totoro.pub^
 ||dns.tracker.ink^
+||resolv1.trash.net^
+||resolv2.trash.net^
+||resolv3.trash.net^
 ||ns.trcnet.fi^
 ||tri-dns.net^
 ||tributh.net^

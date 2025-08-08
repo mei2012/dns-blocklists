@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Aug 2025 16:06 UTC
-! Version: 2025.0807.1606.57
+! Last modified: 08 Aug 2025 00:09 UTC
+! Version: 2025.0808.0009.58
 ! Syntax: AdBlock
-! Number of entries: 5232
+! Number of entries: 5239
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -653,6 +653,7 @@
 ||imisstheoldkanye.chillcrew.net^
 ||justbuiltdifferent.chillcrew.net^
 ||chillglobal.com^
+||chinagrows.com^
 ||dns.christerwaren.fi^
 ||dns.christian.moe^
 ||christophbrem.com^
@@ -679,6 +680,7 @@
 ||classicpen.us^
 ||cleanbrowsing.org^
 ||clearvpn.com^
+||clickapp.info^
 ||clickwork7secure.com^
 ||procedures.clientview.com^
 ||cloaker.ca^
@@ -834,6 +836,7 @@
 ||secvpnproxy.co.cc^
 ||dns.spil.co.id^
 ||surfshark.co.za^
+||surfvpn.co.cc^
 ||uk-proxy.co.uk^
 ||unblocksites.co.uk^
 ||academy.velolife.co.za^
@@ -843,6 +846,7 @@
 ||vpncrmerp.co.cc^
 ||vpnguide.co.cc^
 ||vpnmailvista.co.cc^
+||vpnofanti.co.cc^
 ||vpnoffice.co.cc^
 ||webproxy.co.at^
 ||agh.workfordemo.co.in^
@@ -911,6 +915,7 @@
 ||surfshark.com.au^
 ||unblock-proxy.com.de^
 ||doh.viatech.com.tw^
+||webproxy.com.de^
 ||dns.comeonjames.club^
 ||dns.comff.net^
 ||commonapp.college^
@@ -1344,7 +1349,6 @@
 ||educationdean.us^
 ||adguard.ef67daisuki.club^
 ||tor.eff.org^
-||dns.efficientdocuments.com^
 ||scifi0.eigenlicht.us^
 ||hole.elbschloss.xyz^
 ||elearning.electronicajck.com^
@@ -4513,6 +4517,9 @@
 ||trafflink.xyz^
 ||traffmonetizer.com^
 ||bio.goal.trans.am^
+||resolv1.trash.net^
+||resolv2.trash.net^
+||resolv3.trash.net^
 ||travelvpn.net^
 ||ns.trcnet.fi^
 ||consumervpn.trendmicro.com^

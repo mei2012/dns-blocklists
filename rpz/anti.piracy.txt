@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754582460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754611440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Aug 2025 16:01 UTC
-; Version: 2025.0807.1601.26
+; Last modified: 08 Aug 2025 00:04 UTC
+; Version: 2025.0808.0004.38
 ; Syntax: RPZ
-; Number of entries: 20160
+; Number of entries: 20186
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -981,6 +981,8 @@ btbbt.cc CNAME .
 *.btbbt.cc CNAME .
 btdoor.cc CNAME .
 *.btdoor.cc CNAME .
+cb01.cc CNAME .
+*.cb01.cc CNAME .
 cda-hd.cc CNAME .
 *.cda-hd.cc CNAME .
 cdcovers.cc CNAME .
@@ -3201,6 +3203,8 @@ comcentral.com CNAME .
 *.comcentral.com CNAME .
 comebackdownload.com CNAME .
 *.comebackdownload.com CNAME .
+comicbt.com CNAME .
+*.comicbt.com CNAME .
 comicextra.com CNAME .
 *.comicextra.com CNAME .
 comicsall.com CNAME .
@@ -3243,6 +3247,8 @@ crack4patch.com CNAME .
 *.crack4patch.com CNAME .
 crack4soft.com CNAME .
 *.crack4soft.com CNAME .
+crack55.com CNAME .
+*.crack55.com CNAME .
 crack81.com CNAME .
 *.crack81.com CNAME .
 crackaio.com CNAME .
@@ -3295,6 +3301,8 @@ crackserver.com CNAME .
 *.crackserver.com CNAME .
 cracksfiles.com CNAME .
 *.cracksfiles.com CNAME .
+crackslink.com CNAME .
+*.crackslink.com CNAME .
 cracksnow.com CNAME .
 *.cracksnow.com CNAME .
 cracksoftwareguru.com CNAME .
@@ -7701,8 +7709,6 @@ boerse.cx CNAME .
 *.boerse.cx CNAME .
 cineblog01.cx CNAME .
 *.cineblog01.cx CNAME .
-dood.cx CNAME .
-*.dood.cx CNAME .
 aam-bt.dyns.cx CNAME .
 *.aam-bt.dyns.cx CNAME .
 fmovies2.cx CNAME .
@@ -8565,6 +8571,8 @@ anime-tv.fun CNAME .
 *.anime-tv.fun CNAME .
 animeplex.fun CNAME .
 *.animeplex.fun CNAME .
+bonsaihd.fun CNAME .
+*.bonsaihd.fun CNAME .
 casacinema.fun CNAME .
 *.casacinema.fun CNAME .
 cb01.fun CNAME .
@@ -9709,12 +9717,16 @@ open.8a.is CNAME .
 *.open.8a.is CNAME .
 audiobookbay.is CNAME .
 *.audiobookbay.is CNAME .
+bmovies.is CNAME .
+*.bmovies.is CNAME .
 brokenstones.is CNAME .
 *.brokenstones.is CNAME .
 cb01.is CNAME .
 *.cb01.is CNAME .
 cinecalidad.is CNAME .
 *.cinecalidad.is CNAME .
+cmovies.is CNAME .
+*.cmovies.is CNAME .
 icc.crictime.is CNAME .
 *.icc.crictime.is CNAME .
 tv.crictime.is CNAME .
@@ -11793,6 +11805,8 @@ cinemagratis.net CNAME .
 *.cinemagratis.net CNAME .
 cinemaindo.net CNAME .
 *.cinemaindo.net CNAME .
+cinemathek.net CNAME .
+*.cinemathek.net CNAME .
 cinematik.net CNAME .
 *.cinematik.net CNAME .
 circleftp.net CNAME .
@@ -16075,6 +16089,8 @@ cb01.recipes CNAME .
 *.cb01.recipes CNAME .
 btkitty.red CNAME .
 *.btkitty.red CNAME .
+casacinema.red CNAME .
+*.casacinema.red CNAME .
 cb01.red CNAME .
 *.cb01.red CNAME .
 cineblog01.red CNAME .
@@ -16759,6 +16775,8 @@ xuyadong.sbs CNAME .
 *.123movieshub.sc CNAME .
 3movierulz.sc CNAME .
 *.3movierulz.sc CNAME .
+cricfree.sc CNAME .
+*.cricfree.sc CNAME .
 crichd.sc CNAME .
 *.crichd.sc CNAME .
 fmovie.sc CNAME .
@@ -16989,6 +17007,8 @@ ambassadorddl.site CNAME .
 *.ambassadorddl.site CNAME .
 awtdg.site CNAME .
 *.awtdg.site CNAME .
+cpasbien.site CNAME .
+*.cpasbien.site CNAME .
 crackhub.site CNAME .
 *.crackhub.site CNAME .
 dats.site CNAME .
@@ -18135,6 +18155,8 @@ bookaura.top CNAME .
 *.bookaura.top CNAME .
 btracker.top CNAME .
 *.btracker.top CNAME .
+buddyfly.top CNAME .
+*.buddyfly.top CNAME .
 cikava-ideya.top CNAME .
 *.cikava-ideya.top CNAME .
 crichd-player.top CNAME .
@@ -19857,6 +19879,8 @@ btorrent.xyz CNAME .
 *.btorrent.xyz CNAME .
 cb01.xyz CNAME .
 *.cb01.xyz CNAME .
+cestrm.xyz CNAME .
+*.cestrm.xyz CNAME .
 cinebook.xyz CNAME .
 *.cinebook.xyz CNAME .
 cinemagratis.xyz CNAME .
@@ -20121,6 +20145,8 @@ zecircle.xyz CNAME .
 *.zecircle.xyz CNAME .
 tracker.zerobytes.xyz CNAME .
 *.tracker.zerobytes.xyz CNAME .
+cb01.yachts CNAME .
+*.cb01.yachts CNAME .
 eurostreaming.yachts CNAME .
 *.eurostreaming.yachts CNAME .
 123movies.yt CNAME .
