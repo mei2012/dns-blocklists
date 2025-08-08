@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Aug 2025 00:09 UTC
-# Version: 2025.0808.0009.11
+# Last modified: 08 Aug 2025 08:19 UTC
+# Version: 2025.0808.0819.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1465
+# Number of entries: 1468
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -291,6 +291,7 @@ local=/digikabel.hu/
 local=/digitalgroupe.com/
 local=/dip.jp/
 local=/ditchyourip.com/
+local=/diyplans.org/
 local=/dlinkddns.com/
 local=/dmtr.ru/
 local=/dnet.hu/
@@ -460,6 +461,7 @@ local=/eatuo.com/
 local=/echoparklake.com/
 local=/edns.biz/
 local=/effers.com/
+local=/eiresol.com/
 local=/elchemi.com/
 local=/elitter.net/
 local=/embeddedonline.org/
@@ -505,6 +507,7 @@ local=/fantasyleague.cc/
 local=/faqserv.com/
 local=/farted.net/
 local=/fartit.com/
+local=/fatdiary.org/
 local=/fdns.uk/
 local=/fearpenguins.com/
 local=/feste-ip.net/

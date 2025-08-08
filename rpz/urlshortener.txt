@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1754606580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1754636280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 07 Aug 2025 22:43 UTC
-; Version: 2025.0807.2243.37
+; Last modified: 08 Aug 2025 06:58 UTC
+; Version: 2025.0808.0658.00
 ; Syntax: RPZ
-; Number of entries: 9482
+; Number of entries: 9490
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1860,6 +1860,8 @@ djurl.com CNAME .
 *.djurl.com CNAME .
 dmprd.com CNAME .
 *.dmprd.com CNAME .
+dmvrenew.com CNAME .
+*.dmvrenew.com CNAME .
 doburl.com CNAME .
 *.doburl.com CNAME .
 doiop.com CNAME .
@@ -4406,6 +4408,8 @@ dl-protect.info CNAME .
 *.dl-protect.info CNAME .
 earthtoday.info CNAME .
 *.earthtoday.info CNAME .
+ebooktruyen.info CNAME .
+*.ebooktruyen.info CNAME .
 edmno1.info CNAME .
 *.edmno1.info CNAME .
 fooji.info CNAME .
@@ -6032,6 +6036,8 @@ el.ly CNAME .
 *.el.ly CNAME .
 elink.ly CNAME .
 *.elink.ly CNAME .
+fur.ly CNAME .
+*.fur.ly CNAME .
 getf.ly CNAME .
 *.getf.ly CNAME .
 gfuel.ly CNAME .
@@ -6272,6 +6278,8 @@ eyq.me CNAME .
 *.eyq.me CNAME .
 ezbz.me CNAME .
 *.ezbz.me CNAME .
+ezclick.me CNAME .
+*.ezclick.me CNAME .
 fandw.me CNAME .
 *.fandw.me CNAME .
 fav.me CNAME .
